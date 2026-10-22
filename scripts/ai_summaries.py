@@ -1,7 +1,11 @@
 """
-Step 5 (optional): plain-English 'what it means for your business' summaries from Claude.
-Runs only if the ANTHROPIC_API_KEY secret exists. Summarizes the bills and rules most likely
-to matter, caches each one, and only re-summarizes when the bill changes.
+Step 5: plain-English 'what it means for your business' summaries.
+
+Default: GitHub Models, which is free and uses the token GitHub Actions already has.
+No account, card, or secret needed. The free tier allows roughly 150 summaries a day,
+so each hourly run does a few, most important first, and caches them.
+
+Optional: add an ANTHROPIC_API_KEY secret to use Claude instead (paid, no daily cap).
 """
 import json
 import os
@@ -11,10 +15,16 @@ import items as itemlib
 import scoring
 from common import AuthError, RateLimited, http_json, load_json, save_json
 
-KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-BASE = os.environ.get("ANTHROPIC_BASE_URL", "https://api.anthropic.com").rstrip("/")
-MODEL = os.environ.get("AI_MODEL", "claude-haiku-5-5")
-MAX_PER_RUN = int(os.environ.get("AI_MAX_PER_RUN", "60"))
+ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+ANTHROPIC_BASE = os.environ.get("ANTHROPIC_BASE_URL", "https://api.anthropic.com").rstrip("/")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
+GITHUB_MODELS_URL = os.environ.get("GITHUB_MODELS_URL", "https://models.github.ai/inference/chat/completions")
+
+if ANTHROPIC_KEY:
+    PROVIDER, MODEL, DEFAULT_MAX = "anthropic", os.environ.get("AI_MODEL") or "claude-haiku-5-5", 60
+else:
+    PROVIDER, MODEL, DEFAULT_MAX = "github", os.environ.get("AI_MODEL") or "openai/gpt-4.1-mini", 6
+MAX_PER_RUN = int(os.environ.get("AI_MAX_PER_RUN") or DEFAULT_MAX)
 
 SYSTEM = (
     "You brief owners and CEOs of U.S. companies with 25 to 500 employees and $1M to $100M in revenue "
@@ -60,9 +70,29 @@ def parse(text):
         return None
 
 
+def ask(prompt):
+    """Send one prompt; return the reply text or None."""
+    if PROVIDER == "anthropic":
+        body = {"model": MODEL, "max_tokens": 700, "system": SYSTEM,
+                "messages": [{"role": "user", "content": prompt}]}
+        resp = http_json(f"{ANTHROPIC_BASE}/v1/messages", data=body, timeout=90,
+                         headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01"})
+        if not resp:
+            return None
+        return "".join(c.get("text", "") for c in resp.get("content", []) if c.get("type") == "text")
+    body = {"model": MODEL, "max_tokens": 700, "temperature": 0.2,
+            "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}]}
+    resp = http_json(GITHUB_MODELS_URL, data=body, timeout=90,
+                     headers={"Authorization": f"Bearer {GITHUB_TOKEN}", "X-GitHub-Api-Version": "2022-11-28"})
+    if not resp:
+        return None
+    choices = resp.get("choices") or [{}]
+    return (choices[0].get("message") or {}).get("content")
+
+
 def main():
-    if not KEY:
-        print("No ANTHROPIC_API_KEY secret set; skipping AI summaries. The site will use official summaries.")
+    if not ANTHROPIC_KEY and not GITHUB_TOKEN:
+        print("No AI access configured; skipping. The site will use official summaries.")
         return
     bills = load_json("data/bills.json", {})
     regs = load_json("data/regs.json", {})
@@ -88,24 +118,24 @@ def main():
             continue
         ranked.append((best, cache_key, version, it))
     ranked.sort(key=lambda x: -x[0])
-    print(f"{len(ranked)} items need a fresh summary; doing up to {MAX_PER_RUN} this run with {MODEL}.")
+    print(f"{len(ranked)} items need a fresh summary; doing up to {MAX_PER_RUN} this run "
+          f"with {MODEL} via {'Anthropic' if PROVIDER == 'anthropic' else 'GitHub Models (free)'}.")
 
     done = 0
     for _, cache_key, version, it in ranked[:MAX_PER_RUN]:
-        body = {"model": MODEL, "max_tokens": 700, "system": SYSTEM,
-                "messages": [{"role": "user", "content": prompt_for(it)}]}
         try:
-            resp = http_json(f"{BASE}/v1/messages", data=body, timeout=90,
-                             headers={"x-api-key": KEY, "anthropic-version": "2023-06-01"})
+            text = ask(prompt_for(it))
         except AuthError as e:
-            print(f"Anthropic rejected the key: {e}")
+            print(f"AI access was refused: {e}")
+            if PROVIDER == "github":
+                print("Check that the workflow has 'models: read' under permissions.")
             return
         except RateLimited:
-            print("Anthropic rate limit hit; finishing next run.")
+            print("Hit today's free limit; the next runs will pick up where this left off.")
             break
-        if not resp:
+        if not text:
+            print(f"  no response for {cache_key} (if every item fails, the model name may have changed)")
             continue
-        text = "".join(c.get("text", "") for c in resp.get("content", []) if c.get("type") == "text")
         out = parse(text)
         if not out:
             print(f"  could not parse summary for {cache_key}")
