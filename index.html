@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Congress bill tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F5F7FA; --surface: #FFFFFF; --ink: #17202B; --muted: #5B6675;
+    --line: #DDE2E8; --house: #9E2A2B; --senate: #1F4E79; --focus: #1F4E79;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12161C; --surface: #1A2028; --ink: #E7EBF0; --muted: #98A3B1;
+      --line: #2C3540; --house: #E07A7B; --senate: #7FB0DE; --focus: #7FB0DE;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 16px; line-height: 1.5;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 24px; font-variant-numeric: tabular-nums; }
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+  input, select, button {
+    font: inherit; color: var(--ink); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px;
+  }
+  input { flex: 1 1 320px; }
+  button { cursor: pointer; font-weight: 600; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .count { color: var(--muted); margin: 0 0 8px; font-size: 0.9rem; }
+  .list { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+  .row {
+    display: grid; grid-template-columns: 120px 1fr; gap: 16px;
+    padding: 16px 20px; border-top: 1px solid var(--line);
+  }
+  .row:first-child { border-top: 0; }
+  .num { font-weight: 800; font-variant-numeric: tabular-nums; }
+  .num a { color: inherit; text-decoration: none; }
+  .num a:hover { text-decoration: underline; }
+  .house { color: var(--house); }
+  .senate { color: var(--senate); }
+  .title { margin: 0 0 6px; font-weight: 600; max-width: 75ch; }
+  .action { margin: 0; color: var(--muted); font-size: 0.9rem; max-width: 80ch; }
+  .action time { font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .more { display: block; margin: 16px auto 0; }
+  .more[hidden] { display: none; }
+  .empty { padding: 32px 20px; color: var(--muted); }
+  @media (max-width: 600px) {
+    .row { grid-template-columns: 1fr; gap: 4px; }
+    h1 { font-size: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Congress bill tracker</h1>
+  <p class="sub" id="sub">Loading bills…</p>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search title or bill number, e.g. HR 1234" aria-label="Search bills">
+    <select id="chamber" aria-label="Chamber">
+      <option value="">Both chambers</option>
+      <option value="House">House</option>
+      <option value="Senate">Senate</option>
+    </select>
+    <select id="type" aria-label="Bill type">
+      <option value="">All bill types</option>
+      <option value="bills">Bills only (H.R. and S.)</option>
+      <option value="res">Resolutions only</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="action">Latest action first</option>
+      <option value="number">Bill number</option>
+    </select>
+  </div>
+
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+  <button class="more" id="more" hidden>Show 100 more</button>
+</div>
+
+<script>
+const LABELS = {
+  HR: ["H.R.", "house-bill"], S: ["S.", "senate-bill"],
+  HRES: ["H.Res.", "house-resolution"], SRES: ["S.Res.", "senate-resolution"],
+  HJRES: ["H.J.Res.", "house-joint-resolution"], SJRES: ["S.J.Res.", "senate-joint-resolution"],
+  HCONRES: ["H.Con.Res.", "house-concurrent-resolution"], SCONRES: ["S.Con.Res.", "senate-concurrent-resolution"]
+};
+const PAGE = 100;
+let all = [], filtered = [], shown = 0;
+
+const $ = id => document.getElementById(id);
+const norm = s => (s || "").toLowerCase().replace(/[^a-z0-9 ]/g, "");
+const compact = s => (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+
+function ordinal(n) {
+  const s = ["th", "st", "nd", "rd"], v = n % 100;
+  return n + (s[(v - 20) % 10] || s[v] || s[0]);
+}
+
+function fmtDate(d) {
+  if (!d) return "";
+  const dt = new Date(d + "T12:00:00");
+  return dt.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function render(reset) {
+  if (reset) { $("list").innerHTML = ""; shown = 0; }
+  const slice = filtered.slice(shown, shown + PAGE);
+  const html = slice.map(b => {
+    const [label, slug] = LABELS[b.type] || [b.type, ""];
+    const url = slug ? `https://www.congress.gov/bill/${ordinal(b.congress)}-congress/${slug}/${b.number}` : "#";
+    const cls = b.origin_chamber === "Senate" ? "senate" : "house";
+    return `<div class="row">
+      <div class="num ${cls}"><a href="${url}" target="_blank" rel="noopener">${label} ${b.number}</a></div>
+      <div>
+        <p class="title">${escapeHtml(b.title)}</p>
+        <p class="action"><time>${fmtDate(b.latest_action_date)}</time> ${escapeHtml(b.latest_action)}</p>
+      </div>
+    </div>`;
+  }).join("");
+  $("list").insertAdjacentHTML("beforeend", html);
+  shown += slice.length;
+  if (!filtered.length) $("list").innerHTML = `<div class="empty">No bills match. Try a shorter search or clear the filters.</div>`;
+  $("count").textContent = `${filtered.length.toLocaleString()} bills match, showing ${shown.toLocaleString()}`;
+  $("more").hidden = shown >= filtered.length;
+}
+
+function apply() {
+  const q = norm($("q").value).trim();
+  const qc = compact($("q").value);
+  const chamber = $("chamber").value, type = $("type").value, sort = $("sort").value;
+  filtered = all.filter(b => {
+    if (chamber && b.origin_chamber !== chamber) return false;
+    if (type === "bills" && !["HR", "S"].includes(b.type)) return false;
+    if (type === "res" && ["HR", "S"].includes(b.type)) return false;
+    if (!q) return true;
+    if (b._num === qc) return true;
+    return q.split(/\s+/).every(w => b._title.includes(w));
+  });
+  if (sort === "action") filtered.sort((a, b) => (b.latest_action_date || "").localeCompare(a.latest_action_date || ""));
+  else filtered.sort((a, b) => a.type.localeCompare(b.type) || a.number - b.number);
+  render(true);
+}
+
+async function load() {
+  try {
+    const [billsRes, stateRes] = await Promise.all([fetch("data/bills.json"), fetch("data/state.json")]);
+    if (!billsRes.ok) throw new Error("bills.json not found");
+    const bills = await billsRes.json();
+    const state = stateRes.ok ? await stateRes.json() : {};
+    all = Object.values(bills).map(b => ({
+      ...b,
+      number: Number(b.number),
+      _title: norm(b.title),
+      _num: compact(b.type + b.number)
+    }));
+    const synced = state.last_run ? new Date(state.last_run).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" }) : "unknown";
+    $("sub").textContent = `${all.length.toLocaleString()} bills in the current Congress. Last synced ${synced}.`;
+    apply();
+  } catch (e) {
+    $("sub").textContent = "Bill data hasn't loaded yet. Run the sync workflow once, then refresh this page.";
+  }
+}
+
+let t;
+$("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
+["chamber", "type", "sort"].forEach(id => $(id).addEventListener("change", apply));
+$("more").addEventListener("click", () => render(false));
+load();
+</script>
+</body>
+</html>
