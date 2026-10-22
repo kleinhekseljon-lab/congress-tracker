@@ -1,0 +1,603 @@
+{
+ "AK": [
+  {
+   "name": "Dan Sullivan",
+   "party": "R",
+   "url": "https://www.sullivan.senate.gov"
+  },
+  {
+   "name": "Lisa Murkowski",
+   "party": "R",
+   "url": "https://www.murkowski.senate.gov/"
+  }
+ ],
+ "AL": [
+  {
+   "name": "Tommy Tuberville",
+   "party": "R",
+   "url": "https://www.tuberville.senate.gov"
+  },
+  {
+   "name": "Katie Boyd Britt",
+   "party": "R",
+   "url": "https://www.britt.senate.gov/"
+  }
+ ],
+ "AR": [
+  {
+   "name": "Tom Cotton",
+   "party": "R",
+   "url": "https://www.cotton.senate.gov"
+  },
+  {
+   "name": "John Boozman",
+   "party": "R",
+   "url": "https://www.boozman.senate.gov/"
+  }
+ ],
+ "AZ": [
+  {
+   "name": "Mark Kelly",
+   "party": "D",
+   "url": "https://www.kelly.senate.gov"
+  },
+  {
+   "name": "Ruben Gallego",
+   "party": "D",
+   "url": "https://www.gallego.senate.gov/"
+  }
+ ],
+ "CA": [
+  {
+   "name": "Adam B. Schiff",
+   "party": "D",
+   "url": "https://www.schiff.senate.gov"
+  },
+  {
+   "name": "Alex Padilla",
+   "party": "D",
+   "url": "https://www.padilla.senate.gov"
+  }
+ ],
+ "CO": [
+  {
+   "name": "John W. Hickenlooper",
+   "party": "D",
+   "url": "https://www.hickenlooper.senate.gov"
+  },
+  {
+   "name": "Michael F. Bennet",
+   "party": "D",
+   "url": "https://www.bennet.senate.gov"
+  }
+ ],
+ "CT": [
+  {
+   "name": "Christopher Murphy",
+   "party": "D",
+   "url": "https://www.murphy.senate.gov/"
+  },
+  {
+   "name": "Richard Blumenthal",
+   "party": "D",
+   "url": "https://www.blumenthal.senate.gov"
+  }
+ ],
+ "DE": [
+  {
+   "name": "Christopher A. Coons",
+   "party": "D",
+   "url": "https://www.coons.senate.gov/"
+  },
+  {
+   "name": "Lisa Blunt Rochester",
+   "party": "D",
+   "url": "https://www.bluntrochester.senate.gov/"
+  }
+ ],
+ "FL": [
+  {
+   "name": "Ashley Moody",
+   "party": "R",
+   "url": "https://www.moody.senate.gov"
+  },
+  {
+   "name": "Rick Scott",
+   "party": "R",
+   "url": "https://www.rickscott.senate.gov/"
+  }
+ ],
+ "GA": [
+  {
+   "name": "Raphael G. Warnock",
+   "party": "D",
+   "url": "https://www.warnock.senate.gov"
+  },
+  {
+   "name": "Jon Ossoff",
+   "party": "D",
+   "url": "https://www.ossoff.senate.gov"
+  }
+ ],
+ "HI": [
+  {
+   "name": "Brian Schatz",
+   "party": "D",
+   "url": "https://www.schatz.senate.gov"
+  },
+  {
+   "name": "Mazie K. Hirono",
+   "party": "D",
+   "url": "https://www.hirono.senate.gov/"
+  }
+ ],
+ "IA": [
+  {
+   "name": "Chuck Grassley",
+   "party": "R",
+   "url": "https://www.grassley.senate.gov"
+  },
+  {
+   "name": "Joni Ernst",
+   "party": "R",
+   "url": "https://www.ernst.senate.gov"
+  }
+ ],
+ "ID": [
+  {
+   "name": "James E. Risch",
+   "party": "R",
+   "url": "https://www.risch.senate.gov"
+  },
+  {
+   "name": "Mike Crapo",
+   "party": "R",
+   "url": "https://www.crapo.senate.gov"
+  }
+ ],
+ "IL": [
+  {
+   "name": "Richard J. Durbin",
+   "party": "D",
+   "url": "https://www.durbin.senate.gov"
+  },
+  {
+   "name": "Tammy Duckworth",
+   "party": "D",
+   "url": "https://www.duckworth.senate.gov"
+  }
+ ],
+ "IN": [
+  {
+   "name": "Todd Young",
+   "party": "R",
+   "url": "https://www.young.senate.gov"
+  },
+  {
+   "name": "Jim Banks",
+   "party": "R",
+   "url": "https://www.banks.senate.gov/"
+  }
+ ],
+ "KS": [
+  {
+   "name": "Jerry Moran",
+   "party": "R",
+   "url": "https://www.moran.senate.gov"
+  },
+  {
+   "name": "Roger Marshall",
+   "party": "R",
+   "url": "https://www.marshall.senate.gov"
+  }
+ ],
+ "KY": [
+  {
+   "name": "Rand Paul",
+   "party": "R",
+   "url": "https://www.paul.senate.gov"
+  },
+  {
+   "name": "Mitch McConnell",
+   "party": "R",
+   "url": "https://www.mcconnell.senate.gov/"
+  }
+ ],
+ "LA": [
+  {
+   "name": "John Kennedy",
+   "party": "R",
+   "url": "https://www.kennedy.senate.gov"
+  },
+  {
+   "name": "Bill Cassidy",
+   "party": "R",
+   "url": "https://www.cassidy.senate.gov"
+  }
+ ],
+ "MA": [
+  {
+   "name": "Elizabeth Warren",
+   "party": "D",
+   "url": "https://www.warren.senate.gov"
+  },
+  {
+   "name": "Edward J. Markey",
+   "party": "D",
+   "url": "https://www.markey.senate.gov"
+  }
+ ],
+ "MD": [
+  {
+   "name": "Chris Van Hollen",
+   "party": "D",
+   "url": "https://www.vanhollen.senate.gov"
+  },
+  {
+   "name": "Angela D. Alsobrooks",
+   "party": "D",
+   "url": "https://alsobrooks.senate.gov/"
+  }
+ ],
+ "ME": [
+  {
+   "name": "Angus S., Jr. King",
+   "party": "I",
+   "url": "https://www.king.senate.gov/"
+  },
+  {
+   "name": "Susan M. Collins",
+   "party": "R",
+   "url": "https://www.collins.senate.gov"
+  }
+ ],
+ "MI": [
+  {
+   "name": "Elissa Slotkin",
+   "party": "D",
+   "url": "https://www.slotkin.senate.gov/"
+  },
+  {
+   "name": "Gary C. Peters",
+   "party": "D",
+   "url": "https://www.peters.senate.gov"
+  }
+ ],
+ "MN": [
+  {
+   "name": "Tina Smith",
+   "party": "D",
+   "url": "https://www.smith.senate.gov"
+  },
+  {
+   "name": "Amy Klobuchar",
+   "party": "D",
+   "url": "https://www.klobuchar.senate.gov/"
+  }
+ ],
+ "MO": [
+  {
+   "name": "Eric Schmitt",
+   "party": "R",
+   "url": "https://www.schmitt.senate.gov/"
+  },
+  {
+   "name": "Josh Hawley",
+   "party": "R",
+   "url": "https://www.hawley.senate.gov"
+  }
+ ],
+ "MS": [
+  {
+   "name": "Roger F. Wicker",
+   "party": "R",
+   "url": "https://www.wicker.senate.gov"
+  },
+  {
+   "name": "Cindy Hyde-Smith",
+   "party": "R",
+   "url": "https://www.hydesmith.senate.gov/"
+  }
+ ],
+ "MT": [
+  {
+   "name": "Tim Sheehy",
+   "party": "R",
+   "url": "https://www.sheehy.senate.gov/"
+  },
+  {
+   "name": "Steve Daines",
+   "party": "R",
+   "url": "https://www.daines.senate.gov"
+  }
+ ],
+ "NC": [
+  {
+   "name": "Thomas Tillis",
+   "party": "R",
+   "url": "https://www.tillis.senate.gov"
+  },
+  {
+   "name": "Ted Budd",
+   "party": "R",
+   "url": "https://www.budd.senate.gov/"
+  }
+ ],
+ "ND": [
+  {
+   "name": "John Hoeven",
+   "party": "R",
+   "url": "https://www.hoeven.senate.gov"
+  },
+  {
+   "name": "Kevin Cramer",
+   "party": "R",
+   "url": "https://www.cramer.senate.gov"
+  }
+ ],
+ "NE": [
+  {
+   "name": "Pete Ricketts",
+   "party": "R",
+   "url": "https://www.ricketts.senate.gov"
+  },
+  {
+   "name": "Deb Fischer",
+   "party": "R",
+   "url": "https://www.fischer.senate.gov"
+  }
+ ],
+ "NH": [
+  {
+   "name": "Jeanne Shaheen",
+   "party": "D",
+   "url": "https://www.shaheen.senate.gov"
+  },
+  {
+   "name": "Margaret Wood Hassan",
+   "party": "D",
+   "url": "https://www.hassan.senate.gov"
+  }
+ ],
+ "NJ": [
+  {
+   "name": "Cory A. Booker",
+   "party": "D",
+   "url": "https://www.booker.senate.gov"
+  },
+  {
+   "name": "Andy Kim",
+   "party": "D",
+   "url": "https://www.kim.senate.gov/"
+  }
+ ],
+ "NM": [
+  {
+   "name": "Ben Ray Luj\u00e1n",
+   "party": "D",
+   "url": "https://www.lujan.senate.gov"
+  },
+  {
+   "name": "Martin Heinrich",
+   "party": "D",
+   "url": "https://www.heinrich.senate.gov/"
+  }
+ ],
+ "NV": [
+  {
+   "name": "Jacky Rosen",
+   "party": "D",
+   "url": "https://www.rosen.senate.gov"
+  },
+  {
+   "name": "Catherine Cortez Masto",
+   "party": "D",
+   "url": "https://www.cortezmasto.senate.gov"
+  }
+ ],
+ "NY": [
+  {
+   "name": "Charles E. Schumer",
+   "party": "D",
+   "url": "https://www.schumer.senate.gov/"
+  },
+  {
+   "name": "Kirsten E. Gillibrand",
+   "party": "D",
+   "url": "https://www.gillibrand.senate.gov"
+  }
+ ],
+ "OH": [
+  {
+   "name": "Bernie Moreno",
+   "party": "R",
+   "url": "https://www.moreno.senate.gov"
+  },
+  {
+   "name": "Jon Husted",
+   "party": "R",
+   "url": "https://www.husted.senate.gov/"
+  }
+ ],
+ "OK": [
+  {
+   "name": "Alan Armstrong",
+   "party": "R",
+   "url": "https://www.armstrong.senate.gov/"
+  },
+  {
+   "name": "James Lankford",
+   "party": "R",
+   "url": "https://www.lankford.senate.gov"
+  }
+ ],
+ "OR": [
+  {
+   "name": "Ron Wyden",
+   "party": "D",
+   "url": "https://www.wyden.senate.gov/"
+  },
+  {
+   "name": "Jeff Merkley",
+   "party": "D",
+   "url": "https://www.merkley.senate.gov"
+  }
+ ],
+ "PA": [
+  {
+   "name": "David McCormick",
+   "party": "R",
+   "url": "https://mccormick.senate.gov/"
+  },
+  {
+   "name": "John Fetterman",
+   "party": "D",
+   "url": "https://www.fetterman.senate.gov/"
+  }
+ ],
+ "RI": [
+  {
+   "name": "Sheldon Whitehouse",
+   "party": "D",
+   "url": "https://www.whitehouse.senate.gov/"
+  },
+  {
+   "name": "Jack Reed",
+   "party": "D",
+   "url": "https://www.reed.senate.gov/"
+  }
+ ],
+ "SC": [
+  {
+   "name": "Darline Graham",
+   "party": "R",
+   "url": "https://www.dgraham.senate.gov/"
+  },
+  {
+   "name": "Tim Scott",
+   "party": "R",
+   "url": "https://www.scott.senate.gov/"
+  }
+ ],
+ "SD": [
+  {
+   "name": "John Thune",
+   "party": "R",
+   "url": "https://www.thune.senate.gov/"
+  },
+  {
+   "name": "Mike Rounds",
+   "party": "R",
+   "url": "https://www.rounds.senate.gov"
+  }
+ ],
+ "TN": [
+  {
+   "name": "Bill Hagerty",
+   "party": "R",
+   "url": "https://www.hagerty.senate.gov"
+  },
+  {
+   "name": "Marsha Blackburn",
+   "party": "R",
+   "url": "https://www.blackburn.senate.gov"
+  }
+ ],
+ "TX": [
+  {
+   "name": "Ted Cruz",
+   "party": "R",
+   "url": "https://www.cruz.senate.gov"
+  },
+  {
+   "name": "John Cornyn",
+   "party": "R",
+   "url": "https://www.cornyn.senate.gov/"
+  }
+ ],
+ "UT": [
+  {
+   "name": "Mike Lee",
+   "party": "R",
+   "url": "https://www.lee.senate.gov/"
+  },
+  {
+   "name": "John R. Curtis",
+   "party": "R",
+   "url": "https://www.curtis.senate.gov/"
+  }
+ ],
+ "VA": [
+  {
+   "name": "Mark R. Warner",
+   "party": "D",
+   "url": "https://www.warner.senate.gov"
+  },
+  {
+   "name": "Tim Kaine",
+   "party": "D",
+   "url": "https://www.kaine.senate.gov/"
+  }
+ ],
+ "VT": [
+  {
+   "name": "Peter Welch",
+   "party": "D",
+   "url": "https://www.welch.senate.gov/"
+  },
+  {
+   "name": "Bernard Sanders",
+   "party": "I",
+   "url": "https://www.sanders.senate.gov/"
+  }
+ ],
+ "WA": [
+  {
+   "name": "Patty Murray",
+   "party": "D",
+   "url": "https://www.murray.senate.gov/"
+  },
+  {
+   "name": "Maria Cantwell",
+   "party": "D",
+   "url": "https://www.cantwell.senate.gov"
+  }
+ ],
+ "WI": [
+  {
+   "name": "Ron Johnson",
+   "party": "R",
+   "url": "https://www.ronjohnson.senate.gov/"
+  },
+  {
+   "name": "Tammy Baldwin",
+   "party": "D",
+   "url": "https://www.baldwin.senate.gov/"
+  }
+ ],
+ "WV": [
+  {
+   "name": "James C. Justice",
+   "party": "R",
+   "url": "https://www.justice.senate.gov/"
+  },
+  {
+   "name": "Shelley Moore Capito",
+   "party": "R",
+   "url": "https://www.capito.senate.gov"
+  }
+ ],
+ "WY": [
+  {
+   "name": "Cynthia M. Lummis",
+   "party": "R",
+   "url": "https://www.lummis.senate.gov"
+  },
+  {
+   "name": "John Barrasso",
+   "party": "R",
+   "url": "https://www.barrasso.senate.gov"
+  }
+ ],
+ "_fetched": "2026-10-22T19:31:32.552874+00:00"
+}
