@@ -2,8 +2,8 @@ name: Sync Congress bills
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # every 4 hours
-  workflow_dispatch:         # adds a "Run workflow" button for manual runs
+    - cron: "17 * * * *"   # hourly
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,10 +17,12 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -28,24 +30,37 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Pull bills from Congress.gov
-        env:
-          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+      - name: 1. Pull bill list from Congress.gov
         run: python scripts/fetch_bills.py
 
-      - name: Commit changes
+      - name: 2. Pull senators (weekly)
+        run: python scripts/fetch_members.py
+        continue-on-error: true
+
+      - name: 3. Analyze bills (subjects, summaries, momentum)
+        run: python scripts/enrich_bills.py
+
+      - name: 4. Pull regulations from the Federal Register
+        run: python scripts/fetch_regs.py
+        continue-on-error: true
+
+      - name: 5. Write plain-English summaries (needs ANTHROPIC_API_KEY)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/ai_summaries.py
+        continue-on-error: true
+
+      - name: 6. Build the site
+        run: python scripts/build_site.py
+
+      - name: Save data to the repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898799+github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "Bill sync $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
-
-      - name: Build site folder
-        run: |
-          mkdir -p _site
-          cp index.html _site/
-          cp -r data _site/
+          git diff --staged --quiet || git commit -q -m "Data sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase -q origin main
+          git push -q
 
       - uses: actions/configure-pages@v5
 
