@@ -110602,7 +110602,7 @@
   "origin_chamber": "House",
   "title": "Elementary and Secondary School Counseling Act",
   "type": "HR",
-  "update_date": "2026-09-29"
+  "update_date": "2026-10-22"
  },
  "119-hr-898": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/898?format=json",
@@ -151513,6 +151513,17 @@
   "type": "S",
   "update_date": "2025-06-13"
  },
+ "119-s-1872": {
+  "api_url": "https://api.congress.gov/v3/bill/119/s/1872?format=json",
+  "congress": 119,
+  "latest_action": "Held at the desk.",
+  "latest_action_date": "2025-11-10",
+  "number": "1872",
+  "origin_chamber": "Senate",
+  "title": "Critical Infrastructure Manufacturing Feasibility Act",
+  "type": "S",
+  "update_date": "2026-10-22"
+ },
  "119-s-1873": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1873?format=json",
   "congress": 119,
@@ -187712,7 +187723,7 @@
   "origin_chamber": "Senate",
   "title": "Latonya Reeves Freedom Act of 2026",
   "type": "S",
-  "update_date": "2026-08-08"
+  "update_date": "2026-10-22"
  },
  "119-s-4866": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4866?format=json",
