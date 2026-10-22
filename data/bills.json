@@ -28688,15 +28688,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-227": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/227?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-07",
   "latest_action": "Became Public Law No: 119-125.",
   "latest_action_date": "2026-10-20",
   "number": "227",
   "origin_chamber": "House",
   "title": "Clergy Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-22"
  },
  "119-hr-2270": {
   "congress": 119,
