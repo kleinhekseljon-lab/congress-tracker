@@ -9,8 +9,9 @@ import time
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
+from urllib.error import HTTPError
 
-API_KEY = os.environ["CONGRESS_API_KEY"]
+API_KEY = os.environ.get("CONGRESS_API_KEY", "").strip()
 CONGRESS = os.environ.get("CONGRESS", "119")
 BASE = f"https://api.congress.gov/v3/bill/{CONGRESS}"
 DATA_DIR = "data"
@@ -29,10 +30,22 @@ def load(path, default):
 def fetch(params):
     params = {**params, "api_key": API_KEY, "format": "json", "limit": PAGE_SIZE}
     url = f"{BASE}?{urllib.parse.urlencode(params)}"
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "congress-tracker/1.0 (+https://github.com)",
+        "Accept": "application/json",
+    })
     for attempt in range(5):
         try:
-            with urllib.request.urlopen(url, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=60) as r:
                 return json.load(r)
+        except HTTPError as e:
+            body = e.read().decode("utf-8", "replace")[:500]
+            if 400 <= e.code < 500 and e.code != 429:
+                # Bad key or bad request: retrying won't help, so stop with the real reason
+                raise SystemExit(f"Congress.gov rejected the request (HTTP {e.code}): {body}")
+            wait = (2 ** attempt) * 5
+            print(f"HTTP {e.code}. Retrying in {wait}s")
+            time.sleep(wait)
         except Exception as e:
             wait = (2 ** attempt) * 5
             print(f"Request failed ({e}). Retrying in {wait}s")
@@ -41,6 +54,9 @@ def fetch(params):
 
 
 def main():
+    if not API_KEY:
+        raise SystemExit("CONGRESS_API_KEY is empty. Check Settings > Secrets and variables > Actions.")
+    print(f"API key loaded ({len(API_KEY)} characters)")
     os.makedirs(DATA_DIR, exist_ok=True)
     bills = load(BILLS_FILE, {})
     state = load(STATE_FILE, {})
@@ -71,20 +87,3 @@ def main():
                 "update_date": b.get("updateDate"),
                 "api_url": b.get("url"),
             }
-            changed += 1
-        print(f"Offset {offset}: {len(batch)} bills")
-        if not batch or not page.get("pagination", {}).get("next"):
-            break
-        offset += PAGE_SIZE
-        time.sleep(1)  # stay well under the hourly rate limit
-
-    with open(BILLS_FILE, "w") as f:
-        json.dump(bills, f, indent=1, sort_keys=True)
-    with open(STATE_FILE, "w") as f:
-        json.dump({"last_run": run_started, "total_bills": len(bills)}, f, indent=1)
-
-    print(f"Done. {changed} bills added/updated. {len(bills)} total.")
-
-
-if __name__ == "__main__":
-    main()
