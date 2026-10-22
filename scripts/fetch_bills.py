@@ -87,3 +87,20 @@ def main():
                 "update_date": b.get("updateDate"),
                 "api_url": b.get("url"),
             }
+            changed += 1
+        print(f"Offset {offset}: {len(batch)} bills")
+        if not batch or not page.get("pagination", {}).get("next"):
+            break
+        offset += PAGE_SIZE
+        time.sleep(1)  # stay well under the hourly rate limit
+
+    with open(BILLS_FILE, "w") as f:
+        json.dump(bills, f, indent=1, sort_keys=True)
+    with open(STATE_FILE, "w") as f:
+        json.dump({"last_run": run_started, "total_bills": len(bills)}, f, indent=1)
+
+    print(f"Done. {changed} bills added/updated. {len(bills)} total.")
+
+
+if __name__ == "__main__":
+    main()
