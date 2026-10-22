@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  models: read
 
 concurrency:
   group: sync
@@ -44,8 +45,9 @@ jobs:
         run: python scripts/fetch_regs.py
         continue-on-error: true
 
-      - name: 5. Write plain-English summaries (needs ANTHROPIC_API_KEY)
+      - name: 5. Write plain-English summaries (free via GitHub Models)
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/ai_summaries.py
         continue-on-error: true
