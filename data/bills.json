@@ -104555,15 +104555,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8484": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8484?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-23",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-04-23",
   "number": "8484",
   "origin_chamber": "House",
   "title": "Hazard Pay for Health Care Heroes Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-22"
  },
  "119-hr-8485": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8485?format=json",
@@ -144232,15 +144232,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1269": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1269?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-02",
   "latest_action": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
   "latest_action_date": "2026-03-19",
   "number": "1269",
   "origin_chamber": "Senate",
   "title": "Promoting United States Leadership in Standards Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-22"
  },
  "119-s-127": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/127?format=json",
@@ -184745,15 +184745,15 @@
   "update_date": "2026-06-10"
  },
  "119-s-4618": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4618?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-21",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-05-21",
   "number": "4618",
   "origin_chamber": "Senate",
   "title": "Elementary and Secondary School Counseling Act",
   "type": "S",
-  "update_date": "2026-06-23"
+  "update_date": "2026-10-22"
  },
  "119-s-4619": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4619?format=json",
@@ -189310,15 +189310,15 @@
   "update_date": "2026-08-06"
  },
  "119-s-5": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-06",
   "latest_action": "Became Public Law No: 119-1.",
   "latest_action_date": "2025-01-29",
   "number": "5",
   "origin_chamber": "Senate",
   "title": "Laken Riley Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-22"
  },
  "119-s-50": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/50?format=json",
