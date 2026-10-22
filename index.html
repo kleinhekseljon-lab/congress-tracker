@@ -3,185 +3,407 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Congress bill tracker</title>
+<title>Washington, filtered for your business</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;800&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #F5F7FA; --surface: #FFFFFF; --ink: #17202B; --muted: #5B6675;
-    --line: #DDE2E8; --house: #9E2A2B; --senate: #1F4E79; --focus: #1F4E79;
+    --bg: #F3F5F8; --surface: #FFFFFF; --ink: #16202B; --muted: #5A6574; --line: #DCE1E8;
+    --house: #9E2A2B; --senate: #1F4E79; --accent: #1F4E79; --track: #D5DBE3; --track-on: #1F4E79;
+    --cost: #A33A2A; --cost-bg: #FBEDEA; --relief: #22663F; --relief-bg: #E8F4EC;
+    --neutral-bg: #EEF1F5; --deadline: #8A5A00; --deadline-bg: #FFF4DC;
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #12161C; --surface: #1A2028; --ink: #E7EBF0; --muted: #98A3B1;
-      --line: #2C3540; --house: #E07A7B; --senate: #7FB0DE; --focus: #7FB0DE;
+      --bg: #11161C; --surface: #19202A; --ink: #E6EAF0; --muted: #9AA5B3; --line: #2B3440;
+      --house: #E58586; --senate: #86B6E3; --accent: #86B6E3; --track: #33404F; --track-on: #86B6E3;
+      --cost: #F0A090; --cost-bg: #3A2320; --relief: #8FD3A8; --relief-bg: #1C3326;
+      --neutral-bg: #222B36; --deadline: #F2C46B; --deadline-bg: #3A2F17;
       color-scheme: dark;
     }
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--bg); color: var(--ink);
-    font-family: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-    font-size: 16px; line-height: 1.5;
-  }
-  .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 20px 64px; }
-  h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 4px; }
-  .sub { color: var(--muted); margin: 0 0 24px; font-variant-numeric: tabular-nums; }
-  .controls { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
-  input, select, button {
-    font: inherit; color: var(--ink); background: var(--surface);
-    border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px;
-  }
-  input { flex: 1 1 320px; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.5 "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif; }
+  a { color: var(--accent); }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+  header { padding: 36px 0 0; }
+  h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); font-weight: 800; letter-spacing: -0.025em; line-height: 1.1; margin: 0 0 8px; }
+  .sub { color: var(--muted); margin: 0 0 20px; max-width: 70ch; }
+  .profile { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; margin-bottom: 20px; }
+  .profile label { display: grid; gap: 4px; font-size: 0.85rem; font-weight: 600; color: var(--muted); }
+  select, input, button { font: inherit; color: var(--ink); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 6px; padding: 9px 12px; }
   button { cursor: pointer; font-weight: 600; }
-  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
-  .count { color: var(--muted); margin: 0 0 8px; font-size: 0.9rem; }
-  .list { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
-  .row {
-    display: grid; grid-template-columns: 120px 1fr; gap: 16px;
-    padding: 16px 20px; border-top: 1px solid var(--line);
-  }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+  .tabs button { border: 0; border-bottom: 3px solid transparent; border-radius: 0; background: none;
+    padding: 10px 14px; color: var(--muted); white-space: nowrap; }
+  .tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+  main.wrap { padding-top: 20px; padding-bottom: 64px; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+  .toolbar p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+  .toolbar label { font-size: 0.9rem; color: var(--muted); display: flex; gap: 6px; align-items: center; }
+  .note { background: var(--neutral-bg); border-radius: 8px; padding: 12px 16px; color: var(--muted); font-size: 0.9rem; margin-bottom: 16px; }
+  .senators { font-size: 0.9rem; color: var(--muted); margin: 0 0 12px; }
+
+  .item { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; margin-bottom: 12px; }
+  .item-head { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 0.85rem; margin-bottom: 6px; }
+  .num { font-weight: 800; text-decoration: none; font-variant-numeric: tabular-nums; }
+  .num:hover { text-decoration: underline; }
+  .house { color: var(--house); } .senate { color: var(--senate); }
+  .reg-label { font-weight: 800; color: var(--ink); }
+  .agency { color: var(--muted); }
+  .chip { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 0.78rem; font-weight: 600; background: var(--neutral-bg); color: var(--muted); }
+  .chip.cost { background: var(--cost-bg); color: var(--cost); }
+  .chip.relief, .chip.opportunity { background: var(--relief-bg); color: var(--relief); }
+  .chip.deadline { background: var(--deadline-bg); color: var(--deadline); }
+  .chip.pos { background: var(--accent); color: var(--surface); }
+  .headline { font-size: 1.15rem; font-weight: 800; letter-spacing: -0.01em; line-height: 1.3; margin: 0 0 4px; max-width: 70ch; }
+  .official { margin: 0 0 10px; font-size: 0.85rem; color: var(--muted); max-width: 80ch; }
+  .what { margin: 10px 0 6px; max-width: 72ch; }
+  .impact { margin: 0 0 10px; max-width: 72ch; padding-left: 12px; border-left: 3px solid var(--accent); }
+  .meta { margin: 0 0 10px; font-size: 0.85rem; color: var(--muted); max-width: 80ch; }
+  .meta time { font-weight: 600; color: var(--ink); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .cta { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 0.9rem; font-weight: 600; }
+  .pos-note { font-size: 0.88rem; margin: 0 0 10px; }
+
+  /* The stage track: how far along is it? */
+  .track { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 10px 0 4px; max-width: 560px; }
+  .track span { height: 6px; border-radius: 3px; background: var(--track); }
+  .track span.on { background: var(--track-on); }
+  .track-labels { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; max-width: 560px;
+    font-size: 0.72rem; color: var(--muted); margin-bottom: 6px; }
+  .track-labels span.here { color: var(--ink); font-weight: 700; }
+  .track.reg { grid-template-columns: repeat(3, 1fr); max-width: 340px; }
+  .track-labels.reg { grid-template-columns: repeat(3, 1fr); max-width: 340px; }
+
+  /* Digest preview, styled like the email a member would get */
+  .digest { max-width: 640px; margin: 0 auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .digest-top { padding: 24px 28px 16px; border-bottom: 4px solid var(--accent); }
+  .digest-top h2 { margin: 0 0 4px; font-size: 1.5rem; letter-spacing: -0.02em; }
+  .digest-top p { margin: 0; color: var(--muted); font-size: 0.92rem; }
+  .digest ol { list-style: none; margin: 0; padding: 0; counter-reset: d; }
+  .digest li { padding: 20px 28px; border-bottom: 1px solid var(--line); counter-increment: d; position: relative; }
+  .digest li::before { content: counter(d); position: absolute; left: 28px; top: 20px; font-weight: 800; font-size: 1.3rem; color: var(--accent); }
+  .digest li > div { margin-left: 34px; }
+  .digest h3 { margin: 0 0 4px; font-size: 1.05rem; }
+  .digest p { margin: 0 0 8px; font-size: 0.95rem; }
+  .digest .status { font-size: 0.82rem; color: var(--muted); }
+  .digest-foot { padding: 20px 28px; font-size: 0.9rem; color: var(--muted); }
+
+  /* All bills */
+  .search { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 12px; }
+  .search input { flex: 1 1 320px; }
+  .list { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+  .row { display: grid; grid-template-columns: 110px 1fr; gap: 16px; padding: 14px 18px; border-top: 1px solid var(--line); }
   .row:first-child { border-top: 0; }
-  .num { font-weight: 800; font-variant-numeric: tabular-nums; }
-  .num a { color: inherit; text-decoration: none; }
-  .num a:hover { text-decoration: underline; }
-  .house { color: var(--house); }
-  .senate { color: var(--senate); }
-  .title { margin: 0 0 6px; font-weight: 600; max-width: 75ch; }
-  .action { margin: 0; color: var(--muted); font-size: 0.9rem; max-width: 80ch; }
-  .action time { font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .row .t { margin: 0 0 4px; font-weight: 600; }
+  .row .a { margin: 0; font-size: 0.85rem; color: var(--muted); }
   .more { display: block; margin: 16px auto 0; }
   .more[hidden] { display: none; }
-  .empty { padding: 32px 20px; color: var(--muted); }
+  .empty { padding: 28px 20px; color: var(--muted); }
   @media (max-width: 600px) {
-    .row { grid-template-columns: 1fr; gap: 4px; }
-    h1 { font-size: 1.6rem; }
+    .row { grid-template-columns: 1fr; gap: 2px; }
+    .digest li > div { margin-left: 28px; }
+    .digest-top, .digest li, .digest-foot { padding-left: 18px; padding-right: 18px; }
+    .digest li::before { left: 18px; }
+    .track-labels span:not(.here) { visibility: hidden; }
+    .track-labels span { white-space: nowrap; }
   }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <h1>Congress bill tracker</h1>
-  <p class="sub" id="sub">Loading bills…</p>
-
-  <div class="controls">
-    <input id="q" type="search" placeholder="Search title or bill number, e.g. HR 1234" aria-label="Search bills">
-    <select id="chamber" aria-label="Chamber">
-      <option value="">Both chambers</option>
-      <option value="House">House</option>
-      <option value="Senate">Senate</option>
-    </select>
-    <select id="type" aria-label="Bill type">
-      <option value="">All bill types</option>
-      <option value="bills">Bills only (H.R. and S.)</option>
-      <option value="res">Resolutions only</option>
-    </select>
-    <select id="sort" aria-label="Sort">
-      <option value="action">Latest action first</option>
-      <option value="number">Bill number</option>
-    </select>
+<header class="wrap">
+  <h1 id="site-title">Washington, filtered for your business</h1>
+  <p class="sub" id="sub">Loading…</p>
+  <div class="profile">
+    <label>Your industry <select id="industry"></select></label>
+    <label>Your state <select id="state"><option value="">Choose a state</option></select></label>
   </div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="watch" aria-selected="true">Your watch list</button>
+    <button role="tab" data-tab="digest" aria-selected="false">Weekly digest preview</button>
+    <button role="tab" data-tab="all" aria-selected="false">All bills</button>
+  </nav>
+</header>
 
-  <p class="count" id="count"></p>
-  <div class="list" id="list"></div>
-  <button class="more" id="more" hidden>Show 100 more</button>
-</div>
+<main class="wrap">
+  <section id="tab-watch">
+    <div id="progress"></div>
+    <p class="senators" id="senators"></p>
+    <div class="toolbar">
+      <p id="watch-count"></p>
+      <div style="display:flex; gap:16px; flex-wrap:wrap">
+        <label><input type="checkbox" id="show-bills" checked> Bills</label>
+        <label><input type="checkbox" id="show-regs" checked> Regulations</label>
+        <label>Sort <select id="watch-sort">
+          <option value="priority">Most important first</option>
+          <option value="recent">Most recent activity</option>
+        </select></label>
+      </div>
+    </div>
+    <div id="watch-list"></div>
+  </section>
+
+  <section id="tab-digest" hidden>
+    <div class="digest" id="digest"></div>
+  </section>
+
+  <section id="tab-all" hidden>
+    <div class="search">
+      <input id="q" type="search" placeholder="Search title or bill number, e.g. HR 1234" aria-label="Search all bills">
+      <select id="chamber" aria-label="Chamber">
+        <option value="">Both chambers</option><option value="House">House</option><option value="Senate">Senate</option>
+      </select>
+      <select id="atype" aria-label="Bill type">
+        <option value="">All types</option><option value="bills">Bills only</option><option value="res">Resolutions only</option>
+      </select>
+    </div>
+    <p class="toolbar" id="count" style="color:var(--muted);font-size:.9rem"></p>
+    <div class="list" id="list"></div>
+    <button class="more" id="more" hidden>Show 100 more</button>
+  </section>
+</main>
 
 <script>
-const LABELS = {
-  HR: ["H.R.", "house-bill"], S: ["S.", "senate-bill"],
-  HRES: ["H.Res.", "house-resolution"], SRES: ["S.Res.", "senate-resolution"],
-  HJRES: ["H.J.Res.", "house-joint-resolution"], SJRES: ["S.J.Res.", "senate-joint-resolution"],
-  HCONRES: ["H.Con.Res.", "house-concurrent-resolution"], SCONRES: ["S.Con.Res.", "senate-concurrent-resolution"]
-};
-const PAGE = 100;
-let all = [], filtered = [], shown = 0;
+const STATES = {AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+const TYPES = { HR:["H.R.","house-bill"], S:["S.","senate-bill"], HRES:["H.Res.","house-resolution"], SRES:["S.Res.","senate-resolution"], HJRES:["H.J.Res.","house-joint-resolution"], SJRES:["S.J.Res.","senate-joint-resolution"], HCONRES:["H.Con.Res.","house-concurrent-resolution"], SCONRES:["S.Con.Res.","senate-concurrent-resolution"] };
+const STEPS = ["Introduced", "Committee", "Passed one chamber", "Passed both", "Law"];
+const IMPACT = { cost: "Adds cost", relief: "Cuts cost", mixed: "Mixed impact", compliance: "New compliance", opportunity: "Opportunity", minimal: "Minimal impact" };
 
 const $ = id => document.getElementById(id);
-const norm = s => (s || "").toLowerCase().replace(/[^a-z0-9 ]/g, "");
-const compact = s => (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const fmt = d => d ? new Date(d.slice(0,10) + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) : "";
+const ordinal = n => { const s=["th","st","nd","rd"], v=n%100; return n + (s[(v-20)%10] || s[v] || s[0]); };
+const daysUntil = d => d ? Math.round((new Date(d.slice(0,10) + "T12:00:00") - new Date()) / 86400000) : null;
 
-function ordinal(n) {
-  const s = ["th", "st", "nd", "rd"], v = n % 100;
-  return n + (s[(v - 20) % 10] || s[v] || s[0]);
+let META = null, WATCH = [], INDEX = null, filtered = [], shown = 0;
+const params = new URLSearchParams(location.search);
+
+function setParam(k, v) {
+  if (v) params.set(k, v); else params.delete(k);
+  history.replaceState(null, "", "?" + params.toString());
 }
 
-function fmtDate(d) {
-  if (!d) return "";
-  const dt = new Date(d + "T12:00:00");
-  return dt.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+function senatorsFor(st) { return (META && META.senators && META.senators[st]) || []; }
+
+function trackHtml(it) {
+  if (it.kind === "reg") {
+    const final = it.label === "Final rule";
+    const effective = final && it.effective && daysUntil(it.effective) <= 0;
+    const step = effective ? 2 : final ? 1 : 0;
+    const names = ["Proposed", "Final", "In effect"];
+    return `<div class="track reg" aria-hidden="true">${names.map((_, i) => `<span class="${i <= step ? "on" : ""}"></span>`).join("")}</div>
+      <div class="track-labels reg">${names.map((n, i) => `<span class="${i === step ? "here" : ""}">${n}</span>`).join("")}</div>`;
+  }
+  return `<div class="track" role="img" aria-label="Stage: ${esc(it.stage_label)}">${STEPS.map((_, i) => `<span class="${i <= it.step ? "on" : ""}"></span>`).join("")}</div>
+    <div class="track-labels">${STEPS.map((n, i) => `<span class="${i === it.step ? "here" : ""}">${i === it.step ? esc(it.stage_label) : n}</span>`).join("")}</div>`;
 }
 
-function escapeHtml(s) {
-  return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+function chipsHtml(it) {
+  const c = [];
+  if (it.impact && IMPACT[it.impact]) c.push(`<span class="chip ${esc(it.impact)}">${IMPACT[it.impact]}</span>`);
+  if (it.kind === "reg") {
+    const left = daysUntil(it.comments_close);
+    if (it.label === "Proposed rule" && left !== null && left >= 0) c.push(`<span class="chip deadline">Comments close ${fmt(it.comments_close)} (${left} days)</span>`);
+    if (it.effective) c.push(`<span class="chip">Effective ${fmt(it.effective)}</span>`);
+    if (it.significant) c.push(`<span class="chip">Significant rule</span>`);
+  } else {
+    if (it.cosponsors) c.push(`<span class="chip">${it.cosponsors} cosponsors</span>`);
+    if (it.bipartisan) c.push(`<span class="chip">Bipartisan</span>`);
+    if (it.policy_area) c.push(`<span class="chip">${esc(it.policy_area)}</span>`);
+  }
+  return c.length ? `<div class="chips">${c.join("")}</div>` : "";
 }
 
-function render(reset) {
-  if (reset) { $("list").innerHTML = ""; shown = 0; }
-  const slice = filtered.slice(shown, shown + PAGE);
-  const html = slice.map(b => {
-    const [label, slug] = LABELS[b.type] || [b.type, ""];
-    const url = slug ? `https://www.congress.gov/bill/${ordinal(b.congress)}-congress/${slug}/${b.number}` : "#";
-    const cls = b.origin_chamber === "Senate" ? "senate" : "house";
-    return `<div class="row">
-      <div class="num ${cls}"><a href="${url}" target="_blank" rel="noopener">${label} ${b.number}</a></div>
-      <div>
-        <p class="title">${escapeHtml(b.title)}</p>
-        <p class="action"><time>${fmtDate(b.latest_action_date)}</time> ${escapeHtml(b.latest_action)}</p>
-      </div>
+function ctaHtml(it) {
+  const site = META.site || {};
+  const links = [`<a href="${esc(it.url)}" target="_blank" rel="noopener">${it.kind === "reg" ? "Read the rule" : "Read the bill"}</a>`];
+  if (it.kind === "reg" && it.label === "Proposed rule" && daysUntil(it.comments_close) >= 0) {
+    links.push(`<a href="${esc(it.url)}" target="_blank" rel="noopener">Submit a comment</a>`);
+  }
+  const st = $("state").value;
+  if (it.kind === "bill" && st && it.stage >= 30 && it.stage < 100) {
+    senatorsFor(st).forEach(s => links.push(`<a href="${esc(s.url)}" target="_blank" rel="noopener">Tell Sen. ${esc(s.name.split(" ").slice(-1)[0])}</a>`));
+  }
+  if (site.expert_contact_url) links.push(`<a href="${esc(site.expert_contact_url)}">${esc(site.expert_contact_label || "Ask a policy expert")}</a>`);
+  return `<div class="cta">${links.join("")}</div>`;
+}
+
+function itemHtml(it) {
+  const site = META.site || {};
+  const head = it.kind === "reg"
+    ? `<span class="reg-label">${esc(it.label)}</span><span class="agency">${esc(it.agency)}</span>`
+    : `<a class="num ${it.chamber === "Senate" ? "senate" : "house"}" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.label)}</a>`;
+  const pos = it.position ? `<span class="chip pos">${esc(site.position_label || "Our position")}: ${esc(it.position.position)}</span>` : "";
+  const posNote = it.position && it.position.note ? `<p class="pos-note"><strong>${esc(site.position_label || "Our position")}:</strong> ${esc(it.position.note)}${it.position.link ? ` <a href="${esc(it.position.link)}" target="_blank" rel="noopener">More</a>` : ""}</p>` : "";
+  const latest = it.kind === "reg"
+    ? `<p class="meta">Published <time>${fmt(it.published)}</time></p>`
+    : `<p class="meta">Latest: <time>${fmt(it.latest_date)}</time> ${esc(it.latest_action)}</p>`;
+  return `<article class="item">
+    <div class="item-head">${head}${pos}</div>
+    <h3 class="headline">${esc(it.headline || it.title)}</h3>
+    ${it.headline ? `<p class="official">${esc(it.title)}</p>` : ""}
+    ${trackHtml(it)}
+    ${it.what ? `<p class="what">${esc(it.what)}</p>` : ""}
+    ${it.impact_text ? `<p class="impact"><strong>What it means for you:</strong> ${esc(it.impact_text)}</p>` : ""}
+    ${posNote}${latest}${chipsHtml(it)}${ctaHtml(it)}
+  </article>`;
+}
+
+function renderSenators() {
+  const st = $("state").value, s = senatorsFor(st);
+  $("senators").innerHTML = st && s.length
+    ? `Your senators: ${s.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)} (${esc(x.party)})</a>`).join(", ")}`
+    : "";
+}
+
+function renderWatch() {
+  const showBills = $("show-bills").checked, showRegs = $("show-regs").checked;
+  let list = WATCH.filter(it => (it.kind === "bill" ? showBills : showRegs));
+  if ($("watch-sort").value === "recent") list = [...list].sort((a, b) => (a.days ?? 9999) - (b.days ?? 9999));
+  const ind = META.industries.find(i => i.slug === $("industry").value);
+  $("watch-count").textContent = `${list.length} items worth watching for ${ind ? ind.name.toLowerCase() : "your industry"}, out of ${META.total_bills.toLocaleString()} bills and ${META.regs.toLocaleString()} recent rules`;
+  $("watch-list").innerHTML = list.length ? list.map(itemHtml).join("") :
+    `<div class="item empty">Nothing on this list yet. The analysis builds up over the first day of hourly runs; check back later.</div>`;
+}
+
+function digestPicks() {
+  const fresh = WATCH.filter(it => (it.days ?? 999) <= 30 || (it.kind === "reg" && daysUntil(it.comments_close) >= 0));
+  const pool = fresh.length >= 5 ? fresh : WATCH;
+  return [...pool].sort((a, b) => b.priority - a.priority).slice(0, 5);
+}
+
+function renderDigest() {
+  const ind = META.industries.find(i => i.slug === $("industry").value);
+  const st = $("state").value, s = senatorsFor(st), site = META.site || {};
+  const picks = digestPicks();
+  const actions = picks.filter(it => it.kind === "reg" ? daysUntil(it.comments_close) >= 0 : it.stage >= 45 && it.stage < 100).length;
+  const today = new Date().toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
+  const item = it => {
+    const status = it.kind === "reg"
+      ? `${esc(it.label)} from ${esc(it.agency)}${daysUntil(it.comments_close) >= 0 ? `. Comments close ${fmt(it.comments_close)}.` : it.effective ? `. Effective ${fmt(it.effective)}.` : "."}`
+      : `${esc(it.label)}. ${esc(it.stage_label)}${it.latest_date ? `, last action ${fmt(it.latest_date)}` : ""}${it.bipartisan ? ". Bipartisan support" : ""}.`;
+    return `<li><div>
+      <h3>${esc(it.headline || it.title)}</h3>
+      <p class="status">${status}</p>
+      ${it.impact_text ? `<p><strong>What it means for you:</strong> ${esc(it.impact_text)}</p>` : it.what ? `<p>${esc(it.what)}</p>` : ""}
+      ${it.position ? `<p><strong>${esc(site.position_label || "Our position")}: ${esc(it.position.position)}.</strong> ${esc(it.position.note || "")}</p>` : ""}
+      <p><a href="${esc(it.url)}" target="_blank" rel="noopener">${it.kind === "reg" && daysUntil(it.comments_close) >= 0 ? "Read and comment" : "Read more"}</a></p>
+    </div></li>`;
+  };
+  $("digest").innerHTML = `
+    <div class="digest-top">
+      <h2>Your week in Washington</h2>
+      <p>For a ${esc(ind ? ind.name.toLowerCase() : "")} company${st ? " in " + esc(STATES[st]) : ""}. ${today}.</p>
+    </div>
+    ${picks.length ? `<p style="padding:16px 28px 0;margin:0">${picks.length} things moving that could affect your business${actions ? `, ${actions} with a decision point coming up` : ""}.</p>
+    <ol>${picks.map(item).join("")}</ol>` : `<p class="empty">No items yet. The analysis builds up over the first day.</p>`}
+    <div class="digest-foot">
+      ${st && s.length ? `<p>Your senators: ${s.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" and ")}</p>` : `<p>Pick your state to see your senators here.</p>`}
+      ${site.expert_contact_url ? `<p>Questions about any of these? <a href="${esc(site.expert_contact_url)}">${esc(site.expert_contact_label || "Ask a policy expert")}</a>.</p>` : ""}
     </div>`;
-  }).join("");
-  $("list").insertAdjacentHTML("beforeend", html);
+}
+
+async function loadWatch() {
+  const slug = $("industry").value;
+  setParam("industry", slug);
+  try {
+    const r = await fetch(`data/watch/${slug}.json`, { cache: "no-cache" });
+    WATCH = r.ok ? await r.json() : [];
+  } catch { WATCH = []; }
+  renderWatch(); renderDigest();
+}
+
+/* All bills tab */
+function rowHtml(b) {
+  const [congress, type, number, title, chamber, date, action, stage] = b;
+  const [label, slug] = TYPES[type] || [type, ""];
+  const url = slug ? `https://www.congress.gov/bill/${ordinal(congress)}-congress/${slug}/${number}` : "#";
+  return `<div class="row">
+    <div><a class="num ${chamber === "Senate" ? "senate" : "house"}" href="${url}" target="_blank" rel="noopener">${label} ${number}</a></div>
+    <div><p class="t">${esc(title)}</p><p class="a"><time>${fmt(date)}</time> ${esc(stage)}. ${esc(action)}</p></div>
+  </div>`;
+}
+function renderAll(reset) {
+  if (reset) { $("list").innerHTML = ""; shown = 0; }
+  const slice = filtered.slice(shown, shown + 100);
+  $("list").insertAdjacentHTML("beforeend", slice.map(rowHtml).join(""));
   shown += slice.length;
   if (!filtered.length) $("list").innerHTML = `<div class="empty">No bills match. Try a shorter search or clear the filters.</div>`;
   $("count").textContent = `${filtered.length.toLocaleString()} bills match, showing ${shown.toLocaleString()}`;
   $("more").hidden = shown >= filtered.length;
 }
-
-function apply() {
-  const q = norm($("q").value).trim();
-  const qc = compact($("q").value);
-  const chamber = $("chamber").value, type = $("type").value, sort = $("sort").value;
-  filtered = all.filter(b => {
-    if (chamber && b.origin_chamber !== chamber) return false;
-    if (type === "bills" && !["HR", "S"].includes(b.type)) return false;
-    if (type === "res" && ["HR", "S"].includes(b.type)) return false;
-    if (!q) return true;
-    if (b._num === qc) return true;
-    return q.split(/\s+/).every(w => b._title.includes(w));
-  });
-  if (sort === "action") filtered.sort((a, b) => (b.latest_action_date || "").localeCompare(a.latest_action_date || ""));
-  else filtered.sort((a, b) => a.type.localeCompare(b.type) || a.number - b.number);
-  render(true);
+function applyAll() {
+  const raw = $("q").value.toLowerCase();
+  const words = raw.replace(/[^a-z0-9 ]/g, "").trim().split(/\s+/).filter(Boolean);
+  const compact = raw.replace(/[^a-z0-9]/g, "");
+  const ch = $("chamber").value, ty = $("atype").value;
+  filtered = INDEX.filter(b => {
+    if (ch && b[4] !== ch) return false;
+    const isBill = b[1] === "HR" || b[1] === "S";
+    if (ty === "bills" && !isBill) return false;
+    if (ty === "res" && isBill) return false;
+    if (!words.length) return true;
+    if ((b[1] + b[2]).toLowerCase() === compact) return true;
+    const t = (b[3] || "").toLowerCase();
+    return words.every(w => t.includes(w));
+  }).sort((a, b) => (b[5] || "").localeCompare(a[5] || ""));
+  renderAll(true);
+}
+async function loadIndex() {
+  if (INDEX) return;
+  $("count").textContent = "Loading every bill…";
+  const r = await fetch("data/index.json");
+  INDEX = r.ok ? await r.json() : [];
+  applyAll();
 }
 
-async function load() {
+function showTab(name) {
+  document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === name)));
+  ["watch", "digest", "all"].forEach(t => $("tab-" + t).hidden = t !== name);
+  setParam("tab", name === "watch" ? "" : name);
+  if (name === "all") loadIndex();
+}
+
+async function init() {
   try {
-    const [billsRes, stateRes] = await Promise.all([fetch("data/bills.json"), fetch("data/state.json")]);
-    if (!billsRes.ok) throw new Error("bills.json not found");
-    const bills = await billsRes.json();
-    const state = stateRes.ok ? await stateRes.json() : {};
-    all = Object.values(bills).map(b => ({
-      ...b,
-      number: Number(b.number),
-      _title: norm(b.title),
-      _num: compact(b.type + b.number)
-    }));
-    const synced = state.last_run ? new Date(state.last_run).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" }) : "unknown";
-    $("sub").textContent = `${all.length.toLocaleString()} bills in the current Congress. Last synced ${synced}.`;
-    apply();
-  } catch (e) {
-    $("sub").textContent = "Bill data hasn't loaded yet. Run the sync workflow once, then refresh this page.";
+    const r = await fetch("data/meta.json", { cache: "no-cache" });
+    META = await r.json();
+  } catch {
+    $("sub").textContent = "Data hasn't been built yet. Run the sync workflow once, then refresh.";
+    return;
   }
-}
+  const site = META.site || {};
+  if (site.site_title) { $("site-title").textContent = site.site_title; document.title = site.site_title; }
+  const synced = META.last_sync ? new Date(META.last_sync).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" }) : "unknown";
+  $("sub").textContent = `Every bill in Congress and every new federal rule, narrowed to what could affect a company like yours. Updated ${synced}.`;
+  if (META.analyzed < META.analyzable * 0.95) {
+    const pct = Math.round(100 * META.analyzed / Math.max(1, META.analyzable));
+    $("progress").innerHTML = `<div class="note">Analysis is still building: ${META.analyzed.toLocaleString()} of ${META.analyzable.toLocaleString()} bills (${pct}%). Bills that are moving are analyzed first, so this list is already useful and fills in over the next day.</div>`;
+  }
+  $("industry").innerHTML = META.industries.map(i => `<option value="${i.slug}">${esc(i.name)}</option>`).join("");
+  $("state").insertAdjacentHTML("beforeend", Object.entries(STATES).map(([k, v]) => `<option value="${k}">${v}</option>`).join(""));
+  if (params.get("industry") && META.industries.some(i => i.slug === params.get("industry"))) $("industry").value = params.get("industry");
+  if (params.get("state") && STATES[params.get("state")]) $("state").value = params.get("state");
 
-let t;
-$("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(apply, 150); });
-["chamber", "type", "sort"].forEach(id => $(id).addEventListener("change", apply));
-$("more").addEventListener("click", () => render(false));
-load();
+  $("industry").addEventListener("change", loadWatch);
+  $("state").addEventListener("change", () => { setParam("state", $("state").value); renderSenators(); renderWatch(); renderDigest(); });
+  ["show-bills", "show-regs", "watch-sort"].forEach(id => $(id).addEventListener("change", renderWatch));
+  document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
+  let t; $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(applyAll, 150); });
+  ["chamber", "atype"].forEach(id => $(id).addEventListener("change", applyAll));
+  $("more").addEventListener("click", () => renderAll(false));
+
+  renderSenators();
+  await loadWatch();
+  showTab(["digest", "all"].includes(params.get("tab")) ? params.get("tab") : "watch");
+}
+init();
 </script>
 </body>
 </html>

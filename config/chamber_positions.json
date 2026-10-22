@@ -1,0 +1,4 @@
+{
+  "_how_to_use": "Add an entry per bill or regulation the Chamber has a position on. Bill keys look like 119-hr-1234 or 119-s-55. Regulation keys are Federal Register document numbers like 2026-12345. position: Support, Oppose, Watching, or Key vote. Delete the example entry below once you add real ones.",
+  "119-hr-0": {"position": "Support", "note": "Example entry. Replace with a real bill key and the policy team's one-line rationale.", "link": ""}
+}
