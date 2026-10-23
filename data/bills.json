@@ -14405,7 +14405,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10868",
   "origin_chamber": "House",
-  "title": "To amend the General Education Provisions Act to prohibit the use of Federal education funds for sexually explicit instructional materials in elementary and secondary schools, consistent with the policy objectives of Executive Order 14190, and for other purposes.",
+  "title": "Protecting Students from Sexually Explicit Materials Act",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14416,7 +14416,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10869",
   "origin_chamber": "House",
-  "title": "To amend the Safe Drinking Water Act and the Federal Water Pollution Control Act to provide for emerging contaminants remediation funding, and for other purposes.",
+  "title": "Protect Clean Water Act",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14438,7 +14438,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10870",
   "origin_chamber": "House",
-  "title": "To amend title 10, United States Code, to extend Special Victim's Counsel services to victims of domestic violence, and for other purposes.",
+  "title": "Military Domestic Violence Survivors Support Act",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14449,7 +14449,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10871",
   "origin_chamber": "House",
-  "title": "To amend section 1056 of title 10, United States Code, to require the provision of information regarding food access and child care for members receiving orders for a change of permanent station, and for other purposes.",
+  "title": "Military Family Relocation Support Act",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14460,7 +14460,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10872",
   "origin_chamber": "House",
-  "title": "To establish a National Auto Theft Bureau within the Department of Justice.",
+  "title": "Combatting Auto Robbery at the Source Act of 2026",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14471,7 +14471,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10873",
   "origin_chamber": "House",
-  "title": "To require the National Institute of Standards and Technology to carry out certain activities regarding certain artificial intelligence attacks, and for other purposes.",
+  "title": "AI Cyber Defense Act",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -14482,7 +14482,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10874",
   "origin_chamber": "House",
-  "title": "To amend titles XVIII and XIX of the Social Security Act to make premium and cost-sharing subsidies available to low-income Medicare part D beneficiaries who reside in the Commonwealth of Puerto Rico or another territory of the United States.",
+  "title": "Medicare Low Income Subsidy Equality Act of 2026",
   "type": "HR",
   "update_date": "2026-10-23"
  },
@@ -23892,15 +23892,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1829": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1829?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.",
   "latest_action_date": "2026-07-23",
   "number": "1829",
   "origin_chamber": "House",
   "title": "Apache County and Navajo County Conveyance Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-hr-183": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/183?format=json",
@@ -26477,15 +26477,15 @@
   "update_date": "2026-09-11"
  },
  "119-hr-204": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/204?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.",
   "latest_action_date": "2026-07-23",
   "number": "204",
   "origin_chamber": "House",
   "title": "ACRES Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-hr-2040": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2040?format=json",
@@ -48840,15 +48840,15 @@
   "update_date": "2026-03-18"
  },
  "119-hr-3872": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3872?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-10",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 669.",
   "latest_action_date": "2026-09-17",
   "number": "3872",
   "origin_chamber": "House",
   "title": "To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable to hardrock minerals.",
   "type": "HR",
-  "update_date": "2026-09-30"
+  "update_date": "2026-10-23"
  },
  "119-hr-3873": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3873?format=json",
@@ -49632,15 +49632,15 @@
   "update_date": "2026-07-06"
  },
  "119-hr-3937": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3937?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-11",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.",
   "latest_action_date": "2026-07-23",
   "number": "3937",
   "origin_chamber": "House",
   "title": "Wabeno Economic Development Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-hr-3938": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3938?format=json",
@@ -84205,15 +84205,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-677": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/677?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-30",
   "number": "677",
   "origin_chamber": "House",
   "title": "EARA",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-23"
  },
  "119-hr-6770": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6770?format=json",
@@ -117810,15 +117810,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-952": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/952?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Presented to President.",
   "latest_action_date": "2026-10-14",
   "number": "952",
   "origin_chamber": "House",
   "title": "Reversionary Interest Conveyance Act",
   "type": "HR",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-23"
  },
  "119-hr-9520": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9520?format=json",
@@ -145849,15 +145849,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1349": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1349?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-04-08",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "1349",
   "origin_chamber": "Senate",
   "title": "Ruby Mountains Protection Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-135": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/135?format=json",
@@ -147246,15 +147246,15 @@
   "update_date": "2026-09-15"
  },
  "119-s-1464": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1464?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-04-10",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "1464",
   "origin_chamber": "Senate",
   "title": "Buffalo Tract Protection Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-1465": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1465?format=json",
@@ -147642,15 +147642,15 @@
   "update_date": "2025-08-15"
  },
  "119-s-1497": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1497?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-04-10",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "1497",
   "origin_chamber": "Senate",
   "title": "Cerro de la Olla Wilderness Establishment Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-1498": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1498?format=json",
@@ -148236,15 +148236,15 @@
   "update_date": "2026-10-07"
  },
  "119-s-1546": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1546?format=json",
   "congress": 119,
-  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
-  "latest_action_date": "2025-05-01",
+  "introduced_date": "2025-05-01",
+  "latest_action": "Senate Subcommittee on Intellectual Property. Hearings held. With printed Hearing: S.Hrg. 119-282.",
+  "latest_action_date": "2025-10-08",
   "number": "1546",
   "origin_chamber": "Senate",
   "title": "Patent Eligibility Restoration Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-23"
  },
  "119-s-1547": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1547?format=json",
@@ -153483,15 +153483,15 @@
   "update_date": "2025-07-22"
  },
  "119-s-1981": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1981?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-05",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.",
   "latest_action_date": "2026-07-23",
   "number": "1981",
   "origin_chamber": "Senate",
   "title": "Strategic Grazing to Reduce Risk of Wildfire Act",
   "type": "S",
-  "update_date": "2026-09-28"
+  "update_date": "2026-10-23"
  },
  "119-s-1982": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1982?format=json",
@@ -158741,15 +158741,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2417": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2417?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-07-23",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "2417",
   "origin_chamber": "Senate",
   "title": "Star-Spangled Summit Act of 2025",
   "type": "S",
-  "update_date": "2026-09-18"
+  "update_date": "2026-10-23"
  },
  "119-s-2418": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2418?format=json",
@@ -160380,15 +160380,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2554": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2554?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-30",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 639.",
   "latest_action_date": "2026-09-17",
   "number": "2554",
   "origin_chamber": "Senate",
   "title": "Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act",
   "type": "S",
-  "update_date": "2026-09-23"
+  "update_date": "2026-10-23"
  },
  "119-s-2555": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2555?format=json",
@@ -162811,15 +162811,15 @@
   "update_date": "2026-09-29"
  },
  "119-s-2754": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2754?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-10",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-10-05",
   "number": "2754",
   "origin_chamber": "Senate",
   "title": "Crystal Reservoir Conveyance Act",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-23"
  },
  "119-s-2755": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2755?format=json",
@@ -163207,15 +163207,15 @@
   "update_date": "2025-12-09"
  },
  "119-s-2787": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2787?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-11",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.",
   "latest_action_date": "2026-07-23",
   "number": "2787",
   "origin_chamber": "Senate",
   "title": "Grasslands Grazing Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-2788": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2788?format=json",
@@ -164109,15 +164109,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2860": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2860?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-09-18",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "2860",
   "origin_chamber": "Senate",
   "title": "Revitalizing America\u2019s Offshore Critical Minerals Dominance Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-2861": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2861?format=json",
@@ -165418,15 +165418,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-2968": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2968?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-10-03",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "2968",
   "origin_chamber": "Senate",
   "title": "Outdoor Americans with Disabilities Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-2969": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2969?format=json",
@@ -165869,15 +165869,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3004": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3004?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-14",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 487.",
   "latest_action_date": "2026-07-23",
   "number": "3004",
   "origin_chamber": "Senate",
   "title": "Upper Price River Watershed Project Act of 2026",
   "type": "S",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-23"
  },
  "119-s-3005": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3005?format=json",
@@ -166815,15 +166815,15 @@
   "update_date": "2026-04-03"
  },
  "119-s-3082": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3082?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-10-30",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "3082",
   "origin_chamber": "Senate",
   "title": "American Shores Protection Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-3083": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3083?format=json",
@@ -167464,15 +167464,15 @@
   "update_date": "2026-04-01"
  },
  "119-s-3135": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3135?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 619.",
   "latest_action_date": "2026-09-16",
   "number": "3135",
   "origin_chamber": "Senate",
   "title": "Cold Weather Diesel Reliability Act of 2026",
   "type": "S",
-  "update_date": "2026-09-28"
+  "update_date": "2026-10-23"
  },
  "119-s-3136": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3136?format=json",
@@ -171754,15 +171754,15 @@
   "update_date": "2026-06-09"
  },
  "119-s-3493": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3493?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-16",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.",
   "latest_action_date": "2026-07-23",
   "number": "3493",
   "origin_chamber": "Senate",
   "title": "Carson City Public Land Correction Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-3495": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3495?format=json",
@@ -172150,26 +172150,26 @@
   "update_date": "2026-09-26"
  },
  "119-s-3526": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3526?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-12-17",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "3526",
   "origin_chamber": "Senate",
   "title": "PUBLIC Lands Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-3527": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3527?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-17",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-03-04",
   "number": "3527",
   "origin_chamber": "Senate",
   "title": "Montana Sportsmen Conservation Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-3528": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3528?format=json",
@@ -174174,15 +174174,15 @@
   "update_date": "2026-09-17"
  },
  "119-s-3695": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3695?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2026-01-27",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "3695",
   "origin_chamber": "Senate",
   "title": "Santini-Burton Modernization Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-3696": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3696?format=json",
@@ -185416,15 +185416,15 @@
   "update_date": "2026-09-30"
  },
  "119-s-462": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/462?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "introduced_date": "2025-02-06",
+  "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
   "latest_action_date": "2026-02-12",
   "number": "462",
   "origin_chamber": "Senate",
   "title": "Truckee Meadows Public Lands Management Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-23"
  },
  "119-s-4620": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4620?format=json",
