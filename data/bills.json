@@ -51546,15 +51546,15 @@
   "update_date": "2026-07-21"
  },
  "119-hr-4093": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4093?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-24",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 15.",
   "latest_action_date": "2026-09-16",
   "number": "4093",
   "origin_chamber": "House",
   "title": "Apples to Apples Comparison Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-23"
  },
  "119-hr-4094": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4094?format=json",
@@ -67969,15 +67969,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-5439": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5439?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-17",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 0.",
   "latest_action_date": "2026-09-16",
   "number": "5439",
   "origin_chamber": "House",
   "title": "Medically Tailored Home-Delivered Meals Program Pilot Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-23"
  },
  "119-hr-544": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/544?format=json",
@@ -76406,15 +76406,15 @@
   "update_date": "2025-07-29"
  },
  "119-hr-6130": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6130?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0.",
   "latest_action_date": "2026-09-16",
   "number": "6130",
   "origin_chamber": "House",
   "title": "ASAP Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-23"
  },
  "119-hr-6131": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6131?format=json",
