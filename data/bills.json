@@ -63426,15 +63426,15 @@
   "update_date": "2026-04-01"
  },
  "119-hr-5115": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5115?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-03",
   "number": "5115",
   "origin_chamber": "House",
   "title": "Protecting Older Americans Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-23"
  },
  "119-hr-5116": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5116?format=json",
@@ -88594,15 +88594,15 @@
   "update_date": "2026-06-03"
  },
  "119-hr-7177": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7177?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-21",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-01-21",
   "number": "7177",
   "origin_chamber": "House",
   "title": "Protecting Girls with Turner Syndrome Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-10-23"
  },
  "119-hr-7178": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7178?format=json",
