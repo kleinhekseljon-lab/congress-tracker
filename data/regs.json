@@ -15855,6 +15855,200 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21622/virginia-approval-of-state-coal-combustion-residuals-permit-program"
  },
+ "2026-21657": {
+  "abstract": "The Securities and Exchange Commission (\"Commission\") is publishing a list of rules to be reviewed pursuant to section 610 of the Regulatory Flexibility Act. The list is published to provide the public with notice that these rules are scheduled for review by the agency and to invite public comment on whether the rules should be continued without change, or should be amended or rescinded to minimize any significant economic impact of the rules upon a substantial number of small entities.",
+  "agencies": [
+   "Securities and Exchange Commission"
+  ],
+  "agency_slugs": [
+   "securities-and-exchange-commission"
+  ],
+  "comments_close_on": "2026-11-23",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21657/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act"
+ },
+ "2026-21658": {
+  "abstract": "The Food and Nutrition Administration (FNA or the Agency), an agency of the U.S. Department of Agriculture (USDA or the Department), is issuing a rule proposing changes to Supplemental Nutrition Assistance Program (SNAP, the Program) regulations to modernize Electronic Benefit Transfer (EBT) technology and align EBT with consumer payment processing industry standards, improving both Program integrity and convenience for SNAP clients. These proposed changes will protect SNAP benefits from thieves and ensure benefits are accessible by approved households.",
+  "agencies": [
+   "Agriculture Department",
+   "Food and Nutrition Administration"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "food-and-nutrition-administration"
+  ],
+  "comments_close_on": "2026-12-22",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": true,
+  "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21658/supplemental-nutrition-assistance-program-electronic-benefits-transfer-card-security-measures"
+ },
+ "2026-21664": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain MD Helicopters, LLC (MDHI) Model 369D, 369E, 369F, 369FF, 369H, and 500N helicopters. This AD was prompted by a report of mechanical damage to the main transmission drive shaft coupling (coupling). This AD requires a one-time visual inspection of the couplings for cracks of the splines and, depending on the results, replacement of the couplings. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-27",
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Airworthiness Directives; MD Helicopters, LLC Helicopters",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21664/airworthiness-directives-md-helicopters-llc-helicopters"
+ },
+ "2026-21669": {
+  "abstract": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of one additional draft chapter of a multichapter draft guidance for industry titled \"Hazard Analysis and Risk-Based Preventive Controls for Human Food.\" This multichapter draft guidance, when finalized, will explain FDA's current thinking on how to comply with the requirements for hazard analysis and risk-based preventive controls under FDA's regulation titled \"Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food.\" The newly available draft chapter is titled \"Chapter 12: Control of Chemical Hazards.\" This draft guidance is not final nor is it in effect at this time.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": "2027-01-21",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Availability",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21669/hazard-analysis-and-risk-based-preventive-controls-for-human-food-draft-guidance-for-industry"
+ },
+ "2026-21670": {
+  "abstract": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of a draft guidance for industry entitled \"Action Levels for Cadmium in Processed Food Intended for Babies and Young Children.\" The draft guidance, when finalized, will establish action levels for cadmium in certain processed foods intended for babies and young children less than 2 years old. The draft guidance is intended to set achievable action levels that will help further reduce cadmium in the food supply.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": "2026-12-22",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry; Availability",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21670/action-levels-for-cadmium-in-processed-food-intended-for-babies-and-young-children-draft-guidance"
+ },
+ "2026-21675": {
+  "abstract": "The Department of the Treasury (Treasury) is issuing this proposed rule to carry out the purposes of section 1001 of the 21st Century ROAD to Housing Act (the Act or the ROAD Act). Section 1001 of the ROAD Act prohibits large institutional investors from purchasing single-family homes, subject to certain exceptions. The proposed rule would clarify certain terms relevant to those restrictions, including \"large institutional investor\"; clarify the application of certain exceptions from the statutory prohibition; and clarify the statutory enforcement mechanism. The proposed rule is intended to provide clarity to market participants and other stakeholders on the application of the statute before the effective date of the ROAD Act.",
+  "agencies": [
+   "Treasury Department"
+  ],
+  "agency_slugs": [
+   "treasury-department"
+  ],
+  "comments_close_on": "2026-11-23",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "21st Century ROAD to Housing Act Prohibition on Large Institutional Investor Purchases of Single-Family Homes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21675/21st-century-road-to-housing-act-prohibition-on-large-institutional-investor-purchases-of"
+ },
+ "2026-21676": {
+  "abstract": "NMFS is prohibiting directed fishing for pollock in Statistical Area 620 in the Gulf of Alaska (GOA). This action is necessary to prevent exceeding the annual 2026 total allowable catch (TAC) of pollock in Statistical Area 620 in the GOA.",
+  "agencies": [
+   "Commerce Department",
+   "National Oceanic and Atmospheric Administration"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "national-oceanic-and-atmospheric-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-10-21",
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 620 in the Gulf of Alaska",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21676/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-620-in-the-gulf-of"
+ },
+ "2026-21680": {
+  "abstract": "NMFS is prohibiting directed fishing for Pacific cod by catcher vessels using trawl gear in the Central Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to prevent exceeding the 2026 total allowable catch (TAC) of Pacific cod allocated to catcher vessels using trawl gear in the Central Regulatory Area of the GOA.",
+  "agencies": [
+   "Commerce Department",
+   "National Oceanic and Atmospheric Administration"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "national-oceanic-and-atmospheric-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-10-21",
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21680/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-using-trawl-gear"
+ },
+ "2026-21686": {
+  "abstract": "The FAA is correcting an airworthiness directive (AD) that was published in the Federal Register. That AD applies to certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. As published, a paragraph reference specified in the regulatory text is incorrect. This document corrects that error. In all other respects, the original document remains the same.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-12",
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Airworthiness Directives; The Boeing Company Airplanes; Correction",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21686/airworthiness-directives-the-boeing-company-airplanes-correction"
+ },
+ "2026-21706": {
+  "abstract": "The Office of the Comptroller of the Currency (OCC) is issuing regulations implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act regarding the issuance of payment stablecoins and certain related activities by entities subject to the OCC's jurisdiction.",
+  "agencies": [
+   "Treasury Department",
+   "Comptroller of the Currency"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "comptroller-of-the-currency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-18",
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the"
+ },
+ "2026-21730": {
+  "abstract": "In response to a request from the Alliance for Automotive Innovation (Auto Innovators), NHTSA is announcing a 30-day extension of the public comment period for the Supplemental Notice of Proposed Rulemaking (SNPRM) published on September 22, 2026. The SNPRM supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device for Human Occupant Restraint (THOR) 50th percentile adult male) by requesting comment on specifying an additional spine configuration and an alternative to the face foam, and announcing the availability of additional documents. The comment period for the SNPRM was originally scheduled to end on October 22, 2026. It will now end on November 21, 2026.",
+  "agencies": [
+   "Transportation Department",
+   "National Highway Traffic Safety Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "national-highway-traffic-safety-administration"
+  ],
+  "comments_close_on": "2026-11-21",
+  "effective_on": null,
+  "published": "2026-10-23",
+  "significant": false,
+  "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
