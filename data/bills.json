@@ -59070,15 +59070,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-471": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/471?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-16",
   "latest_action": "Committee on Agriculture, Nutrition, and Forestry Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology. Hearings held. With printed Hearing: S.Hrg. 119-27.",
   "latest_action_date": "2025-03-06",
   "number": "471",
   "origin_chamber": "House",
   "title": "Fix Our Forests Act",
   "type": "HR",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-23"
  },
  "119-hr-4710": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4710?format=json",
