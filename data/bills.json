@@ -17853,15 +17853,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-1382": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1382?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-14",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 13.",
   "latest_action_date": "2025-02-26",
   "number": "1382",
   "origin_chamber": "House",
   "title": "To amend the Federal Water Pollution Control Act with respect to San Francisco Bay restoration, and for other purposes.",
   "type": "HR",
-  "update_date": "2025-06-03"
+  "update_date": "2026-10-23"
  },
  "119-hr-1383": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1383?format=json",
@@ -31537,15 +31537,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-2502": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2502?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-31",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-03-31",
   "number": "2502",
   "origin_chamber": "House",
   "title": "Law Enforcement Training for Mental Health Crisis Response Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-23"
  },
  "119-hr-2503": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2503?format=json",
