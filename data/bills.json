@@ -98516,15 +98516,15 @@
   "update_date": "2026-04-02"
  },
  "119-hr-7941": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7941?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-16",
   "latest_action": "Referred to the Subcommittee on Transportation and Maritime Security.",
   "latest_action_date": "2026-03-17",
   "number": "7941",
   "origin_chamber": "House",
   "title": "Pay TSA Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-23"
  },
  "119-hr-7942": {
   "congress": 119,
@@ -144889,7 +144889,7 @@
   "origin_chamber": "Senate",
   "title": "Promoting United States Leadership in Standards Act of 2025",
   "type": "S",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-23"
  },
  "119-s-127": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/127?format=json",
