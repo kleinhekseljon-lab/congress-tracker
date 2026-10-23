@@ -198319,15 +198319,15 @@
   "update_date": "2026-10-20"
  },
  "119-s-5684": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5684?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-10-15",
   "number": "5684",
   "origin_chamber": "Senate",
   "title": "No Cash for Incompetent and Malicious Contractors Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-23"
  },
  "119-s-5685": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5685?format=json",
