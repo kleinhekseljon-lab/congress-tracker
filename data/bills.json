@@ -76098,15 +76098,15 @@
   "update_date": "2026-01-07"
  },
  "119-hr-6104": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6104?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-18",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-11-18",
   "number": "6104",
   "origin_chamber": "House",
   "title": "Dark Web Interdiction Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-14"
+  "update_date": "2026-10-24"
  },
  "119-hr-6105": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6105?format=json",
@@ -83941,15 +83941,15 @@
   "update_date": "2026-01-09"
  },
  "119-hr-6748": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6748?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-16",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-12-16",
   "number": "6748",
   "origin_chamber": "House",
   "title": "Gang Activity Reporting Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-09"
+  "update_date": "2026-10-24"
  },
  "119-hr-6749": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6749?format=json",
