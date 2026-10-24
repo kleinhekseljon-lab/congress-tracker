@@ -16049,6 +16049,174 @@
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult"
  },
+ "2026-21764": {
+  "abstract": "By this action, the Department makes a correcting amendment to its regulations governing testimony by its current and former employees and the production of its documents in legal proceedings. The Department previously amended those regulations via final rule by removing and/or replacing language that is redundant, that references other authorities, or that provides only unnecessary elaboration. One of the amendatory instructions set forth in that rule, however, indicated that certain introductory text and a certain subparagraph were being amended when, in fact, no such amendments were made to those portions. This action merely corrects that inaccurate amendatory instruction and does not make any further changes to the regulations.",
+  "agencies": [
+   "Commerce Department"
+  ],
+  "agency_slugs": [
+   "commerce-department"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-10-26",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Streamlining the Regulations Governing Testimony by Employees and the Production of Documents in Legal Proceedings; Correction",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21764/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in"
+ },
+ "2026-21786": {
+  "abstract": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving foreign persons that are engaged in notifiable technologies; and prohibit United States persons from engaging in certain other transactions involving foreign persons that are engaged in prohibited technologies. Where consistent with Title VIII, the proposed rule incorporates certain definitions and concepts from the current regulations governing the Outbound Investment Security Program. The proposed rule also would add applicability dates to the regulations, such that those regulations would continue to apply to activities that occurred within the relevant timeframe.",
+  "agencies": [
+   "Treasury Department",
+   "Investment Security Office"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "investment-security-office"
+  ],
+  "comments_close_on": "2026-12-07",
+  "effective_on": null,
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Outbound Investment Security Program Regulations",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
+ },
+ "2026-21794": {
+  "abstract": "NHTSA is proposing to amend Federal Motor Vehicle Safety Standard (FMVSS) No. 108, \"Lamps, reflective devices, and associated equipment.\" The proposed updates to the standard are intended to remove unnecessary requirements and to provide design flexibility without impact on vehicle safety. The first two proposed changes would amend the test voltage specification for integral beam type headlamps and remove requirements that apply to vertical headlamp arrangements. Further proposed changes address vehicles equipped with Automated Driving Systems (ADS) that do not have manually operated driving controls. Those modifications would limit the application of certain requirements for manually operated turn signal, hazard warning signal, and beam switching controls to vehicles with manually operated driving controls. The changes are intended to address regulatory burdens and costs associated with equipment that does not fulfill the same purpose or provide safety benefits in an ADS-equipped vehicle without manually operated driving controls as in a vehicle with such controls. The changes would also narrow certain requirements for telltales to vehicles with manually operated driving controls and incorporate the term \"telltale\" where appropriate throughout the standard. Finally, a proposed addition to the standard would allow cyan-colored ADS marker lamps as optional motor vehicle lighting equipment in ADS-equipped vehicles.",
+  "agencies": [
+   "Transportation Department",
+   "National Highway Traffic Safety Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "national-highway-traffic-safety-administration"
+  ],
+  "comments_close_on": "2026-11-25",
+  "effective_on": null,
+  "published": "2026-10-26",
+  "significant": true,
+  "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21794/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped"
+ },
+ "2026-21805": {
+  "abstract": "NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels less than 60 feet (18.3 meters (m)) length overall (LOA) using hook-and-line or pot gear and American Fisheries Act (AFA) trawl catcher/processors in the Bering Sea and Aleutian Islands management area (BSAI). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod in the BSAI to be harvested.",
+  "agencies": [
+   "Commerce Department",
+   "National Oceanic and Atmospheric Administration"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "national-oceanic-and-atmospheric-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-10-26",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21805/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea"
+ },
+ "2026-21808": {
+  "abstract": "In this document, the Federal Communications Commission (Commission) exempts video programmers for public, educational, and governmental access (PEG) channels from the requirement to register with the Commission and to certify captioning compliance if the PEG video programmers provide video programming exclusively to PEG channels that are exempt from closed captioning requirements. Additionally, providers of PEG programming are relieved of filing obligations if the administrators of non-exempt PEG channels certify compliance for programming carried on such channels. The Commission similarly exempts providers of programming carried on nonbroadcast networks for distribution by a cable operator or other multichannel video programming distributor (MVPD) from certifying when the nonbroadcast network itself certifies that it is exempt or that all programming comprising the network's linear line-up is either exempt from or compliant with the closed captioning rules.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-25",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Closed Captioning of Video Programming",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21808/closed-captioning-of-video-programming"
+ },
+ "2026-21810": {
+  "abstract": "Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Harold Feld on behalf of Public Knowledge and others.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Petition for Reconsideration of Action in Rulemaking Proceeding",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21810/petition-for-reconsideration-of-action-in-rulemaking-proceeding"
+ },
+ "2026-21817": {
+  "abstract": "This action establishes Class E airspace at Graham Hospital Heliport, Canton, IL. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-02-18",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Establishment of Class E Airspace; Canton, IL",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il"
+ },
+ "2026-21818": {
+  "abstract": "In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": "2026-11-25",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Space Modernization for the 21st Century",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"
+ },
+ "2026-21820": {
+  "abstract": "In this document, the Commission seeks comment on measures to ensure that the Telephone Consumer Protection Act (TCPA) rules that govern robocalls continue to evolve with changes in technology and industry practices. Specifically, we seek comment on reducing the timeframe callers must honor revocation requests, requirements for two- way texting functionality, requiring a revoke all method, and the treatment of affiliates.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": "2026-11-25",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Modernizing the Ability of Consumers To Control Robocalls",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"
+ },
+ "2026-21821": {
+  "abstract": "In this document, the Federal Communications Commission (Commission) modifies rules to ensure that consumers can revoke consent for robocalls they no longer wish to receive while continuing to receive those they still want. We also modernize our rules to ensure that consumers have clear, simple, and automated ways to revoke consent while streamlining callers' ability to process revocations. Specifically, we allow callers to interpret a revocation request as applying only to the specific category of informational robocalls to which the revocation was directed, allow callers to designate an exclusive means to revoke consent, and amend the exemption from the consent requirement for financial institutions to allow them to more easily alert customers to fraudulent activity on their account. In addition, we delegate authority to the Consumer and Governmental Affairs Bureau (CGB) in consultation with the Enforcement Bureau (EB) to review our robocall rules to ensure that those rules are clear and easy to read.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-25",
+  "published": "2026-10-26",
+  "significant": false,
+  "title": "Enhancing the Ability of Consumers To Control the Robocalls",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
