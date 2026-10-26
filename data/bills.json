@@ -23342,15 +23342,15 @@
   "update_date": "2026-09-25"
  },
  "119-hr-1784": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1784?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-03",
   "number": "1784",
   "origin_chamber": "House",
   "title": "Medicare Fraud Detection and Deterrence Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-27"
+  "update_date": "2026-10-26"
  },
  "119-hr-1785": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1785?format=json",
@@ -23694,15 +23694,15 @@
   "update_date": "2026-10-14"
  },
  "119-hr-1812": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1812?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-03-03",
   "number": "1812",
   "origin_chamber": "House",
   "title": "Care Across Generations Act",
   "type": "HR",
-  "update_date": "2025-07-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-1813": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1813?format=json",
@@ -40557,15 +40557,15 @@
   "update_date": "2025-12-12"
  },
  "119-hr-3193": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3193?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-05-05",
   "number": "3193",
   "origin_chamber": "House",
   "title": "United States-Republic of Korea Digital Trade Enforcement Act",
   "type": "HR",
-  "update_date": "2025-06-12"
+  "update_date": "2026-10-26"
  },
  "119-hr-3194": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3194?format=json",
@@ -192269,15 +192269,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-5188": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5188?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-30",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-16",
   "number": "5188",
   "origin_chamber": "Senate",
   "title": "Muhammad Ali American Boxing Revival Act of 2026",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-26"
  },
  "119-s-5189": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5189?format=json",
