@@ -14102,15 +14102,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10843": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10843?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-10-19",
   "number": "10843",
   "origin_chamber": "House",
   "title": "VACRA",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hr-10844": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10844?format=json",
@@ -14201,15 +14201,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10851": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10851?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-10-19",
   "number": "10851",
   "origin_chamber": "House",
   "title": "Socket Full of Sunshine Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hr-10852": {
   "congress": 119,
@@ -14234,15 +14234,15 @@
   "update_date": "2026-10-21"
  },
  "119-hr-10854": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10854?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-10-19",
   "number": "10854",
   "origin_chamber": "House",
   "title": "Public Safety Power Shutoff Data Transparency Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-10855": {
   "congress": 119,
@@ -64669,15 +64669,15 @@
   "update_date": "2026-10-10"
  },
  "119-hr-5169": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5169?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-08",
   "latest_action": "Placed on the Union Calendar, Calendar No. 383.",
   "latest_action_date": "2026-01-14",
   "number": "5169",
   "origin_chamber": "House",
   "title": "Retire through Ownership Act",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-10-26"
  },
  "119-hr-517": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/517?format=json",
@@ -72347,15 +72347,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-5798": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5798?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-21",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-10-21",
   "number": "5798",
   "origin_chamber": "House",
   "title": "HOME Reform Act of 2025",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-10-26"
  },
  "119-hr-5799": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5799?format=json",
@@ -82676,15 +82676,15 @@
   "update_date": "2026-02-26"
  },
  "119-hr-6644": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6644?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Became Public Law No: 119-101.",
   "latest_action_date": "2026-07-11",
   "number": "6644",
   "origin_chamber": "House",
   "title": "21st Century ROAD to Housing Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-6645": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6645?format=json",
@@ -131384,15 +131384,15 @@
   "update_date": "2026-10-20"
  },
  "119-hres-1633": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1633?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-10-19",
   "number": "1633",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of October 19 through October 23, 2026, as \"Careers in Energy Week\".",
   "type": "HRES",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hres-1634": {
   "congress": 119,
@@ -139535,15 +139535,15 @@
   "update_date": "2025-12-09"
  },
  "119-hres-826": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/826?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-21",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-10-21",
   "number": "826",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of October 20 to October 24, 2025, as \"Careers in Energy Week\".",
   "type": "HRES",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-26"
  },
  "119-hres-827": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/827?format=json",
@@ -158587,15 +158587,15 @@
   "update_date": "2026-02-11"
  },
  "119-s-2403": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2403?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Became Public Law No: 119-124.",
   "latest_action_date": "2026-10-15",
   "number": "2403",
   "origin_chamber": "Senate",
   "title": "Retire through Ownership Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-s-2404": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2404?format=json",
@@ -163735,15 +163735,15 @@
   "update_date": "2025-11-18"
  },
  "119-s-283": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/283?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Became Public Law No: 119-123.",
   "latest_action_date": "2026-10-15",
   "number": "283",
   "origin_chamber": "Senate",
   "title": "Illegal Red Snapper and Tuna Enforcement Act",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-26"
  },
  "119-s-2830": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2830?format=json",
@@ -172040,15 +172040,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3517": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3517?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-17",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-12-17",
   "number": "3517",
   "origin_chamber": "Senate",
   "title": "VACRA",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-26"
  },
  "119-s-3518": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3518?format=json",
