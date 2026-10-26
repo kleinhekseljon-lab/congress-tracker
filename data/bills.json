@@ -12991,15 +12991,15 @@
   "update_date": "2026-10-15"
  },
  "119-hr-10751": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10751?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-06",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-06",
   "number": "10751",
   "origin_chamber": "House",
   "title": "Tribal Oral Health Sovereignty Act",
   "type": "HR",
-  "update_date": "2026-10-10"
+  "update_date": "2026-10-26"
  },
  "119-hr-10752": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10752?format=json",
@@ -13244,15 +13244,15 @@
   "update_date": "2026-10-21"
  },
  "119-hr-10772": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10772?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2026-10-09",
   "number": "10772",
   "origin_chamber": "House",
   "title": "Frontline Innovation Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-hr-10773": {
   "congress": 119,
@@ -13497,15 +13497,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10793": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10793?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2026-10-09",
   "number": "10793",
   "origin_chamber": "House",
   "title": "To modify the authority of Department of Defense for installation support services and intergovernmental support agreements, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-hr-10794": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10794?format=json",
@@ -13530,15 +13530,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10796": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10796?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-13",
   "latest_action": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-13",
   "number": "10796",
   "origin_chamber": "House",
   "title": "United States-Israel Defense Technology Cooperation Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-26"
  },
  "119-hr-10797": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10797?format=json",
@@ -13750,15 +13750,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-10813": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10813?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-15",
   "number": "10813",
   "origin_chamber": "House",
   "title": "Historic Preservation and Land Conservation Certainty Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-26"
  },
  "119-hr-10814": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10814?format=json",
@@ -13915,15 +13915,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-10827": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10827?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-15",
   "number": "10827",
   "origin_chamber": "House",
   "title": "Protection of Syrian Religious and Ethnic Minorities Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hr-10828": {
   "congress": 119,
@@ -14014,26 +14014,26 @@
   "update_date": "2026-10-26"
  },
  "119-hr-10836": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10836?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2026-10-15",
   "number": "10836",
   "origin_chamber": "House",
   "title": "To amend the Uniform Code of Military Justice to prohibit the live broadcast of military executions, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10837": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10837?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-10-15",
   "number": "10837",
   "origin_chamber": "House",
   "title": "No Corrupt Lobbyists in Government Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10838": {
   "congress": 119,
@@ -14047,15 +14047,15 @@
   "update_date": "2026-10-26"
  },
  "119-hr-10839": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10839?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-10-15",
   "number": "10839",
   "origin_chamber": "House",
   "title": "Heat Island Reduction Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-1084": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1084?format=json",
@@ -14088,7 +14088,7 @@
   "origin_chamber": "House",
   "title": "Securing Elections From AI Deception Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-10842": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10842?format=json",
@@ -14124,15 +14124,15 @@
   "update_date": "2026-10-21"
  },
  "119-hr-10845": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10845?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-19",
   "number": "10845",
   "origin_chamber": "House",
   "title": "Port Staffing Reporting Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-10846": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10846?format=json",
@@ -14146,15 +14146,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10847": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10847?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2026-10-19",
   "number": "10847",
   "origin_chamber": "House",
   "title": "Military Justice Leadership and Independence Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hr-10848": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10848?format=json",
@@ -116314,15 +116314,15 @@
   "update_date": "2026-08-21"
  },
  "119-hr-9398": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9398?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-23",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-06-23",
   "number": "9398",
   "origin_chamber": "House",
   "title": "Historic Preservation and Land Conservation Certainty Act",
   "type": "HR",
-  "update_date": "2026-07-13"
+  "update_date": "2026-10-26"
  },
  "119-hr-9399": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9399?format=json",
@@ -131329,15 +131329,15 @@
   "update_date": "2026-10-23"
  },
  "119-hres-1629": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1629?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-10-19",
   "number": "1629",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the third Wednesday of October, as \"Support Your Local Chamber of Commerce Day\".",
   "type": "HRES",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hres-163": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/163?format=json",
@@ -197153,15 +197153,15 @@
   "update_date": "2026-10-19"
  },
  "119-s-5589": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5589?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-29",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-29",
   "number": "5589",
   "origin_chamber": "Senate",
   "title": "No United States Aid for Terrorism Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-26"
  },
  "119-s-559": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/559?format=json",
@@ -197175,15 +197175,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-5590": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5590?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-29",
   "latest_action": "Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-09-29",
   "number": "5590",
   "origin_chamber": "Senate",
   "title": "Electric Grid Supply Chain Security Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-s-5591": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5591?format=json",
@@ -198352,15 +198352,15 @@
   "update_date": "2026-10-20"
  },
  "119-s-5687": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5687?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-10-15",
   "number": "5687",
   "origin_chamber": "Senate",
   "title": "Presidential Pardon Integrity Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-s-5688": {
   "congress": 119,

@@ -16177,8 +16177,8 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2026-12-28",
-  "effective_on": "2026-11-25",
+  "comments_close_on": "2026-11-25",
+  "effective_on": null,
   "published": "2026-10-26",
   "significant": false,
   "title": "Space Modernization for the 21st Century",
@@ -16193,8 +16193,8 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2026-12-28",
-  "effective_on": "2026-11-25",
+  "comments_close_on": "2026-11-25",
+  "effective_on": null,
   "published": "2026-10-26",
   "significant": false,
   "title": "Modernizing the Ability of Consumers To Control Robocalls",
