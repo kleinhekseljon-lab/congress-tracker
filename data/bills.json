@@ -14000,7 +14000,7 @@
   "origin_chamber": "House",
   "title": "Gas Money Saved Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-10835": {
   "congress": 119,
@@ -33066,15 +33066,15 @@
   "update_date": "2026-02-04"
  },
  "119-hr-258": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/258?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-01-09",
   "number": "258",
   "origin_chamber": "House",
   "title": "To cancel certain proposed changes to loan level price adjustments by the Federal National Mortgage Association and credit fees charged by the Federal Home Loan Mortgage Corporation.",
   "type": "HR",
-  "update_date": "2025-02-28"
+  "update_date": "2026-10-26"
  },
  "119-hr-2580": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2580?format=json",
@@ -104379,15 +104379,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-8420": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8420?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-21",
   "latest_action": "Referred to the House Committee on Veterans' Affairs.",
   "latest_action_date": "2026-04-21",
   "number": "8420",
   "origin_chamber": "House",
   "title": "Veterans Legal Support Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-8421": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8421?format=json",
@@ -188870,15 +188870,15 @@
   "update_date": "2026-07-14"
  },
  "119-s-4908": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4908?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-06-24",
   "number": "4908",
   "origin_chamber": "Senate",
   "title": "Gas Money Saved Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-26"
  },
  "119-s-4909": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4909?format=json",
