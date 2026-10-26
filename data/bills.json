@@ -13263,7 +13263,7 @@
   "origin_chamber": "House",
   "title": "RELA Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-10774": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10774?format=json",
@@ -13310,15 +13310,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-10778": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10778?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-09",
   "number": "10778",
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish a credit to incentivize the use of certain low-emission anesthetic gases by health care facilities, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-hr-10779": {
   "congress": 119,
@@ -13607,15 +13607,15 @@
   "update_date": "2026-10-16"
  },
  "119-hr-10801": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10801?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-13",
   "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-13",
   "number": "10801",
   "origin_chamber": "House",
   "title": "School Freedom Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-26"
  },
  "119-hr-10802": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10802?format=json",
@@ -13684,15 +13684,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10808": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10808?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-13",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-13",
   "number": "10808",
   "origin_chamber": "House",
   "title": "STORK Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-hr-10809": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10809?format=json",
@@ -13772,15 +13772,15 @@
   "update_date": "2026-10-16"
  },
  "119-hr-10815": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10815?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-15",
   "number": "10815",
   "origin_chamber": "House",
   "title": "Bright Beginnings Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-26"
  },
  "119-hr-10816": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10816?format=json",
@@ -13805,15 +13805,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10818": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10818?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-15",
   "number": "10818",
   "origin_chamber": "House",
   "title": "Fire Service Workforce Stability Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-26"
  },
  "119-hr-10819": {
   "congress": 119,
@@ -13945,7 +13945,7 @@
   "origin_chamber": "House",
   "title": "One Front Door for Elder Fraud Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-10830": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10830?format=json",
@@ -13970,15 +13970,15 @@
   "update_date": "2026-10-26"
  },
  "119-hr-10832": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10832?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-15",
   "number": "10832",
   "origin_chamber": "House",
   "title": "IRAN Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10833": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10833?format=json",
@@ -14069,15 +14069,15 @@
   "update_date": "2026-06-11"
  },
  "119-hr-10840": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10840?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Veterans' Affairs.",
   "latest_action_date": "2026-10-19",
   "number": "10840",
   "origin_chamber": "House",
   "title": "To direct the Comptroller General of the United States to complete a study and report on retention practices with respect to non-clinical personnel at health care facilities of the Department of Veterans Affairs.",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-10841": {
   "congress": 119,
@@ -14168,15 +14168,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10849": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10849?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2026-10-19",
   "number": "10849",
   "origin_chamber": "House",
   "title": "Small Business and Defense Industrial Base Support Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-1085": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1085?format=json",
@@ -14220,18 +14220,18 @@
   "origin_chamber": "House",
   "title": "Mass Timber Growth and Innovation Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-10853": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10853?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-10-19",
   "number": "10853",
   "origin_chamber": "House",
   "title": "Yemen TPS Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-10854": {
   "congress": 119,
@@ -87309,13 +87309,13 @@
  "119-hr-7022": {
   "congress": 119,
   "introduced_date": "2026-01-12",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-136.",
   "latest_action_date": "2026-10-22",
   "number": "7022",
   "origin_chamber": "House",
   "title": "Mystic Alerts Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-7023": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7023?format=json",
@@ -109021,15 +109021,15 @@
   "update_date": "2026-09-04"
  },
  "119-hr-8800": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8800?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-13",
   "latest_action": "Received in the Senate.",
   "latest_action_date": "2026-09-14",
   "number": "8800",
   "origin_chamber": "House",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-hr-8801": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8801?format=json",
@@ -117812,13 +117812,13 @@
  "119-hr-952": {
   "congress": 119,
   "introduced_date": "2025-02-04",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-135.",
   "latest_action_date": "2026-10-22",
   "number": "952",
   "origin_chamber": "House",
   "title": "Reversionary Interest Conveyance Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-26"
  },
  "119-hr-9520": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9520?format=json",
@@ -196460,15 +196460,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-5531": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5531?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-09-24",
   "number": "5531",
   "origin_chamber": "Senate",
   "title": "IRL Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-26"
  },
  "119-s-5532": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5532?format=json",
@@ -198297,15 +198297,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5682": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5682?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-10-15",
   "number": "5682",
   "origin_chamber": "Senate",
   "title": "Foreign Government-Owned Media FARA Registration Act",
   "type": "S",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-26"
  },
  "119-s-5683": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5683?format=json",
@@ -198374,15 +198374,15 @@
   "update_date": "2026-10-26"
  },
  "119-s-5689": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5689?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-10-15",
   "number": "5689",
   "origin_chamber": "Senate",
   "title": "RECLAIM Act",
   "type": "S",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-26"
  },
  "119-s-569": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/569?format=json",
