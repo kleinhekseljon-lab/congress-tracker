@@ -13959,15 +13959,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-10831": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10831?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-10-15",
   "number": "10831",
   "origin_chamber": "House",
   "title": "Acquired Lands Revenue Modernization Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10832": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10832?format=json",
@@ -14003,15 +14003,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-10835": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10835?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-10-15",
   "number": "10835",
   "origin_chamber": "House",
   "title": "Advanced Manufacturing Jobs in America Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10836": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10836?format=json",
@@ -14036,15 +14036,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-10838": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10838?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-10-15",
   "number": "10838",
   "origin_chamber": "House",
   "title": "Honesty in Government Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-10839": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10839?format=json",
@@ -27940,15 +27940,15 @@
   "update_date": "2026-08-10"
  },
  "119-hr-216": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/216?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-07",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-01-07",
   "number": "216",
   "origin_chamber": "House",
   "title": "SEC Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-15"
+  "update_date": "2026-10-26"
  },
  "119-hr-2160": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2160?format=json",
@@ -28182,15 +28182,15 @@
   "update_date": "2025-05-15"
  },
  "119-hr-218": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/218?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-07",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-07",
   "number": "218",
   "origin_chamber": "House",
   "title": "State Immigration Enforcement Act",
   "type": "HR",
-  "update_date": "2025-11-21"
+  "update_date": "2026-10-26"
  },
  "119-hr-2180": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2180?format=json",
@@ -31482,15 +31482,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-245": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/245?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-01-09",
   "number": "245",
   "origin_chamber": "House",
   "title": "Grant Integrity and Border Security Act",
   "type": "HR",
-  "update_date": "2025-11-01"
+  "update_date": "2026-10-26"
  },
  "119-hr-2450": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2450?format=json",
@@ -54659,15 +54659,15 @@
   "update_date": "2025-07-29"
  },
  "119-hr-4348": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4348?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-10",
   "latest_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.",
   "latest_action_date": "2026-07-21",
   "number": "4348",
   "origin_chamber": "House",
   "title": "To reauthorize the Kay Hagan Tick Act, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-26"
  },
  "119-hr-4349": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4349?format=json",
@@ -156541,15 +156541,15 @@
   "update_date": "2026-09-19"
  },
  "119-s-2233": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2233?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-09",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-09",
   "number": "2233",
   "origin_chamber": "Senate",
   "title": "U.S.A. Beef Act",
   "type": "S",
-  "update_date": "2026-02-04"
+  "update_date": "2026-10-26"
  },
  "119-s-2234": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2234?format=json",
@@ -157267,15 +157267,15 @@
   "update_date": "2026-04-23"
  },
  "119-s-2294": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2294?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-15",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S4370-4371)",
   "latest_action_date": "2025-07-15",
   "number": "2294",
   "origin_chamber": "Senate",
   "title": "Kay Hagan Tick Reauthorization Act",
   "type": "S",
-  "update_date": "2025-09-08"
+  "update_date": "2026-10-26"
  },
  "119-s-2295": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2295?format=json",
@@ -158510,15 +158510,15 @@
   "update_date": "2026-07-14"
  },
  "119-s-2398": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2398?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Became Public Law No: 119-118.",
   "latest_action_date": "2026-09-30",
   "number": "2398",
   "origin_chamber": "Senate",
   "title": "Kay Hagan Tick Reauthorization Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-26"
  },
  "119-s-2399": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2399?format=json",
@@ -198363,15 +198363,15 @@
   "update_date": "2026-10-20"
  },
  "119-s-5688": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5688?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-10-15",
   "number": "5688",
   "origin_chamber": "Senate",
   "title": "Acquired Lands Revenue Modernization Act",
   "type": "S",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-26"
  },
  "119-s-5689": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5689?format=json",
