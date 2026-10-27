@@ -13233,15 +13233,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-10771": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10771?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the House Committee on Transportation and Infrastructure.",
   "latest_action_date": "2026-10-09",
   "number": "10771",
   "origin_chamber": "House",
   "title": "Emergency Preparedness in Higher Education Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-27"
  },
  "119-hr-10772": {
   "congress": 119,
@@ -14190,15 +14190,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-10850": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10850?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-19",
   "number": "10850",
   "origin_chamber": "House",
   "title": "SCREENS Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-27"
  },
  "119-hr-10851": {
   "congress": 119,
@@ -196471,15 +196471,15 @@
   "update_date": "2025-07-07"
  },
  "119-s-5520": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5520?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-24",
   "number": "5520",
   "origin_chamber": "Senate",
   "title": "SCREENS Act",
   "type": "S",
-  "update_date": "2026-10-09"
+  "update_date": "2026-10-27"
  },
  "119-s-5521": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5521?format=json",
