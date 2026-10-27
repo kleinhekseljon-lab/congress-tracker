@@ -30833,15 +30833,15 @@
   "update_date": "2026-01-14"
  },
  "119-hr-2388": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2388?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Became Public Law No: 119-128.",
   "latest_action_date": "2026-10-20",
   "number": "2388",
   "origin_chamber": "House",
   "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-27"
  },
  "119-hr-2389": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2389?format=json",
@@ -147983,15 +147983,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1513": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1513?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-29",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.",
   "latest_action_date": "2026-09-14",
   "number": "1513",
   "origin_chamber": "Senate",
   "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-27"
  },
  "119-s-1514": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1514?format=json",
