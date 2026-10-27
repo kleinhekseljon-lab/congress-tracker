@@ -14823,9 +14823,9 @@
   "latest_action_date": "2026-10-22",
   "number": "10901",
   "origin_chamber": "House",
-  "title": "To require the Secretary of Housing and Urban Development to establish a formula grant program to provide grants to States to be used to streamline assistance offered by such States to builders of affordable housing, and for other purposes.",
+  "title": "Streamlining Affordable Housing Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hr-10902": {
   "congress": 119,
@@ -195503,15 +195503,15 @@
   "update_date": "2026-10-13"
  },
  "119-s-5441": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5441?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-17",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 670.",
   "latest_action_date": "2026-09-17",
   "number": "5441",
   "origin_chamber": "Senate",
   "title": "TAS Act",
   "type": "S",
-  "update_date": "2026-10-10"
+  "update_date": "2026-10-27"
  },
  "119-s-5442": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5442?format=json",
