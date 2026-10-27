@@ -63778,15 +63778,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-5096": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5096?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-02",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-02",
   "number": "5096",
   "origin_chamber": "House",
   "title": "Disability and Age in Jury Service Nondiscrimination Act",
   "type": "HR",
-  "update_date": "2026-02-11"
+  "update_date": "2026-10-27"
  },
  "119-hr-5097": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5097?format=json",
