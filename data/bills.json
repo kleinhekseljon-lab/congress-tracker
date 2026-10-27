@@ -27357,15 +27357,15 @@
   "update_date": "2025-04-04"
  },
  "119-hr-2102": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2102?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
   "latest_action_date": "2025-04-04",
   "number": "2102",
   "origin_chamber": "House",
   "title": "Major Richard Star Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-27"
  },
  "119-hr-2103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2103?format=json",
@@ -44616,15 +44616,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-3516": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3516?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-20",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2025-05-20",
   "number": "3516",
   "origin_chamber": "House",
   "title": "Opportunities for Fairness in Farming Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-10"
+  "update_date": "2026-10-27"
  },
  "119-hr-3517": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3517?format=json",
@@ -76780,15 +76780,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-6152": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6152?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Ordered to be Reported by the Yeas and Nays: 37 - 0.",
   "latest_action_date": "2026-09-16",
   "number": "6152",
   "origin_chamber": "House",
   "title": "Foreign Robocall Elimination Act",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-27"
  },
  "119-hr-6153": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6153?format=json",
