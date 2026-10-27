@@ -14363,7 +14363,7 @@
   "origin_chamber": "House",
   "title": "San Carlos Irrigation Project Divestiture Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hr-10865": {
   "congress": 119,
@@ -56837,15 +56837,15 @@
   "update_date": "2026-07-01"
  },
  "119-hr-4517": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4517?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-17",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-07-17",
   "number": "4517",
   "origin_chamber": "House",
   "title": "Jordan McNair Student Athlete Heat Fatality Prevention Act",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-27"
  },
  "119-hr-4518": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4518?format=json",
@@ -158356,15 +158356,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2373": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2373?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-22",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-07-22",
   "number": "2373",
   "origin_chamber": "Senate",
   "title": "Jordan McNair Student Athlete Heat Fatality Prevention Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-27"
  },
  "119-s-2374": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2374?format=json",
