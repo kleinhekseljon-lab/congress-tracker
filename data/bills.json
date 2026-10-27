@@ -2101,15 +2101,15 @@
   "update_date": "2026-09-19"
  },
  "119-hjres-16": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/16?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-09",
   "number": "16",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.",
   "type": "HJRES",
-  "update_date": "2025-02-03"
+  "update_date": "2026-10-27"
  },
  "119-hjres-160": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/160?format=json",
