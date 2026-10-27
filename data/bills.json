@@ -638,15 +638,15 @@
   "update_date": "2026-07-13"
  },
  "119-hconres-4": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/4?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-01-28",
   "number": "4",
   "origin_chamber": "House",
   "title": "Expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.",
   "type": "HCONRES",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-27"
  },
  "119-hconres-40": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/40?format=json",
@@ -14418,7 +14418,7 @@
   "origin_chamber": "House",
   "title": "Protect Clean Water Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hr-1087": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1087?format=json",
@@ -14462,7 +14462,7 @@
   "origin_chamber": "House",
   "title": "Combatting Auto Robbery at the Source Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hr-10873": {
   "congress": 119,
@@ -14473,7 +14473,7 @@
   "origin_chamber": "House",
   "title": "AI Cyber Defense Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hr-10874": {
   "congress": 119,
@@ -14539,7 +14539,7 @@
   "origin_chamber": "House",
   "title": "Workers\u2019 Right to Compete Act",
   "type": "HR",
-  "update_date": "2026-10-24"
+  "update_date": "2026-10-27"
  },
  "119-hr-1088": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1088?format=json",
@@ -77451,15 +77451,15 @@
   "update_date": "2025-12-06"
  },
  "119-hr-6207": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6207?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-20",
   "latest_action": "Ordered to be Reported by the Yeas and Nays: 39 - 0.",
   "latest_action_date": "2026-09-16",
   "number": "6207",
   "origin_chamber": "House",
   "title": "Chip EQUIP Act",
   "type": "HR",
-  "update_date": "2026-09-24"
+  "update_date": "2026-10-27"
  },
  "119-hr-6208": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6208?format=json",
@@ -143671,15 +143671,15 @@
   "update_date": "2026-04-16"
  },
  "119-s-1157": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1157?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-06-09",
   "number": "1157",
   "origin_chamber": "Senate",
   "title": "Women and Lung Cancer Research and Preventive Services Act of 2025",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-27"
  },
  "119-s-1158": {
   "congress": 119,
@@ -149017,15 +149017,15 @@
   "update_date": "2026-05-12"
  },
  "119-s-1599": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1599?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-05-05",
   "number": "1599",
   "origin_chamber": "Senate",
   "title": "Midwives for MOMS Act of 2025",
   "type": "S",
-  "update_date": "2026-05-19"
+  "update_date": "2026-10-27"
  },
  "119-s-160": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/160?format=json",
