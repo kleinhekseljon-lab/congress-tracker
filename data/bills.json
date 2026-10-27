@@ -847,26 +847,26 @@
   "update_date": "2026-10-14"
  },
  "119-hconres-57": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/57?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-14",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-10-14",
   "number": "57",
   "origin_chamber": "House",
   "title": "Honoring Wadee Alfayoumi, a 6-year-old Palestinian-American boy, murdered as a victim of a hate crime for his Palestinian-Muslim identity, in the State of Illinois.",
   "type": "HCONRES",
-  "update_date": "2026-08-28"
+  "update_date": "2026-10-27"
  },
  "119-hconres-58": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/58?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-24",
   "latest_action": "Received in the Senate.",
   "latest_action_date": "2025-12-01",
   "number": "58",
   "origin_chamber": "House",
   "title": "Denouncing the horrors of socialism.",
   "type": "HCONRES",
-  "update_date": "2026-07-13"
+  "update_date": "2026-10-27"
  },
  "119-hconres-59": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/59?format=json",
@@ -1463,15 +1463,15 @@
   "update_date": "2026-07-13"
  },
  "119-hjres-107": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/107?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-16",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-07-16",
   "number": "107",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States to prohibit voting in Federal, State, or local elections by individuals who are not citizens of the United States.",
   "type": "HJRES",
-  "update_date": "2026-03-31"
+  "update_date": "2026-10-27"
  },
  "119-hjres-108": {
   "congress": 119,
@@ -1639,26 +1639,26 @@
   "update_date": "2026-06-05"
  },
  "119-hjres-121": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/121?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-11",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-11",
   "number": "121",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States relating to contributions and expenditures intended to affect elections.",
   "type": "HJRES",
-  "update_date": "2026-07-30"
+  "update_date": "2026-10-27"
  },
  "119-hjres-122": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/122?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-17",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-17",
   "number": "122",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States relating to the authority of Congress and the States to regulate contributions and expenditures intended to affect elections and to enact public financing systems for political campaigns.",
   "type": "HJRES",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-27"
  },
  "119-hjres-123": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/123?format=json",
@@ -76216,7 +76216,7 @@
   "origin_chamber": "House",
   "title": "Dark Web Interdiction Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-24"
+  "update_date": "2026-10-27"
  },
  "119-hr-6105": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6105?format=json",
@@ -84059,7 +84059,7 @@
   "origin_chamber": "House",
   "title": "Gang Activity Reporting Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-24"
+  "update_date": "2026-10-27"
  },
  "119-hr-6749": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6749?format=json",
@@ -118943,15 +118943,15 @@
   "update_date": "2026-09-30"
  },
  "119-hr-9604": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9604?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 15.",
   "latest_action_date": "2026-07-15",
   "number": "9604",
   "origin_chamber": "House",
   "title": "Less Bureaucracy, Better Tribal Education Act",
   "type": "HR",
-  "update_date": "2026-08-14"
+  "update_date": "2026-10-27"
  },
  "119-hr-9605": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9605?format=json",
@@ -122980,15 +122980,15 @@
   "update_date": "2026-10-07"
  },
  "119-hr-9937": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9937?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-23",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-07-23",
   "number": "9937",
   "origin_chamber": "House",
   "title": "No Leniency for Fentanyl Dealers Act",
   "type": "HR",
-  "update_date": "2026-09-02"
+  "update_date": "2026-10-27"
  },
  "119-hr-9938": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9938?format=json",
@@ -131546,7 +131546,7 @@
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the pay disparity between disabled women and nondisabled men.",
   "type": "HRES",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-27"
  },
  "119-hres-1638": {
   "congress": 119,
@@ -139711,15 +139711,15 @@
   "update_date": "2025-11-19"
  },
  "119-hres-829": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/829?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-24",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-10-24",
   "number": "829",
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the pay disparity between disabled women and both disabled and nondisabled men.",
   "type": "HRES",
-  "update_date": "2025-12-06"
+  "update_date": "2026-10-27"
  },
  "119-hres-83": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/83?format=json",
@@ -142384,15 +142384,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1049": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1049?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-17",
   "number": "1049",
   "origin_chamber": "Senate",
   "title": "Preventing Child Trafficking Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-27"
  },
  "119-s-105": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/105?format=json",
@@ -142549,15 +142549,15 @@
   "update_date": "2026-04-15"
  },
  "119-s-1062": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1062?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1747)",
   "latest_action_date": "2025-03-13",
   "number": "1062",
   "origin_chamber": "Senate",
   "title": "Suicide Prevention Act",
   "type": "S",
-  "update_date": "2025-04-21"
+  "update_date": "2026-10-27"
  },
  "119-s-1063": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1063?format=json",
@@ -152372,15 +152372,15 @@
   "update_date": "2026-02-04"
  },
  "119-s-1878": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1878?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-22",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-05-22",
   "number": "1878",
   "origin_chamber": "Senate",
   "title": "ATTAIN Mental Health Act",
   "type": "S",
-  "update_date": "2026-04-14"
+  "update_date": "2026-10-27"
  },
  "119-s-1879": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1879?format=json",
