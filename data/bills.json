@@ -13563,15 +13563,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-10799": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10799?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-13",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-10-13",
   "number": "10799",
   "origin_chamber": "House",
   "title": "Protecting American Workers Through H\u20131B Modernization Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-28"
  },
  "119-hr-108": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/108?format=json",
@@ -30841,7 +30841,7 @@
   "origin_chamber": "House",
   "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-10-28"
  },
  "119-hr-2389": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2389?format=json",
@@ -45881,15 +45881,15 @@
   "update_date": "2025-03-17"
  },
  "119-hr-3620": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3620?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-29",
   "latest_action": "Became Public Law No: 119-130.",
   "latest_action_date": "2026-10-20",
   "number": "3620",
   "origin_chamber": "House",
   "title": "Southcentral Foundation Land Transfer Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-28"
  },
  "119-hr-3621": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3621?format=json",
@@ -67584,15 +67584,15 @@
   "update_date": "2025-10-25"
  },
  "119-hr-5399": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5399?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-09-16",
   "number": "5399",
   "origin_chamber": "House",
   "title": "Equitable Arts Education Enhancement Act",
   "type": "HR",
-  "update_date": "2026-07-14"
+  "update_date": "2026-10-28"
  },
  "119-hr-54": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/54?format=json",
@@ -79563,15 +79563,15 @@
   "update_date": "2026-09-25"
  },
  "119-hr-6380": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6380?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-03",
   "latest_action": "Became Public Law No: 119-133.",
   "latest_action_date": "2026-10-20",
   "number": "6380",
   "origin_chamber": "House",
   "title": "Chiricahua National Park Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-28"
  },
  "119-hr-6381": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6381?format=json",
@@ -197912,15 +197912,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5638": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5638?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-09-30",
   "number": "5638",
   "origin_chamber": "Senate",
   "title": "Protecting American Workers Through H\u20131B Modernization Act.",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-10-28"
  },
  "119-s-5639": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5639?format=json",
