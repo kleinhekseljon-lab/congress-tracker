@@ -44624,7 +44624,7 @@
   "origin_chamber": "House",
   "title": "Opportunities for Fairness in Farming Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-10-28"
  },
  "119-hr-3517": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3517?format=json",
@@ -152009,15 +152009,15 @@
   "update_date": "2026-10-02"
  },
  "119-s-1848": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1848?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-21",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-21",
   "number": "1848",
   "origin_chamber": "Senate",
   "title": "Opportunities for Fairness in Farming Act of 2025",
   "type": "S",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-28"
  },
  "119-s-1849": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1849?format=json",
