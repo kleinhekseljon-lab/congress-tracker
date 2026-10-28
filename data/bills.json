@@ -106040,15 +106040,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8548": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8548?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-04-28",
   "number": "8548",
   "origin_chamber": "House",
   "title": "One Stop Shop Community Reentry Program Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-28"
  },
  "119-hr-8549": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8549?format=json",
