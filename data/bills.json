@@ -57673,15 +57673,15 @@
   "update_date": "2026-07-17"
  },
  "119-hr-4586": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4586?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-22",
   "latest_action": "ASSUMING FIRST SPONSORSHIP - Mr. Jackson (IL) asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 4586, a bill originally introduced by Representative Cherfilus-McCormick for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
   "latest_action_date": "2026-09-02",
   "number": "4586",
   "origin_chamber": "House",
   "title": "AIDA",
   "type": "HR",
-  "update_date": "2026-09-03"
+  "update_date": "2026-10-28"
  },
  "119-hr-4587": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4587?format=json",
@@ -177485,15 +177485,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3958": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3958?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-02",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-02",
   "number": "3958",
   "origin_chamber": "Senate",
   "title": "Puerto Rico Nutrition Assistance Fairness Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-10-28"
  },
  "119-s-3959": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3959?format=json",
