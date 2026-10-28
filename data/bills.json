@@ -13846,7 +13846,7 @@
   "origin_chamber": "House",
   "title": "Epstein Wall Street Records Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-28"
  },
  "119-hr-10821": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10821?format=json",
@@ -56936,15 +56936,15 @@
   "update_date": "2025-11-01"
  },
  "119-hr-4525": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4525?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-17",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-07-17",
   "number": "4525",
   "origin_chamber": "House",
   "title": "Right to FDA-Approved Medicines Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-28"
  },
  "119-hr-4526": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4526?format=json",
@@ -82533,15 +82533,15 @@
   "update_date": "2026-07-14"
  },
  "119-hr-6623": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6623?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-12-11",
   "number": "6623",
   "origin_chamber": "House",
   "title": "Community Development Block Grant Equity Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-08"
+  "update_date": "2026-10-28"
  },
  "119-hr-6624": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6624?format=json",
@@ -109208,15 +109208,15 @@
   "update_date": "2026-09-25"
  },
  "119-hr-8807": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8807?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-05-14",
   "number": "8807",
   "origin_chamber": "House",
   "title": "Maternal Health Pandemic Response Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-28"
  },
  "119-hr-8808": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8808?format=json",
@@ -109263,15 +109263,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8811": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8811?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-05-14",
   "number": "8811",
   "origin_chamber": "House",
   "title": "Moms Matter Act",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-28"
  },
  "119-hr-8812": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8812?format=json",
@@ -196196,15 +196196,15 @@
   "update_date": "2026-10-05"
  },
  "119-s-5498": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5498?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-24",
   "number": "5498",
   "origin_chamber": "Senate",
   "title": "Alpha-gal Allergen Inclusion Act",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-28"
  },
  "119-s-5499": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5499?format=json",
@@ -198484,15 +198484,15 @@
   "update_date": "2026-10-23"
  },
  "119-s-5685": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5685?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2026-10-15",
   "number": "5685",
   "origin_chamber": "Senate",
   "title": "Epstein Wall Street Records Act of 2026",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-28"
  },
  "119-s-5686": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5686?format=json",
@@ -202840,15 +202840,15 @@
   "update_date": "2025-12-06"
  },
  "119-s-923": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/923?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-03-10",
   "number": "923",
   "origin_chamber": "Senate",
   "title": "Harriet Tubman Tribute Act of 2025",
   "type": "S",
-  "update_date": "2025-03-28"
+  "update_date": "2026-10-28"
  },
  "119-s-924": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/924?format=json",
@@ -203049,15 +203049,15 @@
   "update_date": "2026-06-09"
  },
  "119-s-940": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/940?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-03-11",
   "number": "940",
   "origin_chamber": "Senate",
   "title": "Transparency in Banking Act",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-28"
  },
  "119-s-941": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/941?format=json",
@@ -203368,15 +203368,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-967": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/967?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-03-11",
   "number": "967",
   "origin_chamber": "Senate",
   "title": "Downpayment Toward Equity Act of 2025",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-28"
  },
  "119-s-968": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/968?format=json",
