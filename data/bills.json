@@ -7535,15 +7535,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-10304": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10304?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-08",
   "latest_action": "Ordered to be Reported (Amended) by Voice Vote.",
   "latest_action_date": "2026-09-15",
   "number": "10304",
   "origin_chamber": "House",
   "title": "Drone Safety Statement Modernization Act",
   "type": "HR",
-  "update_date": "2026-09-16"
+  "update_date": "2026-10-28"
  },
  "119-hr-10305": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10305?format=json",
@@ -7898,15 +7898,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-10334": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10334?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-10",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0.",
   "latest_action_date": "2026-09-16",
   "number": "10334",
   "origin_chamber": "House",
   "title": "EFIN Verification Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-29"
+  "update_date": "2026-10-28"
  },
  "119-hr-10335": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10335?format=json",
@@ -8173,15 +8173,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-10357": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10357?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 5.",
   "latest_action_date": "2026-09-16",
   "number": "10357",
   "origin_chamber": "House",
   "title": "Digital Asset Tax Certainty Act",
   "type": "HR",
-  "update_date": "2026-09-23"
+  "update_date": "2026-10-28"
  },
  "119-hr-10358": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10358?format=json",
@@ -24046,15 +24046,15 @@
   "update_date": "2026-07-09"
  },
  "119-hr-1832": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1832?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-04",
   "number": "1832",
   "origin_chamber": "House",
   "title": "To establish \"Golden Sea Bream\" as an acceptable market name for Stenotomus chrysops.",
   "type": "HR",
-  "update_date": "2025-08-25"
+  "update_date": "2026-10-28"
  },
  "119-hr-1833": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1833?format=json",
@@ -24079,15 +24079,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-1835": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1835?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-04",
   "number": "1835",
   "origin_chamber": "House",
   "title": "MERIT Act",
   "type": "HR",
-  "update_date": "2026-07-17"
+  "update_date": "2026-10-28"
  },
  "119-hr-1836": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1836?format=json",
@@ -80531,15 +80531,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-646": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/646?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-01-23",
   "number": "646",
   "origin_chamber": "House",
   "title": "Build Housing with Care Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-10-28"
  },
  "119-hr-6460": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6460?format=json",
@@ -106260,15 +106260,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-8566": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8566?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-29",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-04-29",
   "number": "8566",
   "origin_chamber": "House",
   "title": "Protecting Sibling Relationships in Foster Care Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-28"
  },
  "119-hr-8567": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8567?format=json",
@@ -118052,15 +118052,15 @@
   "update_date": "2026-04-09"
  },
  "119-hr-9530": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9530?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-29",
   "latest_action": "Ordered to be Reported (Amended) by Voice Vote.",
   "latest_action_date": "2026-09-15",
   "number": "9530",
   "origin_chamber": "House",
   "title": "Quiet Skies Act",
   "type": "HR",
-  "update_date": "2026-10-13"
+  "update_date": "2026-10-28"
  },
  "119-hr-9531": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9531?format=json",
@@ -184987,15 +184987,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4573": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4573?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-16",
   "number": "4573",
   "origin_chamber": "Senate",
   "title": "Regional Great Lakes Partnership Act of 2026",
   "type": "S",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-28"
  },
  "119-s-4574": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4574?format=json",
@@ -192874,15 +192874,15 @@
   "update_date": "2026-09-26"
  },
  "119-s-5224": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5224?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-04",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-16",
   "number": "5224",
   "origin_chamber": "Senate",
   "title": "Runway SAFE-T Act",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-28"
  },
  "119-s-5225": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5225?format=json",
@@ -198514,7 +198514,7 @@
   "origin_chamber": "Senate",
   "title": "Presidential Pardon Integrity Act",
   "type": "S",
-  "update_date": "2026-10-26"
+  "update_date": "2026-10-28"
  },
  "119-s-5688": {
   "congress": 119,
@@ -201531,15 +201531,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-816": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/816?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S1461-1462)",
   "latest_action_date": "2025-03-03",
   "number": "816",
   "origin_chamber": "Senate",
   "title": "Increasing American Jobs Through Greater United States Exports to Africa and Latin America Act of 2025",
   "type": "S",
-  "update_date": "2025-07-22"
+  "update_date": "2026-10-28"
  },
  "119-s-817": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/817?format=json",
@@ -202433,15 +202433,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-890": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/890?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-03-06",
   "number": "890",
   "origin_chamber": "Senate",
   "title": "Choice in Affordable Housing Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-28"
  },
  "119-s-891": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/891?format=json",
