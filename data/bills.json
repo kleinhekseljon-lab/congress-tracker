@@ -153978,15 +153978,15 @@
   "update_date": "2025-08-07"
  },
  "119-s-201": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/201?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Became Public Law No: 119-32.",
   "latest_action_date": "2025-08-14",
   "number": "201",
   "origin_chamber": "Senate",
   "title": "ACES Act of 2025",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-2010": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2010?format=json",
@@ -155925,15 +155925,15 @@
   "update_date": "2025-12-06"
  },
  "119-s-2171": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2171?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-25",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs. (text: CR S3534)",
   "latest_action_date": "2025-06-25",
   "number": "2171",
   "origin_chamber": "Senate",
   "title": "A bill to amend title 38, United States Code, to prohibit smoking on the premises of any facility of the Veterans Health Administration, and for other purposes.",
   "type": "S",
-  "update_date": "2026-03-30"
+  "update_date": "2026-10-29"
  },
  "119-s-2172": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2172?format=json",
@@ -156145,15 +156145,15 @@
   "update_date": "2025-07-17"
  },
  "119-s-219": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/219?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86.",
   "latest_action_date": "2025-05-21",
   "number": "219",
   "origin_chamber": "Senate",
   "title": "Veterans Health Care Freedom Act",
   "type": "S",
-  "update_date": "2026-04-15"
+  "update_date": "2026-10-29"
  },
  "119-s-2190": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2190?format=json",
@@ -158587,15 +158587,15 @@
   "update_date": "2026-09-18"
  },
  "119-s-2392": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2392?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Became Public Law No: 119-42.",
   "latest_action_date": "2025-11-25",
   "number": "2392",
   "origin_chamber": "Senate",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2025",
   "type": "S",
-  "update_date": "2026-07-27"
+  "update_date": "2026-10-29"
  },
  "119-s-2393": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2393?format=json",
@@ -162778,15 +162778,15 @@
   "update_date": "2025-09-23"
  },
  "119-s-274": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/274?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-01-28",
   "number": "274",
   "origin_chamber": "Senate",
   "title": "Next of Kin Collections Protection Act of 2025",
   "type": "S",
-  "update_date": "2025-03-11"
+  "update_date": "2026-10-29"
  },
  "119-s-2740": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2740?format=json",
@@ -167563,15 +167563,15 @@
   "update_date": "2026-02-25"
  },
  "119-s-3131": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3131?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
   "latest_action_date": "2026-07-21",
   "number": "3131",
   "origin_chamber": "Senate",
   "title": "USS Frank E. Evans Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-29"
  },
  "119-s-3132": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3132?format=json",
@@ -167629,37 +167629,37 @@
   "update_date": "2026-09-08"
  },
  "119-s-3137": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3137?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-11-06",
   "number": "3137",
   "origin_chamber": "Senate",
   "title": "Housing for All Veterans Act of 2025",
   "type": "S",
-  "update_date": "2026-06-25"
+  "update_date": "2026-10-29"
  },
  "119-s-3138": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3138?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-03-18",
   "number": "3138",
   "origin_chamber": "Senate",
   "title": "Veterans SPORT Act",
   "type": "S",
-  "update_date": "2026-07-31"
+  "update_date": "2026-10-29"
  },
  "119-s-3139": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3139?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-11-06",
   "number": "3139",
   "origin_chamber": "Senate",
   "title": "VA Zero Suicide Demonstration Project Act of 2025",
   "type": "S",
-  "update_date": "2026-04-24"
+  "update_date": "2026-10-29"
  },
  "119-s-314": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/314?format=json",
@@ -169928,15 +169928,15 @@
   "update_date": "2026-01-05"
  },
  "119-s-3329": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3329?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-03",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-12-03",
   "number": "3329",
   "origin_chamber": "Senate",
   "title": "United States Cadet Nurse Corps Service Recognition Act of 2025",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-10-29"
  },
  "119-s-333": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/333?format=json",
@@ -171017,15 +171017,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-342": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/342?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-30",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-03-18",
   "number": "342",
   "origin_chamber": "Senate",
   "title": "Purple Heart Veterans Education Act of 2025",
   "type": "S",
-  "update_date": "2026-07-14"
+  "update_date": "2026-10-29"
  },
  "119-s-3420": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3420?format=json",
@@ -176165,15 +176165,15 @@
   "update_date": "2026-03-02"
  },
  "119-s-385": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/385?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-02-04",
   "number": "385",
   "origin_chamber": "Senate",
   "title": "Fairness for Servicemembers and their Families Act of 2025",
   "type": "S",
-  "update_date": "2026-06-09"
+  "update_date": "2026-10-29"
  },
  "119-s-3850": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3850?format=json",
@@ -177243,15 +177243,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3938": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3938?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-26",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2026-02-26",
   "number": "3938",
   "origin_chamber": "Senate",
   "title": "TAP Promotion Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-10-29"
  },
  "119-s-3939": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3939?format=json",
@@ -180785,15 +180785,15 @@
   "update_date": "2026-08-21"
  },
  "119-s-4229": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4229?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2026-03-26",
   "number": "4229",
   "origin_chamber": "Senate",
   "title": "SCHEDULES Act of 2026",
   "type": "S",
-  "update_date": "2026-04-27"
+  "update_date": "2026-10-29"
  },
  "119-s-423": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/423?format=json",
@@ -183931,15 +183931,15 @@
   "update_date": "2026-05-21"
  },
  "119-s-4487": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4487?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-11",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2026-05-11",
   "number": "4487",
   "origin_chamber": "Senate",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "S",
-  "update_date": "2026-05-18"
+  "update_date": "2026-10-29"
  },
  "119-s-4488": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4488?format=json",
