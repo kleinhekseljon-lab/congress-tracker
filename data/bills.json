@@ -2857,7 +2857,7 @@
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States relating to a national referendum process.",
   "type": "HJRES",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hjres-23": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/23?format=json",
@@ -14352,7 +14352,7 @@
   "origin_chamber": "House",
   "title": "Vets and Pets Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10864": {
   "congress": 119,
@@ -14396,7 +14396,7 @@
   "origin_chamber": "House",
   "title": "SLOTHS Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10868": {
   "congress": 119,
@@ -14583,7 +14583,7 @@
   "origin_chamber": "House",
   "title": "Veteran Breast Cancer Fairness Act",
   "type": "HR",
-  "update_date": "2026-10-24"
+  "update_date": "2026-10-29"
  },
  "119-hr-10883": {
   "congress": 119,
@@ -14715,7 +14715,7 @@
   "origin_chamber": "House",
   "title": "Emergency Assistance Privacy Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10894": {
   "congress": 119,
@@ -14726,7 +14726,7 @@
   "origin_chamber": "House",
   "title": "Disaster Data Protection Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10895": {
   "congress": 119,
@@ -14847,7 +14847,7 @@
   "origin_chamber": "House",
   "title": "Socorro Vet Center Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10904": {
   "congress": 119,
@@ -40139,15 +40139,15 @@
   "update_date": "2026-04-07"
  },
  "119-hr-315": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/315?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
   "latest_action_date": "2025-01-10",
   "number": "315",
   "origin_chamber": "House",
   "title": "To waive certain provisions in the case of an emergency declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.",
   "type": "HR",
-  "update_date": "2025-03-13"
+  "update_date": "2026-10-29"
  },
  "119-hr-3150": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3150?format=json",
@@ -62205,15 +62205,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-4958": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4958?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-12",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-08-12",
   "number": "4958",
   "origin_chamber": "House",
   "title": "GRAS Act",
   "type": "HR",
-  "update_date": "2026-07-10"
+  "update_date": "2026-10-29"
  },
  "119-hr-4959": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4959?format=json",
@@ -90695,15 +90695,15 @@
   "update_date": "2026-04-21"
  },
  "119-hr-7291": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7291?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-30",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-01-30",
   "number": "7291",
   "origin_chamber": "House",
   "title": "GRAS Oversight and Transparency Act",
   "type": "HR",
-  "update_date": "2026-08-18"
+  "update_date": "2026-10-29"
  },
  "119-hr-7292": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7292?format=json",
