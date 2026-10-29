@@ -36465,15 +36465,15 @@
   "update_date": "2026-07-21"
  },
  "119-hr-285": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/285?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the Subcommittee on Border Security and Enforcement.",
   "latest_action_date": "2025-01-09",
   "number": "285",
   "origin_chamber": "House",
   "title": "Advanced Border Coordination Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-20"
+  "update_date": "2026-10-29"
  },
  "119-hr-2850": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2850?format=json",
