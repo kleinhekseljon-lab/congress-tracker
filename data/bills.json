@@ -2464,15 +2464,15 @@
   "update_date": "2026-10-28"
  },
  "119-hjres-19": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/19?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-15",
   "latest_action": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-01-15",
   "number": "19",
   "origin_chamber": "House",
   "title": "To acknowledge the courage and sacrifice of veterans of the Vietnam war and formally apologize for the treatment they received upon returning home.",
   "type": "HJRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-29"
  },
  "119-hjres-190": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/190?format=json",
@@ -2959,15 +2959,15 @@
   "update_date": "2026-06-11"
  },
  "119-hjres-31": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/31?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-31",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-31",
   "number": "31",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States to prohibit persons who are not citizens, nationals, or lawful permanent residents of the United States from voting in elections.",
   "type": "HJRES",
-  "update_date": "2025-06-13"
+  "update_date": "2026-10-29"
  },
  "119-hjres-32": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/32?format=json",
@@ -3344,15 +3344,15 @@
   "update_date": "2026-07-27"
  },
  "119-hjres-63": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/63?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-27",
   "number": "63",
   "origin_chamber": "House",
   "title": "Redesignating the Robert E. Lee Memorial as the \"Arlington House National Historic Site\".",
   "type": "HJRES",
-  "update_date": "2026-09-29"
+  "update_date": "2026-10-29"
  },
  "119-hjres-64": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/64?format=json",
@@ -144243,15 +144243,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1204": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1204?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-31",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-19",
   "number": "1204",
   "origin_chamber": "Senate",
   "title": "Gold Star and Surviving Spouse Career Services Act",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-1205": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1205?format=json",
@@ -144672,15 +144672,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-124": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/124?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-16",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.",
   "latest_action_date": "2025-03-11",
   "number": "124",
   "origin_chamber": "Senate",
   "title": "Restore VA Accountability Act of 2025",
   "type": "S",
-  "update_date": "2026-07-08"
+  "update_date": "2026-10-29"
  },
  "119-s-1240": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1240?format=json",
@@ -148225,15 +148225,15 @@
   "update_date": "2026-09-17"
  },
  "119-s-1533": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1533?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-30",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2025-07-30",
   "number": "1533",
   "origin_chamber": "Senate",
   "title": "A bill to amend title 38, United States Code, to make permanent and codify the pilot program for use of contract physicians for disability examinations, and for other purposes.",
   "type": "S",
-  "update_date": "2026-03-19"
+  "update_date": "2026-10-29"
  },
  "119-s-1534": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1534?format=json",
@@ -148269,15 +148269,15 @@
   "update_date": "2025-08-07"
  },
  "119-s-1537": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1537?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-30",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-04-30",
   "number": "1537",
   "origin_chamber": "Senate",
   "title": "Veterans\u2019 Transition to Trucking Act of 2025",
   "type": "S",
-  "update_date": "2026-07-21"
+  "update_date": "2026-10-29"
  },
  "119-s-1538": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1538?format=json",
@@ -149644,15 +149644,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1650": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1650?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-07",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-05-07",
   "number": "1650",
   "origin_chamber": "Senate",
   "title": "VA Employee Fairness Act of 2025",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-10-29"
  },
  "119-s-1651": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1651?format=json",
@@ -152790,15 +152790,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1912": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1912?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-22",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-05-22",
   "number": "1912",
   "origin_chamber": "Senate",
   "title": "Protecting Veteran Community Care Act",
   "type": "S",
-  "update_date": "2026-06-02"
+  "update_date": "2026-10-29"
  },
  "119-s-1913": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1913?format=json",
@@ -203874,15 +203874,15 @@
   "update_date": "2026-07-21"
  },
  "119-sconres-2": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sconres/2?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-01-03",
   "number": "2",
   "origin_chamber": "Senate",
   "title": "A concurrent resolution to provide for the counting on January 6, 2025, of the electoral votes for President and Vice President of the United States.",
   "type": "SCONRES",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-sconres-20": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/20?format=json",
@@ -203896,15 +203896,15 @@
   "update_date": "2025-09-18"
  },
  "119-sconres-21": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sconres/21?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-03",
   "latest_action": "Referred to the Committee on the Judiciary. (text: CR S6011-6012)",
   "latest_action_date": "2025-09-03",
   "number": "21",
   "origin_chamber": "Senate",
   "title": "A concurrent resolution denouncing the horrors of socialism.",
   "type": "SCONRES",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-29"
  },
  "119-sconres-22": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/22?format=json",
@@ -204149,15 +204149,15 @@
   "update_date": "2025-07-01"
  },
  "119-sconres-6": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sconres/6?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-24",
   "latest_action": "Referred to the Committee on Finance. (text: CR S374)",
   "latest_action_date": "2025-01-24",
   "number": "6",
   "origin_chamber": "Senate",
   "title": "A concurrent resolution expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.",
   "type": "SCONRES",
-  "update_date": "2026-09-26"
+  "update_date": "2026-10-29"
  },
  "119-sconres-7": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/7?format=json",
@@ -204270,15 +204270,15 @@
   "update_date": "2026-05-13"
  },
  "119-sjres-105": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sjres/105?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-04",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-02-04",
   "number": "105",
   "origin_chamber": "Senate",
   "title": "A joint resolution redesignating the Robert E. Lee Memorial in Arlington National Cemetery as the \"Arlington House National Historic Site\".",
   "type": "SJRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-29"
  },
  "119-sjres-106": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/106?format=json",
@@ -205248,6 +205248,17 @@
   "type": "SJRES",
   "update_date": "2026-07-23"
  },
+ "119-sjres-186": {
+  "congress": 119,
+  "introduced_date": "2026-04-27",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary. (text: CR S2055)",
+  "latest_action_date": "2026-04-27",
+  "number": "186",
+  "origin_chamber": "Senate",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relative to the fundamental right to vote.",
+  "type": "SJRES",
+  "update_date": "2026-10-29"
+ },
  "119-sjres-187": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/187?format=json",
   "congress": 119,
@@ -205920,15 +205931,15 @@
   "update_date": "2025-07-01"
  },
  "119-sjres-43": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sjres/43?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-03-27",
   "number": "43",
   "origin_chamber": "Senate",
   "title": "A joint resolution proposing an amendment to the Constitution of the United States relating to contributions and expenditures intended to affect elections.",
   "type": "SJRES",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-29"
  },
  "119-sjres-44": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/44?format=json",
@@ -206327,15 +206338,15 @@
   "update_date": "2026-07-18"
  },
  "119-sjres-78": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sjres/78?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-17",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-09-17",
   "number": "78",
   "origin_chamber": "Senate",
   "title": "A joint resolution proposing an amendment to the Constitution of the United States relating to the authority of Congress and the States to regulate contributions and expenditures intended to affect elections and to enact public financing systems for political campaigns.",
   "type": "SJRES",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-29"
  },
  "119-sjres-79": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/79?format=json",
