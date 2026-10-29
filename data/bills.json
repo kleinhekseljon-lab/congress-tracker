@@ -147367,15 +147367,15 @@
   "update_date": "2025-05-20"
  },
  "119-s-1462": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1462?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-10",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.",
   "latest_action_date": "2025-10-27",
   "number": "1462",
   "origin_chamber": "Senate",
   "title": "Fix Our Forests Act",
   "type": "S",
-  "update_date": "2026-06-23"
+  "update_date": "2026-10-29"
  },
  "119-s-1463": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1463?format=json",
@@ -187473,15 +187473,15 @@
   "update_date": "2026-07-06"
  },
  "119-s-478": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/478?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.",
   "latest_action_date": "2025-03-11",
   "number": "478",
   "origin_chamber": "Senate",
   "title": "Veterans 2nd Amendment Protection Act of 2025",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-29"
  },
  "119-s-4780": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4780?format=json",
@@ -190861,15 +190861,15 @@
   "update_date": "2026-07-31"
  },
  "119-s-506": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/506?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2025-07-30",
   "number": "506",
   "origin_chamber": "Senate",
   "title": "Coordinating Care for Senior Veterans and Wounded Warriors Act",
   "type": "S",
-  "update_date": "2026-03-19"
+  "update_date": "2026-10-29"
  },
  "119-s-5060": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5060?format=json",
@@ -195008,15 +195008,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-540": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/540?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-12",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-02-12",
   "number": "540",
   "origin_chamber": "Senate",
   "title": "Ensuring Continuity in Veterans Health Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-29"
  },
  "119-s-5400": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5400?format=json",
@@ -199001,15 +199001,15 @@
   "update_date": "2025-07-08"
  },
  "119-s-605": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/605?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86.",
   "latest_action_date": "2025-05-21",
   "number": "605",
   "origin_chamber": "Senate",
   "title": "CHAMPVA Children's Care Protection Act of 2025",
   "type": "S",
-  "update_date": "2026-03-19"
+  "update_date": "2026-10-29"
  },
  "119-s-606": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/606?format=json",
@@ -199023,15 +199023,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-607": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/607?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-19",
   "number": "607",
   "origin_chamber": "Senate",
   "title": "Improving Veteran Access to Care Act",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-608": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/608?format=json",
@@ -199045,37 +199045,37 @@
   "update_date": "2026-03-31"
  },
  "119-s-609": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/609?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-02-18",
   "number": "609",
   "origin_chamber": "Senate",
   "title": "BRAVE Act of 2025",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-10-29"
  },
  "119-s-610": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/610?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-15",
   "number": "610",
   "origin_chamber": "Senate",
   "title": "Ensuring VetSuccess On Campus Act of 2025",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-611": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/611?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.",
   "latest_action_date": "2025-03-11",
   "number": "611",
   "origin_chamber": "Senate",
   "title": "Caring for Survivors Act of 2025",
   "type": "S",
-  "update_date": "2026-07-08"
+  "update_date": "2026-10-29"
  },
  "119-s-612": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/612?format=json",
@@ -199353,15 +199353,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-635": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/635?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-19",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2025-07-30",
   "number": "635",
   "origin_chamber": "Senate",
   "title": "Veterans Homecare Choice Act of 2025",
   "type": "S",
-  "update_date": "2026-03-19"
+  "update_date": "2026-10-29"
  },
  "119-s-636": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/636?format=json",
@@ -199518,15 +199518,15 @@
   "update_date": "2026-02-04"
  },
  "119-s-649": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/649?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-20",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-03-18",
   "number": "649",
   "origin_chamber": "Senate",
   "title": "Guard and Reserve GI Bill Parity Act of 2025",
   "type": "S",
-  "update_date": "2026-04-01"
+  "update_date": "2026-10-29"
  },
  "119-s-65": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/65?format=json",
@@ -199749,15 +199749,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-668": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/668?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-20",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-247.",
   "latest_action_date": "2025-12-10",
   "number": "668",
   "origin_chamber": "Senate",
   "title": "SAFE STEPS for Veterans Act of 2025",
   "type": "S",
-  "update_date": "2026-07-14"
+  "update_date": "2026-10-29"
  },
  "119-s-669": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/669?format=json",
@@ -200717,15 +200717,15 @@
   "update_date": "2026-10-15"
  },
  "119-s-749": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/749?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-26",
   "latest_action": "Committee on Veterans' Affairs. Hearings held.",
   "latest_action_date": "2026-04-29",
   "number": "749",
   "origin_chamber": "Senate",
   "title": "Justice for ALS Veterans Act of 2025",
   "type": "S",
-  "update_date": "2026-07-08"
+  "update_date": "2026-10-29"
  },
  "119-s-75": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/75?format=json",
@@ -201146,15 +201146,15 @@
   "update_date": "2026-02-25"
  },
  "119-s-784": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/784?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86.",
   "latest_action_date": "2025-05-21",
   "number": "784",
   "origin_chamber": "Senate",
   "title": "Rural Veterans Transportation to Care Act",
   "type": "S",
-  "update_date": "2026-03-19"
+  "update_date": "2026-10-29"
  },
  "119-s-785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/785?format=json",
@@ -201179,15 +201179,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-787": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/787?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-19",
   "number": "787",
   "origin_chamber": "Senate",
   "title": "VetPAC Act of 2025",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-788": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/788?format=json",
@@ -201487,15 +201487,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-812": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/812?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2025-03-03",
   "number": "812",
   "origin_chamber": "Senate",
   "title": "A bill to direct the Secretary of Veterans Affairs to ensure veterans may obtain a physical copy of a form for reimbursement of certain travel expenses by mail or at medical facilities of the Department of Veterans Affairs, and for other purposes.",
   "type": "S",
-  "update_date": "2025-07-15"
+  "update_date": "2026-10-29"
  },
  "119-s-813": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/813?format=json",
@@ -201718,15 +201718,15 @@
   "update_date": "2025-04-21"
  },
  "119-s-831": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/831?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2025-07-30",
   "number": "831",
   "origin_chamber": "Senate",
   "title": "REP VA Act",
   "type": "S",
-  "update_date": "2026-07-08"
+  "update_date": "2026-10-29"
  },
  "119-s-832": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/832?format=json",
@@ -202279,26 +202279,26 @@
   "update_date": "2026-10-07"
  },
  "119-s-878": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/878?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-06",
   "number": "878",
   "origin_chamber": "Senate",
   "title": "Coast Guard Combat-Injured Tax Fairness Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-29"
  },
  "119-s-879": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/879?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2025-07-30",
   "number": "879",
   "origin_chamber": "Senate",
   "title": "Veteran Caregiver Reeducation, Reemployment, and Retirement Act",
   "type": "S",
-  "update_date": "2026-06-18"
+  "update_date": "2026-10-29"
  },
  "119-s-88": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/88?format=json",
