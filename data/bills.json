@@ -121,15 +121,15 @@
   "update_date": "2026-07-03"
  },
  "119-hconres-109": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/109?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Message on Senate action sent to the House.",
   "latest_action_date": "2026-06-18",
   "number": "109",
   "origin_chamber": "House",
   "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
   "type": "HCONRES",
-  "update_date": "2026-07-13"
+  "update_date": "2026-10-29"
  },
  "119-hconres-11": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/11?format=json",
@@ -14264,7 +14264,7 @@
   "origin_chamber": "House",
   "title": "LIHTC Security Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10857": {
   "congress": 119,
@@ -14297,7 +14297,7 @@
   "origin_chamber": "House",
   "title": "Biotech Defense Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-1086": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1086?format=json",
@@ -14319,7 +14319,7 @@
   "origin_chamber": "House",
   "title": "Stop Beijing\u2019s Bots Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10861": {
   "congress": 119,
@@ -14330,7 +14330,7 @@
   "origin_chamber": "House",
   "title": "Blocking Foreign Cellular Modules in Defense Systems Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10862": {
   "congress": 119,
@@ -14341,7 +14341,7 @@
   "origin_chamber": "House",
   "title": "Military Suicide Prevention Oversight Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10863": {
   "congress": 119,
@@ -14440,7 +14440,7 @@
   "origin_chamber": "House",
   "title": "Military Domestic Violence Survivors Support Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hr-10871": {
   "congress": 119,
@@ -14451,7 +14451,7 @@
   "origin_chamber": "House",
   "title": "Military Family Relocation Support Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hr-10872": {
   "congress": 119,
@@ -14572,7 +14572,7 @@
   "origin_chamber": "House",
   "title": "21st Century Vehicle Choice Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10882": {
   "congress": 119,
@@ -29400,7 +29400,7 @@
   "origin_chamber": "House",
   "title": "Clergy Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-29"
  },
  "119-hr-2270": {
   "congress": 119,
@@ -107503,15 +107503,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8668": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8668?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-07",
   "latest_action": "Ordered to be Reported (Amended) by Voice Vote.",
   "latest_action_date": "2026-05-13",
   "number": "8668",
   "origin_chamber": "House",
   "title": "State Department Recurring Reports Repeal and Sunset Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-29"
  },
  "119-hr-8669": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8669?format=json",
@@ -109139,7 +109139,7 @@
   "origin_chamber": "House",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "HR",
-  "update_date": "2026-10-26"
+  "update_date": "2026-10-29"
  },
  "119-hr-8801": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8801?format=json",
@@ -112618,15 +112618,15 @@
   "update_date": "2026-06-19"
  },
  "119-hr-9086": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9086?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-02",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-17",
   "number": "9086",
   "origin_chamber": "House",
   "title": "Foreign Service Modernization Act",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-29"
  },
  "119-hr-9087": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9087?format=json",
@@ -174449,15 +174449,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3705": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3705?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-27",
   "latest_action": "Became Public Law No: 119-79.",
   "latest_action_date": "2026-02-18",
   "number": "3705",
   "origin_chamber": "Senate",
   "title": "Semiquincentennial Congressional Time Capsule Act",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-3706": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3706?format=json",
@@ -187536,7 +187536,7 @@
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "S",
-  "update_date": "2026-10-27"
+  "update_date": "2026-10-29"
  },
  "119-s-4785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4785?format=json",
