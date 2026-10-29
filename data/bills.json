@@ -12815,15 +12815,15 @@
   "update_date": "2026-10-15"
  },
  "119-hr-10737": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10737?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-05",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2026-10-05",
   "number": "10737",
   "origin_chamber": "House",
   "title": "To amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to promote transparency in science, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-10-29"
  },
  "119-hr-10738": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10738?format=json",
@@ -14506,7 +14506,7 @@
   "origin_chamber": "House",
   "title": "To amend title XVIII of the Social Security Act to ensure appropriate access to mental health care under the Medicare program.",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10877": {
   "congress": 119,
@@ -14517,7 +14517,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish a credit against the excise tax on beer for brewers that donate spent grain for local agricultural use.",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hr-10878": {
   "congress": 119,
@@ -14528,7 +14528,7 @@
   "origin_chamber": "House",
   "title": "To establish an independent Truth and Accountability Commission.",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10879": {
   "congress": 119,
@@ -14594,7 +14594,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to provide for nonrecognition of gain or loss on like-kind exchanges of certain residential real property, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10884": {
   "congress": 119,
@@ -14682,7 +14682,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish the motor fuel deduction.",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10891": {
   "congress": 119,
@@ -14913,7 +14913,7 @@
   "origin_chamber": "House",
   "title": "To amend the Death in Custody Reporting Act of 2013 to require submission of reports to the Director of the Bureau of Justice Statistics, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hr-1091": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1091?format=json",
@@ -15012,7 +15012,7 @@
   "origin_chamber": "House",
   "title": "To direct the Secretary of Agriculture to select and implement landscape-scale forest restoration projects, to assist communities in increasing their resilience to wildfire, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hr-1092": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1092?format=json",
@@ -131590,7 +131590,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the designation of October 2026 as \"National Financial Planning Month\".",
   "type": "HRES",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-hres-1641": {
   "congress": 119,
