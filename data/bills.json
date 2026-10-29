@@ -13560,7 +13560,7 @@
   "origin_chamber": "House",
   "title": "Silicosis Prevention and Treatment Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-hr-10799": {
   "congress": 119,
@@ -13849,15 +13849,15 @@
   "update_date": "2026-10-28"
  },
  "119-hr-10821": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10821?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-15",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2026-10-15",
   "number": "10821",
   "origin_chamber": "House",
   "title": "To amend the Federal Deposit Insurance Act to make changes to the Standard Maximum Deposit Insurance Amount, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-29"
  },
  "119-hr-10822": {
   "congress": 119,
@@ -131373,15 +131373,15 @@
   "update_date": "2026-10-28"
  },
  "119-hres-1623": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1623?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-10-09",
   "number": "1623",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of October 2026, as \"National Dyslexia Awareness Month\".",
   "type": "HRES",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-29"
  },
  "119-hres-1624": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1624?format=json",
