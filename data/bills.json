@@ -142912,15 +142912,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1094": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1094?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-24",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2025-03-24",
   "number": "1094",
   "origin_chamber": "Senate",
   "title": "Mass Timber Federal Buildings Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-29"
  },
  "119-s-1095": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1095?format=json",
@@ -157837,6 +157837,17 @@
   "title": "Medicare Orthotics and Prosthetics Patient-Centered Care Act",
   "type": "S",
   "update_date": "2026-08-10"
+ },
+ "119-s-233": {
+  "congress": 119,
+  "introduced_date": "2025-01-23",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.",
+  "latest_action_date": "2026-02-23",
+  "number": "233",
+  "origin_chamber": "Senate",
+  "title": "Restoring Confidence in the World Anti-Doping Agency Act of 2025",
+  "type": "S",
+  "update_date": "2026-10-29"
  },
  "119-s-2330": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2330?format=json",
@@ -173888,15 +173899,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-366": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/366?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-03",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S545-546)",
   "latest_action_date": "2025-02-03",
   "number": "366",
   "origin_chamber": "Senate",
   "title": "Muhammad Ali Congressional Gold Medal Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-29"
  },
  "119-s-3660": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3660?format=json",
@@ -178596,15 +178607,15 @@
   "update_date": "2026-10-20"
  },
  "119-s-405": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/405?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-02-05",
   "number": "405",
   "origin_chamber": "Senate",
   "title": "Protection of Women in Olympic and Amateur Sports Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-29"
  },
  "119-s-4050": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4050?format=json",
@@ -179454,15 +179465,15 @@
   "update_date": "2026-04-01"
  },
  "119-s-412": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/412?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-02-05",
   "number": "412",
   "origin_chamber": "Senate",
   "title": "Plum Island Preservation Act",
   "type": "S",
-  "update_date": "2025-05-27"
+  "update_date": "2026-10-29"
  },
  "119-s-4120": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4120?format=json",
@@ -199177,15 +199188,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-620": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/620?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-15",
   "number": "620",
   "origin_chamber": "Senate",
   "title": "Veterinary Services to Improve Public Health in Rural Communities Act",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-29"
  },
  "119-s-621": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/621?format=json",
@@ -200321,15 +200332,15 @@
   "update_date": "2025-06-25"
  },
  "119-s-716": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/716?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-02-25",
   "number": "716",
   "origin_chamber": "Senate",
   "title": "A bill for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-10-29"
  },
  "119-s-717": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/717?format=json",
@@ -201509,15 +201520,15 @@
   "update_date": "2026-03-26"
  },
  "119-s-814": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/814?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-03-03",
   "number": "814",
   "origin_chamber": "Senate",
   "title": "A bill to designate the facility of the United States Postal Service located at 28 East Airy Street in Norristown, Pennsylvania, as the \"Charles L. Blockson Post Office Building\".",
   "type": "S",
-  "update_date": "2025-12-10"
+  "update_date": "2026-10-29"
  },
  "119-s-815": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/815?format=json",
@@ -202543,15 +202554,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-9": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/9?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-07",
   "latest_action": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 100. (CR S1455-1456)",
   "latest_action_date": "2025-03-03",
   "number": "9",
   "origin_chamber": "Senate",
   "title": "Protection of Women and Girls in Sports Act of 2025",
   "type": "S",
-  "update_date": "2026-08-05"
+  "update_date": "2026-10-29"
  },
  "119-s-90": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/90?format=json",
@@ -203225,15 +203236,15 @@
   "update_date": "2026-01-30"
  },
  "119-s-955": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/955?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-03-11",
   "number": "955",
   "origin_chamber": "Senate",
   "title": "NCAA Accountability Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-29"
  },
  "119-s-956": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/956?format=json",
