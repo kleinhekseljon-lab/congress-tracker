@@ -158133,7 +158133,7 @@
   "origin_chamber": "Senate",
   "title": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026",
   "type": "S",
-  "update_date": "2026-10-27"
+  "update_date": "2026-10-29"
  },
  "119-s-2355": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2355?format=json",
@@ -198453,90 +198453,90 @@
  "119-s-5682": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.",
+  "latest_action": "Read twice and referred to the Committee on Foreign Relations under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5682",
   "origin_chamber": "Senate",
   "title": "Foreign Government-Owned Media FARA Registration Act",
   "type": "S",
-  "update_date": "2026-10-26"
+  "update_date": "2026-10-29"
  },
  "119-s-5683": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5683?format=json",
   "congress": 119,
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
+  "introduced_date": "2026-10-15",
+  "latest_action": "Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5683",
   "origin_chamber": "Senate",
   "title": "Best Practices for Military Family Child Care Homes Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-29"
  },
  "119-s-5684": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5684",
   "origin_chamber": "Senate",
   "title": "No Cash for Incompetent and Malicious Contractors Act",
   "type": "S",
-  "update_date": "2026-10-23"
+  "update_date": "2026-10-29"
  },
  "119-s-5685": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5685",
   "origin_chamber": "Senate",
   "title": "Epstein Wall Street Records Act of 2026",
   "type": "S",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-s-5686": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5686?format=json",
   "congress": 119,
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
+  "introduced_date": "2026-10-15",
+  "latest_action": "Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5686",
   "origin_chamber": "Senate",
   "title": "No Public Executions in America Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-29"
  },
  "119-s-5687": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on the Judiciary.",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5687",
   "origin_chamber": "Senate",
   "title": "Presidential Pardon Integrity Act",
   "type": "S",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-29"
  },
  "119-s-5688": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
+  "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5688",
   "origin_chamber": "Senate",
   "title": "Acquired Lands Revenue Modernization Act",
   "type": "S",
-  "update_date": "2026-10-26"
+  "update_date": "2026-10-29"
  },
  "119-s-5689": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance.",
+  "latest_action": "Read twice and referred to the Committee on Finance under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5689",
   "origin_chamber": "Senate",
   "title": "RECLAIM Act",
   "type": "S",
-  "update_date": "2026-10-26"
+  "update_date": "2026-10-29"
  },
  "119-s-569": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/569?format=json",
@@ -198550,15 +198550,15 @@
   "update_date": "2025-05-27"
  },
  "119-s-5690": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5690?format=json",
   "congress": 119,
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
+  "introduced_date": "2026-10-15",
+  "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "5690",
   "origin_chamber": "Senate",
   "title": "Renewing the Dream Act",
   "type": "S",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-29"
  },
  "119-s-57": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/57?format=json",
@@ -205669,13 +205669,13 @@
  "119-sjres-221": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.",
+  "latest_action": "Read twice and referred to the Committee on Foreign Relations under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "221",
   "origin_chamber": "Senate",
   "title": "A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
   "type": "SJRES",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-29"
  },
  "119-sjres-23": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/23?format=json",
@@ -216876,26 +216876,26 @@
   "update_date": "2026-09-23"
  },
  "119-sres-950": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/950?format=json",
   "congress": 119,
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on the Judiciary.",
+  "introduced_date": "2026-10-15",
+  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "950",
   "origin_chamber": "Senate",
   "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
   "type": "SRES",
-  "update_date": "2026-10-22"
+  "update_date": "2026-10-29"
  },
  "119-sres-951": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/951?format=json",
   "congress": 119,
-  "latest_action": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
+  "introduced_date": "2026-10-15",
+  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
   "latest_action_date": "2026-10-15",
   "number": "951",
   "origin_chamber": "Senate",
   "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
   "type": "SRES",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-29"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
