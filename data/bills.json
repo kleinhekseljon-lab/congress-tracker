@@ -30228,15 +30228,15 @@
   "update_date": "2026-07-10"
  },
  "119-hr-2306": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2306?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-24",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-30",
   "number": "2306",
   "origin_chamber": "House",
   "title": "Adams Memorial-Great American Heroes Act",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-30"
  },
  "119-hr-2307": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2307?format=json",
@@ -95073,15 +95073,15 @@
   "update_date": "2026-03-17"
  },
  "119-hr-7618": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7618?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-20",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
   "latest_action_date": "2026-09-30",
   "number": "7618",
   "origin_chamber": "House",
   "title": "American Battlefield Protection Program Amendments Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-30"
  },
  "119-hr-7619": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7619?format=json",
@@ -170874,15 +170874,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3371": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3371?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-04",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
   "latest_action_date": "2026-09-30",
   "number": "3371",
   "origin_chamber": "Senate",
   "title": "National Museum of the Blind People\u2019s Movement Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-10-30"
  },
  "119-s-3372": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3372?format=json",
@@ -203137,15 +203137,15 @@
   "update_date": "2025-09-17"
  },
  "119-s-911": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/911?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Received in the House.",
   "latest_action_date": "2025-08-01",
   "number": "911",
   "origin_chamber": "Senate",
   "title": "Chief Herbert D. Proffitt Act of 2025",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-10-30"
  },
  "119-s-912": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/912?format=json",
