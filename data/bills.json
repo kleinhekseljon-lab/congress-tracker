@@ -33583,15 +33583,15 @@
   "update_date": "2025-05-21"
  },
  "119-hr-2581": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2581?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-01",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-04-01",
   "number": "2581",
   "origin_chamber": "House",
   "title": "Iranian Terror Prevention Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-2582": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2582?format=json",
@@ -50314,15 +50314,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-3952": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3952?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-12",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-06-12",
   "number": "3952",
   "origin_chamber": "House",
   "title": "Choice Neighborhoods Initiative Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-30"
  },
  "119-hr-3953": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3953?format=json",
@@ -97119,15 +97119,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7786": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7786?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-04",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Science, Space, and Technology, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-03-04",
   "number": "7786",
   "origin_chamber": "House",
   "title": "AI Fraud Accountability Act",
   "type": "HR",
-  "update_date": "2026-04-14"
+  "update_date": "2026-10-30"
  },
  "119-hr-7787": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7787?format=json",
@@ -107591,15 +107591,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8643": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8643?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-30",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2026-04-30",
   "number": "8643",
   "origin_chamber": "House",
   "title": "Financial Access Protection Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-8644": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8644?format=json",
@@ -189684,15 +189684,15 @@
   "update_date": "2026-07-15"
  },
  "119-s-4928": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4928?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-06-24",
   "number": "4928",
   "origin_chamber": "Senate",
   "title": "COVID\u201319 Commuter Benefits Distribution Act",
   "type": "S",
-  "update_date": "2026-07-10"
+  "update_date": "2026-10-30"
  },
  "119-s-4929": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4929?format=json",
