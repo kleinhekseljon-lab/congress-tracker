@@ -59598,15 +59598,15 @@
   "update_date": "2026-07-20"
  },
  "119-hr-4712": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4712?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-07-23",
   "number": "4712",
   "origin_chamber": "House",
   "title": "Parity for Tribal Law Enforcement Act",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-10-30"
  },
  "119-hr-4713": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4713?format=json",
@@ -117183,15 +117183,15 @@
   "update_date": "2026-07-09"
  },
  "119-hr-9428": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9428?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-06-24",
   "number": "9428",
   "origin_chamber": "House",
   "title": "COVID\u201319 Commuter Benefits Distribution Act",
   "type": "HR",
-  "update_date": "2026-07-09"
+  "update_date": "2026-10-30"
  },
  "119-hr-9429": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9429?format=json",
@@ -166320,15 +166320,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2994": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2994?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-09",
   "latest_action": "Read twice and referred to the Committee on Rules and Administration.",
   "latest_action_date": "2025-10-09",
   "number": "2994",
   "origin_chamber": "Senate",
   "title": "Voter Purge Protection Act",
   "type": "S",
-  "update_date": "2026-01-09"
+  "update_date": "2026-10-30"
  },
  "119-s-2995": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2995?format=json",
@@ -198825,15 +198825,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-5677": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5677?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-30",
   "number": "5677",
   "origin_chamber": "Senate",
-  "title": "A bill to establish the Lone Star Coastal National Recreation Area to conserve, protect, and promote the economic benefits of the natural, cultural, and recreational resources of the Upper and Middle Texas Gulf Coast as a unit of the National Park System.",
+  "title": "Lone Star Coastal National Recreation Area Act",
   "type": "S",
-  "update_date": "2026-10-01"
+  "update_date": "2026-10-30"
  },
  "119-s-5678": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5678?format=json",
