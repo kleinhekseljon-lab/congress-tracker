@@ -159632,15 +159632,15 @@
   "update_date": "2025-08-07"
  },
  "119-s-2443": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2443?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-24",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-07-24",
   "number": "2443",
   "origin_chamber": "Senate",
   "title": "Veterans Jobs Opportunity Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-30"
  },
  "119-s-2444": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2444?format=json",
