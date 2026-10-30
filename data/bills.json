@@ -1375,15 +1375,15 @@
   "update_date": "2026-09-19"
  },
  "119-hjres-1": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/1?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "On motion to suspend the rules and pass Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
   "latest_action_date": "2026-09-02",
   "number": "1",
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
   "type": "HJRES",
-  "update_date": "2026-09-05"
+  "update_date": "2026-10-30"
  },
  "119-hjres-10": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/10?format=json",
@@ -6963,15 +6963,15 @@
   "update_date": "2026-09-11"
  },
  "119-hr-10257": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10257?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-03",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-09-03",
   "number": "10257",
   "origin_chamber": "House",
   "title": "To require the United States Postal Service to designate ZIP Codes for certain communities.",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-10258": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10258?format=json",
@@ -20405,15 +20405,15 @@
   "update_date": "2025-07-17"
  },
  "119-hr-1501": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1501?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-21",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-09-14",
   "number": "1501",
   "origin_chamber": "House",
   "title": "Protecting Domestic Mining Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-1502": {
   "congress": 119,
@@ -33264,15 +33264,15 @@
   "update_date": "2026-01-10"
  },
  "119-hr-2555": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2555?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-01",
   "latest_action": "Placed on the Union Calendar, Calendar No. 682.",
   "latest_action_date": "2026-08-27",
   "number": "2555",
   "origin_chamber": "House",
   "title": "Freedom of Association in Higher Education Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-30"
+  "update_date": "2026-10-30"
  },
  "119-hr-2556": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2556?format=json",
@@ -33495,15 +33495,15 @@
   "update_date": "2025-04-06"
  },
  "119-hr-2574": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2574?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-01",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Ways and Means, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-04-01",
   "number": "2574",
   "origin_chamber": "House",
   "title": "No Iranian Energy Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-2575": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2575?format=json",
@@ -34001,26 +34001,26 @@
   "update_date": "2025-12-05"
  },
  "119-hr-2616": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2616?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-03",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-05-21",
   "number": "2616",
   "origin_chamber": "House",
   "title": "Stopping Indoctrination and Protecting Kids Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-2617": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2617?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-03",
   "latest_action": "Placed on the Union Calendar, Calendar No. 378.",
   "latest_action_date": "2026-01-13",
   "number": "2617",
   "origin_chamber": "House",
   "title": "Say No to Indoctrination Act",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-30"
  },
  "119-hr-2618": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2618?format=json",
@@ -36234,15 +36234,15 @@
   "update_date": "2026-10-30"
  },
  "119-hr-28": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/28?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Received in the Senate.",
   "latest_action_date": "2025-01-15",
   "number": "28",
   "origin_chamber": "House",
   "title": "Protection of Women and Girls in Sports Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-280": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/280?format=json",
@@ -46090,15 +46090,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-3606": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3606?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-23",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-05-23",
   "number": "3606",
   "origin_chamber": "House",
   "title": "Equity and Inclusion Enforcement Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-3607": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3607?format=json",
@@ -53581,15 +53581,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-4219": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4219?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-27",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2026-09-15",
   "number": "4219",
   "origin_chamber": "House",
   "title": "National Wildlife Refuge System Invasive Species Strike Team Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-23"
+  "update_date": "2026-10-30"
  },
  "119-hr-422": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/422?format=json",
@@ -57112,15 +57112,15 @@
   "update_date": "2026-08-20"
  },
  "119-hr-4508": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4508?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-17",
   "latest_action": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-07-17",
   "number": "4508",
   "origin_chamber": "House",
   "title": "BURDEN Act",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-10-30"
  },
  "119-hr-4509": {
   "congress": 119,
@@ -59103,15 +59103,15 @@
   "update_date": "2026-08-25"
  },
  "119-hr-4672": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4672?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-07-23",
   "number": "4672",
   "origin_chamber": "House",
   "title": "To extend the break-in-service consideration for firefighter retirements, and other purposes.",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-10-30"
  },
  "119-hr-4673": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4673?format=json",
@@ -60599,15 +60599,15 @@
   "update_date": "2025-12-20"
  },
  "119-hr-4795": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4795?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-14",
   "number": "4795",
   "origin_chamber": "House",
   "title": "Protect Economic and Academic Freedom Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-30"
  },
  "119-hr-4796": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4796?format=json",
@@ -72204,15 +72204,15 @@
   "update_date": "2025-12-08"
  },
  "119-hr-5745": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5745?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-14",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 16.",
   "latest_action_date": "2026-09-15",
   "number": "5745",
   "origin_chamber": "House",
   "title": "Marine Fisheries Habitat Protection Act",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-5746": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5746?format=json",
@@ -76384,15 +76384,15 @@
   "update_date": "2026-01-07"
  },
  "119-hr-6088": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6088?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-18",
   "latest_action": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
   "latest_action_date": "2026-01-13",
   "number": "6088",
   "origin_chamber": "House",
   "title": "Restoring Food Security for American Families and Farmers Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-6089": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6089?format=json",
@@ -89804,15 +89804,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7187": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7187?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-21",
   "latest_action": "Placed on the Union Calendar, Calendar No. 691.",
   "latest_action_date": "2026-09-01",
   "number": "7187",
   "origin_chamber": "House",
   "title": "Clarity for Compensation Act",
   "type": "HR",
-  "update_date": "2026-09-23"
+  "update_date": "2026-10-30"
  },
  "119-hr-7188": {
   "congress": 119,
@@ -90046,15 +90046,15 @@
   "update_date": "2026-02-13"
  },
  "119-hr-7206": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7206?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-22",
   "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-01-22",
   "number": "7206",
   "origin_chamber": "House",
   "title": "Farm and Family Relief Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-30"
  },
  "119-hr-7207": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7207?format=json",
@@ -91674,15 +91674,15 @@
   "update_date": "2026-02-05"
  },
  "119-hr-734": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/734?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-24",
   "latest_action": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
   "latest_action_date": "2025-02-28",
   "number": "734",
   "origin_chamber": "House",
   "title": "To amend the Food and Nutrition Act of 2008 with respect to the issuance of quality control guidance issued by the Secretary of Agriculture.",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-7340": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7340?format=json",
@@ -92532,15 +92532,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-741": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/741?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
   "latest_action_date": "2026-09-15",
   "number": "741",
   "origin_chamber": "House",
   "title": "Stronger Engagement for Indian Health Needs Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-7410": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7410?format=json",
@@ -92752,15 +92752,15 @@
   "update_date": "2026-10-01"
  },
  "119-hr-7428": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7428?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-09",
   "latest_action": "Referred to the Subcommittee on Highways and Transit.",
   "latest_action_date": "2026-02-10",
   "number": "7428",
   "origin_chamber": "House",
   "title": "SECURES Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-10-30"
  },
  "119-hr-7429": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7429?format=json",
@@ -93478,15 +93478,15 @@
   "update_date": "2026-10-30"
  },
  "119-hr-7488": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7488?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
   "latest_action_date": "2026-03-20",
   "number": "7488",
   "origin_chamber": "House",
   "title": "CFTC Office of the Chief Economist Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-10-30"
  },
  "119-hr-7489": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7489?format=json",
@@ -95601,15 +95601,15 @@
   "update_date": "2026-03-12"
  },
  "119-hr-7661": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7661?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-24",
   "latest_action": "Placed on the Union Calendar, Calendar No. 632.",
   "latest_action_date": "2026-07-02",
   "number": "7661",
   "origin_chamber": "House",
   "title": "Stop the Sexualization of Children Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-7662": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7662?format=json",
@@ -95865,15 +95865,15 @@
   "update_date": "2026-04-21"
  },
  "119-hr-7683": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7683?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-25",
   "latest_action": "Placed on the Union Calendar, Calendar No. 739.",
   "latest_action_date": "2026-10-09",
   "number": "7683",
   "origin_chamber": "House",
   "title": "VA Fiscal Management Modernization Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-10-30"
  },
  "119-hr-7684": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7684?format=json",
@@ -99440,15 +99440,15 @@
   "update_date": "2026-10-30"
  },
  "119-hr-7977": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7977?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-18",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Ways and Means, Natural Resources, Financial Services, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-03-18",
   "number": "7977",
   "origin_chamber": "House",
   "title": "Energy Bills Relief Act",
   "type": "HR",
-  "update_date": "2026-10-10"
+  "update_date": "2026-10-30"
  },
  "119-hr-7978": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7978?format=json",
@@ -100936,15 +100936,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-8099": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8099?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-03-26",
   "number": "8099",
   "origin_chamber": "House",
   "title": "Plug Offshore Wells Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-81": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/81?format=json",
@@ -101222,15 +101222,15 @@
   "update_date": "2026-06-10"
  },
  "119-hr-8121": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8121?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-15",
   "number": "8121",
   "origin_chamber": "House",
   "title": "To designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the \"Peter G. Thurland, Sr., Bandstand\".",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-8122": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8122?format=json",
@@ -107646,15 +107646,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8648": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8648?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-04",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-05-04",
   "number": "8648",
   "origin_chamber": "House",
   "title": "FORGE Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-8649": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8649?format=json",
@@ -108350,15 +108350,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8705": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8705?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-07",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 15.",
   "latest_action_date": "2026-05-21",
   "number": "8705",
   "origin_chamber": "House",
   "title": "CHARLIE Act",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-30"
  },
  "119-hr-8706": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8706?format=json",
@@ -108380,7 +108380,7 @@
   "origin_chamber": "House",
   "title": "No Funds for Iran War Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-10-30"
  },
  "119-hr-8708": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8708?format=json",
@@ -109274,15 +109274,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8781": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8781?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-13",
   "latest_action": "Placed on the Union Calendar, Calendar No. 698.",
   "latest_action_date": "2026-09-08",
   "number": "8781",
   "origin_chamber": "House",
   "title": "Title IX Clarification Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-10-30"
  },
  "119-hr-8782": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8782?format=json",
@@ -112376,26 +112376,26 @@
   "update_date": "2026-06-05"
  },
  "119-hr-9034": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9034?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-26",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-05-26",
   "number": "9034",
   "origin_chamber": "House",
   "title": "Offshore Leasing Standards and Accountability Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-04"
+  "update_date": "2026-10-30"
  },
  "119-hr-9035": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9035?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-26",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-05-26",
   "number": "9035",
   "origin_chamber": "House",
   "title": "Ending Fossil Fuel Bailouts Act of 2026",
   "type": "HR",
-  "update_date": "2026-08-11"
+  "update_date": "2026-10-30"
  },
  "119-hr-9036": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9036?format=json",
@@ -113146,15 +113146,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-9098": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9098?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-02",
   "latest_action": "Placed on the Union Calendar, Calendar No. 704.",
   "latest_action_date": "2026-09-08",
   "number": "9098",
   "origin_chamber": "House",
   "title": "Congressional Records Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-9099": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9099?format=json",
@@ -114444,15 +114444,15 @@
   "update_date": "2026-06-26"
  },
  "119-hr-9203": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9203?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-08",
   "latest_action": "Placed on the Union Calendar, Calendar No. 700.",
   "latest_action_date": "2026-09-08",
   "number": "9203",
   "origin_chamber": "House",
   "title": "Student Protection and University Accountability Act",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-10-30"
  },
  "119-hr-9204": {
   "congress": 119,
@@ -115995,15 +115995,15 @@
   "update_date": "2026-06-11"
  },
  "119-hr-9330": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9330?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-18",
   "latest_action": "Placed on the Union Calendar, Calendar No. 690.",
   "latest_action_date": "2026-09-01",
   "number": "9330",
   "origin_chamber": "House",
   "title": "Earned Wage Access Consumer Protection Act",
   "type": "HR",
-  "update_date": "2026-09-18"
+  "update_date": "2026-10-30"
  },
  "119-hr-9331": {
   "congress": 119,
@@ -117282,15 +117282,15 @@
   "update_date": "2026-07-09"
  },
  "119-hr-9436": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9436?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-09-14",
   "number": "9436",
   "origin_chamber": "House",
   "title": "Northeast Lobsterman Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-24"
+  "update_date": "2026-10-30"
  },
  "119-hr-9437": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9437?format=json",
@@ -130130,15 +130130,15 @@
   "update_date": "2026-09-25"
  },
  "119-hres-1490": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1490?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-27",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-09-01",
   "number": "1490",
   "origin_chamber": "House",
   "title": "Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hres-1491": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1491?format=json",
@@ -130218,26 +130218,26 @@
   "update_date": "2026-09-11"
  },
  "119-hres-1498": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1498?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-03",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-09-01",
   "number": "1498",
   "origin_chamber": "House",
   "title": "In the matter of allegations relating to Representative Chuck Edwards.",
   "type": "HRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-30"
  },
  "119-hres-1499": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1499?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-31",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-09-01",
   "number": "1499",
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
   "type": "HRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-30"
  },
  "119-hres-15": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/15?format=json",
@@ -135124,15 +135124,15 @@
   "update_date": "2025-06-28"
  },
  "119-hres-418": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/418?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-15",
   "latest_action": "Referred to the House Committee on House Administration.",
   "latest_action_date": "2025-05-15",
   "number": "418",
   "origin_chamber": "House",
   "title": "Ride-Along Resolution",
   "type": "HRES",
-  "update_date": "2026-09-01"
+  "update_date": "2026-10-30"
  },
  "119-hres-419": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/419?format=json",
@@ -157190,15 +157190,15 @@
   "update_date": "2026-03-27"
  },
  "119-s-224": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/224?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-01-23",
   "number": "224",
   "origin_chamber": "Senate",
   "title": "Promoting Domestic Energy Production Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-30"
  },
  "119-s-2240": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2240?format=json",
@@ -159489,15 +159489,15 @@
   "update_date": "2025-09-17"
  },
  "119-s-2431": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2431?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-24",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.",
   "latest_action_date": "2025-07-24",
   "number": "2431",
   "origin_chamber": "Senate",
   "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
   "type": "S",
-  "update_date": "2026-07-12"
+  "update_date": "2026-10-30"
  },
  "119-s-2432": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2432?format=json",
@@ -175890,15 +175890,15 @@
   "update_date": "2026-03-05"
  },
  "119-s-3791": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3791?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-05",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.",
   "latest_action_date": "2026-09-14",
   "number": "3791",
   "origin_chamber": "Senate",
   "title": "Regional Ocean Partnerships Reauthorization Act",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-30"
  },
  "119-s-3792": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3792?format=json",
@@ -181346,15 +181346,15 @@
   "update_date": "2026-09-30"
  },
  "119-s-4239": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4239?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
   "latest_action_date": "2026-07-15",
   "number": "4239",
   "origin_chamber": "Senate",
   "title": "Plug Offshore Wells Act",
   "type": "S",
-  "update_date": "2026-09-14"
+  "update_date": "2026-10-30"
  },
  "119-s-424": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/424?format=json",
@@ -187132,15 +187132,15 @@
   "update_date": "2026-07-01"
  },
  "119-s-4715": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4715?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
   "latest_action_date": "2026-07-15",
   "number": "4715",
   "origin_chamber": "Senate",
   "title": "Offshore Leasing Standards and Accountability Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-10-30"
  },
  "119-s-4716": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4716?format=json",
