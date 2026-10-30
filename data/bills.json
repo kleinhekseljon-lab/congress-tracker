@@ -43296,15 +43296,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-3377": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3377?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-13",
   "latest_action": "Became Private Law No: 119-1.",
   "latest_action_date": "2026-03-26",
   "number": "3377",
   "origin_chamber": "House",
   "title": "To authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War.",
   "type": "HR",
-  "update_date": "2026-07-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-3378": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3378?format=json",
@@ -90112,15 +90112,15 @@
   "update_date": "2026-07-01"
  },
  "119-hr-7211": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7211?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-22",
   "latest_action": "Became Public Law No: 119-81.",
   "latest_action_date": "2026-03-26",
   "number": "7211",
   "origin_chamber": "House",
   "title": "To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-07-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-7212": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7212?format=json",
@@ -144243,15 +144243,15 @@
   "update_date": "2026-05-12"
  },
  "119-s-1169": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1169?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-27",
   "number": "1169",
   "origin_chamber": "Senate",
   "title": "Freedom from Unfair Gun Taxes Act",
   "type": "S",
-  "update_date": "2026-09-16"
+  "update_date": "2026-10-30"
  },
  "119-s-117": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/117?format=json",
@@ -152647,15 +152647,15 @@
   "update_date": "2025-06-20"
  },
  "119-s-1865": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1865?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-22",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-05-22",
   "number": "1865",
   "origin_chamber": "Senate",
   "title": "Tanning Tax Repeal Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-10-30"
  },
  "119-s-1866": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1866?format=json",
@@ -175769,15 +175769,15 @@
   "update_date": "2026-02-26"
  },
  "119-s-3781": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3781?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-04",
   "latest_action": "Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-02-04",
   "number": "3781",
   "origin_chamber": "Senate",
   "title": "A bill to authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War",
   "type": "S",
-  "update_date": "2026-06-09"
+  "update_date": "2026-10-30"
  },
  "119-s-3782": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3782?format=json",
