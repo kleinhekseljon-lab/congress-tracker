@@ -5478,15 +5478,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-10136": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10136?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-20",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "10136",
   "origin_chamber": "House",
   "title": "Crossett Experimental Forest Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-10137": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json",
@@ -7557,15 +7557,15 @@
   "update_date": "2026-09-29"
  },
  "119-hr-10306": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10306?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-08",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "10306",
   "origin_chamber": "House",
   "title": "Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-10-30"
  },
  "119-hr-10307": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10307?format=json",
@@ -42361,15 +42361,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-3331": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3331?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-13",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 12.",
   "latest_action_date": "2025-06-11",
   "number": "3331",
   "origin_chamber": "House",
   "title": "Mariner Exam Modernization Act",
   "type": "HR",
-  "update_date": "2026-01-05"
+  "update_date": "2026-10-30"
  },
  "119-hr-3332": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3332?format=json",
@@ -57816,15 +57816,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-4598": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4598?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-22",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "4598",
   "origin_chamber": "House",
   "title": "Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-4599": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4599?format=json",
@@ -90244,15 +90244,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7254": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7254?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-27",
   "latest_action": "Ordered to be Reported (Amended) by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "7254",
   "origin_chamber": "House",
   "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-10-30"
  },
  "119-hr-7255": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7255?format=json",
@@ -98780,15 +98780,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7954": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7954?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-17",
   "latest_action": "Ordered to be Reported by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "7954",
   "origin_chamber": "House",
   "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-7955": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7955?format=json",
@@ -101728,15 +101728,15 @@
   "update_date": "2026-09-16"
  },
  "119-hr-8195": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8195?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-02",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "8195",
   "origin_chamber": "House",
   "title": "Responsible Cormorant Management and Control Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-30"
  },
  "119-hr-8196": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8196?format=json",
@@ -105248,15 +105248,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8483": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8483?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-23",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "8483",
   "origin_chamber": "House",
   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-8484": {
   "congress": 119,
@@ -114851,15 +114851,15 @@
   "update_date": "2026-09-02"
  },
  "119-hr-9269": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9269?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Ordered to be Reported (Amended) by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "9269",
   "origin_chamber": "House",
   "title": "Renewing the African American Civil Rights Network Act",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-927": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/927?format=json",
@@ -118899,15 +118899,15 @@
   "update_date": "2025-06-09"
  },
  "119-hr-9600": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9600?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-06",
   "latest_action": "Ordered to be Reported by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "9600",
   "origin_chamber": "House",
   "title": "Common Sense 250 Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-10-30"
  },
  "119-hr-9601": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9601?format=json",
@@ -119383,15 +119383,15 @@
   "update_date": "2026-03-28"
  },
  "119-hr-9640": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9640?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "9640",
   "origin_chamber": "House",
   "title": "Earth MRI Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-10-30"
  },
  "119-hr-9641": {
   "congress": 119,
@@ -121121,15 +121121,15 @@
   "update_date": "2026-09-29"
  },
  "119-hr-9785": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9785?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-20",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "9785",
   "origin_chamber": "House",
   "title": "South Dakota Water Feasibility Studies Act",
   "type": "HR",
-  "update_date": "2026-10-19"
+  "update_date": "2026-10-30"
  },
  "119-hr-9786": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9786?format=json",
@@ -199848,15 +199848,15 @@
   "update_date": "2026-01-23"
  },
  "119-s-675": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/675?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-20",
   "latest_action": "Ordered to be Reported by Unanimous Consent.",
   "latest_action_date": "2026-09-15",
   "number": "675",
   "origin_chamber": "Senate",
   "title": "Theodore Roosevelt Presidential Library Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-10-30"
  },
  "119-s-676": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/676?format=json",
