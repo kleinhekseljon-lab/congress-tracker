@@ -198539,15 +198539,15 @@
   "update_date": "2026-10-15"
  },
  "119-s-5653": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5653?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-30",
   "number": "5653",
   "origin_chamber": "Senate",
   "title": "Bipartisan American Affordability and Jobs Act of 2026",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-10-30"
  },
  "119-s-5654": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5654?format=json",
