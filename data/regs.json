@@ -17021,6 +17021,180 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22223/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
  },
+ "2026-22273": {
+  "abstract": "The Food and Drug Administration (FDA or we) proposes to amend the regulations on nutrient specifications and labeling for infant formula as part of its phased, comprehensive review of infant formula nutrients. This action, if finalized, would amend the minimum and/or maximum levels of four required nutrients, change the unit of measure for certain nutrients, change the permitted source to meet one of the nutrient requirements, and amend the content of the required labeling. This action also includes a comprehensive assessment of four additional nutrients for which we conclude that the current required levels remain appropriate and reflect the best available scientific evidence on infant nutritional requirements and safe intake levels.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": "2027-03-02",
+  "effective_on": null,
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Infant Formula Nutrient Requirements",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements"
+ },
+ "2026-22295": {
+  "abstract": "EPA is proposing significant new use rules (SNURs) under the Toxic Substances Control Act (TSCA) for certain chemical substances that were the subject of premanufacture notices (PMNs) and are also subject to an Order issued by EPA pursuant to TSCA. Once finalized, the SNURs would require persons who intend to manufacture (defined by statute to include import) or process any of these chemical substances for an activity that is proposed as a significant new use by this rulemaking to notify EPA at least 90 days before commencing that activity. The required notification initiates EPA's evaluation of the conditions of that use for that chemical substance. In addition, the manufacture or processing for the significant new use may not commence until EPA has conducted a review of the required notification, made an appropriate determination regarding that notification, and taken such actions as required by that determination.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": "2026-12-02",
+  "effective_on": null,
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Significant New Use Rules on Certain Chemical Substances (26-7)",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22295/significant-new-use-rules-on-certain-chemical-substances-26-7"
+ },
+ "2026-22296": {
+  "abstract": "The United States Department of Agriculture (Department), Forest Service (Forest Service or Agency), this final rule will exempt administrative site leases from the regulations for special uses. The purpose of this deregulatory action is to better align Forest Service leasing activities with how leases are commonly legally defined to improve the feasibility of partnering with private developers and local municipalities for leasing and redeveloping administrative sites.",
+  "agencies": [
+   "Agriculture Department",
+   "Forest Service"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "forest-service"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-02",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Administrative Site Leases",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22296/administrative-site-leases"
+ },
+ "2026-22306": {
+  "abstract": "The Department is issuing a final regulation that will require providers of pharmacy benefit management services and affiliated providers of brokerage and consulting services to disclose information about their compensation to fiduciaries of large, self-insured group health plans subject to the Employee Retirement Income Security Act (ERISA). Pharmacy spending is a major driver of overall healthcare costs for employers and is growing faster than medical and surgical spending. These disclosure requirements apply for purposes of ERISA's statutory prohibited transaction exemption for service arrangements under section 408(b)(2). These disclosures are needed so that fiduciaries can assess the reasonableness of contracts or arrangements with these service providers, including the reasonableness of the service providers' compensation. As directed in section 12 of President Trump's Executive Order 14273, Lowering Drug Prices by Once Again Putting Americans First, the Department is issuing this rule to improve employer health plan transparency into the direct and indirect compensation received by pharmacy benefit managers. This final rule will affect sponsors and other fiduciaries of large, self-insured group health plans and certain service providers to such plans.",
+  "agencies": [
+   "Labor Department",
+   "Employee Benefits Security Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "employee-benefits-security-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-04",
+  "published": "2026-11-02",
+  "significant": true,
+  "title": "Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22306/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure"
+ },
+ "2026-22307": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for all BRP-Rotax GmbH & Co KG (BRP-Rotax) Model 915 iSc2 C24, 915 iSc3 C24, 916 iSc2 A, 916 iSc2 C24, 916 iSc3 A, and 916 iSc3 C24 engines. This AD was prompted by a report of oil leakage from cracks in the wall of the turbocharger valve housing due to insufficient thickness. This AD requires replacement of the turbocharger valve housing and reidentification of the turbocharger. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-23",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-Powertrain GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and"
+ },
+ "2026-22310": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Diamond Aircraft Industries Inc. (DAI) Model DA 40, DA 40 F, and DA 40 NG airplanes. This AD was prompted by several reports of passenger door separation during flight. This AD requires revising the existing airplane flight manual (AFM) to provide the flight crew with revised operating limitations, emergency procedures, and normal operating procedures; inspecting the passenger door latching mechanism and safety hook mechanism areas and performing corrective action, as applicable; inspecting the safety hook, latching bolts, front and rear door guide blocks, canopy and passenger door warning light, carbon hinges, tension spring, retaining block, safety hook push button, latching mechanism spring, gas spring, and door frame; measuring the passenger door handle actuation force; modifying the airplane with placards; replacing the gas spring; and replacing the hook assembly, retaining block, door guide blocks, and door sealant if necessary. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-07",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Airworthiness Directives; Diamond Aircraft Industries Inc. Airplanes",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22310/airworthiness-directives-diamond-aircraft-industries-inc-airplanes"
+ },
+ "2026-22317": {
+  "abstract": "The FAA is superseding Airworthiness Directive (AD) 2023-07- 09, which applied to certain The Boeing Company Model 747-400 and -8 series airplanes. AD 2023-07-09 required inspecting for wear of the transfer pump housing inlet check valves and transfer pump motor impeller inlet adapters for the horizontal stabilizer fuel tank and doing corrective actions, if necessary, and limited the installation of affected parts. This AD was prompted by the manufacturer developing further action to address the unsafe condition. This AD requires repetitive inspections for damage of the transfer pump housing inlet check valves and transfer pump motor impeller inlet adapters for the horizontal stabilizer fuel tank and applicable on-condition actions. This AD also limits the installation of affected parts under certain conditions. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-07",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Airworthiness Directives; The Boeing Company Airplanes",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22317/airworthiness-directives-the-boeing-company-airplanes"
+ },
+ "2026-22318": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This AD was prompted by a report that, during production, certain sealant installations within the center wing fuel tank did not receive required visual and adhesion inspections. This AD requires a detailed inspection of certain sealant installations in the left, right, and center wing side-of-body areas, an adhesion test of the sealant, and applicable on-condition actions. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-07",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Airworthiness Directives; The Boeing Company Airplanes",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22318/airworthiness-directives-the-boeing-company-airplanes"
+ },
+ "2026-22334": {
+  "abstract": "In this document, the Wireline Competition Bureau (Bureau) withdraws all amendatory instructions inadvertently included in the notification published on October 1, 2026, announcing the effective dates of amendments to the Federal Communications Commission's network change disclosure and discontinuance rules adopted in a Report and Order (FCC 26-19) that published on April 20, 2026. In this document, the Bureau also announces the effective date for amendments published on April 20, 2026.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-02",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization; Correction",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22334/reducing-barriers-to-network-improvements-and-service-changes-accelerating-network-modernization"
+ },
+ "2026-22337": {
+  "abstract": "The Federal Communications Commission (Commission or FCC) proposes to update its rules for Ultra-Wideband (UWB) devices to reflect significant technological developments since the rules were first adopted in 2002. UWB technology has matured into a widely used, low-power enabler that supports applications in tracking, automation, precision location, health monitoring, athletic performance, and public safety. As capabilities of UWB have expanded, the existing rules have not kept pace with the technological change, resulting in an increasing number of waiver requests received by the Commission to authorize modern devices. The Notice of Proposed Rulemaking seeks comment on revisions intended to modernize the UWB framework, provide greater flexibility for future applications, promote continued innovation, and ensure the protection of incumbent federal and non-federal spectrum users.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": "2026-12-02",
+  "published": "2026-11-02",
+  "significant": false,
+  "title": "Unleashing the Power of Unlicensed Ultra-Wideband Devices; Petition of Robert Bosch LLC for Amendment of the Part 15 Subpart F Ultra-Wideband Rules; and Petition of Alliance for Automative Innovation et al. To Amend Part 15 of the FCC's Rules To Permit the Operation of Certain Ultra-Wideband Devices",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22337/unleashing-the-power-of-unlicensed-ultra-wideband-devices-petition-of-robert-bosch-llc-for-amendment"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
