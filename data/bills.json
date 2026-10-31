@@ -11679,7 +11679,7 @@
   "origin_chamber": "House",
   "title": "Stop the Settlements Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-10-31"
  },
  "119-hr-10643": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10643?format=json",
@@ -39248,15 +39248,15 @@
   "update_date": "2025-07-26"
  },
  "119-hr-3045": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3045?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-28",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-04-28",
   "number": "3045",
   "origin_chamber": "House",
   "title": "West Bank Violence Prevention Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-10"
+  "update_date": "2026-10-31"
  },
  "119-hr-3046": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3046?format=json",
@@ -45584,15 +45584,15 @@
   "update_date": "2026-06-10"
  },
  "119-hr-3565": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3565?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-21",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-05-21",
   "number": "3565",
   "origin_chamber": "House",
   "title": "To provide for a limitation on the transfer of defense articles and defense services to Israel.",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-10-31"
  },
  "119-hr-3566": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3566?format=json",
@@ -133782,26 +133782,26 @@
   "update_date": "2025-05-19"
  },
  "119-hres-308": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/308?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-12-09",
   "number": "308",
   "origin_chamber": "House",
   "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
   "type": "HRES",
-  "update_date": "2026-07-19"
+  "update_date": "2026-10-31"
  },
  "119-hres-309": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/309?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-12-09",
   "number": "309",
   "origin_chamber": "House",
   "title": "Dismissing the election contest relating to the office of Representative from the Twenty-eighth Congressional District of Texas.",
   "type": "HRES",
-  "update_date": "2026-07-19"
+  "update_date": "2026-10-31"
  },
  "119-hres-31": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/31?format=json",
@@ -133815,37 +133815,37 @@
   "update_date": "2026-09-29"
  },
  "119-hres-310": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/310?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-12-09",
   "number": "310",
   "origin_chamber": "House",
   "title": "Dismissing the election contest relating to the office of Representative from the at-large Congressional District of Alaska.",
   "type": "HRES",
-  "update_date": "2026-07-19"
+  "update_date": "2026-10-31"
  },
  "119-hres-311": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/311?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-12-09",
   "number": "311",
   "origin_chamber": "House",
   "title": "Dismissing the election contest relating to the office of Representative from the Thirtieth Congressional District of Texas.",
   "type": "HRES",
-  "update_date": "2026-07-19"
+  "update_date": "2026-10-31"
  },
  "119-hres-312": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/312?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2025-12-09",
   "number": "312",
   "origin_chamber": "House",
   "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
   "type": "HRES",
-  "update_date": "2026-07-19"
+  "update_date": "2026-10-31"
  },
  "119-hres-313": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/313?format=json",
@@ -162327,15 +162327,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-2667": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2667?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2025-08-01",
   "number": "2667",
   "origin_chamber": "Senate",
   "title": "West Bank Violence Prevention Act of 2025",
   "type": "S",
-  "update_date": "2026-06-23"
+  "update_date": "2026-10-31"
  },
  "119-s-2668": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2668?format=json",
@@ -196372,15 +196372,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5476": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5476?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2026-09-23",
   "number": "5476",
   "origin_chamber": "Senate",
   "title": "A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
   "type": "S",
-  "update_date": "2026-10-05"
+  "update_date": "2026-10-31"
  },
  "119-s-5477": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5477?format=json",
@@ -206239,15 +206239,15 @@
   "update_date": "2026-09-08"
  },
  "119-sjres-32": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sjres/32?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 40 - 59. Record Vote Number: 80. (consideration: CR S1764-1779)",
   "latest_action_date": "2026-04-15",
   "number": "32",
   "origin_chamber": "Senate",
   "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Israel of certain defense articles and services.",
   "type": "SJRES",
-  "update_date": "2026-04-16"
+  "update_date": "2026-10-31"
  },
  "119-sjres-33": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/33?format=json",
