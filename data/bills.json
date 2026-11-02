@@ -35486,15 +35486,15 @@
   "update_date": "2025-05-22"
  },
  "119-hr-2738": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2738?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-04-08",
   "number": "2738",
   "origin_chamber": "House",
   "title": "Ending PUSHOUT Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-02"
  },
  "119-hr-2739": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2739?format=json",
@@ -83226,15 +83226,15 @@
   "update_date": "2026-11-02"
  },
  "119-hr-6649": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6649?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the Subcommittee on Health.",
   "latest_action_date": "2026-01-15",
   "number": "6649",
   "origin_chamber": "House",
   "title": "Fit Vets Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-02"
  },
  "119-hr-665": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/665?format=json",
@@ -83248,15 +83248,15 @@
   "update_date": "2025-08-02"
  },
  "119-hr-6650": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6650?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the Subcommittee on Economic Opportunity.",
   "latest_action_date": "2026-01-15",
   "number": "6650",
   "origin_chamber": "House",
   "title": "Veterans Career Connection Act",
   "type": "HR",
-  "update_date": "2026-01-31"
+  "update_date": "2026-11-02"
  },
  "119-hr-6651": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6651?format=json",
@@ -83303,15 +83303,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-6655": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6655?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
   "latest_action_date": "2026-01-13",
   "number": "6655",
   "origin_chamber": "House",
   "title": "CFTC Charitable Organization Exemption Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-6656": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6656?format=json",
