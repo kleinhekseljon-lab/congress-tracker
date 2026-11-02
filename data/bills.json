@@ -2846,7 +2846,7 @@
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States to require a Judge to be a natural born citizen of the United States.",
   "type": "HJRES",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-02"
  },
  "119-hjres-22": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/22?format=json",
@@ -13835,7 +13835,7 @@
   "origin_chamber": "House",
   "title": "United States-India Interparliamentary Group Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-02"
  },
  "119-hr-1082": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1082?format=json",
@@ -14924,7 +14924,7 @@
   "origin_chamber": "House",
   "title": "Deaths in Custody Reporting Reform Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-02"
  },
  "119-hr-1091": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1091?format=json",
@@ -20339,15 +20339,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1497": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1497?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-21",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-02-21",
   "number": "1497",
   "origin_chamber": "House",
   "title": "NIH Reform Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-02"
  },
  "119-hr-1498": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1498?format=json",
@@ -25366,15 +25366,15 @@
   "update_date": "2026-07-28"
  },
  "119-hr-1909": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1909?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-06",
   "number": "1909",
   "origin_chamber": "House",
   "title": "Preventing Maternal Deaths Reauthorization Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-02"
  },
  "119-hr-191": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/191?format=json",
@@ -74448,15 +74448,15 @@
   "update_date": "2025-12-02"
  },
  "119-hr-5929": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5929?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-07",
   "latest_action": "Placed on the Union Calendar, Calendar No. 602.",
   "latest_action_date": "2026-06-09",
   "number": "5929",
   "origin_chamber": "House",
   "title": "Critical Minerals Supply Chain Resiliency Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-593": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/593?format=json",
@@ -82984,15 +82984,15 @@
   "update_date": "2026-11-02"
  },
  "119-hr-6629": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6629?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-12-11",
   "number": "6629",
   "origin_chamber": "House",
   "title": "Developing Master Plans for Military Service Academies Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-12"
+  "update_date": "2026-11-02"
  },
  "119-hr-663": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/663?format=json",
@@ -83006,26 +83006,26 @@
   "update_date": "2026-06-09"
  },
  "119-hr-6630": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6630?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-12-11",
   "number": "6630",
   "origin_chamber": "House",
   "title": "Expanding Mental Health Access for Cyber Command Personnel Act",
   "type": "HR",
-  "update_date": "2026-01-08"
+  "update_date": "2026-11-02"
  },
  "119-hr-6631": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6631?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-12-11",
   "number": "6631",
   "origin_chamber": "House",
   "title": "Establishing Cyber Security Educational Programs at Academic Institutions Act",
   "type": "HR",
-  "update_date": "2026-09-02"
+  "update_date": "2026-11-02"
  },
  "119-hr-6632": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6632?format=json",
@@ -83094,15 +83094,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-6638": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6638?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-12-11",
   "number": "6638",
   "origin_chamber": "House",
   "title": "To require a report on merits and options for establishing an institute relating to space resources, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-04-02"
+  "update_date": "2026-11-02"
  },
  "119-hr-6639": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6639?format=json",
@@ -83215,15 +83215,15 @@
   "update_date": "2026-01-20"
  },
  "119-hr-6648": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6648?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2025-12-11",
   "number": "6648",
   "origin_chamber": "House",
   "title": "FAIR Vets Act",
   "type": "HR",
-  "update_date": "2026-09-10"
+  "update_date": "2026-11-02"
  },
  "119-hr-6649": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6649?format=json",
@@ -103070,15 +103070,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8273": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8273?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-14",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-04-14",
   "number": "8273",
   "origin_chamber": "House",
   "title": "Catching Up Family Caregivers Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-8274": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8274?format=json",
@@ -121880,15 +121880,15 @@
   "update_date": "2026-09-01"
  },
  "119-hr-9815": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9815?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-07-21",
   "number": "9815",
   "origin_chamber": "House",
   "title": "Federal Bureau of Prisons Voting Assistance Act of 2026",
   "type": "HR",
-  "update_date": "2026-08-01"
+  "update_date": "2026-11-02"
  },
  "119-hr-9816": {
   "congress": 119,
@@ -149490,15 +149490,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1602": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1602?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred sequentially to the Committee on Commerce, Science, and Transportation, pursuant to the order of March 3, 1988, for 30 calendar days excluding any day on which the Senate is not in session, and if not reported by that day, the Committee be discharged from further consideration thereof, and the bill be placed on the calendar.",
   "latest_action_date": "2026-03-20",
   "number": "1602",
   "origin_chamber": "Senate",
   "title": "Mathematical and Statistical Modeling Education Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-02"
  },
  "119-s-1603": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1603?format=json",
