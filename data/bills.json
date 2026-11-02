@@ -13241,7 +13241,7 @@
   "origin_chamber": "House",
   "title": "340B Rebate Model Delay Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-02"
  },
  "119-hr-10771": {
   "congress": 119,
@@ -14660,7 +14660,7 @@
   "origin_chamber": "House",
   "title": "Coastal Ocean Research for Management Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-02"
  },
  "119-hr-10889": {
   "congress": 119,
@@ -14968,7 +14968,7 @@
   "origin_chamber": "House",
   "title": "Fast Tracking European Investment in Ukraine\u2019s Defense Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-02"
  },
  "119-hr-10913": {
   "congress": 119,
@@ -82885,15 +82885,15 @@
   "update_date": "2026-05-18"
  },
  "119-hr-6620": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6620?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-12-11",
   "number": "6620",
   "origin_chamber": "House",
   "title": "To amend the National Flood Insurance Act of 1968 to allow for the consideration of private flood insurance for the purposes of applying continuous coverage requirements, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-01-08"
+  "update_date": "2026-11-02"
  },
  "119-hr-6621": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6621?format=json",
@@ -82962,26 +82962,26 @@
   "update_date": "2026-01-31"
  },
  "119-hr-6627": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6627?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-12-11",
   "number": "6627",
   "origin_chamber": "House",
   "title": "Improving the Enlisted to Officer Judge Advocate Program Act",
   "type": "HR",
-  "update_date": "2026-01-08"
+  "update_date": "2026-11-02"
  },
  "119-hr-6628": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6628?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-12-11",
   "number": "6628",
   "origin_chamber": "House",
   "title": "Protect Greenbury Point Conservation Area Act",
   "type": "HR",
-  "update_date": "2026-01-10"
+  "update_date": "2026-11-02"
  },
  "119-hr-6629": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6629?format=json",
