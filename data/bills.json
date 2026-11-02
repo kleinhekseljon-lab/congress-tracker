@@ -82786,15 +82786,15 @@
   "update_date": "2026-01-05"
  },
  "119-hr-6612": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6612?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-11",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-12-11",
   "number": "6612",
   "origin_chamber": "House",
   "title": "Defense Civilian Faculty Copyright Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-05"
+  "update_date": "2026-11-02"
  },
  "119-hr-6613": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6613?format=json",
@@ -202466,15 +202466,15 @@
   "update_date": "2026-07-24"
  },
  "119-s-857": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/857?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-05",
   "number": "857",
   "origin_chamber": "Senate",
   "title": "Water Conservation Rebate Tax Parity Act",
   "type": "S",
-  "update_date": "2026-05-19"
+  "update_date": "2026-11-02"
  },
  "119-s-858": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/858?format=json",
@@ -202928,15 +202928,15 @@
   "update_date": "2026-10-28"
  },
  "119-s-895": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/895?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-06",
   "number": "895",
   "origin_chamber": "Senate",
   "title": "DELIVER Act of 2025",
   "type": "S",
-  "update_date": "2025-05-08"
+  "update_date": "2026-11-02"
  },
  "119-s-896": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/896?format=json",
