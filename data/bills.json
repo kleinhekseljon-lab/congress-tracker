@@ -15045,7 +15045,7 @@
   "origin_chamber": "House",
   "title": "Safety Net Provider Drug Pricing Protection Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-02"
  },
  "119-hr-1092": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1092?format=json",
@@ -15078,7 +15078,7 @@
   "origin_chamber": "House",
   "title": "Breast Cancer Patient Equity Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-02"
  },
  "119-hr-10922": {
   "congress": 119,
@@ -15199,7 +15199,7 @@
   "origin_chamber": "House",
   "title": "Library Construction and Modernization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-02"
  },
  "119-hr-10932": {
   "congress": 119,
@@ -15221,7 +15221,7 @@
   "origin_chamber": "House",
   "title": "EMS SUPPORT Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-02"
  },
  "119-hr-10934": {
   "congress": 119,
@@ -24750,15 +24750,15 @@
   "update_date": "2026-09-18"
  },
  "119-hr-1859": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1859?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-05",
   "number": "1859",
   "origin_chamber": "House",
   "title": "Apprenticeship Opportunity Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-186": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/186?format=json",
@@ -24959,15 +24959,15 @@
   "update_date": "2025-05-30"
  },
  "119-hr-1876": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1876?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-05",
   "number": "1876",
   "origin_chamber": "House",
   "title": "Keeping Our Field Offices Open Act",
   "type": "HR",
-  "update_date": "2026-09-01"
+  "update_date": "2026-11-02"
  },
  "119-hr-1877": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1877?format=json",
@@ -42754,7 +42754,7 @@
   "origin_chamber": "House",
   "title": "Mariner Exam Modernization Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-02"
  },
  "119-hr-3332": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3332?format=json",
@@ -58209,7 +58209,7 @@
   "origin_chamber": "House",
   "title": "Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-02"
  },
  "119-hr-4599": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4599?format=json",
@@ -67364,15 +67364,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-5349": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5349?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-15",
   "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
   "latest_action_date": "2026-09-30",
   "number": "5349",
   "origin_chamber": "House",
   "title": "TAS Act",
   "type": "HR",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-02"
  },
  "119-hr-535": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/535?format=json",
@@ -163746,15 +163746,15 @@
   "update_date": "2026-10-21"
  },
  "119-s-2783": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2783?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-11",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-09-11",
   "number": "2783",
   "origin_chamber": "Senate",
   "title": "Learn and Serve America Reinvestment Act",
   "type": "S",
-  "update_date": "2026-03-30"
+  "update_date": "2026-11-02"
  },
  "119-s-2784": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2784?format=json",
@@ -171292,15 +171292,15 @@
   "update_date": "2026-01-07"
  },
  "119-s-3406": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3406?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-09",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-12-09",
   "number": "3406",
   "origin_chamber": "Senate",
   "title": "PATHS to Tutor Act of 2025",
   "type": "S",
-  "update_date": "2026-02-04"
+  "update_date": "2026-11-02"
  },
  "119-s-3407": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3407?format=json",
@@ -176693,15 +176693,15 @@
   "update_date": "2026-02-27"
  },
  "119-s-3857": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3857?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-02-12",
   "number": "3857",
   "origin_chamber": "Senate",
   "title": "One Nation, One Visa Policy Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-02"
  },
  "119-s-3858": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3858?format=json",
@@ -177573,15 +177573,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3929": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3929?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-26",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-09-16",
   "number": "3929",
   "origin_chamber": "Senate",
   "title": "Air Traffic Situational Awareness Enhancement Act",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-02"
  },
  "119-s-393": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/393?format=json",
@@ -182886,15 +182886,15 @@
   "update_date": "2026-05-15"
  },
  "119-s-4365": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4365?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-21",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-04-21",
   "number": "4365",
   "origin_chamber": "Senate",
   "title": "FAFSA Verification Efficiency Act",
   "type": "S",
-  "update_date": "2026-07-15"
+  "update_date": "2026-11-02"
  },
  "119-s-4366": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4366?format=json",
@@ -196996,7 +196996,7 @@
   "origin_chamber": "Senate",
   "title": "Agricultural Act of 2026",
   "type": "S",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-02"
  },
  "119-s-5527": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5527?format=json",
