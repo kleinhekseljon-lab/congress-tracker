@@ -14825,7 +14825,7 @@
   "origin_chamber": "House",
   "title": "Law Enforcement Accountability for Plate Reader Abuse Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-02"
  },
  "119-hr-10901": {
   "congress": 119,
@@ -24970,15 +24970,15 @@
   "update_date": "2026-11-02"
  },
  "119-hr-1877": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1877?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-05",
   "number": "1877",
   "origin_chamber": "House",
   "title": "Protecting Americans\u2019 Social Security Data Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-1878": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1878?format=json",
@@ -25113,15 +25113,15 @@
   "update_date": "2025-12-11"
  },
  "119-hr-1889": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1889?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-03-05",
   "number": "1889",
   "origin_chamber": "House",
   "title": "Cutting Red Tape on Child Care Providers Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-19"
+  "update_date": "2026-11-02"
  },
  "119-hr-189": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/189?format=json",
@@ -25289,15 +25289,15 @@
   "update_date": "2026-09-01"
  },
  "119-hr-1902": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1902?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-06",
   "number": "1902",
   "origin_chamber": "House",
   "title": "HERO Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-02"
  },
  "119-hr-1903": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1903?format=json",
@@ -86790,15 +86790,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-6940": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6940?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-01-06",
   "number": "6940",
   "origin_chamber": "House",
   "title": "Hope Heals Act of 2026",
   "type": "HR",
-  "update_date": "2026-01-22"
+  "update_date": "2026-11-02"
  },
  "119-hr-6941": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6941?format=json",
