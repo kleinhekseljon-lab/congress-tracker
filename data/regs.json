@@ -17101,7 +17101,7 @@
    "transportation-department",
    "federal-aviation-administration"
   ],
-  "comments_close_on": null,
+  "comments_close_on": "2026-12-17",
   "effective_on": "2026-11-23",
   "published": "2026-11-02",
   "significant": false,
@@ -17187,8 +17187,8 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2027-01-04",
-  "effective_on": "2026-12-02",
+  "comments_close_on": "2026-12-02",
+  "effective_on": null,
   "published": "2026-11-02",
   "significant": false,
   "title": "Unleashing the Power of Unlicensed Ultra-Wideband Devices; Petition of Robert Bosch LLC for Amendment of the Part 15 Subpart F Ultra-Wideband Rules; and Petition of Alliance for Automative Innovation et al. To Amend Part 15 of the FCC's Rules To Permit the Operation of Certain Ultra-Wideband Devices",
