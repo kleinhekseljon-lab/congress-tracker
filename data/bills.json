@@ -15045,7 +15045,7 @@
   "origin_chamber": "House",
   "title": "Natural Gas Dominance Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-03"
  },
  "119-hr-10919": {
   "congress": 119,
@@ -15100,7 +15100,7 @@
   "origin_chamber": "House",
   "title": "Fraud Accountability and Mandatory Sentencing Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-03"
  },
  "119-hr-10923": {
   "congress": 119,
@@ -15199,7 +15199,7 @@
   "origin_chamber": "House",
   "title": "Childhood Offenders Rehabilitation and Safety Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-03"
  },
  "119-hr-10931": {
   "congress": 119,
@@ -15441,7 +15441,7 @@
   "origin_chamber": "House",
   "title": "Data Center Oversight Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-03"
  },
  "119-hr-10951": {
   "congress": 119,
@@ -106447,15 +106447,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8547": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8547?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-28",
   "number": "8547",
   "origin_chamber": "House",
   "title": "'Directly Impacted Child Rehab and Safety Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-03"
  },
  "119-hr-8548": {
   "congress": 119,
@@ -115962,15 +115962,15 @@
   "update_date": "2026-07-06"
  },
  "119-hr-9325": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9325?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-15",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-06-15",
   "number": "9325",
   "origin_chamber": "House",
   "title": "Lone Star Coastal National Recreation Area Act",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-03"
  },
  "119-hr-9326": {
   "congress": 119,
@@ -177089,15 +177089,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3885": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3885?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-07-22",
   "number": "3885",
   "origin_chamber": "Senate",
   "title": "Aviation Innovation and Global Competitiveness Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-03"
  },
  "119-s-3886": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3886?format=json",
@@ -198888,7 +198888,7 @@
   "origin_chamber": "Senate",
   "title": "Lone Star Coastal National Recreation Area Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-03"
  },
  "119-s-5678": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5678?format=json",
