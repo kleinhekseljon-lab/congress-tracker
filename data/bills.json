@@ -12801,7 +12801,7 @@
   "origin_chamber": "House",
   "title": "Improving Justice Programs through Science Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-03"
  },
  "119-hr-10734": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10734?format=json",
@@ -12845,7 +12845,7 @@
   "origin_chamber": "House",
   "title": "Establishing Gold Standard Science Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-03"
  },
  "119-hr-10738": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10738?format=json",
@@ -14957,7 +14957,7 @@
   "origin_chamber": "House",
   "title": "Dunkin\u2019s Law",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-03"
  },
  "119-hr-10911": {
   "congress": 119,
@@ -15012,7 +15012,7 @@
   "origin_chamber": "House",
   "title": "Common-Sense Cloud Security Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-03"
  },
  "119-hr-10916": {
   "congress": 119,
@@ -15023,7 +15023,7 @@
   "origin_chamber": "House",
   "title": "Aquatic Restoration and Conservation Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-03"
  },
  "119-hr-10917": {
   "congress": 119,
@@ -54040,7 +54040,7 @@
   "origin_chamber": "House",
   "title": "Expanding Access to Mental Health Services in Schools Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-11-03"
  },
  "119-hr-4254": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4254?format=json",
@@ -62469,15 +62469,15 @@
   "update_date": "2026-08-07"
  },
  "119-hr-4945": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4945?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-08",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-08-08",
   "number": "4945",
   "origin_chamber": "House",
   "title": "GO Ag Act",
   "type": "HR",
-  "update_date": "2026-07-28"
+  "update_date": "2026-11-03"
  },
  "119-hr-4946": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4946?format=json",
@@ -69817,15 +69817,15 @@
   "update_date": "2025-11-18"
  },
  "119-hr-5547": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5547?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-23",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-09-23",
   "number": "5547",
   "origin_chamber": "House",
   "title": "To amend the Elementary and Secondary Education Act of 1965 to provide for additional activities, resources, and data collection with respect to English learners, and for other purposes.",
   "type": "HR",
-  "update_date": "2025-11-18"
+  "update_date": "2026-11-03"
  },
  "119-hr-5548": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5548?format=json",
@@ -98780,15 +98780,15 @@
   "update_date": "2026-10-08"
  },
  "119-hr-792": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/792?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-01-28",
   "number": "792",
   "origin_chamber": "House",
   "title": "To direct the Secretary of the Interior to arrange for the carving of the figure of President Donald J. Trump on Mount Rushmore National Memorial.",
   "type": "HR",
-  "update_date": "2025-09-02"
+  "update_date": "2026-11-03"
  },
  "119-hr-7920": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7920?format=json",
@@ -158653,15 +158653,15 @@
   "update_date": "2026-06-13"
  },
  "119-s-2357": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2357?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-17",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.",
   "latest_action_date": "2026-03-11",
   "number": "2357",
   "origin_chamber": "Senate",
   "title": "Young Fishermen\u2019s Development Program Reauthorization Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-03"
  },
  "119-s-2358": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2358?format=json",
@@ -165022,15 +165022,15 @@
   "update_date": "2026-06-16"
  },
  "119-s-2883": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2883?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-18",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-09-18",
   "number": "2883",
   "origin_chamber": "Senate",
   "title": "Quantifying Uncertainty and Action to Help Optimize Growth of Shellfish Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-03"
  },
  "119-s-2884": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2884?format=json",
