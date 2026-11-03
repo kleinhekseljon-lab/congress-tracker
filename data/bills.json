@@ -7854,15 +7854,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-10329": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10329?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-10",
   "latest_action": "Placed on the Union Calendar, Calendar No. 741.",
   "latest_action_date": "2026-10-09",
   "number": "10329",
   "origin_chamber": "House",
   "title": "Combating Foreign Threats to Main Street Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-03"
  },
  "119-hr-1033": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1033?format=json",
@@ -157916,15 +157916,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2296": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2296?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-15",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-11-12",
   "number": "2296",
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2026",
   "type": "S",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-03"
  },
  "119-s-2297": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2297?format=json",
@@ -176022,15 +176022,15 @@
   "update_date": "2026-02-26"
  },
  "119-s-3798": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3798?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-05",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-10-05",
   "number": "3798",
   "origin_chamber": "Senate",
   "title": "Safe Access to Cash Act of 2026",
   "type": "S",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-03"
  },
  "119-s-3799": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3799?format=json",
