@@ -149853,15 +149853,15 @@
   "update_date": "2025-07-30"
  },
  "119-s-1628": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1628?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-06",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-06",
   "number": "1628",
   "origin_chamber": "Senate",
   "title": "Improving Access to Nutrition Act of 2025",
   "type": "S",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-03"
  },
  "119-s-1629": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1629?format=json",
@@ -150249,15 +150249,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1661": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1661?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-07",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-07",
   "number": "1661",
   "origin_chamber": "Senate",
   "title": "Disaster Relief for Farmworkers Act of 2025",
   "type": "S",
-  "update_date": "2025-06-05"
+  "update_date": "2026-11-03"
  },
  "119-s-1662": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1662?format=json",
