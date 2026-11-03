@@ -120296,15 +120296,15 @@
   "update_date": "2026-08-18"
  },
  "119-hr-9685": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9685?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-14",
   "latest_action": "Referred to the House Committee on Transportation and Infrastructure.",
   "latest_action_date": "2026-07-14",
   "number": "9685",
   "origin_chamber": "House",
   "title": "No New Fencing At the White House Act",
   "type": "HR",
-  "update_date": "2026-07-24"
+  "update_date": "2026-11-03"
  },
  "119-hr-9686": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9686?format=json",
@@ -195437,15 +195437,15 @@
   "update_date": "2026-09-30"
  },
  "119-s-5399": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5399?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-15",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-15",
   "number": "5399",
   "origin_chamber": "Senate",
   "title": "No New Fencing At the White House Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-03"
  },
  "119-s-540": {
   "congress": 119,
