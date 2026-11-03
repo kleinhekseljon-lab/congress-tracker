@@ -14858,7 +14858,7 @@
   "origin_chamber": "House",
   "title": "Safe Transit Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-03"
  },
  "119-hr-10903": {
   "congress": 119,
@@ -50168,7 +50168,7 @@
   "origin_chamber": "House",
   "title": "Wabeno Economic Development Act",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-11-03"
  },
  "119-hr-3938": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3938?format=json",
@@ -120736,15 +120736,15 @@
   "update_date": "2026-07-30"
  },
  "119-hr-9718": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9718?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-15",
   "latest_action": "Placed on the Union Calendar, Calendar No. 740.",
   "latest_action_date": "2026-10-09",
   "number": "9718",
   "origin_chamber": "House",
   "title": "Reshoring American Manufacturing Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-03"
  },
  "119-hr-9719": {
   "congress": 119,
@@ -143143,15 +143143,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1071": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1071?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Became Public Law No: 119-60.",
   "latest_action_date": "2025-12-18",
   "number": "1071",
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2026",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-03"
  },
  "119-s-1072": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1072?format=json",
@@ -175230,15 +175230,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-3730": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3730?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-29",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-01-29",
   "number": "3730",
   "origin_chamber": "Senate",
   "title": "Emergency Medical Services Reimbursement for On-Scene Care and Support Act",
   "type": "S",
-  "update_date": "2026-02-20"
+  "update_date": "2026-11-03"
  },
  "119-s-3732": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3732?format=json",
@@ -203200,7 +203200,7 @@
   "origin_chamber": "Senate",
   "title": "Chief Herbert D. Proffitt Act of 2025",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-03"
  },
  "119-s-912": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/912?format=json",
