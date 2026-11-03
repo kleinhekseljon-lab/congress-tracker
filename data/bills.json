@@ -93995,15 +93995,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7527": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7527?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-02-12",
   "number": "7527",
   "origin_chamber": "House",
   "title": "Pay Less at the Pump Act of 2026",
   "type": "HR",
-  "update_date": "2026-03-05"
+  "update_date": "2026-11-03"
  },
  "119-hr-7528": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7528?format=json",
