@@ -105641,7 +105641,7 @@
   "origin_chamber": "House",
   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-03"
  },
  "119-hr-8484": {
   "congress": 119,
@@ -115244,7 +115244,7 @@
   "origin_chamber": "House",
   "title": "Renewing the African American Civil Rights Network Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-03"
  },
  "119-hr-927": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/927?format=json",
@@ -187759,15 +187759,15 @@
   "update_date": "2026-07-14"
  },
  "119-s-4767": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4767?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
   "latest_action_date": "2026-07-21",
   "number": "4767",
   "origin_chamber": "Senate",
   "title": "Renewing the African American Civil Rights Network Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-03"
  },
  "119-s-4768": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4768?format=json",
