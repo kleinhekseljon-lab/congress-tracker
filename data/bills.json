@@ -6743,15 +6743,15 @@
   "update_date": "2026-09-03"
  },
  "119-hr-10238": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10238?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-02",
   "latest_action": "Placed on the Union Calendar, Calendar No. 748.",
   "latest_action_date": "2026-10-13",
   "number": "10238",
   "origin_chamber": "House",
   "title": "Cybersecurity for Small Businesses Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-03"
  },
  "119-hr-10239": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10239?format=json",
