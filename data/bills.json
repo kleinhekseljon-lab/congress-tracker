@@ -106601,15 +106601,15 @@
   "update_date": "2026-09-25"
  },
  "119-hr-8562": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8562?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Ordered to be Reported by the Yeas and Nays: 39 - 7.",
   "latest_action_date": "2026-05-13",
   "number": "8562",
   "origin_chamber": "House",
   "title": "To designate a building of the Chancery of the United States in Pristina, Kosovo, as the \"Eliot L. Engel Building\".",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-03"
  },
  "119-hr-8563": {
   "congress": 119,
@@ -130053,15 +130053,15 @@
   "update_date": "2026-08-20"
  },
  "119-hres-1484": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1484?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-17",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-08-17",
   "number": "1484",
   "origin_chamber": "House",
   "title": "Recognizing the nonprofit sector and the contributions of nonprofit employees, and expressing support for August 17, 2026, to be designated as \"National Nonprofit Day\".",
   "type": "HRES",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-03"
  },
  "119-hres-1485": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1485?format=json",
@@ -138050,15 +138050,15 @@
   "update_date": "2026-07-24"
  },
  "119-hres-658": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/658?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-08-15",
   "number": "658",
   "origin_chamber": "House",
   "title": "Recognizing the nonprofit sector and the contributions of nonprofit employees, and expressing support for August 17, 2025, to be designated as \"National Nonprofit Day\".",
   "type": "HRES",
-  "update_date": "2025-09-05"
+  "update_date": "2026-11-03"
  },
  "119-hres-659": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/659?format=json",
@@ -194524,15 +194524,15 @@
   "update_date": "2026-08-24"
  },
  "119-s-5323": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5323?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations. (text: CR S4521)",
   "latest_action_date": "2026-08-06",
   "number": "5323",
   "origin_chamber": "Senate",
   "title": "A bill to designate a building of the Chancery of the United States in Pristina, Kosovo, as the \"Elliot L. Engel Building\".",
   "type": "S",
-  "update_date": "2026-08-18"
+  "update_date": "2026-11-03"
  },
  "119-s-5324": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5324?format=json",
