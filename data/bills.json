@@ -7587,7 +7587,7 @@
   "origin_chamber": "House",
   "title": "Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-04"
  },
  "119-hr-10307": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10307?format=json",
@@ -121547,7 +121547,7 @@
   "origin_chamber": "House",
   "title": "South Dakota Water Feasibility Studies Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-04"
  },
  "119-hr-9786": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9786?format=json",
@@ -175164,26 +175164,26 @@
   "update_date": "2026-02-23"
  },
  "119-s-3723": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3723?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-29",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.",
   "latest_action_date": "2026-09-17",
   "number": "3723",
   "origin_chamber": "Senate",
   "title": "Western South Dakota Water Supply Project Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-04"
  },
  "119-s-3725": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3725?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-29",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.",
   "latest_action_date": "2026-09-17",
   "number": "3725",
   "origin_chamber": "Senate",
   "title": "Lewis and Clark Regional Water System Expansion Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-04"
  },
  "119-s-3726": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3726?format=json",
@@ -175285,15 +175285,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3736": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3736?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-29",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.",
   "latest_action_date": "2026-09-17",
   "number": "3736",
   "origin_chamber": "Senate",
   "title": "Dakota Mainstem Water Supply Project Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-04"
  },
  "119-s-3737": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3737?format=json",
