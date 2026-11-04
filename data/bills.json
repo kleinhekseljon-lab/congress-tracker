@@ -195,7 +195,7 @@
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
   "type": "HCONRES",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-04"
  },
  "119-hconres-115": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/115?format=json",
@@ -253,15 +253,15 @@
   "update_date": "2026-10-23"
  },
  "119-hconres-12": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/12?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-13",
   "number": "12",
   "origin_chamber": "House",
   "title": "Supporting the Local Radio Freedom Act.",
   "type": "HCONRES",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-04"
  },
  "119-hconres-120": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/120?format=json",
@@ -14957,7 +14957,7 @@
   "origin_chamber": "House",
   "title": "Dunkin\u2019s Law",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-04"
  },
  "119-hr-10911": {
   "congress": 119,
@@ -188031,7 +188031,7 @@
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "S",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-04"
  },
  "119-s-4785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4785?format=json",
@@ -197879,15 +197879,15 @@
   "update_date": "2026-09-30"
  },
  "119-s-5595": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5595?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-29",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-29",
   "number": "5595",
   "origin_chamber": "Senate",
   "title": "Weapons Resupply, Stockpile, and Assurance Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-04"
  },
  "119-s-5596": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5596?format=json",
