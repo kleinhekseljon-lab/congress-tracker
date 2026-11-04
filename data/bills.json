@@ -67229,7 +67229,7 @@
   "origin_chamber": "House",
   "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-04"
  },
  "119-hr-5335": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5335?format=json",
@@ -200563,15 +200563,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-695": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/695?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-24",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-02-24",
   "number": "695",
   "origin_chamber": "Senate",
   "title": "Small Business Investment Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-04"
  },
  "119-s-696": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/696?format=json",
