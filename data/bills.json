@@ -12185,7 +12185,7 @@
   "origin_chamber": "House",
   "title": "Modern Skies Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-04"
  },
  "119-hr-10684": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10684?format=json",
@@ -17501,15 +17501,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1261": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1261?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-12",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-02-12",
   "number": "1261",
   "origin_chamber": "House",
   "title": "Land and Water Conservation Fund Water Amendments Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-30"
+  "update_date": "2026-11-04"
  },
  "119-hr-1262": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1262?format=json",
@@ -18029,15 +18029,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1304": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1304?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-13",
   "number": "1304",
   "origin_chamber": "House",
   "title": "Delaware River Basin Restoration Program Reauthorization Act of 2025",
   "type": "HR",
-  "update_date": "2026-08-18"
+  "update_date": "2026-11-04"
  },
  "119-hr-1305": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1305?format=json",
@@ -23388,13 +23388,13 @@
  "119-hr-1744": {
   "congress": 119,
   "introduced_date": "2025-02-27",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-10-26",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-03",
   "number": "1744",
   "origin_chamber": "House",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-04"
  },
  "119-hr-1745": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1745?format=json",
@@ -69839,15 +69839,15 @@
   "update_date": "2026-07-14"
  },
  "119-hr-5549": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5549?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-23",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "5549",
   "origin_chamber": "House",
   "title": "Efficient Nuclear Licensing Hearings Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-555": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/555?format=json",
@@ -102280,13 +102280,13 @@
  "119-hr-8205": {
   "congress": 119,
   "introduced_date": "2026-04-06",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-10-26",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-03",
   "number": "8205",
   "origin_chamber": "House",
   "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-04"
  },
  "119-hr-8206": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8206?format=json",
@@ -155331,15 +155331,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-2082": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2082?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-12",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.",
   "latest_action_date": "2025-10-29",
   "number": "2082",
   "origin_chamber": "Senate",
   "title": "Nuclear REFUEL Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-04"
  },
  "119-s-2083": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2083?format=json",
@@ -197604,15 +197604,15 @@
   "update_date": "2026-10-13"
  },
  "119-s-5572": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5572?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-28",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-09-28",
   "number": "5572",
   "origin_chamber": "Senate",
   "title": "Modern Skies Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-04"
  },
  "119-s-5573": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5573?format=json",
@@ -199232,15 +199232,15 @@
   "update_date": "2026-01-22"
  },
  "119-s-584": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/584?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-02-13",
   "number": "584",
   "origin_chamber": "Senate",
   "title": "Tax Fairness for Survivors Act",
   "type": "S",
-  "update_date": "2025-12-06"
+  "update_date": "2026-11-04"
  },
  "119-s-585": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/585?format=json",
