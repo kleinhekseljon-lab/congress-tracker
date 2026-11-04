@@ -24178,15 +24178,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1809": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1809?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Placed on the Union Calendar, Calendar No. 239.",
   "latest_action_date": "2025-09-15",
   "number": "1809",
   "origin_chamber": "House",
   "title": "Great Lakes Fishery Research Reauthorization Act",
   "type": "HR",
-  "update_date": "2026-07-27"
+  "update_date": "2026-11-04"
  },
  "119-hr-181": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/181?format=json",
@@ -30096,15 +30096,15 @@
   "update_date": "2025-05-09"
  },
  "119-hr-2293": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2293?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-24",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2025-12-10",
   "number": "2293",
   "origin_chamber": "House",
   "title": "Cormorant Relief Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-04"
  },
  "119-hr-2294": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2294?format=json",
@@ -30382,15 +30382,15 @@
   "update_date": "2026-10-28"
  },
  "119-hr-2316": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2316?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-25",
   "latest_action": "Became Public Law No: 119-40.",
   "latest_action_date": "2025-11-25",
   "number": "2316",
   "origin_chamber": "House",
   "title": "Wetlands Conservation and Access Improvement Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-04"
  },
  "119-hr-2317": {
   "congress": 119,
@@ -102154,7 +102154,7 @@
   "origin_chamber": "House",
   "title": "Responsible Cormorant Management and Control Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-04"
  },
  "119-hr-8196": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8196?format=json",
@@ -104522,15 +104522,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-839": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/839?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-31",
   "latest_action": "Placed on the Union Calendar, Calendar No. 374.",
   "latest_action_date": "2026-01-08",
   "number": "839",
   "origin_chamber": "House",
   "title": "No FED in West Texas Act",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-04"
  },
  "119-hr-8390": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8390?format=json",
@@ -119809,7 +119809,7 @@
   "origin_chamber": "House",
   "title": "Earth MRI Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-04"
  },
  "119-hr-9641": {
   "congress": 119,
@@ -200340,7 +200340,7 @@
   "origin_chamber": "Senate",
   "title": "Theodore Roosevelt Presidential Library Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-04"
  },
  "119-s-676": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/676?format=json",
