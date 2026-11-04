@@ -8151,15 +8151,15 @@
   "update_date": "2026-10-21"
  },
  "119-hr-10353": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10353?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Placed on the Union Calendar, Calendar No. 742.",
   "latest_action_date": "2026-10-09",
   "number": "10353",
   "origin_chamber": "House",
   "title": "SBIC Reporting Modernization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-04"
  },
  "119-hr-10354": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10354?format=json",
@@ -8371,15 +8371,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-10371": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10371?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Placed on the Union Calendar, Calendar No. 744.",
   "latest_action_date": "2026-10-09",
   "number": "10371",
   "origin_chamber": "House",
   "title": "Ensuring SBA Implementation of GAO Recommendations Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-04"
  },
  "119-hr-10372": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10372?format=json",
