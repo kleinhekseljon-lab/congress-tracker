@@ -5082,15 +5082,15 @@
   "update_date": "2026-08-20"
  },
  "119-hr-10101": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10101?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-13",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-08-13",
   "number": "10101",
   "origin_chamber": "House",
   "title": "Open Doors to Diplomacy Act",
   "type": "HR",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-04"
  },
  "119-hr-10102": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10102?format=json",
@@ -31581,15 +31581,15 @@
   "update_date": "2026-02-17"
  },
  "119-hr-2414": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2414?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-27",
   "number": "2414",
   "origin_chamber": "House",
   "title": "To amend the Public Health Service Act to reauthorize a military and civilian partnership for trauma readiness grant program.",
   "type": "HR",
-  "update_date": "2026-07-10"
+  "update_date": "2026-11-04"
  },
  "119-hr-2415": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2415?format=json",
@@ -109923,15 +109923,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8831": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8831?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Judiciary, House Administration, the Budget, Transportation and Infrastructure, Rules, Foreign Affairs, Ways and Means, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-05-14",
   "number": "8831",
   "origin_chamber": "House",
   "title": "Protecting Our Democracy Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-8832": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8832?format=json",
@@ -113044,7 +113044,7 @@
   "origin_chamber": "House",
   "title": "Foreign Service Modernization Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-04"
  },
  "119-hr-9087": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9087?format=json",
@@ -146352,7 +146352,7 @@
   "origin_chamber": "Senate",
   "title": "Ending PUSHOUT Act of 2025",
   "type": "S",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-04"
  },
  "119-s-1339": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1339?format=json",
@@ -164472,15 +164472,15 @@
   "update_date": "2026-01-16"
  },
  "119-s-2838": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2838?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-17",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-09-17",
   "number": "2838",
   "origin_chamber": "Senate",
   "title": "Protecting Our Democracy Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-04"
  },
  "119-s-2839": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2839?format=json",
@@ -191939,15 +191939,15 @@
   "update_date": "2026-08-12"
  },
  "119-s-5107": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5107?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-23",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-07-23",
   "number": "5107",
   "origin_chamber": "Senate",
   "title": "No Corporate Crooks Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-04"
  },
  "119-s-5108": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5108?format=json",
