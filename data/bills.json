@@ -8140,15 +8140,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-10352": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10352?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Placed on the Union Calendar, Calendar No. 747.",
   "latest_action_date": "2026-10-09",
   "number": "10352",
   "origin_chamber": "House",
   "title": "504 Program Level Flexibility Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-04"
  },
  "119-hr-10353": {
   "congress": 119,
@@ -21329,15 +21329,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-1575": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1575?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-02-25",
   "number": "1575",
   "origin_chamber": "House",
   "title": "No American Land for Communist China Act",
   "type": "HR",
-  "update_date": "2025-09-27"
+  "update_date": "2026-11-04"
  },
  "119-hr-1576": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1576?format=json",
@@ -76956,15 +76956,15 @@
   "update_date": "2026-02-24"
  },
  "119-hr-6132": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6132?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-11-19",
   "number": "6132",
   "origin_chamber": "House",
   "title": "Housing Affordability Act",
   "type": "HR",
-  "update_date": "2026-09-18"
+  "update_date": "2026-11-04"
  },
  "119-hr-6133": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6133?format=json",
@@ -77022,15 +77022,15 @@
   "update_date": "2026-10-10"
  },
  "119-hr-6138": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6138?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-11-19",
   "number": "6138",
   "origin_chamber": "House",
   "title": "To direct the Secretary of Defense to establish a pilot program for partnerships between covered basic needs banks and military installations to provide diapers and diapering supplies to military families, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-04"
  },
  "119-hr-6139": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6139?format=json",
@@ -77121,15 +77121,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-6146": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6146?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-11-19",
   "number": "6146",
   "origin_chamber": "House",
   "title": "STAY Act",
   "type": "HR",
-  "update_date": "2025-12-04"
+  "update_date": "2026-11-04"
  },
  "119-hr-6147": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6147?format=json",
