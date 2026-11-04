@@ -14770,7 +14770,7 @@
   "origin_chamber": "House",
   "title": "To terminate the diversity immigrant visa program.",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-04"
  },
  "119-hr-10897": {
   "congress": 119,
@@ -24013,15 +24013,15 @@
   "update_date": "2025-07-01"
  },
  "119-hr-1796": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1796?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-03",
   "number": "1796",
   "origin_chamber": "House",
   "title": "Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, Prevention, and Treatment Act of 2025",
   "type": "HR",
-  "update_date": "2026-02-05"
+  "update_date": "2026-11-04"
  },
  "119-hr-1797": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1797?format=json",
@@ -27016,15 +27016,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-2040": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2040?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-11",
   "number": "2040",
   "origin_chamber": "House",
   "title": "NEWBORN Act",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-04"
  },
  "119-hr-2041": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2041?format=json",
@@ -27060,15 +27060,15 @@
   "update_date": "2025-06-30"
  },
  "119-hr-2044": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2044?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-11",
   "number": "2044",
   "origin_chamber": "House",
   "title": "Suicide Prevention Assistance Act",
   "type": "HR",
-  "update_date": "2025-03-26"
+  "update_date": "2026-11-04"
  },
  "119-hr-2045": {
   "congress": 119,
@@ -31196,15 +31196,15 @@
   "update_date": "2026-03-19"
  },
  "119-hr-2383": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2383?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-26",
   "number": "2383",
   "origin_chamber": "House",
   "title": "Protecting Kids from Fentanyl Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-2384": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2384?format=json",
@@ -46112,15 +46112,15 @@
   "update_date": "2026-10-14"
  },
  "119-hr-3605": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3605?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-23",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-05-23",
   "number": "3605",
   "origin_chamber": "House",
   "title": "Strength in Diversity Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-3606": {
   "congress": 119,
@@ -46208,7 +46208,7 @@
   "origin_chamber": "House",
   "title": "End For-Profit Prisons Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-04"
  },
  "119-hr-3613": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3613?format=json",
@@ -58014,15 +58014,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-458": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/458?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-15",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-01-15",
   "number": "458",
   "origin_chamber": "House",
   "title": "Protecting our Land Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-4580": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4580?format=json",
@@ -78089,15 +78089,15 @@
   "update_date": "2026-01-21"
  },
  "119-hr-6225": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6225?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-20",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-11-20",
   "number": "6225",
   "origin_chamber": "House",
   "title": "PAUSE Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-6226": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6226?format=json",
@@ -110836,15 +110836,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8906": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8906?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-05-19",
   "number": "8906",
   "origin_chamber": "House",
   "title": "Ban Chinese Communist and Islamist Home Ownership Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-8907": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8907?format=json",
