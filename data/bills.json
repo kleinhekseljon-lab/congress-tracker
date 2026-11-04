@@ -10491,7 +10491,7 @@
   "origin_chamber": "House",
   "title": "Ovarian Cancer IMPACT Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-04"
  },
  "119-hr-10545": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10545?format=json",
@@ -197384,15 +197384,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-5554": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5554?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-24",
   "number": "5554",
   "origin_chamber": "Senate",
   "title": "Ovarian Cancer IMPACT Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-04"
  },
  "119-s-5555": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5555?format=json",
@@ -199606,15 +199606,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-615": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/615?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-02-18",
   "number": "615",
   "origin_chamber": "Senate",
   "title": "Chemical Tax Repeal Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-04"
  },
  "119-s-616": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/616?format=json",
