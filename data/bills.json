@@ -65483,15 +65483,15 @@
   "update_date": "2025-09-23"
  },
  "119-hr-5192": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5192?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-08",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-09-08",
   "number": "5192",
   "origin_chamber": "House",
   "title": "To modify the annual report on the Navy Shipyard Infrastructure Optimization Program.",
   "type": "HR",
-  "update_date": "2025-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-5193": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5193?format=json",
@@ -65681,15 +65681,15 @@
   "update_date": "2026-07-23"
  },
  "119-hr-5208": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5208?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-08",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-09-08",
   "number": "5208",
   "origin_chamber": "House",
   "title": "To amend title 37, United States Code, to exclude the basic allowance for housing from the calculation of gross household income for purposes of the basic needs allowance for eligible members of the Armed Forces.",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-5209": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5209?format=json",
@@ -77308,15 +77308,15 @@
   "update_date": "2026-10-16"
  },
  "119-hr-6161": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6161?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-11-19",
   "number": "6161",
   "origin_chamber": "House",
   "title": "SEC Data Protection Act",
   "type": "HR",
-  "update_date": "2026-01-08"
+  "update_date": "2026-11-04"
  },
  "119-hr-6162": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6162?format=json",
@@ -102011,7 +102011,7 @@
   "origin_chamber": "House",
   "title": "MATCH Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-04"
  },
  "119-hr-8184": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8184?format=json",
@@ -130306,15 +130306,15 @@
   "update_date": "2026-09-22"
  },
  "119-hres-1501": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1501?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-31",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-08-31",
   "number": "1501",
   "origin_chamber": "House",
   "title": "Recognizing the 80th anniversary of the Fulbright Program.",
   "type": "HRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-04"
  },
  "119-hres-1502": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1502?format=json",
@@ -215919,15 +215919,15 @@
   "update_date": "2026-08-10"
  },
  "119-sres-830": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/830?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-04",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4425; text: CR S4436-4437)",
   "latest_action_date": "2026-08-04",
   "number": "830",
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the 80th anniversary of the Fulbright Program.",
   "type": "SRES",
-  "update_date": "2026-08-13"
+  "update_date": "2026-11-04"
  },
  "119-sres-831": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/831?format=json",
