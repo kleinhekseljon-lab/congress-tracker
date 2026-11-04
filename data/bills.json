@@ -8415,15 +8415,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-10375": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10375?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Placed on the Union Calendar, Calendar No. 745.",
   "latest_action_date": "2026-10-09",
   "number": "10375",
   "origin_chamber": "House",
   "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-04"
  },
  "119-hr-10376": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10376?format=json",
@@ -26180,15 +26180,15 @@
   "update_date": "2025-06-12"
  },
  "119-hr-1973": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1973?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-10",
   "number": "1973",
   "origin_chamber": "House",
   "title": "No Pay for Congress During Default or Shutdown Act",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-11-04"
  },
  "119-hr-1974": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1974?format=json",
@@ -50655,15 +50655,15 @@
   "update_date": "2026-04-14"
  },
  "119-hr-3978": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3978?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-12",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "3978",
   "origin_chamber": "House",
   "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-04"
  },
  "119-hr-3979": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3979?format=json",
@@ -77264,15 +77264,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-6158": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6158?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-19",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-11-19",
   "number": "6158",
   "origin_chamber": "House",
   "title": "American Samoa Statutory Nationality and Citizenship Act",
   "type": "HR",
-  "update_date": "2025-12-23"
+  "update_date": "2026-11-04"
  },
  "119-hr-6159": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6159?format=json",
@@ -215182,15 +215182,15 @@
   "update_date": "2026-09-08"
  },
  "119-sres-77": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/77?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S979-980)",
   "latest_action_date": "2025-02-13",
   "number": "77",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.",
   "type": "SRES",
-  "update_date": "2025-05-15"
+  "update_date": "2026-11-04"
  },
  "119-sres-770": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/770?format=json",
@@ -215787,15 +215787,15 @@
   "update_date": "2026-08-11"
  },
  "119-sres-82": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/82?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-19",
   "latest_action": "Referred to the Committee on Rules and Administration. (consideration: CR S1041-1042)",
   "latest_action_date": "2025-02-19",
   "number": "82",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.",
   "type": "SRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-04"
  },
  "119-sres-820": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/820?format=json",
@@ -216766,15 +216766,15 @@
   "update_date": "2025-01-30"
  },
  "119-sres-90": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/90?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-24",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S1314)",
   "latest_action_date": "2025-02-24",
   "number": "90",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Foreign Relations.",
   "type": "SRES",
-  "update_date": "2025-05-15"
+  "update_date": "2026-11-04"
  },
  "119-sres-900": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/900?format=json",
@@ -217258,7 +217258,7 @@
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2025, through September 30, 2025, October 1, 2025, through September 30, 2026, and October 1, 2026, through February 28, 2027.",
   "type": "SRES",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-04"
  },
  "119-sres-940": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/940?format=json",
