@@ -5508,7 +5508,7 @@
   "origin_chamber": "House",
   "title": "Crossett Experimental Forest Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-05"
  },
  "119-hr-10137": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json",
@@ -23388,13 +23388,13 @@
  "119-hr-1744": {
   "congress": 119,
   "introduced_date": "2025-02-27",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-137.",
   "latest_action_date": "2026-11-03",
   "number": "1744",
   "origin_chamber": "House",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-05"
  },
  "119-hr-1745": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1745?format=json",
@@ -40887,15 +40887,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-3177": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3177?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
   "latest_action_date": "2025-05-05",
   "number": "3177",
   "origin_chamber": "House",
   "title": "To require the Administrator of the Federal Emergency Management Agency to ensure that cost estimates, acquisition of proper materials, and any other activity related to certain projects under the Robert T. Stafford Disaster Relief and Emergency Assistance Act are performed by professionals licensed in the relevant State, and for other purposes.",
   "type": "HR",
-  "update_date": "2025-06-12"
+  "update_date": "2026-11-05"
  },
  "119-hr-3178": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3178?format=json",
@@ -65736,15 +65736,15 @@
   "update_date": "2026-05-19"
  },
  "119-hr-5212": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5212?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-08",
   "latest_action": "Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-09-08",
   "number": "5212",
   "origin_chamber": "House",
   "title": "SBIR/STTR Innovation Workforce Act",
   "type": "HR",
-  "update_date": "2025-09-30"
+  "update_date": "2026-11-05"
  },
  "119-hr-5213": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5213?format=json",
@@ -102280,13 +102280,13 @@
  "119-hr-8205": {
   "congress": 119,
   "introduced_date": "2026-04-06",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-138.",
   "latest_action_date": "2026-11-03",
   "number": "8205",
   "origin_chamber": "House",
   "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-05"
  },
  "119-hr-8206": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8206?format=json",
@@ -106513,15 +106513,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8552": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8552?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-06-30",
   "number": "8552",
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-05"
  },
  "119-hr-8553": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8553?format=json",
@@ -119482,15 +119482,15 @@
   "update_date": "2026-10-08"
  },
  "119-hr-9614": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9614?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "9614",
   "origin_chamber": "House",
   "title": "NRC Staff Pay Alignment Act",
   "type": "HR",
-  "update_date": "2026-08-21"
+  "update_date": "2026-11-05"
  },
  "119-hr-9615": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9615?format=json",
