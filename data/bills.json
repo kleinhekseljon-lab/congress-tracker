@@ -429,15 +429,15 @@
   "update_date": "2025-06-05"
  },
  "119-hconres-21": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/21?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-25",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-03-25",
   "number": "21",
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the disparity between wages paid to men and women.",
   "type": "HCONRES",
-  "update_date": "2026-04-02"
+  "update_date": "2026-11-05"
  },
  "119-hconres-22": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/22?format=json",
@@ -671,26 +671,26 @@
   "update_date": "2026-09-22"
  },
  "119-hconres-41": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/41?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-10",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-07-10",
   "number": "41",
   "origin_chamber": "House",
   "title": "Expressing the sense of Congress regarding the execution-style murders of United States citizens Ylli, Agron, and Mehmet Bytyqi in the Republic of Serbia in July 1999.",
   "type": "HCONRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-05"
  },
  "119-hconres-42": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/42?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-10",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-07-10",
   "number": "42",
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
   "type": "HCONRES",
-  "update_date": "2026-07-29"
+  "update_date": "2026-11-05"
  },
  "119-hconres-43": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/43?format=json",
@@ -1133,15 +1133,15 @@
   "update_date": "2026-03-24"
  },
  "119-hconres-8": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/8?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-06",
   "number": "8",
   "origin_chamber": "House",
   "title": "Expressing the sense of Congress that the United States should resume normal diplomatic relations with Taiwan, negotiate a bilateral free trade agreement with Taiwan, and support Taiwans membership in international organizations.",
   "type": "HCONRES",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-05"
  },
  "119-hconres-80": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/80?format=json",
@@ -1155,15 +1155,15 @@
   "update_date": "2026-09-19"
  },
  "119-hconres-81": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/81?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-03-26",
   "number": "81",
   "origin_chamber": "House",
   "title": "Recognizing the significance of equal pay and the disparity between wages paid to men and women.",
   "type": "HCONRES",
-  "update_date": "2026-04-02"
+  "update_date": "2026-11-05"
  },
  "119-hconres-82": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/82?format=json",
@@ -1386,15 +1386,15 @@
   "update_date": "2026-10-31"
  },
  "119-hjres-10": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/10?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-03",
   "number": "10",
   "origin_chamber": "House",
   "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
   "type": "HJRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-05"
  },
  "119-hjres-100": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/100?format=json",
@@ -1493,7 +1493,7 @@
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal prosecution for an act on the grounds that such act was within the constitutional authority or official duties of an individual, and providing that the President may not grant a pardon to himself or herself.",
   "type": "HJRES",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-05"
  },
  "119-hjres-109": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/109?format=json",
@@ -1507,15 +1507,15 @@
   "update_date": "2026-07-18"
  },
  "119-hjres-11": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hjres/11?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-03",
   "number": "11",
   "origin_chamber": "House",
   "title": ".Proposing a balanced budget amendment to the Constitution requiring that each agency and department's funding is justified.",
   "type": "HJRES",
-  "update_date": "2025-03-27"
+  "update_date": "2026-11-05"
  },
  "119-hjres-110": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/110?format=json",
@@ -119999,15 +119999,15 @@
   "update_date": "2026-07-29"
  },
  "119-hr-9658": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9658?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-13",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-07-13",
   "number": "9658",
   "origin_chamber": "House",
   "title": "Nuclear Regulatory Modernization Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-05"
  },
  "119-hr-9659": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9659?format=json",
@@ -151393,15 +151393,15 @@
   "update_date": "2026-09-25"
  },
  "119-s-1757": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1757?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-14",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2025-05-14",
   "number": "1757",
   "origin_chamber": "Senate",
   "title": "Efficient Nuclear Licensing Hearings Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-05"
  },
  "119-s-1758": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1758?format=json",
