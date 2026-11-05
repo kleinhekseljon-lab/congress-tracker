@@ -97,14 +97,14 @@
  ],
  "FL": [
   {
-   "name": "Ashley Moody",
-   "party": "R",
-   "url": "https://www.moody.senate.gov"
-  },
-  {
    "name": "Rick Scott",
    "party": "R",
    "url": "https://www.rickscott.senate.gov/"
+  },
+  {
+   "name": "Ashley Moody",
+   "party": "R",
+   "url": "https://www.moody.senate.gov"
   }
  ],
  "GA": [
@@ -157,14 +157,14 @@
  ],
  "IL": [
   {
-   "name": "Richard J. Durbin",
-   "party": "D",
-   "url": "https://www.durbin.senate.gov"
-  },
-  {
    "name": "Tammy Duckworth",
    "party": "D",
    "url": "https://www.duckworth.senate.gov"
+  },
+  {
+   "name": "Richard J. Durbin",
+   "party": "D",
+   "url": "https://www.durbin.senate.gov"
   }
  ],
  "IN": [
@@ -361,14 +361,14 @@
  ],
  "NJ": [
   {
-   "name": "Cory A. Booker",
-   "party": "D",
-   "url": "https://www.booker.senate.gov"
-  },
-  {
    "name": "Andy Kim",
    "party": "D",
    "url": "https://www.kim.senate.gov/"
+  },
+  {
+   "name": "Cory A. Booker",
+   "party": "D",
+   "url": "https://www.booker.senate.gov"
   }
  ],
  "NM": [
@@ -421,14 +421,14 @@
  ],
  "OK": [
   {
-   "name": "Alan Armstrong",
-   "party": "R",
-   "url": "https://www.armstrong.senate.gov/"
-  },
-  {
    "name": "James Lankford",
    "party": "R",
    "url": "https://www.lankford.senate.gov"
+  },
+  {
+   "name": "Alan Armstrong",
+   "party": "R",
+   "url": "https://www.armstrong.senate.gov/"
   }
  ],
  "OR": [
@@ -469,14 +469,14 @@
  ],
  "SC": [
   {
-   "name": "Darline Graham",
-   "party": "R",
-   "url": "https://www.dgraham.senate.gov/"
-  },
-  {
    "name": "Tim Scott",
    "party": "R",
    "url": "https://www.scott.senate.gov/"
+  },
+  {
+   "name": "Darline Graham",
+   "party": "R",
+   "url": "https://www.dgraham.senate.gov/"
   }
  ],
  "SD": [
@@ -599,5 +599,5 @@
    "url": "https://www.barrasso.senate.gov"
   }
  ],
- "_fetched": "2026-10-29T19:54:33.436132+00:00"
+ "_fetched": "2026-11-05T19:58:03.252147+00:00"
 }
