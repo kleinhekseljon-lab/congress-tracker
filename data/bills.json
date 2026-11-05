@@ -12801,7 +12801,7 @@
   "origin_chamber": "House",
   "title": "Improving Justice Programs through Science Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-05"
  },
  "119-hr-10734": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10734?format=json",
@@ -90937,15 +90937,15 @@
   "update_date": "2026-05-26"
  },
  "119-hr-7277": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7277?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-30",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-01-30",
   "number": "7277",
   "origin_chamber": "House",
   "title": "Emergency Medical Services Reimbursement for On-Scene and Support Act",
   "type": "HR",
-  "update_date": "2026-02-24"
+  "update_date": "2026-11-05"
  },
  "119-hr-7278": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7278?format=json",
@@ -105809,15 +105809,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8495": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8495?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-24",
   "latest_action": "Placed on the Union Calendar, Calendar No. 540.",
   "latest_action_date": "2026-04-24",
   "number": "8495",
   "origin_chamber": "House",
   "title": "Financial Services and General Government Appropriations Act, 2027",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-05"
  },
  "119-hr-8496": {
   "congress": 119,
@@ -164428,15 +164428,15 @@
   "update_date": "2026-07-27"
  },
  "119-s-2834": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2834?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-17",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-09-17",
   "number": "2834",
   "origin_chamber": "Senate",
   "title": "Medically Tailored Home-Delivered Meals Program Pilot Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-05"
  },
  "119-s-2835": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2835?format=json",
@@ -169675,15 +169675,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3267": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3267?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-20",
   "latest_action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
   "latest_action_date": "2025-11-20",
   "number": "3267",
   "origin_chamber": "Senate",
   "title": "ASAP Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-05"
  },
  "119-s-3269": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3269?format=json",
@@ -176638,15 +176638,15 @@
   "update_date": "2026-07-14"
  },
  "119-s-3848": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3848?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-02-11",
   "number": "3848",
   "origin_chamber": "Senate",
   "title": "Apples to Apples Comparison Act of 2026",
   "type": "S",
-  "update_date": "2026-03-02"
+  "update_date": "2026-11-05"
  },
  "119-s-3849": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3849?format=json",
