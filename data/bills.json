@@ -26840,15 +26840,15 @@
   "update_date": "2026-05-11"
  },
  "119-hr-2026": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2026?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the Subcommittee on Forestry and Horticulture.",
   "latest_action_date": "2025-04-04",
   "number": "2026",
   "origin_chamber": "House",
   "title": "Ending Major Borderland Environmental Ruin from Wildfires (EMBER) Act",
   "type": "HR",
-  "update_date": "2025-06-30"
+  "update_date": "2026-11-05"
  },
  "119-hr-2027": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2027?format=json",
@@ -28171,15 +28171,15 @@
   "update_date": "2025-12-10"
  },
  "119-hr-2135": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2135?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-03-14",
   "number": "2135",
   "origin_chamber": "House",
   "title": "Caza Ranches LLC and Department of Homeland Security Land Exchange Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-12"
+  "update_date": "2026-11-05"
  },
  "119-hr-2136": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2136?format=json",
@@ -29106,15 +29106,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-2211": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2211?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-18",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-18",
   "number": "2211",
   "origin_chamber": "House",
   "title": "Saving NOAA\u2019s Workforce Act",
   "type": "HR",
-  "update_date": "2025-06-25"
+  "update_date": "2026-11-05"
  },
  "119-hr-2212": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2212?format=json",
@@ -41107,15 +41107,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-3195": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3195?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2025-05-05",
   "number": "3195",
   "origin_chamber": "House",
   "title": "To amend the Small Business Act to include surviving children in the definition of small business concern owned and controlled by service-disabled veterans, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-15"
+  "update_date": "2026-11-05"
  },
  "119-hr-3196": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3196?format=json",
@@ -41206,15 +41206,15 @@
   "update_date": "2026-01-10"
  },
  "119-hr-3202": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3202?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-05-05",
   "number": "3202",
   "origin_chamber": "House",
   "title": "MIDWIVES for Service Members Act of 2025",
   "type": "HR",
-  "update_date": "2025-10-01"
+  "update_date": "2026-11-05"
  },
  "119-hr-3203": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3203?format=json",
@@ -42911,15 +42911,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-3342": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3342?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-13",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 7.",
   "latest_action_date": "2026-09-16",
   "number": "3342",
   "origin_chamber": "House",
   "title": "BOP Direct-Hire Authority Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-05"
  },
  "119-hr-3343": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3343?format=json",
@@ -46120,7 +46120,7 @@
   "origin_chamber": "House",
   "title": "Strength in Diversity Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-05"
  },
  "119-hr-3606": {
   "congress": 119,
@@ -98150,7 +98150,7 @@
   "origin_chamber": "House",
   "title": "Infant Formula Safety Modernization Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-05"
  },
  "119-hr-7868": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7868?format=json",
@@ -110088,15 +110088,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8845": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8845?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-15",
   "latest_action": "Placed on the Union Calendar, Calendar No. 567.",
   "latest_action_date": "2026-05-15",
   "number": "8845",
   "origin_chamber": "House",
   "title": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2027",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-05"
  },
  "119-hr-8846": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8846?format=json",
@@ -113014,15 +113014,15 @@
   "update_date": "2026-06-22"
  },
  "119-hr-9084": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9084?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-02",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "9084",
   "origin_chamber": "House",
   "title": "Department of Energy Nuclear Transparency Act",
   "type": "HR",
-  "update_date": "2026-09-29"
+  "update_date": "2026-11-05"
  },
  "119-hr-9085": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9085?format=json",
@@ -114070,15 +114070,15 @@
   "update_date": "2026-03-31"
  },
  "119-hr-9170": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9170?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-05",
   "latest_action": "Placed on the Union Calendar, Calendar No. 598.",
   "latest_action_date": "2026-06-05",
   "number": "9170",
   "origin_chamber": "House",
   "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
   "type": "HR",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-05"
  },
  "119-hr-9171": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9171?format=json",
@@ -119460,26 +119460,26 @@
   "update_date": "2026-10-02"
  },
  "119-hr-9612": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9612?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "9612",
   "origin_chamber": "House",
   "title": "American Enrichment Deployment Act",
   "type": "HR",
-  "update_date": "2026-09-11"
+  "update_date": "2026-11-05"
  },
  "119-hr-9613": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9613?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "latest_action_date": "2026-07-14",
   "number": "9613",
   "origin_chamber": "House",
   "title": "Nuclear Advisory Committee Reform Act",
   "type": "HR",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-05"
  },
  "119-hr-9614": {
   "congress": 119,
@@ -130603,15 +130603,15 @@
   "update_date": "2026-09-11"
  },
  "119-hres-1526": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1526?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-10",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-09-10",
   "number": "1526",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of September 11 through September 17, 2026, as \"Patriot Week\".",
   "type": "HRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-05"
  },
  "119-hres-1527": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1527?format=json",
@@ -134750,15 +134750,15 @@
   "update_date": "2025-07-02"
  },
  "119-hres-383": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/383?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-05-05",
   "number": "383",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of May 4 through May 10, 2025, as Wildfire Preparedness Week, the national event educating the public on fire safety and preparedness, and supporting the goals of a Wildfire Preparedness Week.",
   "type": "HRES",
-  "update_date": "2026-06-01"
+  "update_date": "2026-11-05"
  },
  "119-hres-384": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/384?format=json",
@@ -138666,15 +138666,15 @@
   "update_date": "2026-04-01"
  },
  "119-hres-703": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/703?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-11",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-09-11",
   "number": "703",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of September 11 through September 17, 2025, as \"Patriot Week\".",
   "type": "HRES",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-05"
  },
  "119-hres-704": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/704?format=json",
@@ -185020,15 +185020,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4535": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4535?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-05-14",
   "number": "4535",
   "origin_chamber": "Senate",
   "title": "Strength in Diversity Act of 2026",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-05"
  },
  "119-s-4536": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4536?format=json",
@@ -210573,15 +210573,15 @@
   "update_date": "2026-08-10"
  },
  "119-sres-387": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/387?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-15",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6623; text: CR S6602)",
   "latest_action_date": "2025-09-15",
   "number": "387",
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of the week of September 11 through September 17, 2025, as \"Patriot Week\".",
   "type": "SRES",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-05"
  },
  "119-sres-388": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/388?format=json",
