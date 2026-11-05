@@ -29722,15 +29722,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-2262": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2262?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-21",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-01-13",
   "number": "2262",
   "origin_chamber": "House",
   "title": "Flexibility for Workers Education Act",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-05"
  },
  "119-hr-2263": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2263?format=json",
@@ -29829,7 +29829,7 @@
   "origin_chamber": "House",
   "title": "Empowering Employer Child and Elder Care Solutions Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-11-05"
  },
  "119-hr-2271": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2271?format=json",
@@ -34042,7 +34042,7 @@
   "origin_chamber": "House",
   "title": "Stopping Indoctrination and Protecting Kids Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-05"
  },
  "119-hr-2617": {
   "congress": 119,
@@ -34053,7 +34053,7 @@
   "origin_chamber": "House",
   "title": "Say No to Indoctrination Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-05"
  },
  "119-hr-2618": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2618?format=json",
@@ -107841,7 +107841,7 @@
   "origin_chamber": "House",
   "title": "VEST Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-05"
  },
  "119-hr-8661": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8661?format=json",
@@ -116644,15 +116644,15 @@
   "update_date": "2026-07-06"
  },
  "119-hr-9381": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9381?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-22",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 14.",
   "latest_action_date": "2026-06-25",
   "number": "9381",
   "origin_chamber": "House",
   "title": "AWARE Act",
   "type": "HR",
-  "update_date": "2026-07-14"
+  "update_date": "2026-11-05"
  },
  "119-hr-9382": {
   "congress": 119,
@@ -132968,15 +132968,15 @@
   "update_date": "2026-06-24"
  },
  "119-hres-237": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/237?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-21",
   "latest_action": "Placed on the House Calendar, Calendar No. 25.",
   "latest_action_date": "2025-04-29",
   "number": "237",
   "origin_chamber": "House",
   "title": "Of inquiry requesting the President and directing the Secretary of Education to transmit, respectively, certain documents to the House of Representatives relating to the reduction in force and other downsizing measures at the Department of Education.",
   "type": "HRES",
-  "update_date": "2026-07-29"
+  "update_date": "2026-11-05"
  },
  "119-hres-238": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/238?format=json",
