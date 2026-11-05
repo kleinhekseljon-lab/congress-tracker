@@ -14979,7 +14979,7 @@
   "origin_chamber": "House",
   "title": "Fast Tracking European Investment in Ukraine\u2019s Defense Act",
   "type": "HR",
-  "update_date": "2026-11-02"
+  "update_date": "2026-11-05"
  },
  "119-hr-10913": {
   "congress": 119,
@@ -192764,15 +192764,15 @@
   "update_date": "2026-08-12"
  },
  "119-s-5175": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5175?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-30",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-07-30",
   "number": "5175",
   "origin_chamber": "Senate",
   "title": "Fast Tracking European Investment in Ukraine\u2019s Defense Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-05"
  },
  "119-s-5176": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5176?format=json",
