@@ -12801,7 +12801,7 @@
   "origin_chamber": "House",
   "title": "Improving Justice Programs through Science Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-06"
  },
  "119-hr-10734": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10734?format=json",
@@ -33253,15 +33253,15 @@
   "update_date": "2026-03-20"
  },
  "119-hr-2545": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2545?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-01",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-04-01",
   "number": "2545",
   "origin_chamber": "House",
   "title": "Financing Our Energy Future Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-06"
  },
  "119-hr-2546": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2546?format=json",
@@ -53031,15 +53031,15 @@
   "update_date": "2025-12-17"
  },
  "119-hr-4165": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4165?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-26",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-06-26",
   "number": "4165",
   "origin_chamber": "House",
   "title": "To amend the Public Health Service Act to provide for the inclusion of a biological attribution strategy, and an early warning strategy and implementation plan, in the National Health Security Strategy, and for other purposes.",
   "type": "HR",
-  "update_date": "2025-07-24"
+  "update_date": "2026-11-06"
  },
  "119-hr-4166": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4166?format=json",
@@ -64119,15 +64119,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-5074": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5074?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-29",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-08-29",
   "number": "5074",
   "origin_chamber": "House",
   "title": "Protecting Young Minds Online Act",
   "type": "HR",
-  "update_date": "2025-12-19"
+  "update_date": "2026-11-06"
  },
  "119-hr-5075": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5075?format=json",
@@ -67738,15 +67738,15 @@
   "update_date": "2026-10-07"
  },
  "119-hr-5370": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5370?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5370",
   "origin_chamber": "House",
   "title": "To provide low-income individuals with opportunities to enter and follow a career pathway in the health professions, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-06"
  },
  "119-hr-5371": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5371?format=json",
@@ -67793,15 +67793,15 @@
   "update_date": "2025-09-25"
  },
  "119-hr-5375": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5375?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5375",
   "origin_chamber": "House",
   "title": "Essential Skills and Child Care for Health Professions Act",
   "type": "HR",
-  "update_date": "2025-09-25"
+  "update_date": "2026-11-06"
  },
  "119-hr-5376": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5376?format=json",
@@ -174229,15 +174229,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3639": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3639?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-14",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-02-12",
   "number": "3639",
   "origin_chamber": "Senate",
   "title": "SAT Streamlining Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-06"
  },
  "119-s-364": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/364?format=json",
@@ -186472,15 +186472,15 @@
   "update_date": "2026-06-10"
  },
  "119-s-4647": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4647?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-01",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-06-01",
   "number": "4647",
   "origin_chamber": "Senate",
   "title": "AGE Act of 2026",
   "type": "S",
-  "update_date": "2026-06-10"
+  "update_date": "2026-11-06"
  },
  "119-s-4648": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4648?format=json",
