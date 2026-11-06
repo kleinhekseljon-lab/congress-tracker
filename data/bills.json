@@ -5508,7 +5508,7 @@
   "origin_chamber": "House",
   "title": "Crossett Experimental Forest Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-06"
  },
  "119-hr-10137": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json",
@@ -76065,15 +76065,15 @@
   "update_date": "2026-10-21"
  },
  "119-hr-6059": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6059?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-17",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-11-17",
   "number": "6059",
   "origin_chamber": "House",
   "title": "To designate the facility of the United States Postal Service located at 50 East 100 North in Moab, Utah, as the \"2nd Lieutenant Mitchell Williams Post Office\".",
   "type": "HR",
-  "update_date": "2025-12-08"
+  "update_date": "2026-11-05"
  },
  "119-hr-606": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/606?format=json",
@@ -170456,15 +170456,15 @@
   "update_date": "2026-05-19"
  },
  "119-s-3331": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3331?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-03",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.",
   "latest_action_date": "2026-09-14",
   "number": "3331",
   "origin_chamber": "Senate",
   "title": "A bill to designate the facility of the United States Postal Service located at 50 East 100 North in Moab, Utah, as the \"2nd Lieutenant Mitch Williams Post Office\".",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-05"
  },
  "119-s-3332": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3332?format=json",
