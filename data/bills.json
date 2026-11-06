@@ -5049,15 +5049,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-101": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/101?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-03",
   "number": "101",
   "origin_chamber": "House",
   "title": "Judicial Administration and Improvement Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-07"
+  "update_date": "2026-11-06"
  },
  "119-hr-1010": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1010?format=json",
@@ -5302,15 +5302,15 @@
   "update_date": "2026-09-04"
  },
  "119-hr-1012": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1012?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-02-05",
   "number": "1012",
   "origin_chamber": "House",
   "title": "Spent Fuel Prioritization Act of 2025",
   "type": "HR",
-  "update_date": "2025-07-30"
+  "update_date": "2026-11-06"
  },
  "119-hr-10120": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10120?format=json",
@@ -5665,15 +5665,15 @@
   "update_date": "2026-09-17"
  },
  "119-hr-1015": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1015?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-05",
   "number": "1015",
   "origin_chamber": "House",
   "title": "Prison Rape Prevention Act of 2025",
   "type": "HR",
-  "update_date": "2025-04-11"
+  "update_date": "2026-11-06"
  },
  "119-hr-10150": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10150?format=json",
@@ -6270,15 +6270,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-102": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/102?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-01-03",
   "number": "102",
   "origin_chamber": "House",
   "title": "American Sovereignty and Species Protection Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-14"
+  "update_date": "2026-11-06"
  },
  "119-hr-1020": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1020?format=json",
@@ -6523,15 +6523,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-1022": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1022?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-02-05",
   "number": "1022",
   "origin_chamber": "House",
   "title": "Words Matter for the District of Columbia Courts Act",
   "type": "HR",
-  "update_date": "2026-08-14"
+  "update_date": "2026-11-06"
  },
  "119-hr-10220": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10220?format=json",
@@ -7128,15 +7128,15 @@
   "update_date": "2026-10-07"
  },
  "119-hr-1027": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1027?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Sponsor introductory remarks on measure. (CR H519)",
   "latest_action_date": "2025-02-06",
   "number": "1027",
   "origin_chamber": "House",
   "title": "QUIET Act",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-06"
  },
  "119-hr-10270": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10270?format=json",
@@ -7180,7 +7180,7 @@
   "origin_chamber": "House",
   "title": "Fairness for Farm Workers Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-11-06"
  },
  "119-hr-10274": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10274?format=json",
@@ -7623,15 +7623,15 @@
   "update_date": "2026-09-23"
  },
  "119-hr-1031": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1031?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the Subcommittee on Federal Lands.",
   "latest_action_date": "2026-09-10",
   "number": "1031",
   "origin_chamber": "House",
   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-06"
  },
  "119-hr-10310": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10310?format=json",
@@ -7744,15 +7744,15 @@
   "update_date": "2026-09-18"
  },
  "119-hr-1032": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1032?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-02-05",
   "number": "1032",
   "origin_chamber": "House",
   "title": "Stop Funding Our Adversaries Act of 2023",
   "type": "HR",
-  "update_date": "2025-07-13"
+  "update_date": "2026-11-06"
  },
  "119-hr-10320": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10320?format=json",
@@ -8107,15 +8107,15 @@
   "update_date": "2026-09-15"
  },
  "119-hr-1035": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1035?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-05",
   "number": "1035",
   "origin_chamber": "House",
   "title": "Job Protection Act",
   "type": "HR",
-  "update_date": "2026-09-16"
+  "update_date": "2026-11-06"
  },
  "119-hr-10350": {
   "congress": 119,
@@ -8712,15 +8712,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-104": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/104?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-01-03",
   "number": "104",
   "origin_chamber": "House",
   "title": "Protecting Arizona from Federal Land Grabs Act",
   "type": "HR",
-  "update_date": "2025-10-22"
+  "update_date": "2026-11-06"
  },
  "119-hr-1040": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1040?format=json",
@@ -9086,15 +9086,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-1043": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1043?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "By Senator Lee from Committee on Energy and Natural Resources filed written report. Report No. 119-109.",
   "latest_action_date": "2026-02-11",
   "number": "1043",
   "origin_chamber": "House",
   "title": "La Paz County Solar Energy and Job Creation Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-06"
  },
  "119-hr-10430": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10430?format=json",
@@ -9207,15 +9207,15 @@
   "update_date": "2026-09-22"
  },
  "119-hr-1044": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1044?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-07-15",
   "number": "1044",
   "origin_chamber": "House",
   "title": "To amend Public Law 99\u2013338 with respect to Kaweah Project permits.",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-06"
  },
  "119-hr-10440": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10440?format=json",
@@ -9328,15 +9328,15 @@
   "update_date": "2026-10-14"
  },
  "119-hr-1045": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1045?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-12-16",
   "number": "1045",
   "origin_chamber": "House",
   "title": "Utah Wildfire Research Institute Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-06"
  },
  "119-hr-10450": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10450?format=json",
@@ -9933,15 +9933,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-105": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/105?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-01-03",
   "number": "105",
   "origin_chamber": "House",
   "title": "Increasing Public Access to Recreation Act",
   "type": "HR",
-  "update_date": "2026-07-30"
+  "update_date": "2026-11-06"
  },
  "119-hr-1050": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1050?format=json",
@@ -10186,15 +10186,15 @@
   "update_date": "2026-10-05"
  },
  "119-hr-1052": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1052?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Subcommittee on Highways and Transit.",
   "latest_action_date": "2025-02-06",
   "number": "1052",
   "origin_chamber": "House",
   "title": "UNPLUG EVs Act",
   "type": "HR",
-  "update_date": "2025-05-23"
+  "update_date": "2026-11-06"
  },
  "119-hr-10520": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10520?format=json",
@@ -10549,15 +10549,15 @@
   "update_date": "2026-09-28"
  },
  "119-hr-1055": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1055?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-02-06",
   "number": "1055",
   "origin_chamber": "House",
   "title": "CONSTRUCTS Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-06"
  },
  "119-hr-10550": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10550?format=json",
@@ -10791,15 +10791,15 @@
   "update_date": "2026-10-05"
  },
  "119-hr-1057": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1057?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-06",
   "number": "1057",
   "origin_chamber": "House",
   "title": "Safe Passage on Interstates Act of 2025",
   "type": "HR",
-  "update_date": "2025-10-15"
+  "update_date": "2026-11-06"
  },
  "119-hr-10570": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10570?format=json",
@@ -101156,15 +101156,15 @@
   "update_date": "2026-07-22"
  },
  "119-hr-8107": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8107?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-06-09",
   "number": "8107",
   "origin_chamber": "House",
   "title": "Government Audit and Accountability of Federally Funded State-Administered Programs Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-06"
  },
  "119-hr-8108": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8108?format=json",
@@ -192764,15 +192764,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-5167": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5167?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-29",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-07-29",
   "number": "5167",
   "origin_chamber": "Senate",
   "title": "Government Audit and Accountability of Federally Funded State-Administered Programs Act",
   "type": "S",
-  "update_date": "2026-08-11"
+  "update_date": "2026-11-06"
  },
  "119-s-5168": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5168?format=json",
