@@ -21502,7 +21502,7 @@
   "origin_chamber": "House",
   "title": "Volunteer Driver Tax Appreciation Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-11-06"
  },
  "119-hr-1583": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1583?format=json",
@@ -60940,15 +60940,15 @@
   "update_date": "2026-11-05"
  },
  "119-hr-4813": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4813?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
   "latest_action_date": "2025-07-30",
   "number": "4813",
   "origin_chamber": "House",
   "title": "Noncontiguous Disaster Shipping Act",
   "type": "HR",
-  "update_date": "2025-10-07"
+  "update_date": "2026-11-06"
  },
  "119-hr-4814": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4814?format=json",
@@ -60962,15 +60962,15 @@
   "update_date": "2026-10-08"
  },
  "119-hr-4815": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4815?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-07-29",
   "number": "4815",
   "origin_chamber": "House",
   "title": "District of Columbia National Guard Commanding General Residency Act",
   "type": "HR",
-  "update_date": "2025-09-12"
+  "update_date": "2026-11-06"
  },
  "119-hr-4816": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4816?format=json",
@@ -60984,15 +60984,15 @@
   "update_date": "2025-09-16"
  },
  "119-hr-4817": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4817?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-07-29",
   "number": "4817",
   "origin_chamber": "House",
   "title": "Immigrant Witness and Victim Protection Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-06"
  },
  "119-hr-4818": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4818?format=json",
@@ -144496,15 +144496,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1177": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1177?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-27",
   "number": "1177",
   "origin_chamber": "Senate",
   "title": "Volunteer Driver Tax Appreciation Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-06"
  },
  "119-s-1178": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1178?format=json",
