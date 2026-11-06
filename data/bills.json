@@ -96173,15 +96173,15 @@
   "update_date": "2026-04-10"
  },
  "119-hr-77": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/77?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-02-13",
   "number": "77",
   "origin_chamber": "House",
   "title": "Midnight Rules Relief Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-06"
  },
  "119-hr-770": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/770?format=json",
@@ -104090,7 +104090,7 @@
   "origin_chamber": "House",
   "title": "RURAL Healthcare Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-06"
  },
  "119-hr-8348": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8348?format=json",
@@ -151500,7 +151500,7 @@
   "origin_chamber": "Senate",
   "title": "Efficient Nuclear Licensing Hearings Act",
   "type": "S",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-06"
  },
  "119-s-1758": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1758?format=json",
