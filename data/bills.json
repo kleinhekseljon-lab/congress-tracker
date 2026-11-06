@@ -4598,15 +4598,15 @@
   "update_date": "2026-10-28"
  },
  "119-hr-10062": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10062?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-08-06",
   "number": "10062",
   "origin_chamber": "House",
   "title": "Promoting National Service and Reducing Unemployment Act",
   "type": "HR",
-  "update_date": "2026-09-10"
+  "update_date": "2026-11-06"
  },
  "119-hr-10063": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10063?format=json",
@@ -4785,15 +4785,15 @@
   "update_date": "2026-08-19"
  },
  "119-hr-10078": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10078?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-10",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-08-10",
   "number": "10078",
   "origin_chamber": "House",
   "title": "Dollar-for-Dollar Deficit Reduction Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-06"
  },
  "119-hr-10079": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10079?format=json",
@@ -4873,15 +4873,15 @@
   "update_date": "2026-08-20"
  },
  "119-hr-10085": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10085?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-13",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-08-13",
   "number": "10085",
   "origin_chamber": "House",
   "title": "Lifelong Learning Act",
   "type": "HR",
-  "update_date": "2026-08-20"
+  "update_date": "2026-11-06"
  },
  "119-hr-10086": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10086?format=json",
@@ -42042,15 +42042,15 @@
   "update_date": "2025-07-23"
  },
  "119-hr-3265": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3265?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-05-08",
   "number": "3265",
   "origin_chamber": "House",
   "title": "Protecting our Students in Schools Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-13"
+  "update_date": "2026-11-06"
  },
  "119-hr-3266": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3266?format=json",
@@ -67815,15 +67815,15 @@
   "update_date": "2026-06-11"
  },
  "119-hr-5377": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5377?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5377",
   "origin_chamber": "House",
   "title": "Rural Health Training Opportunities Act",
   "type": "HR",
-  "update_date": "2025-09-25"
+  "update_date": "2026-11-06"
  },
  "119-hr-5378": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5378?format=json",
@@ -111386,15 +111386,15 @@
   "update_date": "2026-06-22"
  },
  "119-hr-8945": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8945?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-20",
   "latest_action": "Ordered to be Reported by Voice Vote.",
   "latest_action_date": "2026-07-22",
   "number": "8945",
   "origin_chamber": "House",
   "title": "To designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Wai'anae, Hawai'i, as the \"U.S. Representative Colleen Hanabusa Post Office Building\".",
   "type": "HR",
-  "update_date": "2026-08-04"
+  "update_date": "2026-11-06"
  },
  "119-hr-8946": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8946?format=json",
@@ -188683,15 +188683,15 @@
   "update_date": "2026-01-21"
  },
  "119-s-4830": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4830?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-18",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.",
   "latest_action_date": "2026-09-14",
   "number": "4830",
   "origin_chamber": "Senate",
   "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-06"
  },
  "119-s-4831": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4831?format=json",
@@ -193204,15 +193204,15 @@
   "update_date": "2026-09-16"
  },
  "119-s-5202": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5202?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-30",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-07-30",
   "number": "5202",
   "origin_chamber": "Senate",
   "title": "Protecting Our Kids from Harmful Research Act",
   "type": "S",
-  "update_date": "2026-08-11"
+  "update_date": "2026-11-06"
  },
  "119-s-5203": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5203?format=json",
