@@ -121759,15 +121759,15 @@
   "update_date": "2026-07-29"
  },
  "119-hr-9797": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9797?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
   "latest_action_date": "2026-07-22",
   "number": "9797",
   "origin_chamber": "House",
   "title": "RESILIENCE Act of 2026",
   "type": "HR",
-  "update_date": "2026-08-28"
+  "update_date": "2026-11-07"
  },
  "119-hr-9798": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9798?format=json",
@@ -122067,15 +122067,15 @@
   "update_date": "2026-08-21"
  },
  "119-hr-9821": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9821?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Referred to the Subcommittee on Health.",
   "latest_action_date": "2026-07-28",
   "number": "9821",
   "origin_chamber": "House",
   "title": "Shared Values Act",
   "type": "HR",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-07"
  },
  "119-hr-9822": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9822?format=json",
