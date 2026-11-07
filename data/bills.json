@@ -40048,7 +40048,7 @@
   "origin_chamber": "House",
   "title": "CHILD Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-07"
  },
  "119-hr-3101": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3101?format=json",
@@ -50740,7 +50740,7 @@
   "origin_chamber": "House",
   "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-07"
  },
  "119-hr-3979": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3979?format=json",
@@ -148742,15 +148742,15 @@
   "update_date": "2026-09-17"
  },
  "119-s-1528": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1528?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-30",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-04-22",
   "number": "1528",
   "origin_chamber": "Senate",
   "title": "CHILD Act of 2025",
   "type": "S",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-07"
  },
  "119-s-1529": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1529?format=json",
@@ -155438,7 +155438,7 @@
   "origin_chamber": "Senate",
   "title": "Nuclear REFUEL Act of 2025",
   "type": "S",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-07"
  },
  "119-s-2083": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2083?format=json",
