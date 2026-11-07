@@ -23471,7 +23471,7 @@
   "origin_chamber": "House",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-07"
  },
  "119-hr-1745": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1745?format=json",
@@ -178387,15 +178387,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3984": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3984?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-04",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.",
   "latest_action_date": "2026-07-27",
   "number": "3984",
   "origin_chamber": "Senate",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-08-11"
+  "update_date": "2026-11-07"
  },
  "119-s-3985": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3985?format=json",
