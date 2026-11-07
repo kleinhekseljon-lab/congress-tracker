@@ -176066,15 +176066,15 @@
   "update_date": "2026-09-30"
  },
  "119-s-3793": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3793?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-05",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S511-512)",
   "latest_action_date": "2026-02-05",
   "number": "3793",
   "origin_chamber": "Senate",
   "title": "Predatory Lending Elimination Act",
   "type": "S",
-  "update_date": "2026-02-26"
+  "update_date": "2026-11-07"
  },
  "119-s-3794": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3794?format=json",
