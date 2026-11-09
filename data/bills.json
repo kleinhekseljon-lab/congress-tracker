@@ -8184,15 +8184,15 @@
   "update_date": "2026-11-04"
  },
  "119-hr-10356": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10356?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 13.",
   "latest_action_date": "2026-09-16",
   "number": "10356",
   "origin_chamber": "House",
   "title": "Empowering Moms Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-09"
  },
  "119-hr-10357": {
   "congress": 119,
@@ -23471,7 +23471,7 @@
   "origin_chamber": "House",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-09"
  },
  "119-hr-1745": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1745?format=json",
@@ -25883,15 +25883,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-1942": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1942?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-06",
   "number": "1942",
   "origin_chamber": "House",
   "title": "DELIVER Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-08"
+  "update_date": "2026-11-09"
  },
  "119-hr-1943": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1943?format=json",
@@ -102363,7 +102363,7 @@
   "origin_chamber": "House",
   "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-09"
  },
  "119-hr-8206": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8206?format=json",
@@ -127897,15 +127897,15 @@
   "update_date": "2026-09-19"
  },
  "119-hres-1299": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1299?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-05-20",
   "number": "1299",
   "origin_chamber": "House",
   "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 6644, with amendment.",
   "type": "HRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-09"
  },
  "119-hres-13": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/13?format=json",
