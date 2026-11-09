@@ -61072,15 +61072,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-4824": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4824?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2025-07-29",
   "number": "4824",
   "origin_chamber": "House",
   "title": "One Stop Shop for Small Business Licensing Act of 2025",
   "type": "HR",
-  "update_date": "2025-10-04"
+  "update_date": "2026-11-09"
  },
  "119-hr-4825": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4825?format=json",
