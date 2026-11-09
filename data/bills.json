@@ -13890,7 +13890,7 @@
   "origin_chamber": "House",
   "title": "ALPR Accountability Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-09"
  },
  "119-hr-10823": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10823?format=json",
@@ -15463,7 +15463,7 @@
   "origin_chamber": "House",
   "title": "Health Forests Incentives Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-09"
  },
  "119-hr-10953": {
   "congress": 119,
@@ -61204,15 +61204,15 @@
   "update_date": "2026-06-12"
  },
  "119-hr-4835": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4835?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-08-01",
   "number": "4835",
   "origin_chamber": "House",
   "title": "Strategic Resources Non-discrimination Act",
   "type": "HR",
-  "update_date": "2026-02-21"
+  "update_date": "2026-11-09"
  },
  "119-hr-4836": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4836?format=json",
@@ -61237,15 +61237,15 @@
   "update_date": "2026-10-14"
  },
  "119-hr-4838": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4838?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-08-01",
   "number": "4838",
   "origin_chamber": "House",
   "title": "ERIC ADAMS Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-15"
+  "update_date": "2026-11-09"
  },
  "119-hr-4839": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4839?format=json",
@@ -196460,15 +196460,15 @@
   "update_date": "2026-09-01"
  },
  "119-s-5470": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5470?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-23",
   "number": "5470",
   "origin_chamber": "Senate",
   "title": "Protecting our Students in Schools Act of 2026",
   "type": "S",
-  "update_date": "2026-10-13"
+  "update_date": "2026-11-09"
  },
  "119-s-5471": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5471?format=json",
