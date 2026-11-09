@@ -15485,7 +15485,7 @@
   "origin_chamber": "House",
   "title": "Don\u2019t Flush Babies Act",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-09"
  },
  "119-hr-10955": {
   "congress": 119,
@@ -15540,7 +15540,7 @@
   "origin_chamber": "House",
   "title": "Right to Re-Enroll Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-09"
  },
  "119-hr-1096": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1096?format=json",
@@ -25410,15 +25410,15 @@
   "update_date": "2026-11-06"
  },
  "119-hr-1903": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1903?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-06",
   "number": "1903",
   "origin_chamber": "House",
   "title": "Congressional Trade Authority Act of 2025",
   "type": "HR",
-  "update_date": "2026-02-28"
+  "update_date": "2026-11-09"
  },
  "119-hr-1904": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1904?format=json",
@@ -25872,15 +25872,15 @@
   "update_date": "2026-04-09"
  },
  "119-hr-1941": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1941?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-03-06",
   "number": "1941",
   "origin_chamber": "House",
   "title": "Preventing Deepfakes of Intimate Images Act",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-09"
  },
  "119-hr-1942": {
   "congress": 119,
@@ -25982,15 +25982,15 @@
   "update_date": "2025-02-24"
  },
  "119-hr-1950": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1950?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Rules.",
   "latest_action_date": "2025-03-06",
   "number": "1950",
   "origin_chamber": "House",
   "title": "Protect Social Security and Medicare Act",
   "type": "HR",
-  "update_date": "2025-06-11"
+  "update_date": "2026-11-09"
  },
  "119-hr-1951": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1951?format=json",
@@ -26114,15 +26114,15 @@
   "update_date": "2026-04-07"
  },
  "119-hr-1961": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1961?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-06",
   "number": "1961",
   "origin_chamber": "House",
   "title": "CARE Act",
   "type": "HR",
-  "update_date": "2025-05-06"
+  "update_date": "2026-11-09"
  },
  "119-hr-1962": {
   "congress": 119,
@@ -26169,15 +26169,15 @@
   "update_date": "2026-11-06"
  },
  "119-hr-1966": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1966?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-06",
   "number": "1966",
   "origin_chamber": "House",
   "title": "Mamas and Babies in Underserved Communities Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-09"
  },
  "119-hr-1967": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1967?format=json",
@@ -130284,15 +130284,15 @@
   "update_date": "2026-09-16"
  },
  "119-hres-1494": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1494?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-27",
   "latest_action": "Referred to the House Committee on House Administration.",
   "latest_action_date": "2026-08-27",
   "number": "1494",
   "origin_chamber": "House",
-  "title": "Honoring the life and enduring public service of Congresswoman Sheila Jackson Lee, a fearless advocate for justice, equality, and the people of the United States.",
+  "title": "Original Resolution Honoring Congresswoman Sheila Jackson Lee",
   "type": "HRES",
-  "update_date": "2026-08-28"
+  "update_date": "2026-11-09"
  },
  "119-hres-1495": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1495?format=json",
@@ -132127,9 +132127,9 @@
   "latest_action_date": "2026-10-29",
   "number": "1644",
   "origin_chamber": "House",
-  "title": "Supporting the goals and ideals of October as \"National Domestic Violence Awareness Month\".",
+  "title": "Original National Domestic Violence Awareness Month Resolution of 2026",
   "type": "HRES",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-09"
  },
  "119-hres-1645": {
   "congress": 119,
@@ -132627,15 +132627,15 @@
   "update_date": "2026-09-28"
  },
  "119-hres-200": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/200?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-06",
   "number": "200",
   "origin_chamber": "House",
   "title": "Expressing support for a comprehensive political reform plan.",
   "type": "HRES",
-  "update_date": "2025-11-21"
+  "update_date": "2026-11-09"
  },
  "119-hres-201": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/201?format=json",
