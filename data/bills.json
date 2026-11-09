@@ -34848,15 +34848,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-2677": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2677?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-07",
   "latest_action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-04-07",
   "number": "2677",
   "origin_chamber": "House",
   "title": "10th Amendment Restoration Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-05"
+  "update_date": "2026-11-09"
  },
  "119-hr-2678": {
   "congress": 119,
@@ -61105,15 +61105,15 @@
   "update_date": "2025-08-06"
  },
  "119-hr-4827": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4827?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-07-29",
   "number": "4827",
   "origin_chamber": "House",
   "title": "Medical Debt Relief Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-01"
+  "update_date": "2026-11-09"
  },
  "119-hr-4828": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4828?format=json",
@@ -61182,15 +61182,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-4833": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4833?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-08-01",
   "number": "4833",
   "origin_chamber": "House",
   "title": "Dyess Air Base Access Infrastructure Design Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-09"
  },
  "119-hr-4834": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4834?format=json",
@@ -167057,15 +167057,15 @@
   "update_date": "2026-10-31"
  },
  "119-s-3041": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3041?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-23",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-06-15",
   "number": "3041",
   "origin_chamber": "Senate",
   "title": "Tribal Warrant Fairness Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-09"
  },
  "119-s-3042": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3042?format=json",
@@ -187000,15 +187000,15 @@
   "update_date": "2026-08-05"
  },
  "119-s-4691": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4691?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-04",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.",
   "latest_action_date": "2026-07-22",
   "number": "4691",
   "origin_chamber": "Senate",
   "title": "Disaster Communications Coordination and Preparedness Act",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-11-09"
  },
  "119-s-4692": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4692?format=json",
@@ -209989,6 +209989,17 @@
   "type": "SRES",
   "update_date": "2025-09-24"
  },
+ "119-sres-33": {
+  "congress": 119,
+  "introduced_date": "2025-01-23",
+  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S340-341)",
+  "latest_action_date": "2025-01-23",
+  "number": "33",
+  "origin_chamber": "Senate",
+  "title": "A resolution expressing support for the recognition of January as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+  "type": "SRES",
+  "update_date": "2026-11-09"
+ },
  "119-sres-330": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/330?format=json",
   "congress": 119,
@@ -211123,15 +211134,15 @@
   "update_date": "2026-06-16"
  },
  "119-sres-423": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/423?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-30",
   "latest_action": "Referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-09-30",
   "number": "423",
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the month of October 2025 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
   "type": "SRES",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-09"
  },
  "119-sres-424": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/424?format=json",
@@ -211178,15 +211189,15 @@
   "update_date": "2026-06-16"
  },
  "119-sres-428": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/428?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-30",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6882; text: CR S6879-6880)",
   "latest_action_date": "2025-09-30",
   "number": "428",
   "origin_chamber": "Senate",
   "title": "A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.",
   "type": "SRES",
-  "update_date": "2026-06-16"
+  "update_date": "2026-11-09"
  },
  "119-sres-429": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/429?format=json",
@@ -211739,15 +211750,15 @@
   "update_date": "2025-12-05"
  },
  "119-sres-474": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/474?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-29",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7830-7831; text: CR S7829-7830)",
   "latest_action_date": "2025-10-29",
   "number": "474",
   "origin_chamber": "Senate",
   "title": "A resolution designating October 2025 as \"National Country Music Month\".",
   "type": "SRES",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-09"
  },
  "119-sres-475": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/475?format=json",
@@ -214324,15 +214335,15 @@
   "update_date": "2026-05-13"
  },
  "119-sres-688": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/688?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-27",
   "latest_action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2055-2056)",
   "latest_action_date": "2026-04-27",
   "number": "688",
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
   "type": "SRES",
-  "update_date": "2026-05-15"
+  "update_date": "2026-11-09"
  },
  "119-sres-689": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/689?format=json",
