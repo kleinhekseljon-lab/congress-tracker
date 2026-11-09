@@ -61226,15 +61226,15 @@
   "update_date": "2026-07-29"
  },
  "119-hr-4837": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4837?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the Subcommittee on Health.",
   "latest_action_date": "2025-12-19",
   "number": "4837",
   "origin_chamber": "House",
   "title": "Written Informed Consent Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-09"
  },
  "119-hr-4838": {
   "congress": 119,
@@ -61292,15 +61292,15 @@
   "update_date": "2026-01-28"
  },
  "119-hr-4842": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4842?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-08-01",
   "number": "4842",
   "origin_chamber": "House",
   "title": "SBIR Commercialization Improvement Act",
   "type": "HR",
-  "update_date": "2025-09-17"
+  "update_date": "2026-11-09"
  },
  "119-hr-4843": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4843?format=json",
@@ -61325,15 +61325,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-4845": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4845?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-08-01",
   "number": "4845",
   "origin_chamber": "House",
   "title": "To designate the National Memorial Day Parade, and for other purposes.",
   "type": "HR",
-  "update_date": "2025-09-11"
+  "update_date": "2026-11-09"
  },
  "119-hr-4846": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4846?format=json",
@@ -178112,15 +178112,15 @@
   "update_date": "2026-07-27"
  },
  "119-s-3960": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3960?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-02",
   "latest_action": "Read twice and referred to the Committee on the Judiciary. (text: CR S735)",
   "latest_action_date": "2026-03-02",
   "number": "3960",
   "origin_chamber": "Senate",
   "title": "Smarter Pretrial Detention for Drug Charges Act of 2026",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-09"
  },
  "119-s-3961": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3961?format=json",
