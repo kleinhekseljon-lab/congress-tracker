@@ -61006,15 +61006,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-4819": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4819?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-07-29",
   "number": "4819",
   "origin_chamber": "House",
   "title": "Click to Cancel Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-09"
  },
  "119-hr-482": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/482?format=json",
@@ -61050,15 +61050,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-4822": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4822?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-07-29",
   "number": "4822",
   "origin_chamber": "House",
   "title": "FORKS Made in America Permanency Act of 2025",
   "type": "HR",
-  "update_date": "2025-09-11"
+  "update_date": "2026-11-09"
  },
  "119-hr-4823": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4823?format=json",
@@ -178395,7 +178395,7 @@
   "origin_chamber": "Senate",
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-09"
  },
  "119-s-3985": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3985?format=json",
