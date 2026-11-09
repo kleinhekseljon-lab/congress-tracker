@@ -3806,15 +3806,15 @@
   "update_date": "2025-07-18"
  },
  "119-hr-1": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-20",
   "latest_action": "Became Public Law No: 119-21.",
   "latest_action_date": "2025-07-04",
   "number": "1",
   "origin_chamber": "House",
   "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-09"
  },
  "119-hr-10": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10?format=json",
