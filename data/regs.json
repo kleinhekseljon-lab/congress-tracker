@@ -18157,7 +18157,7 @@
    "transportation-department",
    "federal-aviation-administration"
   ],
-  "comments_close_on": "2026-12-24",
+  "comments_close_on": null,
   "effective_on": "2026-11-24",
   "published": "2026-11-09",
   "significant": false,
@@ -18336,7 +18336,7 @@
    "federal-aviation-administration"
   ],
   "comments_close_on": null,
-  "effective_on": "2027-02-18",
+  "effective_on": "2026-10-30",
   "published": "2026-11-09",
   "significant": false,
   "title": "Amendment of Class D and Establishment of Class E Airspace; Chandler and Phoenix, AZ",
@@ -18351,8 +18351,8 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2026-12-09",
-  "effective_on": null,
+  "comments_close_on": "2026-12-24",
+  "effective_on": "2026-12-09",
   "published": "2026-11-09",
   "significant": false,
   "title": "Television Broadcasting Services Odessa, Texas",
