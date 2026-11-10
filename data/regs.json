@@ -18253,6 +18253,24 @@
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and"
  },
+ "2026-22812": {
+  "abstract": "This proposed rule would reform Medicare and Medicaid regulations deemed obsolete or excessively burdensome on healthcare providers and suppliers, with the objective of reducing costs, enhancing flexibility in delivering innovative care, and streamlining existing regulations. This reform seeks to enable healthcare professionals to devote more resources to improving patient care by eliminating or minimizing requirements that impede quality patient care or that divert resources away from furnishing high quality patient care.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Centers for Medicare & Medicaid Services"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "centers-for-medicare-medicaid-services"
+  ],
+  "comments_close_on": "2027-01-11",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care"
+ },
  "2026-22815": {
   "abstract": "NMFS proposes to amend regulations that prohibit commercial fishing in the Pacific Remote Islands Marine National Monument Expansion (PRIMNM Expansion), which comprises waters of the U.S. exclusive economic zone (EEZ) between 50 to 200 nautical miles (nmi; 93 to 370 kilometers (km)) around Johnston Atoll and Wake and Jarvis Islands. This action is necessary to conform fishing regulations with Presidential Proclamation 10918 of April 17, 2025--Unleashing American Commercial Fishing in the Pacific, as amended by Presidential Proclamation 11035 of June 11, 2026--Restoring American Commercial Fishing in the Pacific, and in light of a court order. Fisheries in the PRIMNM Expansion would be regulated pursuant to existing fishing regulations under the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act), the Western and Central Pacific Fisheries Convention Implementation Act (WCPFCIA), the South Pacific Tuna Act (SPTA), and other applicable laws, that apply to all U.S. commercial fishing vessels but were superseded and made inapplicable when the commercial fishing prohibition for the PRIMNM Expansion was established. The proposed rule supports the long-term sustainability of U.S. fisheries and provides for the proper care and management of the PRIMNM and PRIMNM Expansion and the objects of historic or scientific interest therein, as directed by Proclamation 10918, as amended by Proclamation 11035.",
   "agencies": [
@@ -18340,6 +18358,306 @@
   "title": "Television Broadcasting Services Odessa, Texas",
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas"
+ },
+ "2026-22859": {
+  "abstract": "This document contains corrections to the proposed regulations (REG-116506-25), published in the Federal Register on September 11, 2026. These proposed regulations would implement new statutory requirements for qualified opportunity funds to file information returns with the IRS and furnish statements to investors who dispose of investments in those entities and for qualified opportunity zone businesses to furnish statements to qualified opportunity funds that hold interests in them.",
+  "agencies": [
+   "Treasury Department",
+   "Internal Revenue Service"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "internal-revenue-service"
+  ],
+  "comments_close_on": "2026-10-26",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures; Correction",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22859/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund"
+ },
+ "2026-22865": {
+  "abstract": "The Food and Drug Administration (FDA or we) is partially granting a color additive petition submitted by Environmental Defense Fund et al. (petitioners), by amending our color additive regulations, on the basis of the Delaney Clause, to remove the authorized use of methylene chloride as a diluent in color additive mixtures in inks for marking fruit and vegetables. The petitioners provided data demonstrating that this additive induces cancer in laboratory animals. We are denying the remaining petition requests to remove ethylene dichloride, methylene chloride, and trichloroethylene from the list of authorized extraction solvents for annatto extract, paprika oleoresin, and turmeric oleoresin, because any residue of the solvent would be an impurity in the color additive and such impurities are not subject to the Delaney Clause.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-11",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Color Additive Petition From Environmental Defense Fund et al.; Request To Amend the Color Additive Regulations To Remove the Solvents Ethylene Dichloride, Methylene Chloride, and Trichloroethylene",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22865/color-additive-petition-from-environmental-defense-fund-et-al-request-to-amend-the-color-additive"
+ },
+ "2026-22866": {
+  "abstract": "The Food and Drug Administration (FDA or we) is partially granting a color additive petition submitted by the International Association of Color Manufacturers (IACM or petitioner), by amending our color additive regulations, on the basis of abandonment, to remove the authorized uses of methylene chloride, trichloroethylene, and ethylene dichloride from the list of authorized extraction solvents for annatto extract, paprika oleoresin, and turmeric oleoresin. The petitioner provided data demonstrating that these uses have been permanently abandoned. FDA is denying as moot the portion of the petition proposing that the color additive regulations be amended, on the basis of abandonment, to no longer authorize the use of methylene chloride as a diluent in color additive mixtures in inks for marking fruit and vegetables. This request is moot because the authorization for this use has been removed, on the basis of the Delaney Clause, in response to a separate petition.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-11",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Color Additive Petition From the International Association of Color Manufacturers; Request To Amend the Color Additive Regulations To Remove the Solvents Methylene Chloride, Trichloroethylene, and Ethylene Dichloride",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22866/color-additive-petition-from-the-international-association-of-color-manufacturers-request-to-amend"
+ },
+ "2026-22887": {
+  "abstract": "The U.S. Environmental Protection Agency (EPA) is determining under the Clean Air Act (CAA) that the Detroit, Michigan Moderate nonattainment area (\"Detroit area\" or \"area\") attained the 2015 ozone National Ambient Air Quality Standards (NAAQS) by the applicable attainment date. This determination relies on the EPA's concurrence on an exceptional events request submitted by the Michigan Department of Environment, Great Lakes, and Energy (EGLE) on February 19, 2026, and concurred on by the EPA on March 24, 2026. Therefore, the EPA is taking final agency action on Michigan's exceptional events request. This action fulfills the EPA's statutory obligation to determine whether the Detroit area attained the 2015 ozone NAAQS by the Moderate attainment date of August 3, 2024.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-10",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Air Plan Approval; Michigan; Determination of Attainment by the Attainment Date for the 2015 Ozone Standards",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22887/air-plan-approval-michigan-determination-of-attainment-by-the-attainment-date-for-the-2015-ozone"
+ },
+ "2026-22888": {
+  "abstract": "EPA is amending significant new use rules (SNURs) issued under section 5(a)(2) of the Toxic Substances Control Act (TSCA) for certain chemical substances identified herein, which were the subject of premanufacture notices (PMNs) and significant new use notices (SNUNs). This action amends the SNURs by allowing certain new uses reported in the SNUNs or PMNs without additional notification requirements, modifying the significant new use notification requirements based on the actions and determinations for the SNUN or PMN submissions or based on the examination of new test data or other information, and making technical amendments to several SNURs. EPA is issuing these amendments based on review of new and existing data for the chemical substances.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-11",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Modification of Significant New Uses of Certain Chemical Substances (23-1.M)",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22888/modification-of-significant-new-uses-of-certain-chemical-substances-23-1m"
+ },
+ "2026-22891": {
+  "abstract": "",
+  "agencies": [
+   "National Labor Relations Board"
+  ],
+  "agency_slugs": [
+   "national-labor-relations-board"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Rules and Regulations, Series 8",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22891/rules-and-regulations-series-8"
+ },
+ "2026-22897": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 airplanes. This AD was prompted by a report of a missing main landing gear (MLG) brake rod center pin nut sub-assembly detected during an inspection. This AD requires, depending on airplane configuration, inspection of the MLG brake rod center pin nut, lock ring, and end plate, inspection of the MLG brake rod center pin and nut, and applicable corrective actions. This AD also requires additional work for certain airplanes. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-15",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Airworthiness Directives; Airbus SAS Airplanes",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22897/airworthiness-directives-airbus-sas-airplanes"
+ },
+ "2026-22899": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model CL-600-2B16 (604 Variants) airplanes. This proposed AD was prompted by reports of cracks being found on the lower wing plank at the rear spar wing station (WS) 59 to WS 65 web and/or flange. This proposed AD would require inspecting the lower wing plank rear spar web and lower flange, the forward surface of the pressure bulkhead frame under the stiffeners, and the vertical stabilizer front spar to frame attachment fitting lower legs for cracks, and repair or rectification if applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22899/airworthiness-directives-bombardier-inc-airplanes"
+ },
+ "2026-22903": {
+  "abstract": "The U.S. Department of Labor (Department), through the Employment and Training Administration (ETA), is proposing to amend 20 CFR part 604 both to reflect a 2012 update in Federal law in which Congress, by amending section 303(a) of the Social Security Act (SSA), established a Federal work search requirement; and to establish a national minimum weekly work search requirement standard for the Federal-State unemployment compensation (UC) program. This proposed rule would mandate, among other things, that States require individuals claiming UC to complete at least five qualifying work search activities or, where applicable, meet State-adopted points-based system requirements amounting to five qualifying activities or satisfy equivalent labor force attachment criteria, each week for which UC is claimed; that individuals report their work search activities as part of their certification process prior to payment being issued; and that State law allow for certain qualifying work search activities beyond simply employer contacts. This action is necessary to reduce inconsistencies beyond those created by local labor markets in State- level requirements for individuals to actively seek work. The intended effect is to hold States accountable for administering a UC program that provides temporary wage replacement to eligible individuals while they are actively seeking work through a meaningful engagement with the labor market.",
+  "agencies": [
+   "Labor Department",
+   "Employment and Training Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "employment-and-training-administration"
+  ],
+  "comments_close_on": "2027-01-11",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Unemployment Insurance Program National Minimum Weekly Work Search Requirements",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22903/unemployment-insurance-program-national-minimum-weekly-work-search-requirements"
+ },
+ "2026-22907": {
+  "abstract": "The FAA is correcting an airworthiness directive (AD) that was published in the Federal Register. That AD applies to all Airbus SAS Model A330-243, A330-243F, A330-341, A330-342, A330-343, A330-841, and A330-941 airplanes; and Model A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, and A340-642 airplanes. As published, a paragraph reference specified in the regulatory text is incorrect. This document corrects that error. In all other respects, the original document remains the same.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-23",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Airworthiness Directives; Airbus SAS Airplanes; Correction",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22907/airworthiness-directives-airbus-sas-airplanes-correction"
+ },
+ "2026-22919": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2021-13-20, which applies to certain Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes. AD 2021-13-20 requires inspecting the waste box, waste access doubler, and waste service door for corrosion, and doing applicable on-condition actions. Since the FAA issued AD 2021-13-20, the FAA has determined that a full secondary fuel vapor barrier must be applied. This proposed AD would retain all requirements of AD 2021-13-20 and would also require, for certain airplanes, an additional inspection of the waste box, waste access doubler, and waste service door for corrosion, and applicable on- condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22919/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c"
+ },
+ "2026-22928": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-05-07, which applies to all Leonardo S.p.a. Model AW189 helicopters. AD 2024-05-07 requires revising the airworthiness limitations section (ALS) of the existing helicopter maintenance manual or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. Since the FAA issued AD 2024-05-07, it was determined that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the ALS of the existing maintenance manual or ICA and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Airworthiness Directives; Leonardo S.p.a. Helicopters",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22928/airworthiness-directives-leonardo-spa-helicopters"
+ },
+ "2026-22936": {
+  "abstract": "Under section 5(a) of the Food and Nutrition Act of 2008, households in which each member receives benefits under a State program funded by Temporary Assistance for Needy Families (TANF) are categorically eligible for the Supplemental Nutrition Assistance Program (SNAP). Current SNAP regulations consider TANF benefits to include both cash assistance and non-cash or in-kind benefits or services from TANF-funded programs. This proposal would limit categorical eligibility to only households that receive TANF assistance, as defined at 45 CFR 260.31. These revisions would ensure that SNAP benefits are targeted to needy households that have qualified for TANF assistance while still aligning categorical eligibility's statutory purpose of simplifying program administration. A 100-word summary of this rule has been posted to www.regulations.gov and can be found here.",
+  "agencies": [
+   "Agriculture Department",
+   "Food and Nutrition Administration"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "food-and-nutrition-administration"
+  ],
+  "comments_close_on": "2026-12-10",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": true,
+  "title": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+ },
+ "2026-22944": {
+  "abstract": "The proposed rule would codify USDA's regulatory implementation of provisions of the One Big Beautiful Bill Act of 2025 (OBBB) changing the three-month time limit for certain participants subject to work requirements in the Supplemental Nutrition Assistance Program (SNAP). These changes include modifying the list of exceptions from the time limit for certain populations; updating requirements for areas to qualify for waivers of the time limit; and adding the temporary good faith exemptions in Alaska and Hawaii. Additionally, this rule proposes to strengthen requirements for requesting waivers of the time limit and revise the SNAP definition of a homeless individual.",
+  "agencies": [
+   "Agriculture Department",
+   "Food and Nutrition Administration"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "food-and-nutrition-administration"
+  ],
+  "comments_close_on": "2026-12-10",
+  "effective_on": null,
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Modification to Work Requirements for Able-Bodied Adults",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"
+ },
+ "2026-22951": {
+  "abstract": "These special conditions are issued for the Gulfstream Aerospace Corporation (Gulfstream) Model GVII-G400 airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is an envelope protection function to protect the airplane from over- and rapid- rotation on takeoff. The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": "2026-11-10",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22951/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-flight-envelope"
+ },
+ "2026-22953": {
+  "abstract": "The final rule updates the maintenance inspection requirements for single-engine turbine-powered airplanes and unmanned aircraft. Aircraft owners and operators now have more inspection program options to choose from and more relaxed mechanical reliability reporting requirements. It also clarifies various maintenance-related regulations. This final rule relieves aircraft owners, operators, maintenance providers, and FAA of certain workload burdens by facilitating a more efficient workload for these individuals without compromising aviation safety.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-11",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22953/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and"
+ },
+ "2026-22962": {
+  "abstract": "FinCEN is issuing notice of an order, pursuant to section 9714(a) of the Combating Russian Money Laundering Act (Pub. L. 116- 283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117-81), finding that MEXC Global--including any of its subsidiaries, branches, and offices, as well as any successor entities, operating in any jurisdiction outside of the United States--is a financial institution operating outside of the United States of primary money laundering concern in connection with Russian illicit finance and prohibiting certain transmittals of funds involving MEXC Global.",
+  "agencies": [
+   "Treasury Department",
+   "Financial Crimes Enforcement Network"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "financial-crimes-enforcement-network"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-10",
+  "published": "2026-11-10",
+  "significant": false,
+  "title": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global"
  },
  "C1-2026-10036": {
   "abstract": "",
