@@ -30945,7 +30945,7 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 257.",
+  "latest_action": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 257. (CR S5343-5344)",
   "latest_action_date": "2026-11-09",
   "number": "2347",
   "origin_chamber": "House",
@@ -67969,15 +67969,15 @@
   "update_date": "2025-10-25"
  },
  "119-hr-5380": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5380?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5380",
   "origin_chamber": "House",
   "title": "Labor Market Response Act",
   "type": "HR",
-  "update_date": "2025-09-26"
+  "update_date": "2026-11-10"
  },
  "119-hr-5381": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5381?format=json",
@@ -67991,15 +67991,15 @@
   "update_date": "2025-09-26"
  },
  "119-hr-5382": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5382?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5382",
   "origin_chamber": "House",
   "title": "Health CARE Training Act",
   "type": "HR",
-  "update_date": "2025-09-26"
+  "update_date": "2026-11-10"
  },
  "119-hr-5383": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5383?format=json",
@@ -114719,15 +114719,15 @@
   "update_date": "2026-06-22"
  },
  "119-hr-9208": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9208?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-08",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-06-08",
   "number": "9208",
   "origin_chamber": "House",
   "title": "HEAR Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-01"
+  "update_date": "2026-11-10"
  },
  "119-hr-9209": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9209?format=json",
@@ -114939,15 +114939,15 @@
   "update_date": "2026-07-08"
  },
  "119-hr-9226": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9226?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-06-09",
   "number": "9226",
   "origin_chamber": "House",
   "title": "Connecticut River Watershed Partnership Act",
   "type": "HR",
-  "update_date": "2026-06-27"
+  "update_date": "2026-11-10"
  },
  "119-hr-9227": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9227?format=json",
@@ -114983,15 +114983,15 @@
   "update_date": "2026-07-23"
  },
  "119-hr-923": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/923?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-04",
   "number": "923",
   "origin_chamber": "House",
   "title": "Stop Arming Cartels Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-24"
+  "update_date": "2026-11-10"
  },
  "119-hr-9230": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9230?format=json",
@@ -115346,15 +115346,15 @@
   "update_date": "2026-10-30"
  },
  "119-hr-926": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/926?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Subcommittee Hearings Held",
   "latest_action_date": "2026-01-14",
   "number": "926",
   "origin_chamber": "House",
   "title": "Fort Pillow National Battlefield Park Study Act",
   "type": "HR",
-  "update_date": "2026-01-15"
+  "update_date": "2026-11-10"
  },
  "119-hr-9260": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
@@ -115962,15 +115962,15 @@
   "update_date": "2026-08-20"
  },
  "119-hr-931": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/931?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Subcommittee Hearings Held",
   "latest_action_date": "2025-05-20",
   "number": "931",
   "origin_chamber": "House",
   "title": "To allow certain Federal minerals to be mined consistent with the Bull Mountains Mining Plan Modification, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-10"
  },
  "119-hr-9310": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json",
@@ -117909,15 +117909,15 @@
   "update_date": "2026-07-16"
  },
  "119-hr-947": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/947?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-02-04",
   "number": "947",
   "origin_chamber": "House",
   "title": "Non-Recognition of Russian Annexation of Ukrainian Territory Act",
   "type": "HR",
-  "update_date": "2025-11-22"
+  "update_date": "2026-11-10"
  },
  "119-hr-9470": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9470?format=json",
@@ -120571,15 +120571,15 @@
   "update_date": "2026-09-11"
  },
  "119-hr-969": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/969?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-04",
   "number": "969",
   "origin_chamber": "House",
   "title": "Taliban Rare Earth Minerals Sanctions Act",
   "type": "HR",
-  "update_date": "2025-05-05"
+  "update_date": "2026-11-10"
  },
  "119-hr-9690": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9690?format=json",
@@ -120692,15 +120692,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-97": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/97?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-03",
   "number": "97",
   "origin_chamber": "House",
   "title": "Injunctive Authority Clarification Act of 2025",
   "type": "HR",
-  "update_date": "2025-09-08"
+  "update_date": "2026-11-10"
  },
  "119-hr-970": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/970?format=json",
@@ -120945,15 +120945,15 @@
   "update_date": "2026-10-30"
  },
  "119-hr-972": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/972?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Became Public Law No: 119-91.",
   "latest_action_date": "2026-05-19",
   "number": "972",
   "origin_chamber": "House",
   "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-10"
  },
  "119-hr-9720": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9720?format=json",
@@ -121198,15 +121198,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-9740": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9740?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-16",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2026-07-16",
   "number": "9740",
   "origin_chamber": "House",
   "title": "Critical Materials Processing Technology Testbed Act",
   "type": "HR",
-  "update_date": "2026-07-27"
+  "update_date": "2026-11-10"
  },
  "119-hr-9741": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9741?format=json",
@@ -121649,15 +121649,15 @@
   "update_date": "2026-07-30"
  },
  "119-hr-9778": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9778?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-20",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-07-20",
   "number": "9778",
   "origin_chamber": "House",
   "title": "Judicial FOIA Expansion Act",
   "type": "HR",
-  "update_date": "2026-07-29"
+  "update_date": "2026-11-10"
  },
  "119-hr-978": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/978?format=json",
@@ -122441,15 +122441,15 @@
   "update_date": "2026-09-29"
  },
  "119-hr-9843": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9843?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-22",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-07-22",
   "number": "9843",
   "origin_chamber": "House",
   "title": "Enhancing Electric Grid Resilience Act",
   "type": "HR",
-  "update_date": "2026-08-04"
+  "update_date": "2026-11-10"
  },
  "119-hr-9844": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9844?format=json",
@@ -122639,15 +122639,15 @@
   "update_date": "2026-08-07"
  },
  "119-hr-986": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/986?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-02-05",
   "number": "986",
   "origin_chamber": "House",
   "title": "Marsh-Billings-Rockefeller National Historical Park Establishment Act Amendments Act of 2025",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-10"
  },
  "119-hr-9860": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9860?format=json",
@@ -128711,15 +128711,15 @@
   "update_date": "2026-06-25"
  },
  "119-hres-1356": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1356?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-10",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-06-10",
   "number": "1356",
   "origin_chamber": "House",
   "title": "A resolution commemorating the Day of Portugal, Cam\u00f5es, and the Portuguese Communities, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-08-17"
+  "update_date": "2026-11-10"
  },
  "119-hres-1357": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1357?format=json",
@@ -129470,15 +129470,15 @@
   "update_date": "2026-07-10"
  },
  "119-hres-1418": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1418?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-02",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-07-02",
   "number": "1418",
   "origin_chamber": "House",
   "title": "Honoring the life and legacy of Father Stan, a prominent human rights activist who died while in custody of the Indian state on July 5, 2021, and encouraging India to pursue an independent investigation into his arrest, incarceration, and death.",
   "type": "HRES",
-  "update_date": "2026-08-18"
+  "update_date": "2026-11-10"
  },
  "119-hres-1419": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1419?format=json",
@@ -129767,15 +129767,15 @@
   "update_date": "2026-07-23"
  },
  "119-hres-1442": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1442?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-20",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-07-20",
   "number": "1442",
   "origin_chamber": "House",
   "title": "Supporting the designation of July 20, 2026, as \"National Moon Landing Day\".",
   "type": "HRES",
-  "update_date": "2026-09-11"
+  "update_date": "2026-11-10"
  },
  "119-hres-1443": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1443?format=json",
@@ -173791,7 +173791,7 @@
  "119-s-3589": {
   "congress": 119,
   "introduced_date": "2026-01-07",
-  "latest_action": "Passed Senate with an amendment by Voice Vote.",
+  "latest_action": "Passed Senate with an amendment by Voice Vote. (consideration: CR S5376-5377; text: CR S5376-5377)",
   "latest_action_date": "2026-11-09",
   "number": "3589",
   "origin_chamber": "Senate",
@@ -185614,15 +185614,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4562": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4562?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-05-19",
   "number": "4562",
   "origin_chamber": "Senate",
   "title": "AVERT Future Violence Act of 2026",
   "type": "S",
-  "update_date": "2026-09-26"
+  "update_date": "2026-11-10"
  },
  "119-s-4563": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4563?format=json",
@@ -204954,7 +204954,7 @@
  "119-sconres-41": {
   "congress": 119,
   "introduced_date": "2026-11-09",
-  "latest_action": "Referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5359)",
   "latest_action_date": "2026-11-09",
   "number": "41",
   "origin_chamber": "Senate",
@@ -217725,29 +217725,29 @@
  "119-sres-950": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
+  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026. (text: CR S5358)",
   "latest_action_date": "2026-10-15",
   "number": "950",
   "origin_chamber": "Senate",
   "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
   "type": "SRES",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-10"
  },
  "119-sres-951": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
+  "latest_action": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026. (text: CR S5358-5359)",
   "latest_action_date": "2026-10-15",
   "number": "951",
   "origin_chamber": "Senate",
   "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
   "type": "SRES",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-10"
  },
  "119-sres-952": {
   "congress": 119,
   "introduced_date": "2026-11-09",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5377; text: CR S5359)",
   "latest_action_date": "2026-11-09",
   "number": "952",
   "origin_chamber": "Senate",
