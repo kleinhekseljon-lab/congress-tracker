@@ -29227,15 +29227,15 @@
   "update_date": "2026-06-04"
  },
  "119-hr-2206": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2206?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-18",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-03-18",
   "number": "2206",
   "origin_chamber": "House",
   "title": "Prevent Homelessness Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-10"
+  "update_date": "2026-11-10"
  },
  "119-hr-2207": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2207?format=json",
@@ -112354,15 +112354,15 @@
   "update_date": "2026-06-23"
  },
  "119-hr-9014": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9014?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-22",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2026-05-22",
   "number": "9014",
   "origin_chamber": "House",
   "title": "Affordable Housing and Area Median Income Fairness Act of 2026",
   "type": "HR",
-  "update_date": "2026-06-24"
+  "update_date": "2026-11-10"
  },
  "119-hr-9015": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9015?format=json",
