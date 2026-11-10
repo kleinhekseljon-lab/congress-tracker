@@ -14517,7 +14517,7 @@
   "origin_chamber": "House",
   "title": "Improving Medicare Coverage Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10876": {
   "congress": 119,
@@ -15078,7 +15078,7 @@
   "origin_chamber": "House",
   "title": "Telehealth Access and Licensure Portability Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10921": {
   "congress": 119,
@@ -15111,7 +15111,7 @@
   "origin_chamber": "House",
   "title": "Public Health and Research Reforms in Controlled Substances Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10924": {
   "congress": 119,
@@ -15254,7 +15254,7 @@
   "origin_chamber": "House",
   "title": "Stockdale Mountain Land Conveyance Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10936": {
   "congress": 119,
@@ -15276,7 +15276,7 @@
   "origin_chamber": "House",
   "title": "PROTECT 340B Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-10"
  },
  "119-hr-10938": {
   "congress": 119,
@@ -15320,7 +15320,7 @@
   "origin_chamber": "House",
   "title": "READI Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10941": {
   "congress": 119,
@@ -15331,7 +15331,7 @@
   "origin_chamber": "House",
   "title": "Antitrust Accountability and Transparency Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10942": {
   "congress": 119,
@@ -15342,7 +15342,7 @@
   "origin_chamber": "House",
   "title": "No Bonuses in Bankruptcy Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10943": {
   "congress": 119,
@@ -15353,7 +15353,7 @@
   "origin_chamber": "House",
   "title": "Counsel for Kids Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10944": {
   "congress": 119,
@@ -15375,7 +15375,7 @@
   "origin_chamber": "House",
   "title": "Food is Medicine Access Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-10"
  },
  "119-hr-10946": {
   "congress": 119,
@@ -16027,15 +16027,15 @@
   "update_date": "2026-11-06"
  },
  "119-hr-1125": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1125?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-02-07",
   "number": "1125",
   "origin_chamber": "House",
   "title": "LOCAL Act",
   "type": "HR",
-  "update_date": "2025-05-06"
+  "update_date": "2026-11-10"
  },
  "119-hr-1126": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1126?format=json",
@@ -16082,15 +16082,15 @@
   "update_date": "2026-08-27"
  },
  "119-hr-113": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/113?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the Committee on the Budget, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-01-03",
   "number": "113",
   "origin_chamber": "House",
   "title": "Budget Process Enhancement Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-10"
  },
  "119-hr-1130": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1130?format=json",
@@ -16115,15 +16115,15 @@
   "update_date": "2026-08-03"
  },
  "119-hr-1132": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1132?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-02-07",
   "number": "1132",
   "origin_chamber": "House",
   "title": "To amend the Workforce Innovation and Opportunity Act to direct the Secretary of Labor to award grants to community colleges for high-quality workforce development programs.",
   "type": "HR",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-10"
  },
  "119-hr-1133": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1133?format=json",
@@ -16137,15 +16137,15 @@
   "update_date": "2026-01-23"
  },
  "119-hr-1134": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1134?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-02-07",
   "number": "1134",
   "origin_chamber": "House",
   "title": "Embassy Construction Integrity Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-06"
+  "update_date": "2026-11-10"
  },
  "119-hr-1135": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1135?format=json",
@@ -16302,26 +16302,26 @@
   "update_date": "2026-07-13"
  },
  "119-hr-1148": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1148?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-02-07",
   "number": "1148",
   "origin_chamber": "House",
   "title": "SMARTER Act",
   "type": "HR",
-  "update_date": "2026-03-02"
+  "update_date": "2026-11-10"
  },
  "119-hr-1149": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1149?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-02-07",
   "number": "1149",
   "origin_chamber": "House",
   "title": "POWER Act",
   "type": "HR",
-  "update_date": "2025-03-11"
+  "update_date": "2026-11-10"
  },
  "119-hr-115": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/115?format=json",
@@ -16335,15 +16335,15 @@
   "update_date": "2025-12-10"
  },
  "119-hr-1150": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1150?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-07",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-02-07",
   "number": "1150",
   "origin_chamber": "House",
   "title": "SPEAR Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-11"
+  "update_date": "2026-11-10"
  },
  "119-hr-1151": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1151?format=json",
@@ -16379,15 +16379,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-1154": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1154?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-10",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-02-10",
   "number": "1154",
   "origin_chamber": "House",
   "title": "Space Infrastructure Act",
   "type": "HR",
-  "update_date": "2026-08-20"
+  "update_date": "2026-11-10"
  },
  "119-hr-1155": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1155?format=json",
@@ -16423,15 +16423,15 @@
   "update_date": "2026-02-12"
  },
  "119-hr-1158": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1158?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-10",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-02-10",
   "number": "1158",
   "origin_chamber": "House",
   "title": "Freedom First Lend Lease Act",
   "type": "HR",
-  "update_date": "2025-10-25"
+  "update_date": "2026-11-10"
  },
  "119-hr-1159": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1159?format=json",
@@ -16489,15 +16489,15 @@
   "update_date": "2026-01-21"
  },
  "119-hr-1163": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1163?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-10",
   "latest_action": "Placed on the Union Calendar, Calendar No. 552.",
   "latest_action_date": "2026-05-04",
   "number": "1163",
   "origin_chamber": "House",
   "title": "Prove It Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-10"
  },
  "119-hr-1164": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1164?format=json",
@@ -144650,15 +144650,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1176": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1176?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-27",
   "number": "1176",
   "origin_chamber": "Senate",
   "title": "Healthy Food Access for All Americans Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-10"
  },
  "119-s-1177": {
   "congress": 119,
@@ -199355,7 +199355,7 @@
  "119-s-5694": {
   "congress": 119,
   "introduced_date": "2026-11-09",
-  "latest_action": "Read twice and referred to the Committee on Indian Affairs.",
+  "latest_action": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S5358)",
   "latest_action_date": "2026-11-09",
   "number": "5694",
   "origin_chamber": "Senate",
