@@ -15573,7 +15573,7 @@
   "origin_chamber": "House",
   "title": "To direct the Secretary of Veterans Affairs to report on the Warrior Training Advancement Course of the Veterans Benefits Administration.",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-10962": {
   "congress": 119,
@@ -15582,9 +15582,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10962",
   "origin_chamber": "House",
-  "title": "To amend title 10, United States Code, to require a justification for use of procedures other than competitive procedures in contracting, and for other purposes.",
+  "title": "Justification Oversight and Opportunities for Main Street Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-10963": {
   "congress": 119,
@@ -15615,9 +15615,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10965",
   "origin_chamber": "House",
-  "title": "To provide out-of-school time educators with professional development in STEM subjects, and for other purposes.",
+  "title": "Supporting After-School STEM Educators Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-10966": {
   "congress": 119,
@@ -15626,9 +15626,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10966",
   "origin_chamber": "House",
-  "title": "To require the Secretary of Veterans Affairs to ensure that medical facilities of the Department of Veterans Affairs maintain sufficient staffing levels of maternity care coordinators, and for other purposes.",
+  "title": "Supporting Veteran Mothers Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-10967": {
   "congress": 119,
@@ -15648,9 +15648,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10968",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of Veterans Affairs to establish a grant program to provide financial assistance to eligible entities to furnish supportive services to certain eligible veterans.",
+  "title": "No Veteran Left Behind: Housing Retention Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-10969": {
   "congress": 119,
@@ -15659,9 +15659,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10969",
   "origin_chamber": "House",
-  "title": "To amend the Richard B. Russell National School Lunch Act to establish a task force for the development of best practices for schools participating in the school lunch program relating to the time of day lunches are served, the time of day recess is offered, and the duration of lunch periods, and for other purposes.",
+  "title": "Healthy Meal Time Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-1097": {
   "congress": 119,
@@ -15681,9 +15681,9 @@
   "latest_action_date": "2026-11-09",
   "number": "10970",
   "origin_chamber": "House",
-  "title": "To amend title XXVII of the Public Health Service Act and titles XVIII and XIX of the Social Security Act to require coverage of certain cardiovascular tests without cost sharing under group health plans, group and individual health insurance coverage, and the Medicare and Medicaid programs.",
+  "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-1098": {
   "congress": 119,
@@ -50850,7 +50850,7 @@
   "origin_chamber": "House",
   "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-3979": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3979?format=json",
@@ -106708,7 +106708,7 @@
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-8553": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8553?format=json",
@@ -119655,7 +119655,7 @@
   "origin_chamber": "House",
   "title": "American Enrichment Deployment Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-9613": {
   "congress": 119,
@@ -119666,7 +119666,7 @@
   "origin_chamber": "House",
   "title": "Nuclear Advisory Committee Reform Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-9614": {
   "congress": 119,
@@ -119677,7 +119677,7 @@
   "origin_chamber": "House",
   "title": "NRC Staff Pay Alignment Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-hr-9615": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9615?format=json",
@@ -159176,9 +159176,9 @@
   "latest_action_date": "2026-11-09",
   "number": "2378",
   "origin_chamber": "Senate",
-  "title": "SAFEGUARDS Act of 2025",
+  "title": "SAFEGUARDS Act of 2026",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-2379": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2379?format=json",
@@ -169452,7 +169452,7 @@
   "origin_chamber": "Senate",
   "title": "Bring Our Heroes Home Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-3227": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3227?format=json",
@@ -184225,7 +184225,7 @@
   "origin_chamber": "Senate",
   "title": "Accelerating Broadband Permits Act of 2026",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-4449": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4449?format=json",
@@ -187173,7 +187173,7 @@
   "origin_chamber": "Senate",
   "title": "Disaster Communications Coordination and Preparedness Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-4692": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4692?format=json",
@@ -199326,9 +199326,9 @@
   "latest_action_date": "2026-11-09",
   "number": "5691",
   "origin_chamber": "Senate",
-  "title": "A bill to authorize certain death-related commemorative uses of the Peace Corps seal, emblem, logo, and name.",
+  "title": "Memorializing Peace Corps Service Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-5692": {
   "congress": 119,
@@ -203781,9 +203781,9 @@
   "latest_action_date": "2026-11-09",
   "number": "933",
   "origin_chamber": "Senate",
-  "title": "NASA Transition Authorization Act of 2025",
+  "title": "NASA Authorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-s-934": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/934?format=json",
@@ -204960,7 +204960,7 @@
   "origin_chamber": "Senate",
   "title": "A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to Latinas in comparison to White, non-Hispanic men.",
   "type": "SCONRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-sconres-5": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/5?format=json",
@@ -217753,7 +217753,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the commemoration and reunification of Alexander Calder's Mountains and Clouds on November 18, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-11"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
