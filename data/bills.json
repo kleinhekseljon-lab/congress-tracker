@@ -42845,15 +42845,15 @@
   "update_date": "2026-07-13"
  },
  "119-hr-3302": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3302?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Placed on the Union Calendar, Calendar No. 284.",
   "latest_action_date": "2025-10-03",
   "number": "3302",
   "origin_chamber": "House",
   "title": "Healthy Start Reauthorization Act of 2025",
   "type": "HR",
-  "update_date": "2026-02-04"
+  "update_date": "2026-11-11"
  },
  "119-hr-3303": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3303?format=json",
@@ -176550,15 +176550,15 @@
   "update_date": "2026-11-03"
  },
  "119-s-3799": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3799?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-05",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.",
   "latest_action_date": "2026-06-22",
   "number": "3799",
   "origin_chamber": "Senate",
   "title": "Healthy Start Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-08-04"
+  "update_date": "2026-11-11"
  },
  "119-s-38": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/38?format=json",
