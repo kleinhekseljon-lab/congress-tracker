@@ -159841,15 +159841,15 @@
   "update_date": "2026-05-15"
  },
  "119-s-2434": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2434?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-24",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-07-24",
   "number": "2434",
   "origin_chamber": "Senate",
   "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-11"
  },
  "119-s-2435": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2435?format=json",
@@ -175403,7 +175403,7 @@
   "origin_chamber": "Senate",
   "title": "Bay Area Ridge National Scenic Trail Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-11"
  },
  "119-s-3721": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3721?format=json",
@@ -177826,15 +177826,15 @@
   "update_date": "2026-10-28"
  },
  "119-s-3923": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3923?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-25",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.",
   "latest_action_date": "2026-09-28",
   "number": "3923",
   "origin_chamber": "Senate",
   "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-11"
  },
  "119-s-3924": {
   "congress": 119,

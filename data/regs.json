@@ -18659,6 +18659,376 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global"
  },
+ "2026-23002": {
+  "abstract": "NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to Amendment 80 (A80) trawl catcher/ processors in the Bering Sea and Aleutian Islands management area (BSAI). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod in the BSAI to be harvested.",
+  "agencies": [
+   "Commerce Department",
+   "National Oceanic and Atmospheric Administration"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "national-oceanic-and-atmospheric-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-12",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23002/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea"
+ },
+ "2026-23003": {
+  "abstract": "This final rule revises HUD's Section 214 regulations to require the verification of U.S. citizenship or the eligible immigration status of all applicants and recipients of assistance under a covered program regardless of age. The rule will also make prorated assistance a temporary condition pending verification of eligible status of all family members, where permitted by statute, as opposed to under HUD's current regulations where prorated assistance could continue indefinitely. These amendments bring HUD's regulations into greater alignment with the wording and purpose of Section 214 and align with the current Administration's priorities and regulatory reform efforts.",
+  "agencies": [
+   "Housing and Urban Development Department"
+  ],
+  "agency_slugs": [
+   "housing-and-urban-development-department"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": true,
+  "title": "Housing and Community Development Act of 1980: Verification of Eligible Status",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23003/housing-and-community-development-act-of-1980-verification-of-eligible-status"
+ },
+ "2026-23005": {
+  "abstract": "The Food and Drug Administration (FDA) is proposing to reclassify immunohistochemistry (IHC) test systems indicated for use with a corresponding approved oncology therapeutic product (product codes MVC, NKF, QQT, NQF, PLS, PKW, QUL, QNH, QZJ, SBL, SER, and SHF), which are postamendments class III devices, from class III (premarket approval) into class II (special controls), subject to premarket notification. FDA is proposing minor revisions to an existing classification regulation and also proposing a new device classification regulation, along with the special controls that FDA believes are necessary to provide a reasonable assurance of safety and effectiveness for these devices.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": "2027-01-11",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Hematology and Pathology Devices; Reclassification of Immunohistochemistry Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23005/hematology-and-pathology-devices-reclassification-of-immunohistochemistry-test-systems-for-use-with"
+ },
+ "2026-23007": {
+  "abstract": "The FAA is superseding Airworthiness Directive (AD) 2022-20- 11, which applied to certain Bell Textron Canada Limited Model 429 helicopters. AD 2022-20-11 required visually inspecting the external surface of the tail rotor (TR) gearbox support assembly, borescope inspecting or visually inspecting the inside of the tail boom, and performing a tactile inspection. Depending on the results of the inspections, AD 2022-20-11 required removing certain rivets from service or repairing gaps in accordance with an approved method. Since the FAA issued AD 2022-20-11, the manufacturer determined the repetitive inspection interval needs to be reduced. This AD requires the same actions as AD 2022-20-11 and reduces the inspection interval. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-17",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23007/airworthiness-directives-bell-textron-canada-limited-helicopters"
+ },
+ "2026-23017": {
+  "abstract": "This action proposes to amend Jet Route J-21 to eliminate an unnecessary 1.47-degree turn in the airway in the vicinity of Laredo, TX. The FAA proposes this action to improve efficiency by straightening the ground track of J-21, eliminating a 1.47-degree turn.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Amendment of Jet Route J-21 in the Vicinity of Laredo, TX",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23017/amendment-of-jet-route-j-21-in-the-vicinity-of-laredo-tx"
+ },
+ "2026-23020": {
+  "abstract": "NMFS issues this proposed rule to implement Amendment 11 to the Fishery Management Plan for Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic (Coral FMP) and to implement Amendment 12 to the Fishery Management Plan for the Shrimp Fishery of the South Atlantic Region (Shrimp FMP) (jointly Amendments 11/12), as prepared and submitted by the South Atlantic Fishery Management Council (Council). If implemented, this proposed rule would establish a shrimp fishery access area (SFAA) along the eastern boundary of the northern extension of the Oculina Bank Habitat Area of Particular Concern (OHAPC) where trawling for rock shrimp is currently prohibited. The purpose of this proposed rule is to reinstate access to historic rock shrimp fishing grounds, achieve optimum yield (OY) in the rock shrimp fishery, while minimizing impacts to deep-water corals in the OHAPC.",
+  "agencies": [
+   "Commerce Department",
+   "National Oceanic and Atmospheric Administration"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "national-oceanic-and-atmospheric-administration"
+  ],
+  "comments_close_on": "2026-12-14",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23020/coral-coral-reefs-and-livehardbottom-habitats-of-the-south-atlantic-and-the-shrimp-fishery-of-the"
+ },
+ "2026-23026": {
+  "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing to withdraw the Federal Implementation Plan (FIP), promulgated on October 12, 2022 (the \"2022 FIP\"), for attaining the 2010 1-hour primary sulfur dioxide (SO<INF>2</INF>) National Ambient Air Quality Standard (NAAQS) in the Detroit area. On May 19, 2025, the EPA approved a revision to Michigan's State Implementation Plan (SIP) for attaining the 2010 1-hour primary SO<INF>2</INF> NAAQS in the Detroit area, rendering the 2022 FIP duplicative. The EPA is proposing this action pursuant to Clean Air Act (CAA) section 110.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Approval and Promulgation of Air Quality Implementation Plans; Michigan; Withdrawal of the Federal Implementation Plan for the Detroit Sulfur Dioxide Area",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23026/approval-and-promulgation-of-air-quality-implementation-plans-michigan-withdrawal-of-the-federal"
+ },
+ "2026-23032": {
+  "abstract": "This document announces that the public hearing scheduled for December 15, 2026, at 10 a.m. ET, for the notice of proposed rulemaking and notice of public hearing (REG-117199-25) published in the Federal Register on October 2, 2026, has been changed to a telephonic-only hearing. These proposed regulations would provide guidance regarding the non-refundable Federal tax credit for qualified contributions to scholarship granting organizations to fund qualified elementary and secondary school education scholarships.",
+  "agencies": [
+   "Treasury Department",
+   "Internal Revenue Service"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "internal-revenue-service"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Federal Scholarship Tax Credit; Hearing",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23032/federal-scholarship-tax-credit-hearing"
+ },
+ "2026-23033": {
+  "abstract": "The U.S. Department of Agriculture (USDA or Department) proposes to amend the regulations governing grazing and livestock use on the National Forest System to modernize grazing administration, improve clarity, codify existing policy, and expand opportunities for stewardship and access. The proposed amendments would update permit issuance, eligibility, and qualification provisions; establish a framework for adaptive response to drought, wildfire, and similar disturbance events; and expand authorities for stewardship-oriented livestock use, including adding the ability to implement stewardship projects (such as outcome-based grazing or targeted grazing) under a temporary grazing permit or livestock use permit. The proposed rule would revise grazing fee provisions to ensure consistent fee-setting across the national forests in the 16 contiguous Western States and the national grasslands, and establish a surcharge for authorized leasing of livestock by permittees. It would consolidate and renumber existing sections in subpart A for clarity and make conforming, technical, and administrative updates throughout part 222. The Department invites public comment on all aspects of the proposed rule.",
+  "agencies": [
+   "Agriculture Department",
+   "Forest Service"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "forest-service"
+  ],
+  "comments_close_on": "2026-12-14",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Rangeland Management",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23033/rangeland-management"
+ },
+ "2026-23040": {
+  "abstract": "In this document, the Federal Communications Commission (Commission) repeals the national television multiple ownership rule (national cap), which prohibits a commercial television licensee from having a cognizable interest in television stations that have an aggregate national audience reach above 39%. The Commission finds, given seismic changes in the modern media marketplace, that the rule's repeal will help empower local broadcast television stations to operate in the public interest and to better serve the needs and interests of their local communities. The Commission will review on a case-by-case basis proposed transactions that would have been prohibited under the national cap to determine whether a proposed transaction would serve the Commission's media ownership goals of localism, competition, and viewpoint diversity.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-11",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "National Television Multiple Ownership Rule",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
+ },
+ "2026-23041": {
+  "abstract": "This document amends the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules by substituting VHF channel 9 for UHF channel 21 at St. George, Utah in response to a petition for rulemaking filed by KUTV Licensee, LLC (Licensee), licensee of full power television station KMYU(TV) (KMYU or Station), St. George, Utah. The Media Bureau (Bureau) previously granted a petition for rulemaking submitted by the Licensee to substitute UHF channel 21 for VHF channel 9 at St. George, Utah in the Table. The Licensee subsequently filed an application for a construction permit for its new channel, which remains pending due to certain unresolved engineering matters. The Licensee now states that upon further consideration and restraints, it wishes to abandon its plans to modify its license for KMYU to operate on channel 21. The Licensee filed the instant petition to amend the Table to substitute VHF channel 9 for UHF channel 21 and allow KMYU to continue to operate on channel 9 at its licensed parameters. The staff engineering analysis finds that the proposal is in compliance with the Commission's principal community coverage and technical requirements, including the interference protection requirements. In support of its channel substitution request, the Licensee filed comments reaffirming its interest and stating that it commits to promptly take any and all steps that may be necessary to effectuate the channel substitution proposed in the petition. An i",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-12",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Television Broadcasting Services, St. George, Utah",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23041/television-broadcasting-services-st-george-utah"
+ },
+ "2026-23048": {
+  "abstract": "This proposed rule clarifies and modifies provisions of the respirable crystalline silica and respiratory protection standards that were established in MSHA's 2024 final rule titled \"Lowering Miners' Exposure to Respirable Crystalline Silica and Improving Respiratory Protection.\" The changes provide clarity and make improvements to the requirements for methods of compliance, exposure monitoring, respiratory protection, medical surveillance, and recordkeeping while maintaining strong protection of miners. The proposal also includes related conforming amendments.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": "2027-01-11",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Respirable Crystalline Silica and Respiratory Protection",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23048/respirable-crystalline-silica-and-respiratory-protection"
+ },
+ "2026-23049": {
+  "abstract": "MSHA is removing duplicative requirements for electric cap lamps and other electric lamps in underground coal mines. This provision is being removed from MSHA's regulations because it is a duplicative provision and its removal will not reduce the protections afforded to miners.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Improving and Eliminating Regulations; Permissible Lamps in Underground Coal Mines",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23049/improving-and-eliminating-regulations-permissible-lamps-in-underground-coal-mines"
+ },
+ "2026-23050": {
+  "abstract": "MSHA is eliminating outdated requirements for diesel particulate matter (DPM) personal exposure limits for underground metal and nonmetal (MNM) mines. These requirements are being removed from MSHA's regulations because they contain outdated effective dates and exposure limits that are no longer applicable.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Improving and Eliminating Regulations; Limit on Exposure to Diesel Particulate Matter in Underground Metal and Nonmetal Mines",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23050/improving-and-eliminating-regulations-limit-on-exposure-to-diesel-particulate-matter-in-underground"
+ },
+ "2026-23051": {
+  "abstract": "MSHA is removing outdated requirements regarding the installation of foam generator systems located in underground coal mines. These requirements are being removed from MSHA's regulations because they are no longer applicable.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Improving and Eliminating Regulations; Installation of Foam Generator Systems in Underground Coal Mines",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23051/improving-and-eliminating-regulations-installation-of-foam-generator-systems-in-underground-coal"
+ },
+ "2026-23052": {
+  "abstract": "MSHA is removing requirements for the use of permissible electric face equipment in coal seams above the water table. These requirements are being removed from MSHA's regulations because all coal mines are now considered gassy, regardless of location relative to the water table.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Electrical Equipment for Coal Seams Above the Water Table",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23052/electrical-equipment-for-coal-seams-above-the-water-table"
+ },
+ "2026-23053": {
+  "abstract": "MSHA is eliminating outdated requirements for the final mining of pillars from MSHA's regulations. These requirements are being removed because the practice of final mining of pillars with one mine opening is no longer used in the mining industry due to safety concerns.",
+  "agencies": [
+   "Labor Department",
+   "Mine Safety and Health Administration"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "mine-safety-and-health-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-14",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Mining of Pillars",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23053/mining-of-pillars"
+ },
+ "2026-23068": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Diamond Aircraft Industries GmbH (DAI) Model DA 50 C airplanes. This proposed AD was prompted by reports of flap actuator failures. This proposed AD would require inspecting for displacement of the black slide grommet and inspecting the rod end bearing for a tight fit of the flap actuator. This proposed AD would also require modification of the flap actuator followed by repetitive inspections for a broken actuator torque seal on the jam nuts at the attachment of the rod end bearing of the flap actuator with applicable corrective action. This proposed AD would also prohibit the installation of unmodified flap actuators on any airplane. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Airworthiness Directives; Diamond Aircraft Industries GmbH Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23068/airworthiness-directives-diamond-aircraft-industries-gmbh-airplanes"
+ },
+ "2026-23072": {
+  "abstract": "This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new obstacles, or changing air traffic requirements. These changes are designed to provide safe and efficient use of the navigable airspace and to promote safe flight operations under instrument flight rules at the affected airports.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-12",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23072/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
+ },
+ "2026-23073": {
+  "abstract": "This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new obstacles, or changing air traffic requirements. These changes are designed to provide for the safe and efficient use of the navigable airspace and to promote safe flight operations under instrument flight rules at the affected airports.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-12",
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23073/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
+ },
+ "2026-23074": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Dassault Aviation Model MYSTERE-FALCON 50, FALCON 2000, and FALCON 2000EX airplanes. This proposed AD was prompted by a reported quality escape and a determination that high-temperature oxidation of main landing gear (MLG) upper and lower torque links may have occurred during manufacturing. This proposed AD would require replacing any affected MLG with a serviceable MLG. This proposed AD would also limit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-12",
+  "significant": false,
+  "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23074/airworthiness-directives-dassault-aviation-airplanes"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
