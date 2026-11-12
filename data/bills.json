@@ -14726,7 +14726,7 @@
   "origin_chamber": "House",
   "title": "Scams Tax Relief Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10892": {
   "congress": 119,
@@ -14913,7 +14913,7 @@
   "origin_chamber": "House",
   "title": "Strong American Wood Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10907": {
   "congress": 119,
@@ -106290,7 +106290,7 @@
   "origin_chamber": "House",
   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-12"
  },
  "119-hr-8484": {
   "congress": 119,
@@ -106953,15 +106953,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8538": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8538?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-04-28",
   "number": "8538",
   "origin_chamber": "House",
   "title": "Save America\u2019s Family Forests Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-12"
  },
  "119-hr-8539": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8539?format=json",
@@ -107131,7 +107131,7 @@
  "119-hr-8552": {
   "congress": 119,
   "introduced_date": "2026-04-28",
-  "latest_action": "Passed Senate without amendment by Voice Vote.",
+  "latest_action": "Passed Senate without amendment by Voice Vote. (consideration: CR S5572)",
   "latest_action_date": "2026-11-11",
   "number": "8552",
   "origin_chamber": "House",
@@ -160316,13 +160316,13 @@
  "119-s-2434": {
   "congress": 119,
   "introduced_date": "2025-07-24",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5562; text: CR S5562)",
   "latest_action_date": "2026-11-10",
   "number": "2434",
   "origin_chamber": "Senate",
   "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-2435": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2435?format=json",
@@ -175870,13 +175870,13 @@
  "119-s-3720": {
   "congress": 119,
   "introduced_date": "2026-01-28",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5562; text: CR S5562)",
   "latest_action_date": "2026-11-10",
   "number": "3720",
   "origin_chamber": "Senate",
   "title": "Bay Area Ridge National Scenic Trail Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-3721": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3721?format=json",
@@ -184624,15 +184624,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4442": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4442?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-29",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-04-29",
   "number": "4442",
   "origin_chamber": "Senate",
   "title": "Save America\u2019s Family Forests Act of 2026",
   "type": "S",
-  "update_date": "2026-05-13"
+  "update_date": "2026-11-12"
  },
  "119-s-4443": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4443?format=json",
