@@ -91286,7 +91286,7 @@
   "origin_chamber": "House",
   "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-12"
  },
  "119-hr-7255": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7255?format=json",
@@ -151492,15 +151492,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1704": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1704?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-05-08",
   "number": "1704",
   "origin_chamber": "Senate",
   "title": "National Taxpayer Advocate Enhancement Act of 2025",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-12"
  },
  "119-s-1705": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1705?format=json",
@@ -176913,15 +176913,15 @@
   "update_date": "2026-07-30"
  },
  "119-s-3809": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3809?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-09",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-02-09",
   "number": "3809",
   "origin_chamber": "Senate",
   "title": "AI Grand Challenges Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-381": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/381?format=json",
@@ -176957,15 +176957,15 @@
   "update_date": "2026-04-23"
  },
  "119-s-3812": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3812?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-10",
   "latest_action": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
   "latest_action_date": "2026-03-19",
   "number": "3812",
   "origin_chamber": "Senate",
   "title": "WORK to Save Lives Act",
   "type": "S",
-  "update_date": "2026-04-02"
+  "update_date": "2026-11-12"
  },
  "119-s-3813": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3813?format=json",
@@ -177111,15 +177111,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3825": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3825?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-10",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-02-10",
   "number": "3825",
   "origin_chamber": "Senate",
   "title": "Workforce Development Modernization Act",
   "type": "S",
-  "update_date": "2026-03-02"
+  "update_date": "2026-11-12"
  },
  "119-s-3826": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3826?format=json",
@@ -177144,15 +177144,15 @@
   "update_date": "2026-02-27"
  },
  "119-s-3828": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3828?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-02-11",
   "number": "3828",
   "origin_chamber": "Senate",
   "title": "CLEAN SMART Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-3829": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3829?format=json",
@@ -177364,15 +177364,15 @@
   "update_date": "2026-03-02"
  },
  "119-s-3846": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3846?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-02-11",
   "number": "3846",
   "origin_chamber": "Senate",
   "title": "Employer-Directed Skills Act",
   "type": "S",
-  "update_date": "2026-03-02"
+  "update_date": "2026-11-12"
  },
  "119-s-3847": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3847?format=json",
@@ -177419,15 +177419,15 @@
   "update_date": "2026-10-29"
  },
  "119-s-3850": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3850?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-02-11",
   "number": "3850",
   "origin_chamber": "Senate",
   "title": "Effective Assistance of Counsel in the Digital Era Act",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-11-12"
  },
  "119-s-3851": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3851?format=json",
@@ -177463,15 +177463,15 @@
   "update_date": "2026-03-02"
  },
  "119-s-3854": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3854?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-02-12",
   "number": "3854",
   "origin_chamber": "Senate",
   "title": "Advanced Weather Model Computing Development Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-3855": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3855?format=json",
@@ -177595,15 +177595,15 @@
   "update_date": "2026-04-29"
  },
  "119-s-3865": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3865?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-02-12",
   "number": "3865",
   "origin_chamber": "Senate",
   "title": "BE HEARD in the Workplace Act",
   "type": "S",
-  "update_date": "2026-03-12"
+  "update_date": "2026-11-12"
  },
  "119-s-3866": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3866?format=json",
@@ -181445,15 +181445,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4181": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4181?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-24",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works. (text: CR S1583)",
   "latest_action_date": "2026-03-24",
   "number": "4181",
   "origin_chamber": "Senate",
   "title": "Plastic Pellet Free Waters Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-4182": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4182?format=json",
@@ -181544,15 +181544,15 @@
   "update_date": "2026-08-12"
  },
  "119-s-419": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/419?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.",
   "latest_action_date": "2025-05-20",
   "number": "419",
   "origin_chamber": "Senate",
   "title": "Reauthorizing Support and Treatment for Officers in Crisis Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-12"
  },
  "119-s-4190": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4190?format=json",
@@ -182094,15 +182094,15 @@
   "update_date": "2026-07-17"
  },
  "119-s-4234": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4234?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-26",
   "number": "4234",
   "origin_chamber": "Senate",
   "title": "Healthy Watersheds, Healthy Communities Act of 2026",
   "type": "S",
-  "update_date": "2026-04-21"
+  "update_date": "2026-11-12"
  },
  "119-s-4235": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4235?format=json",
@@ -182157,7 +182157,7 @@
   "origin_chamber": "Senate",
   "title": "Plug Offshore Wells Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-12"
  },
  "119-s-424": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/424?format=json",
@@ -182644,15 +182644,15 @@
   "update_date": "2026-04-21"
  },
  "119-s-428": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/428?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.",
   "latest_action_date": "2025-09-29",
   "number": "428",
   "origin_chamber": "Senate",
   "title": "SAFE Orbit Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-4280": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4280?format=json",
@@ -182754,15 +182754,15 @@
   "update_date": "2026-04-21"
  },
  "119-s-4289": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4289?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-14",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2026-04-14",
   "number": "4289",
   "origin_chamber": "Senate",
   "title": "Preparing Superfund for Climate Change Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-429": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/429?format=json",
@@ -182886,15 +182886,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-43": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/43?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-01-09",
   "number": "43",
   "origin_chamber": "Senate",
   "title": "Skinny Labels, Big Savings Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-12"
  },
  "119-s-430": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/430?format=json",
@@ -182963,15 +182963,15 @@
   "update_date": "2026-05-07"
  },
  "119-s-4305": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4305?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-15",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-04-15",
   "number": "4305",
   "origin_chamber": "Senate",
   "title": "Safer Prisons Act of 2026",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-12"
  },
  "119-s-4306": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4306?format=json",
@@ -183139,15 +183139,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-432": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/432?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-02-05",
   "number": "432",
   "origin_chamber": "Senate",
   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-4320": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4320?format=json",
@@ -183271,15 +183271,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4330": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4330?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-16",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-04-16",
   "number": "4330",
   "origin_chamber": "Senate",
   "title": "Ending the Carried Interest Loophole Act",
   "type": "S",
-  "update_date": "2026-07-31"
+  "update_date": "2026-11-12"
  },
  "119-s-4331": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4331?format=json",
