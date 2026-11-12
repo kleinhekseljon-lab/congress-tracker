@@ -13802,7 +13802,7 @@
   "origin_chamber": "House",
   "title": "REAL Political Advertisements Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-12"
  },
  "119-hr-10815": {
   "congress": 119,
@@ -14594,7 +14594,7 @@
   "origin_chamber": "House",
   "title": "Tell the Government Once Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-12"
  },
  "119-hr-10881": {
   "congress": 119,
@@ -14660,7 +14660,7 @@
   "origin_chamber": "House",
   "title": "Dual Citizen Disclosure Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10887": {
   "congress": 119,
@@ -14803,7 +14803,7 @@
   "origin_chamber": "House",
   "title": "Locality Pay Adjustment Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10899": {
   "congress": 119,
@@ -14814,7 +14814,7 @@
   "origin_chamber": "House",
   "title": "Power Outage Family Assistance Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-109": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/109?format=json",
@@ -14924,7 +14924,7 @@
   "origin_chamber": "House",
   "title": "Stop Harassment and Intimidations in Elections through Legal Defenses (SHIELD) Our Elections Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-12"
  },
  "119-hr-10908": {
   "congress": 119,
@@ -36660,7 +36660,7 @@
   "origin_chamber": "House",
   "title": "Setting the Table for Transition Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-12"
  },
  "119-hr-2781": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2781?format=json",
@@ -41118,15 +41118,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-3145": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3145?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-01",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-05-01",
   "number": "3145",
   "origin_chamber": "House",
   "title": "Nurse Corps Tax Parity Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-12"
  },
  "119-hr-3146": {
   "congress": 119,
@@ -131821,7 +131821,7 @@
   "origin_chamber": "House",
   "title": "Impeaching Donald J. Trump, President of the United States, for high crimes and misdemeanors.",
   "type": "HRES",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-12"
  },
  "119-hres-1576": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1576?format=json",
@@ -132602,7 +132602,7 @@
   "origin_chamber": "House",
   "title": "Supporting the designation of October 26, 2026, as the \"Day of the Deployed\".",
   "type": "HRES",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-12"
  },
  "119-hres-164": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/164?format=json",
@@ -140921,15 +140921,15 @@
   "update_date": "2025-12-03"
  },
  "119-hres-828": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/828?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-24",
   "latest_action": "Referred to the House Committee on Armed Services.",
   "latest_action_date": "2025-10-24",
   "number": "828",
   "origin_chamber": "House",
   "title": "Supporting the designation of October 26, 2025, as the \"Day of the Deployed\".",
   "type": "HRES",
-  "update_date": "2025-11-19"
+  "update_date": "2026-11-12"
  },
  "119-hres-829": {
   "congress": 119,
@@ -146047,15 +146047,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1252": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1252?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-02",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-04-02",
   "number": "1252",
   "origin_chamber": "Senate",
   "title": "Renewable Natural Gas Incentive Act of 2025",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-12"
  },
  "119-s-1253": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1253?format=json",
@@ -147675,15 +147675,15 @@
   "update_date": "2026-01-10"
  },
  "119-s-1387": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1387?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
   "latest_action_date": "2026-03-19",
   "number": "1387",
   "origin_chamber": "Senate",
   "title": "National Biotechnology Initiative Act of 2025",
   "type": "S",
-  "update_date": "2026-09-29"
+  "update_date": "2026-11-12"
  },
  "119-s-1388": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1388?format=json",
@@ -192885,15 +192885,15 @@
   "update_date": "2026-08-21"
  },
  "119-s-5124": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5124?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-23",
   "latest_action": "Read twice and referred to the Committee on Rules and Administration.",
   "latest_action_date": "2026-07-23",
   "number": "5124",
   "origin_chamber": "Senate",
   "title": "Stop Harassment and Intimidations in Elections through Legal Defenses (SHIELD) Our Elections Act",
   "type": "S",
-  "update_date": "2026-08-11"
+  "update_date": "2026-11-12"
  },
  "119-s-5125": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5125?format=json",
@@ -212608,15 +212608,15 @@
   "update_date": "2026-04-01"
  },
  "119-sres-468": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/468?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-27",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7755-7756; text: CR S7755)",
   "latest_action_date": "2025-10-27",
   "number": "468",
   "origin_chamber": "Senate",
   "title": "A resolution designating October 26, 2025, as the \"Day of the Deployed\".",
   "type": "SRES",
-  "update_date": "2026-10-03"
+  "update_date": "2026-11-12"
  },
  "119-sres-469": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/469?format=json",
