@@ -99822,7 +99822,7 @@
   "origin_chamber": "House",
   "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-12"
  },
  "119-hr-7955": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7955?format=json",
@@ -132068,13 +132068,13 @@
  "119-hres-1596": {
   "congress": 119,
   "introduced_date": "2026-10-01",
-  "latest_action": "Motion to Discharge Committee filed by Mr. Crow. Petition No: 119-28.",
+  "latest_action": "Motion to Discharge Committee filed by Mr. Crow. Petition No: 119-28. (<a href=\"https://clerk.house.gov/DischargePetition/2026110928\">Discharge petition</a> text with signatures.)",
   "latest_action_date": "2026-11-09",
   "number": "1596",
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 9899) to designate Afghanistan under section 244 of the Immigration and Nationality Act to permit nationals of Afghanistan to be eligible for temporary protected status under such section, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-12"
  },
  "119-hres-1597": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1597?format=json",
