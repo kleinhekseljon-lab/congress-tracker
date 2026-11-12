@@ -2890,7 +2890,7 @@
   "origin_chamber": "House",
   "title": "Proposing an amendment to the Constitution of the United States giving Congress power to regulate campaign contributions for Federal elections.",
   "type": "HJRES",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-12"
  },
  "119-hjres-23": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/23?format=json",
@@ -13934,7 +13934,7 @@
   "origin_chamber": "House",
   "title": "Stop Illegal Super PAC Coordination Act",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-12"
  },
  "119-hr-10826": {
   "congress": 119,
@@ -14627,7 +14627,7 @@
   "origin_chamber": "House",
   "title": "American Home Mobility Act",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-12"
  },
  "119-hr-10884": {
   "congress": 119,
@@ -14693,7 +14693,7 @@
   "origin_chamber": "House",
   "title": "GAS Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-1089": {
   "congress": 119,
@@ -14715,7 +14715,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish the motor fuel deduction.",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-12"
  },
  "119-hr-10891": {
   "congress": 119,
@@ -14979,7 +14979,7 @@
   "origin_chamber": "House",
   "title": "U.S. Swine Health Improvement Plan Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-12"
  },
  "119-hr-10912": {
   "congress": 119,
@@ -15045,7 +15045,7 @@
   "origin_chamber": "House",
   "title": "Wildfire Emergency Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-12"
  },
  "119-hr-10918": {
   "congress": 119,
@@ -15144,7 +15144,7 @@
   "origin_chamber": "House",
   "title": "Countering Online Trafficking Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-12"
  },
  "119-hr-10926": {
   "congress": 119,
@@ -15155,7 +15155,7 @@
   "origin_chamber": "House",
   "title": "Election Worker and Polling Place Protection Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-12"
  },
  "119-hr-10927": {
   "congress": 119,
@@ -15166,7 +15166,7 @@
   "origin_chamber": "House",
   "title": "Ballot Box Protection Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-12"
  },
  "119-hr-10928": {
   "congress": 119,
@@ -15177,7 +15177,7 @@
   "origin_chamber": "House",
   "title": "Farmer Recovery Opportunity and Support for Temperatures Relief Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-12"
  },
  "119-hr-10929": {
   "congress": 119,
@@ -15188,7 +15188,7 @@
   "origin_chamber": "House",
   "title": "Protecting American Hemp Farmers Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-12"
  },
  "119-hr-1093": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1093?format=json",
@@ -15254,7 +15254,7 @@
   "origin_chamber": "House",
   "title": "American Minerals Royalty and Investment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-12"
  },
  "119-hr-10935": {
   "congress": 119,
@@ -15309,7 +15309,7 @@
   "origin_chamber": "House",
   "title": "Nigerian Accountability Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-12"
  },
  "119-hr-1094": {
   "congress": 119,
@@ -15628,7 +15628,7 @@
   "origin_chamber": "House",
   "title": "Supporting After-School STEM Educators Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-10966": {
   "congress": 119,
@@ -15694,7 +15694,7 @@
   "origin_chamber": "House",
   "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-10971": {
   "congress": 119,
@@ -120425,7 +120425,7 @@
   "origin_chamber": "House",
   "title": "Earth MRI Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-12"
  },
  "119-hr-9641": {
   "congress": 119,
@@ -132723,7 +132723,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the first full week of November as \"National Animal Shelter Appreciation Week\".",
   "type": "HRES",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-12"
  },
  "119-hres-165": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/165?format=json",
@@ -161381,15 +161381,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2523": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2523?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Read twice and referred to the Committee on the Judiciary. (text: CR S4821)",
   "latest_action_date": "2025-07-29",
   "number": "2523",
   "origin_chamber": "Senate",
   "title": "John R. Lewis Voting Rights Advancement Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-12"
  },
  "119-s-2524": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2524?format=json",
@@ -173206,15 +173206,15 @@
   "update_date": "2026-09-01"
  },
  "119-s-350": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/350?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-30",
   "latest_action": "Referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-17",
   "number": "350",
   "origin_chamber": "Senate",
   "title": "Wildfire Emergency Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-12"
  },
  "119-s-3500": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3500?format=json",
@@ -218457,7 +218457,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the commemoration and reunification of Alexander Calder's Mountains and Clouds on November 18, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-953": {
   "congress": 119,
