@@ -62911,13 +62911,13 @@
  "119-hr-4930": {
   "congress": 119,
   "introduced_date": "2025-08-08",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5525)",
   "latest_action_date": "2026-11-10",
   "number": "4930",
   "origin_chamber": "House",
   "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-4931": {
   "congress": 119,
@@ -119996,7 +119996,7 @@
   "origin_chamber": "House",
   "title": "Less Bureaucracy, Better Foreign Medical Accreditation Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-12"
  },
  "119-hr-9606": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9606?format=json",
@@ -178301,7 +178301,7 @@
  "119-s-3923": {
   "congress": 119,
   "introduced_date": "2026-02-25",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (text: CR S5525-5562)",
   "latest_action_date": "2026-11-10",
   "number": "3923",
   "origin_chamber": "Senate",
@@ -178948,15 +178948,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3977": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3977?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-03",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-08-10",
   "number": "3977",
   "origin_chamber": "Senate",
   "title": "Bankruptcy Threshold Adjustment Act of 2026",
   "type": "S",
-  "update_date": "2026-08-28"
+  "update_date": "2026-11-12"
  },
  "119-s-3978": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3978?format=json",
@@ -200081,24 +200081,24 @@
  "119-s-5714": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary. (text: CR S5415)",
   "latest_action_date": "2026-11-10",
   "number": "5714",
   "origin_chamber": "Senate",
   "title": "A bill to subject professional baseball clubs to the antitrust laws.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-5715": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S5415)",
   "latest_action_date": "2026-11-10",
   "number": "5715",
   "origin_chamber": "Senate",
   "title": "A bill to amend title 38, United States Code, and the United States Housing Act of 1937, to make certain improvements to the supported housing program for veterans commonly known as \"HUD-VASH\", and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-5716": {
   "congress": 119,
@@ -212665,13 +212665,13 @@
  "119-sres-472": {
   "congress": 119,
   "introduced_date": "2025-10-29",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)",
   "latest_action_date": "2026-11-10",
   "number": "472",
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-473": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/473?format=json",
@@ -218429,24 +218429,24 @@
  "119-sres-950": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)",
   "latest_action_date": "2026-11-10",
   "number": "950",
   "origin_chamber": "Senate",
   "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-951": {
   "congress": 119,
   "introduced_date": "2026-10-15",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)",
   "latest_action_date": "2026-11-10",
   "number": "951",
   "origin_chamber": "Senate",
   "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-952": {
   "congress": 119,
@@ -218462,35 +218462,35 @@
  "119-sres-953": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Referred to the Committee on the Judiciary.",
+  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5415-5416)",
   "latest_action_date": "2026-11-10",
   "number": "953",
   "origin_chamber": "Senate",
   "title": "A resolution condemning the horrific and senseless attack in Bend, Oregon, and expressing support and prayers for all those impacted by the tragedy.",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-954": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Referred to the Committee on Veterans' Affairs.",
+  "latest_action": "Referred to the Committee on Veterans' Affairs. (text: CR S5416)",
   "latest_action_date": "2026-11-10",
   "number": "954",
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the service and sacrifice of women veterans.",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-955": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5524; text: CR S5416)",
   "latest_action_date": "2026-11-10",
   "number": "955",
   "origin_chamber": "Senate",
   "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
   "type": "SRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-sres-956": {
   "congress": 119,
