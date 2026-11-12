@@ -14649,7 +14649,7 @@
   "origin_chamber": "House",
   "title": "PROTECT Small Restaurants Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10886": {
   "congress": 119,
@@ -14737,7 +14737,7 @@
   "origin_chamber": "House",
   "title": "Performance Life Disclosure Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10893": {
   "congress": 119,
@@ -14902,7 +14902,7 @@
   "origin_chamber": "House",
   "title": "No Personal Data in Grocery Pricing Act",
   "type": "HR",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-12"
  },
  "119-hr-10906": {
   "congress": 119,
@@ -15936,7 +15936,7 @@
   "origin_chamber": "House",
   "title": "For the relief of Paula Valentina Albornoz Hern\u00e1ndez, Eliana Karina Hern\u00e1ndez Peranquive, Nicole Alejandra Albornoz Hern\u00e1ndez, and Leonardo Albornoz Rodr\u00edguez.",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-10991": {
   "congress": 119,
@@ -23520,13 +23520,13 @@
  "119-hr-1703": {
   "congress": 119,
   "introduced_date": "2025-02-27",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-11-09",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-10",
   "number": "1703",
   "origin_chamber": "House",
   "title": "Choices for Increased Mobility Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-12"
  },
  "119-hr-1704": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1704?format=json",
@@ -26457,13 +26457,13 @@
  "119-hr-1945": {
   "congress": 119,
   "introduced_date": "2025-03-06",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-11-05",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-10",
   "number": "1945",
   "origin_chamber": "House",
   "title": "America's National Churchill Museum National Historic Landmark Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-12"
  },
  "119-hr-1946": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1946?format=json",
@@ -31374,7 +31374,7 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Cloture motion on the measure presented in Senate.",
+  "latest_action": "Cloture motion on the measure presented in Senate. (CR S5568)",
   "latest_action_date": "2026-11-11",
   "number": "2347",
   "origin_chamber": "House",
@@ -97099,13 +97099,13 @@
  "119-hr-7730": {
   "congress": 119,
   "introduced_date": "2026-02-26",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-11-05",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-10",
   "number": "7730",
   "origin_chamber": "House",
   "title": "Bankruptcy Threshold Adjustment Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-12"
  },
  "119-hr-7731": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7731?format=json",
@@ -124412,13 +124412,13 @@
  "119-hr-997": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Presented to President.",
-  "latest_action_date": "2026-11-09",
+  "latest_action": "Signed by President.",
+  "latest_action_date": "2026-11-10",
   "number": "997",
   "origin_chamber": "House",
   "title": "National Taxpayer Advocate Enhancement Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-12"
  },
  "119-hr-9970": {
   "congress": 119,
@@ -129505,13 +129505,13 @@
  "119-hres-1386": {
   "congress": 119,
   "introduced_date": "2026-06-24",
-  "latest_action": "Motion to Discharge Committee filed by Mrs. Luna. Petition No: 119-30.",
+  "latest_action": "Motion to Discharge Committee filed by Mrs. Luna. Petition No: 119-30. (<a href=\"https://clerk.house.gov/DischargePetition/2026111030\">Discharge petition</a> text with signatures.)",
   "latest_action_date": "2026-11-10",
   "number": "1386",
   "origin_chamber": "House",
   "title": "Providing for the consideration of the bill (H.R. 2003) to amend the Higher Education Act of 1965 to lower the interest rate on Federal student loans to 2 percent.",
   "type": "HRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hres-1387": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1387?format=json",
@@ -132800,7 +132800,7 @@
   "origin_chamber": "House",
   "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
   "type": "HRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hres-1656": {
   "congress": 119,
@@ -140604,13 +140604,13 @@
  "119-hres-801": {
   "congress": 119,
   "introduced_date": "2025-10-10",
-  "latest_action": "Motion to Discharge Committee filed by Mrs. Luna. Petition No: 119-29.",
+  "latest_action": "Motion to Discharge Committee filed by Mrs. Luna. Petition No: 119-29. (<a href=\"https://clerk.house.gov/DischargePetition/2026111029\">Discharge petition</a> text with signatures.)",
   "latest_action_date": "2026-11-10",
   "number": "801",
   "origin_chamber": "House",
   "title": "Providing for the consideration of the joint resolution (H. J. Res. 12) proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.",
   "type": "HRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hres-802": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/802?format=json",
@@ -199339,7 +199339,7 @@
   "origin_chamber": "Senate",
   "title": "Bipartisan American Affordability and Jobs Act of 2026",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-12"
  },
  "119-s-5654": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5654?format=json",
@@ -218495,7 +218495,7 @@
  "119-sres-956": {
   "congress": 119,
   "introduced_date": "2026-11-11",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5572-5573; text: CR S5575)",
   "latest_action_date": "2026-11-11",
   "number": "956",
   "origin_chamber": "Senate",
@@ -218506,7 +218506,7 @@
  "119-sres-957": {
   "congress": 119,
   "introduced_date": "2026-11-11",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5572-5573; text: CR S5575-5576)",
   "latest_action_date": "2026-11-11",
   "number": "957",
   "origin_chamber": "Senate",
@@ -218517,7 +218517,7 @@
  "119-sres-958": {
   "congress": 119,
   "introduced_date": "2026-11-11",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5572-5573; text: CR S5576)",
   "latest_action_date": "2026-11-11",
   "number": "958",
   "origin_chamber": "Senate",
