@@ -121693,15 +121693,15 @@
   "update_date": "2026-09-17"
  },
  "119-hr-9746": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9746?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-07-16",
   "number": "9746",
   "origin_chamber": "House",
   "title": "Biomass Facility Construction Act",
   "type": "HR",
-  "update_date": "2026-09-04"
+  "update_date": "2026-11-12"
  },
  "119-hr-9747": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9747?format=json",
