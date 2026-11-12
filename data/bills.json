@@ -31374,13 +31374,13 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Motion by Senator Thune to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 6888) made in Senate.",
-  "latest_action_date": "2026-11-10",
+  "latest_action": "Cloture motion on the measure presented in Senate.",
+  "latest_action_date": "2026-11-11",
   "number": "2347",
   "origin_chamber": "House",
   "title": "Survivor Justice Tax Prevention Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-2348": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2348?format=json",
@@ -107131,13 +107131,13 @@
  "119-hr-8552": {
   "congress": 119,
   "introduced_date": "2026-04-28",
-  "latest_action": "Received in the Senate.",
-  "latest_action_date": "2026-11-10",
+  "latest_action": "Passed Senate without amendment by Voice Vote.",
+  "latest_action_date": "2026-11-11",
   "number": "8552",
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-hr-8553": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8553?format=json",
@@ -160485,9 +160485,9 @@
   "latest_action_date": "2025-07-24",
   "number": "2448",
   "origin_chamber": "Senate",
-  "title": "Health Care Fairness for Military Families Act of 2025",
+  "title": "A bill to amend title 10, United States Code, to improve dependent coverage under the TRICARE Young Adult Program.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-2449": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2449?format=json",
@@ -170830,15 +170830,15 @@
   "update_date": "2026-01-05"
  },
  "119-s-3301": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3301?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-02",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-12-02",
   "number": "3301",
   "origin_chamber": "Senate",
-  "title": "Chip EQUIP Act",
+  "title": "A bill to prohibit purchases of certain semiconductor manufacturing equipment from foreign entities of concern or subsidiaries of foreign entities of concern, and for other purposes.",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-12"
  },
  "119-s-3302": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3302?format=json",
@@ -171166,9 +171166,9 @@
   "latest_action_date": "2025-12-03",
   "number": "3329",
   "origin_chamber": "Senate",
-  "title": "United States Cadet Nurse Corps Service Recognition Act of 2025",
+  "title": "A bill to amend title 38, United States Code, to recognize and honor the service of individuals who served in the United States Cadet Nurse Corps during World War II, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-333": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/333?format=json",
@@ -183469,15 +183469,15 @@
   "update_date": "2026-07-16"
  },
  "119-s-4348": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4348?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-20",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-04-20",
   "number": "4348",
   "origin_chamber": "Senate",
-  "title": "PARITY Act",
+  "title": "A bill to repeal the 90/10 rule as it pertains to proprietary schools under title IV of the Higher Education Act of 1965.",
   "type": "S",
-  "update_date": "2026-07-15"
+  "update_date": "2026-11-12"
  },
  "119-s-4349": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4349?format=json",
@@ -199722,9 +199722,9 @@
   "latest_action_date": "2026-10-15",
   "number": "5685",
   "origin_chamber": "Senate",
-  "title": "Epstein Wall Street Records Act of 2026",
+  "title": "A bill to require the disclosure of supervisory records of certain financial institutions that relate to Jeffrey Epstein, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-12"
  },
  "119-s-5686": {
   "congress": 119,
@@ -200099,6 +200099,17 @@
   "title": "A bill to amend title 38, United States Code, and the United States Housing Act of 1937, to make certain improvements to the supported housing program for veterans commonly known as \"HUD-VASH\", and for other purposes.",
   "type": "S",
   "update_date": "2026-11-11"
+ },
+ "119-s-5716": {
+  "congress": 119,
+  "introduced_date": "2026-11-11",
+  "latest_action": "Read twice and referred to the Committee on Armed Services.",
+  "latest_action_date": "2026-11-11",
+  "number": "5716",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-12"
  },
  "119-s-572": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/572?format=json",
@@ -218480,6 +218491,39 @@
   "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
   "type": "SRES",
   "update_date": "2026-11-11"
+ },
+ "119-sres-956": {
+  "congress": 119,
+  "introduced_date": "2026-11-11",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-11",
+  "number": "956",
+  "origin_chamber": "Senate",
+  "title": "A resolution honoring the service and sacrifice of the veterans of the United States on Veterans Day, 2026.",
+  "type": "SRES",
+  "update_date": "2026-11-12"
+ },
+ "119-sres-957": {
+  "congress": 119,
+  "introduced_date": "2026-11-11",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-11",
+  "number": "957",
+  "origin_chamber": "Senate",
+  "title": "A resolution expressing support for the designation of November 15, 2026, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
+  "type": "SRES",
+  "update_date": "2026-11-12"
+ },
+ "119-sres-958": {
+  "congress": 119,
+  "introduced_date": "2026-11-11",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-11",
+  "number": "958",
+  "origin_chamber": "Senate",
+  "title": "A resolution recognizing the week of November 9 through November 13, 2026, as \"National Veterans Small Business Week\".",
+  "type": "SRES",
+  "update_date": "2026-11-12"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
