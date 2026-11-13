@@ -90453,15 +90453,15 @@
   "update_date": "2026-02-13"
  },
  "119-hr-7165": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7165?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-20",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-01-20",
   "number": "7165",
   "origin_chamber": "House",
   "title": "WATCH Act",
   "type": "HR",
-  "update_date": "2026-04-20"
+  "update_date": "2026-11-13"
  },
  "119-hr-7166": {
   "congress": 119,
@@ -117037,7 +117037,7 @@
   "origin_chamber": "House",
   "title": "Ratepayer Protection Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-13"
  },
  "119-hr-9341": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9341?format=json",
@@ -138776,15 +138776,15 @@
   "update_date": "2026-04-01"
  },
  "119-hres-626": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/626?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-08-01",
   "number": "626",
   "origin_chamber": "House",
   "title": "Commemorating the continuation of the semicentennial of hip hop and designating August 11, 2025, as \"Hip Hop Celebration Day\", designating August 2025 as \"Hip Hop Recognition Month\", and designating November 2025 as \"Hip Hop History Month\".",
   "type": "HRES",
-  "update_date": "2025-09-12"
+  "update_date": "2026-11-13"
  },
  "119-hres-627": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/627?format=json",
@@ -139205,15 +139205,15 @@
   "update_date": "2026-04-03"
  },
  "119-hres-661": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/661?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-22",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-08-22",
   "number": "661",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of August 22, 2025, as \"Chuck Brown Day\", and honoring Chuck Brown's contributions to music and to the District of Columbia.",
   "type": "HRES",
-  "update_date": "2025-09-19"
+  "update_date": "2026-11-13"
  },
  "119-hres-662": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/662?format=json",
@@ -139744,15 +139744,15 @@
   "update_date": "2025-12-17"
  },
  "119-hres-705": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/705?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-11",
   "latest_action": "Sponsor introductory remarks on measure. (CR H4301)",
   "latest_action_date": "2025-09-15",
   "number": "705",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week beginning on September 14, 2025, as \"Celebrate Community Week\".",
   "type": "HRES",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-13"
  },
  "119-hres-706": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/706?format=json",
@@ -139865,15 +139865,15 @@
   "update_date": "2025-09-24"
  },
  "119-hres-715": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/715?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-09-15",
   "number": "715",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of September 15, 2025, as \"National Latino Gastronomic Cuisine Week\", and celebrating the vibrant and diverse culinary traditions of Latino gastronomy.",
   "type": "HRES",
-  "update_date": "2025-10-04"
+  "update_date": "2026-11-13"
  },
  "119-hres-716": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/716?format=json",
@@ -140283,15 +140283,15 @@
   "update_date": "2025-12-06"
  },
  "119-hres-75": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/75?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-01-28",
   "number": "75",
   "origin_chamber": "House",
   "title": "Recognizing the cultural and historical significance of Lunar New Year in 2025.",
   "type": "HRES",
-  "update_date": "2026-09-28"
+  "update_date": "2026-11-13"
  },
  "119-hres-750": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/750?format=json",
@@ -159915,7 +159915,7 @@
   "origin_chamber": "Senate",
   "title": "Jordan McNair Student Athlete Heat Fatality Prevention Act",
   "type": "S",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-13"
  },
  "119-s-2374": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2374?format=json",
@@ -196955,15 +196955,15 @@
   "update_date": "2026-10-07"
  },
  "119-s-5431": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5431?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-17",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-17",
   "number": "5431",
   "origin_chamber": "Senate",
   "title": "Diversify Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-13"
  },
  "119-s-5432": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5432?format=json",
