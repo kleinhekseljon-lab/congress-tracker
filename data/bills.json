@@ -31644,7 +31644,7 @@
   "origin_chamber": "House",
   "title": "Survivor Justice Tax Prevention Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-2348": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2348?format=json",
@@ -147373,7 +147373,7 @@
   "latest_action_date": "2025-04-08",
   "number": "1335",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Internal Revenue Code of 1986 to exclude debt held by certain insurance companies from capital assets and to extend capital loss carryovers for such companies from 5 years to 10 years.",
+  "title": "Secure Family Futures Act of 2025",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -148154,7 +148154,7 @@
   "latest_action_date": "2026-11-12",
   "number": "140",
   "origin_chamber": "Senate",
-  "title": "A bill to address the forest health crisis on the National Forest System and public lands, and for other purposes.",
+  "title": "Wildfire Prevention Act of 2025",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -158582,7 +158582,7 @@
   "latest_action_date": "2026-11-12",
   "number": "2262",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Federal Land Policy and Management Act of 1976 to clarify the nature of public investment for purposes of certain rulemaking, and for other purposes.",
+  "title": "American Voices in Federal Lands Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -171991,7 +171991,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3371",
   "origin_chamber": "Senate",
-  "title": "A bill to designate the Museum of the Blind People's Movement in Baltimore, Maryland, as the \"National Museum of the Blind People's Movement\".",
+  "title": "National Museum of the Blind People\u2019s Movement Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -173828,7 +173828,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3524",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 54, United States Code, to modify certain cost-sharing requirements for grant programs under the American Battlefield Protection Program, and for other purposes.",
+  "title": "American Battlefield Protection Program Amendments Act of 2025",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -173839,7 +173839,7 @@
   "latest_action_date": "2026-03-19",
   "number": "3525",
   "origin_chamber": "Senate",
-  "title": "A bill to preserve the franchise business model.",
+  "title": "American Franchise Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -173861,7 +173861,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3527",
   "origin_chamber": "Senate",
-  "title": "A bill to release from wilderness study area designation certain land in the State of Montana, to improve the management of that land, and for other purposes.",
+  "title": "Montana Sportsmen Conservation Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -174587,7 +174587,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3589",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Higher Education Act of 1965 to provide students with disabilities and their families with access to critical information needed to select the right college and succeed once enrolled.",
+  "title": "RISE Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -176193,7 +176193,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3720",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge as a national scenic trail, and for other purposes.",
+  "title": "Bay Area Ridge National Scenic Trail Feasibility Study Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -178635,7 +178635,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3923",
   "origin_chamber": "Senate",
-  "title": "A bill to improve the weather research of the National Oceanic and Atmospheric Administration, support improvements in weather forecasting and prediction, and expand commercial opportunities for the provision of weather data.",
+  "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -178844,7 +178844,7 @@
   "latest_action_date": "2026-02-26",
   "number": "3940",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Community Development Banking and Financial Institutions Act of 1994 to require the Secretary of the Treasury to testify before Congress, and for other purposes.",
+  "title": "Access to Fair Financing for Opportunity and Resilient Development Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -179053,7 +179053,7 @@
   "latest_action_date": "2026-03-02",
   "number": "3958",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Food and Nutrition Act of 2008 to transition Puerto Rico to the supplemental nutrition assistance program, and for other purposes.",
+  "title": "Puerto Rico Nutrition Assistance Fairness Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -180978,7 +180978,7 @@
   "latest_action_date": "2026-11-12",
   "number": "4116",
   "origin_chamber": "Senate",
-  "title": "A bill to advance next-generation geothermal electricity generation demonstration projects in new regions, and for other purposes.",
+  "title": "Geo POWER Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -181198,7 +181198,7 @@
   "latest_action_date": "2026-03-18",
   "number": "4134",
   "origin_chamber": "Senate",
-  "title": "A bill to amend chapter 131 of title 5, United States Code, to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes.",
+  "title": "Stop Insider Trading Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -186214,7 +186214,7 @@
   "latest_action_date": "2026-05-14",
   "number": "4545",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the America COMPETES Act to establish certain scientific integrity policies for Federal agencies that fund, conduct, or oversee scientific research, and for other purposes.",
+  "title": "Scientific Integrity Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -187479,7 +187479,7 @@
   "latest_action_date": "2026-11-12",
   "number": "465",
   "origin_chamber": "Senate",
-  "title": "A bill to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, and for other purposes.",
+  "title": "GRID Power Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -189098,7 +189098,7 @@
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "S",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-13"
  },
  "119-s-4785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4785?format=json",
@@ -189844,7 +189844,7 @@
   "latest_action_date": "2026-11-12",
   "number": "4846",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the United States-Mexico Transboundary Aquifer Assessment Act to reauthorize the United States-Mexico transboundary aquifer assessment program, and for other purposes.",
+  "title": "TAAP Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -190141,7 +190141,7 @@
   "latest_action_date": "2026-11-12",
   "number": "4870",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Infrastructure Investment and Jobs Act to reauthorize the Earth Mapping Resources Initiative, and for other purposes.",
+  "title": "Earth MRI Reauthorization Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -196004,7 +196004,7 @@
   "latest_action_date": "2026-11-12",
   "number": "5352",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Water Infrastructure Improvements for the Nation Act and the Water Desalination Act of 1996 to reauthorize certain desalination programs, and for other purposes.",
+  "title": "Desalination Reauthorization Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -196081,7 +196081,7 @@
   "latest_action_date": "2026-11-12",
   "number": "5359",
   "origin_chamber": "Senate",
-  "title": "A bill to direct the Secretary of Agriculture to convey to Pennington County, South Dakota, certain National Forest System land.",
+  "title": "Pennington County Land Conveyance Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -197346,7 +197346,7 @@
   "latest_action_date": "2026-09-23",
   "number": "5463",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 36, United States Code, to request the President to designate a month each year as National American History and Founders Month.",
+  "title": "National American History and Founders Month Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -198369,7 +198369,7 @@
   "latest_action_date": "2026-09-24",
   "number": "5547",
   "origin_chamber": "Senate",
-  "title": "A bill to add the Department of State and the Department of Homeland Security to the list of permitted disclosures for the National Center for Missing and Exploited Children, and for other purposes.",
+  "title": "SCREEN Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -198435,7 +198435,7 @@
   "latest_action_date": "2026-09-24",
   "number": "5552",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Internal Revenue Code of 1986 to provide a tax credit for American film and television productions, and for other purposes.",
+  "title": "Motion Picture, Television, and Entertainment Revitalization Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -203077,7 +203077,7 @@
   "latest_action_date": "2026-11-12",
   "number": "789",
   "origin_chamber": "Senate",
-  "title": "A bill to require reports on critical mineral and rare earth element resources around the world and a strategy for the development of advanced mining, refining, separation, and processing technologies, and for other purposes.",
+  "title": "Critical Minerals Security Act of 2025",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -204430,7 +204430,7 @@
   "latest_action_date": "2026-11-12",
   "number": "90",
   "origin_chamber": "Senate",
-  "title": "A bill to prohibit the use of funds by the Secretary of the Interior to finalize and implement certain travel management plans in the State of Utah.",
+  "title": "Historic Roadways Protection Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
