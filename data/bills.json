@@ -206027,7 +206027,7 @@
   "origin_chamber": "Senate",
   "title": "A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to Latinas in comparison to White, non-Hispanic men.",
   "type": "SCONRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-sconres-5": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/5?format=json",
