@@ -23784,13 +23784,13 @@
  "119-hr-1703": {
   "congress": 119,
   "introduced_date": "2025-02-27",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-140.",
   "latest_action_date": "2026-11-10",
   "number": "1703",
   "origin_chamber": "House",
   "title": "Choices for Increased Mobility Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-1704": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1704?format=json",
@@ -26721,13 +26721,13 @@
  "119-hr-1945": {
   "congress": 119,
   "introduced_date": "2025-03-06",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-141.",
   "latest_action_date": "2026-11-10",
   "number": "1945",
   "origin_chamber": "House",
   "title": "America's National Churchill Museum National Historic Landmark Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-1946": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1946?format=json",
@@ -97363,13 +97363,13 @@
  "119-hr-7730": {
   "congress": 119,
   "introduced_date": "2026-02-26",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-142.",
   "latest_action_date": "2026-11-10",
   "number": "7730",
   "origin_chamber": "House",
   "title": "Bankruptcy Threshold Adjustment Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-7731": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7731?format=json",
@@ -147589,7 +147589,7 @@
  "119-s-1353": {
   "congress": 119,
   "introduced_date": "2025-04-08",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667)",
   "latest_action_date": "2026-11-12",
   "number": "1353",
   "origin_chamber": "Senate",
@@ -166124,7 +166124,7 @@
  "119-s-2887": {
   "congress": 119,
   "introduced_date": "2025-09-18",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5668; text: CR S5668-5669)",
   "latest_action_date": "2026-11-12",
   "number": "2887",
   "origin_chamber": "Senate",
@@ -173450,7 +173450,7 @@
  "119-s-3493": {
   "congress": 119,
   "introduced_date": "2025-12-16",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667-5668)",
   "latest_action_date": "2026-11-12",
   "number": "3493",
   "origin_chamber": "Senate",
@@ -183460,7 +183460,7 @@
  "119-s-432": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5668; text: CR S5669)",
   "latest_action_date": "2026-11-12",
   "number": "432",
   "origin_chamber": "Senate",
@@ -217362,7 +217362,7 @@
  "119-sres-834": {
   "congress": 119,
   "introduced_date": "2026-08-06",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5666)",
   "latest_action_date": "2026-11-12",
   "number": "834",
   "origin_chamber": "Senate",
