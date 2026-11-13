@@ -8173,15 +8173,15 @@
   "update_date": "2026-11-12"
  },
  "119-hr-10354": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10354?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-09-14",
   "number": "10354",
   "origin_chamber": "House",
   "title": "To impose targeted sanctions on the Houthi terrorists and their supporters, and to support the internationally recognized Government of Yemen in their fight against Houthi terrorists.",
   "type": "HR",
-  "update_date": "2026-09-15"
+  "update_date": "2026-11-13"
  },
  "119-hr-10355": {
   "congress": 119,
@@ -10054,15 +10054,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10508": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10508?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-17",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, the Judiciary, Agriculture, Education and Workforce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-09-17",
   "number": "10508",
   "origin_chamber": "House",
   "title": "To strengthen services provided in rural areas, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-18"
+  "update_date": "2026-11-13"
  },
  "119-hr-10509": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10509?format=json",
@@ -13967,7 +13967,7 @@
   "origin_chamber": "House",
   "title": "To impose sanctions with respect to oil and gas extraction and refinement by the Russian Federation, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-hr-10829": {
   "congress": 119,
@@ -14124,15 +14124,15 @@
   "update_date": "2026-11-03"
  },
  "119-hr-10842": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10842?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-19",
   "number": "10842",
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-13"
  },
  "119-hr-10843": {
   "congress": 119,
@@ -14308,7 +14308,7 @@
   "origin_chamber": "House",
   "title": "To amend the Federal Food, Drug, and Cosmetic Act and Public Health Service Act to advance the next-generation of clinical development of novel treatments and cures, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-10-23"
+  "update_date": "2026-11-13"
  },
  "119-hr-10858": {
   "congress": 119,
@@ -14638,7 +14638,7 @@
   "origin_chamber": "House",
   "title": "To provide additional options on certain Federal application forms to allow an individual to elect to be an organ donor and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-10885": {
   "congress": 119,
@@ -15485,7 +15485,7 @@
   "origin_chamber": "House",
   "title": "To direct the Secretary of Heath and Human Services to establish and carry out a program for making allotments to States to pay for the cost of carrying out the State Ombudsman Program to serve as a resource to provide information and support to individuals with developmental disabilities and their families.",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-13"
  },
  "119-hr-10954": {
   "congress": 119,
@@ -15617,7 +15617,7 @@
   "origin_chamber": "House",
   "title": "To designate the facility of the United States Postal Service located at 2503 South Washington Avenue in Titusville, Florida, as the \"Agent Kevin Morris Post Office\".",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-hr-10965": {
   "congress": 119,
@@ -15958,7 +15958,7 @@
   "origin_chamber": "House",
   "title": "To reauthorize the Tribal College Initiative Grants Program.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10993": {
   "congress": 119,
@@ -15969,7 +15969,7 @@
   "origin_chamber": "House",
   "title": "To reauthorize the Solid Waste Management Grants Program.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10994": {
   "congress": 119,
@@ -15980,7 +15980,7 @@
   "origin_chamber": "House",
   "title": "To reauthorize the Rural Business Development Grant Program.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10995": {
   "congress": 119,
@@ -16024,7 +16024,7 @@
   "origin_chamber": "House",
   "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10999": {
   "congress": 119,
@@ -16035,7 +16035,7 @@
   "origin_chamber": "House",
   "title": "To reauthorize the Expansion of 911 Access Program.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/11?format=json",
@@ -16079,7 +16079,7 @@
   "origin_chamber": "House",
   "title": "To amend title 38, United States Code, to promote the establishment of veterans cemeteries, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11001": {
   "congress": 119,
@@ -16101,7 +16101,7 @@
   "origin_chamber": "House",
   "title": "To prohibit the construction of data centers on Federal land, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11003": {
   "congress": 119,
@@ -16112,7 +16112,7 @@
   "origin_chamber": "House",
   "title": "To provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11004": {
   "congress": 119,
@@ -16134,7 +16134,7 @@
   "origin_chamber": "House",
   "title": "To encourage, enhance, and integrate Green Alert plans throughout the United States, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11006": {
   "congress": 119,
@@ -16156,7 +16156,7 @@
   "origin_chamber": "House",
   "title": "To amend title 38, United States Code, to prohibit certain conflicts of interest in the Department of Veterans Affairs, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-11008": {
   "congress": 119,
@@ -16167,7 +16167,7 @@
   "origin_chamber": "House",
   "title": "To require U.S. Citizenship and Immigration Services to facilitate naturalization services for noncitizen veterans who have been removed from the United States or are inadmissible.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-1101": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1101?format=json",
@@ -49805,7 +49805,7 @@
   "origin_chamber": "House",
   "title": "Snow Water Supply Forecasting Program Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-3858": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3858?format=json",
@@ -51279,7 +51279,7 @@
   "origin_chamber": "House",
   "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-3979": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3979?format=json",
@@ -66866,7 +66866,7 @@
   "origin_chamber": "House",
   "title": "Gateway Partnership Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-5255": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5255?format=json",
@@ -107137,7 +107137,7 @@
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-8553": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8553?format=json",
@@ -120084,7 +120084,7 @@
   "origin_chamber": "House",
   "title": "American Enrichment Deployment Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-9613": {
   "congress": 119,
@@ -120095,7 +120095,7 @@
   "origin_chamber": "House",
   "title": "Nuclear Advisory Committee Reform Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-9614": {
   "congress": 119,
@@ -120106,7 +120106,7 @@
   "origin_chamber": "House",
   "title": "NRC Staff Pay Alignment Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-9615": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9615?format=json",
@@ -132140,7 +132140,7 @@
   "origin_chamber": "House",
   "title": "Commending and congratulating Texas A&M University for 150 years of service to the State of Texas and the United States.",
   "type": "HRES",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-13"
  },
  "119-hres-1601": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1601?format=json",
@@ -152160,7 +152160,7 @@
   "origin_chamber": "Senate",
   "title": "Supersonic Aviation Modernization Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-176": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/176?format=json",
@@ -199823,7 +199823,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to prohibit the use of automatic license plate readers by the Federal Government without explicit statutory authorization, to withhold grants awarded by certain agencies from State and local governments that use automatic license plate readers, and to prohibit the use of Federal funds to purchase automatic license plate readers.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-5693": {
   "congress": 119,
@@ -199834,7 +199834,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend section 453 of title 37, United States Code, to provide for the reimbursement of costs of long commutes for members of the Armed Forces assigned to remote or isolated installations in areas without affordable housing.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-5694": {
   "congress": 119,
@@ -199845,7 +199845,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to take certain land in the State of California into trust for the benefit of the Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation, California, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-5695": {
   "congress": 119,
@@ -199856,7 +199856,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Internal Revenue Code of 1986 to eliminate duplicative and misguided enforcement units of the Internal Revenue Service.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-5696": {
   "congress": 119,
@@ -199878,7 +199878,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to ensure that Federal agencies rely on the best reasonably available scientific, technical, demographic, economic, and statistical information and evidence to develop, issue or inform the public of the nature and bases of Federal agency rules and guidance, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5698": {
   "congress": 119,
@@ -199889,7 +199889,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Public Health Service Act to protect the integrity of the United States Preventive Services Task Force, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5699": {
   "congress": 119,
@@ -199988,7 +199988,7 @@
   "origin_chamber": "Senate",
   "title": "A bill authorizing grants to support long-term resiliency for archival institutions, libraries, and museums in order to provide continuity and access to covered records.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5706": {
   "congress": 119,
@@ -200065,7 +200065,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out habitat management activities in units of the National Wildlife Refuge System, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5712": {
   "congress": 119,
@@ -200076,7 +200076,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5713": {
   "congress": 119,
@@ -200098,7 +200098,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to subject professional baseball clubs to the antitrust laws.",
   "type": "S",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-s-5715": {
   "congress": 119,
@@ -200120,7 +200120,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-s-572": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/572?format=json",
@@ -212682,7 +212682,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-473": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/473?format=json",
@@ -218446,7 +218446,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-951": {
   "congress": 119,
@@ -218457,7 +218457,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-952": {
   "congress": 119,
@@ -218479,7 +218479,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution condemning the horrific and senseless attack in Bend, Oregon, and expressing support and prayers for all those impacted by the tragedy.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-954": {
   "congress": 119,
@@ -218490,7 +218490,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the service and sacrifice of women veterans.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-955": {
   "congress": 119,
@@ -218501,7 +218501,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-956": {
   "congress": 119,
@@ -218512,7 +218512,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution honoring the service and sacrifice of the veterans of the United States on Veterans Day, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-957": {
   "congress": 119,
@@ -218523,7 +218523,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of November 15, 2026, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-958": {
   "congress": 119,
@@ -218534,7 +218534,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the week of November 9 through November 13, 2026, as \"National Veterans Small Business Week\".",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
