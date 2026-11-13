@@ -104954,7 +104954,7 @@
   "congress": 119,
   "introduced_date": "2026-04-16",
   "latest_action": "Presented to President.",
-  "latest_action_date": "2026-10-14",
+  "latest_action_date": "2026-11-12",
   "number": "8352",
   "origin_chamber": "House",
   "title": "Criminal History Access Act of 2026",
@@ -130325,7 +130325,7 @@
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R.185) to advance responsible policies.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hres-1431": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1431?format=json",
@@ -141427,15 +141427,15 @@
   "update_date": "2025-11-25"
  },
  "119-hres-843": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/843?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-31",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-10-31",
   "number": "843",
   "origin_chamber": "House",
   "title": "Supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
   "type": "HRES",
-  "update_date": "2026-07-15"
+  "update_date": "2026-11-13"
  },
  "119-hres-844": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/844?format=json",
@@ -173272,15 +173272,15 @@
   "update_date": "2026-01-13"
  },
  "119-s-3478": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3478?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-15",
   "latest_action": "Read twice and referred to the Committee on Indian Affairs.",
   "latest_action_date": "2025-12-15",
   "number": "3478",
   "origin_chamber": "Senate",
   "title": "Indian Buffalo Management Act",
   "type": "S",
-  "update_date": "2026-07-16"
+  "update_date": "2026-11-13"
  },
  "119-s-3479": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3479?format=json",
