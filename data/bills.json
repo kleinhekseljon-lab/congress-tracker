@@ -59122,7 +59122,7 @@
   "origin_chamber": "House",
   "title": "Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-13"
  },
  "119-hr-4599": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4599?format=json",
@@ -124676,13 +124676,13 @@
  "119-hr-997": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Signed by President.",
+  "latest_action": "Became Public Law No: 119-139.",
   "latest_action_date": "2026-11-10",
   "number": "997",
   "origin_chamber": "House",
   "title": "National Taxpayer Advocate Enhancement Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-9970": {
   "congress": 119,
