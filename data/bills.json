@@ -5436,8 +5436,8 @@
  "119-hr-1013": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "latest_action_date": "2026-11-12",
   "number": "1013",
   "origin_chamber": "House",
   "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
@@ -6756,8 +6756,8 @@
  "119-hr-10238": {
   "congress": 119,
   "introduced_date": "2026-09-02",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10238",
   "origin_chamber": "House",
   "title": "Cybersecurity for Small Businesses Act of 2026",
@@ -7867,8 +7867,8 @@
  "119-hr-10329": {
   "congress": 119,
   "introduced_date": "2026-09-10",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10329",
   "origin_chamber": "House",
   "title": "Combating Foreign Threats to Main Street Act of 2026",
@@ -8164,8 +8164,8 @@
  "119-hr-10353": {
   "congress": 119,
   "introduced_date": "2026-09-14",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10353",
   "origin_chamber": "House",
   "title": "SBIC Reporting Modernization Act of 2026",
@@ -8186,8 +8186,8 @@
  "119-hr-10355": {
   "congress": 119,
   "introduced_date": "2026-09-14",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10355",
   "origin_chamber": "House",
   "title": "Disaster Loan Outreach Consistency Act",
@@ -8384,8 +8384,8 @@
  "119-hr-10371": {
   "congress": 119,
   "introduced_date": "2026-09-14",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10371",
   "origin_chamber": "House",
   "title": "Ensuring SBA Implementation of GAO Recommendations Act of 2026",
@@ -8428,8 +8428,8 @@
  "119-hr-10375": {
   "congress": 119,
   "introduced_date": "2026-09-14",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "10375",
   "origin_chamber": "House",
   "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
@@ -28657,7 +28657,7 @@
  "119-hr-2102": {
   "congress": 119,
   "introduced_date": "2025-03-14",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-11-12",
   "number": "2102",
   "origin_chamber": "House",
@@ -31143,13 +31143,13 @@
  "119-hr-2306": {
   "congress": 119,
   "introduced_date": "2025-03-24",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 713.",
+  "latest_action_date": "2026-11-12",
   "number": "2306",
   "origin_chamber": "House",
   "title": "Adams Memorial-Great American Heroes Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-13"
  },
  "119-hr-2307": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2307?format=json",
@@ -43395,15 +43395,15 @@
   "update_date": "2026-07-24"
  },
  "119-hr-331": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/331?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2025-01-13",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 712.",
+  "latest_action_date": "2026-11-12",
   "number": "331",
   "origin_chamber": "House",
   "title": "To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes.",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-11-13"
  },
  "119-hr-3310": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3310?format=json",
@@ -63175,8 +63175,8 @@
  "119-hr-4930": {
   "congress": 119,
   "introduced_date": "2025-08-08",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5525)",
-  "latest_action_date": "2026-11-10",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-12",
   "number": "4930",
   "origin_chamber": "House",
   "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
@@ -70721,8 +70721,8 @@
  "119-hr-5549": {
   "congress": 119,
   "introduced_date": "2025-09-23",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "latest_action_date": "2026-11-12",
   "number": "5549",
   "origin_chamber": "House",
   "title": "Efficient Nuclear Licensing Hearings Act",
@@ -72919,15 +72919,15 @@
   "update_date": "2025-12-09"
  },
  "119-hr-5729": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5729?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2025-10-10",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 714.",
+  "latest_action_date": "2026-11-12",
   "number": "5729",
   "origin_chamber": "House",
   "title": "North Rim Restoration Act",
   "type": "HR",
-  "update_date": "2026-10-01"
+  "update_date": "2026-11-13"
  },
  "119-hr-573": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/573?format=json",
@@ -95988,13 +95988,13 @@
  "119-hr-7618": {
   "congress": 119,
   "introduced_date": "2026-02-20",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 715.",
+  "latest_action_date": "2026-11-12",
   "number": "7618",
   "origin_chamber": "House",
   "title": "American Battlefield Protection Program Amendments Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-13"
  },
  "119-hr-7619": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7619?format=json",
@@ -107395,8 +107395,8 @@
  "119-hr-8552": {
   "congress": 119,
   "introduced_date": "2026-04-28",
-  "latest_action": "Passed Senate without amendment by Voice Vote. (consideration: CR S5572)",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-12",
   "number": "8552",
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
@@ -113896,8 +113896,8 @@
  "119-hr-9084": {
   "congress": 119,
   "introduced_date": "2026-06-02",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+  "latest_action_date": "2026-11-12",
   "number": "9084",
   "origin_chamber": "House",
   "title": "Department of Energy Nuclear Transparency Act",
@@ -121618,8 +121618,8 @@
  "119-hr-9718": {
   "congress": 119,
   "introduced_date": "2026-07-15",
-  "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2026-11-12",
   "number": "9718",
   "origin_chamber": "House",
   "title": "Reshoring American Manufacturing Act of 2026",
@@ -146388,15 +146388,15 @@
   "update_date": "2026-10-02"
  },
  "119-s-1254": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1254?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2025-04-02",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 700.",
+  "latest_action_date": "2026-11-12",
   "number": "1254",
   "origin_chamber": "Senate",
   "title": "A bill to amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes.",
   "type": "S",
-  "update_date": "2026-10-01"
+  "update_date": "2026-11-13"
  },
  "119-s-1255": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1255?format=json",
@@ -147367,15 +147367,15 @@
   "update_date": "2025-05-09"
  },
  "119-s-1335": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1335?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-04-08",
   "number": "1335",
   "origin_chamber": "Senate",
-  "title": "Secure Family Futures Act of 2025",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to exclude debt held by certain insurance companies from capital assets and to extend capital loss carryovers for such companies from 5 years to 10 years.",
   "type": "S",
-  "update_date": "2026-06-03"
+  "update_date": "2026-11-13"
  },
  "119-s-1336": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1336?format=json",
@@ -147589,8 +147589,8 @@
  "119-s-1353": {
   "congress": 119,
   "introduced_date": "2025-04-08",
-  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.",
-  "latest_action_date": "2026-07-23",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-12",
   "number": "1353",
   "origin_chamber": "Senate",
   "title": "A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
@@ -148148,15 +148148,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-140": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/140?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-06-10",
+  "introduced_date": "2025-01-16",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 697.",
+  "latest_action_date": "2026-11-12",
   "number": "140",
   "origin_chamber": "Senate",
-  "title": "Wildfire Prevention Act of 2025",
+  "title": "A bill to address the forest health crisis on the National Forest System and public lands, and for other purposes.",
   "type": "S",
-  "update_date": "2026-09-11"
+  "update_date": "2026-11-13"
  },
  "119-s-1400": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1400?format=json",
@@ -149762,7 +149762,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-1533": {
   "congress": 119,
@@ -158576,15 +158576,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-2262": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2262?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2025-12-17",
+  "introduced_date": "2025-07-10",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.",
+  "latest_action_date": "2026-11-12",
   "number": "2262",
   "origin_chamber": "Senate",
-  "title": "American Voices in Federal Lands Act",
+  "title": "A bill to amend the Federal Land Policy and Management Act of 1976 to clarify the nature of public investment for purposes of certain rulemaking, and for other purposes.",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-13"
  },
  "119-s-2263": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2263?format=json",
@@ -166124,8 +166124,8 @@
  "119-s-2887": {
   "congress": 119,
   "introduced_date": "2025-09-18",
-  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.",
-  "latest_action_date": "2026-09-17",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-12",
   "number": "2887",
   "origin_chamber": "Senate",
   "title": "Route 66 National Historic Trail Designation Act",
@@ -167145,15 +167145,15 @@
   "update_date": "2026-03-20"
  },
  "119-s-2970": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2970?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2025-10-03",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 702.",
+  "latest_action_date": "2026-11-12",
   "number": "2970",
   "origin_chamber": "Senate",
   "title": "A bill to authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
   "type": "S",
-  "update_date": "2026-10-01"
+  "update_date": "2026-11-13"
  },
  "119-s-2971": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2971?format=json",
@@ -171987,13 +171987,13 @@
  "119-s-3371": {
   "congress": 119,
   "introduced_date": "2025-12-04",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 703.",
+  "latest_action_date": "2026-11-12",
   "number": "3371",
   "origin_chamber": "Senate",
-  "title": "National Museum of the Blind People\u2019s Movement Act",
+  "title": "A bill to designate the Museum of the Blind People's Movement in Baltimore, Maryland, as the \"National Museum of the Blind People's Movement\".",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-13"
  },
  "119-s-3372": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3372?format=json",
@@ -173450,8 +173450,8 @@
  "119-s-3493": {
   "congress": 119,
   "introduced_date": "2025-12-16",
-  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.",
-  "latest_action_date": "2026-07-23",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-12",
   "number": "3493",
   "origin_chamber": "Senate",
   "title": "Carson City Public Land Correction Act",
@@ -173824,24 +173824,24 @@
  "119-s-3524": {
   "congress": 119,
   "introduced_date": "2025-12-17",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.",
+  "latest_action_date": "2026-11-12",
   "number": "3524",
   "origin_chamber": "Senate",
-  "title": "American Battlefield Protection Program Amendments Act of 2025",
+  "title": "A bill to amend title 54, United States Code, to modify certain cost-sharing requirements for grant programs under the American Battlefield Protection Program, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-13"
  },
  "119-s-3525": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3525?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-17",
   "latest_action": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
   "latest_action_date": "2026-03-19",
   "number": "3525",
   "origin_chamber": "Senate",
-  "title": "American Franchise Act",
+  "title": "A bill to preserve the franchise business model.",
   "type": "S",
-  "update_date": "2026-09-26"
+  "update_date": "2026-11-13"
  },
  "119-s-3526": {
   "congress": 119,
@@ -173857,13 +173857,13 @@
  "119-s-3527": {
   "congress": 119,
   "introduced_date": "2025-12-17",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-03-04",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 705.",
+  "latest_action_date": "2026-11-12",
   "number": "3527",
   "origin_chamber": "Senate",
-  "title": "Montana Sportsmen Conservation Act",
+  "title": "A bill to release from wilderness study area designation certain land in the State of Montana, to improve the management of that land, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-24"
+  "update_date": "2026-11-13"
  },
  "119-s-3528": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3528?format=json",
@@ -174587,7 +174587,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3589",
   "origin_chamber": "Senate",
-  "title": "RISE Act",
+  "title": "A bill to amend the Higher Education Act of 1965 to provide students with disabilities and their families with access to critical information needed to select the right college and succeed once enrolled.",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -176193,7 +176193,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3720",
   "origin_chamber": "Senate",
-  "title": "Bay Area Ridge National Scenic Trail Feasibility Study Act",
+  "title": "A bill to amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge as a national scenic trail, and for other purposes.",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -178635,7 +178635,7 @@
   "latest_action_date": "2026-11-12",
   "number": "3923",
   "origin_chamber": "Senate",
-  "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+  "title": "A bill to improve the weather research of the National Oceanic and Atmospheric Administration, support improvements in weather forecasting and prediction, and expand commercial opportunities for the provision of weather data.",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -178838,15 +178838,15 @@
   "update_date": "2025-07-01"
  },
  "119-s-3940": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3940?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-26",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2026-02-26",
   "number": "3940",
   "origin_chamber": "Senate",
-  "title": "Access to Fair Financing for Opportunity and Resilient Development Act",
+  "title": "A bill to amend the Community Development Banking and Financial Institutions Act of 1994 to require the Secretary of the Treasury to testify before Congress, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-3941": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3941?format=json",
@@ -179053,9 +179053,9 @@
   "latest_action_date": "2026-03-02",
   "number": "3958",
   "origin_chamber": "Senate",
-  "title": "Puerto Rico Nutrition Assistance Fairness Act",
+  "title": "A bill to amend the Food and Nutrition Act of 2008 to transition Puerto Rico to the supplemental nutrition assistance program, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-13"
  },
  "119-s-3959": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3959?format=json",
@@ -180972,15 +180972,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-4116": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4116?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2026-03-17",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 706.",
+  "latest_action_date": "2026-11-12",
   "number": "4116",
   "origin_chamber": "Senate",
-  "title": "Geo POWER Act",
+  "title": "A bill to advance next-generation geothermal electricity generation demonstration projects in new regions, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-13"
  },
  "119-s-4117": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4117?format=json",
@@ -181192,15 +181192,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4134": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4134?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-18",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-03-18",
   "number": "4134",
   "origin_chamber": "Senate",
-  "title": "Stop Insider Trading Act",
+  "title": "A bill to amend chapter 131 of title 5, United States Code, to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-4135": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4135?format=json",
@@ -183460,8 +183460,8 @@
  "119-s-432": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
-  "latest_action_date": "2025-02-05",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-12",
   "number": "432",
   "origin_chamber": "Senate",
   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
@@ -184569,15 +184569,15 @@
   "update_date": "2026-02-26"
  },
  "119-s-4410": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4410?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-07-29",
+  "introduced_date": "2026-04-28",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.",
+  "latest_action_date": "2026-11-12",
   "number": "4410",
   "origin_chamber": "Senate",
   "title": "A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under that Act.",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-13"
  },
  "119-s-4411": {
   "congress": 119,
@@ -186208,15 +186208,15 @@
   "update_date": "2026-06-09"
  },
  "119-s-4545": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4545?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-05-14",
   "number": "4545",
   "origin_chamber": "Senate",
-  "title": "Scientific Integrity Act",
+  "title": "A bill to amend the America COMPETES Act to establish certain scientific integrity policies for Federal agencies that fund, conduct, or oversee scientific research, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-4546": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4546?format=json",
@@ -187473,15 +187473,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-465": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/465?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2025-02-06",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 698.",
+  "latest_action_date": "2026-11-12",
   "number": "465",
   "origin_chamber": "Senate",
-  "title": "GRID Power Act",
+  "title": "A bill to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-4650": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4650?format=json",
@@ -189840,13 +189840,13 @@
  "119-s-4846": {
   "congress": 119,
   "introduced_date": "2026-06-22",
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.",
+  "latest_action_date": "2026-11-12",
   "number": "4846",
   "origin_chamber": "Senate",
-  "title": "TAAP Act",
+  "title": "A bill to amend the United States-Mexico Transboundary Aquifer Assessment Act to reauthorize the United States-Mexico transboundary aquifer assessment program, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-13"
  },
  "119-s-4847": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4847?format=json",
@@ -190135,15 +190135,15 @@
   "update_date": "2025-04-21"
  },
  "119-s-4870": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4870?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2026-06-23",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.",
+  "latest_action_date": "2026-11-12",
   "number": "4870",
   "origin_chamber": "Senate",
-  "title": "Earth MRI Reauthorization Act of 2026",
+  "title": "A bill to amend the Infrastructure Investment and Jobs Act to reauthorize the Earth Mapping Resources Initiative, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-4871": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4871?format=json",
@@ -195998,15 +195998,15 @@
   "update_date": "2026-08-26"
  },
  "119-s-5352": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5352?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2026-08-06",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 710.",
+  "latest_action_date": "2026-11-12",
   "number": "5352",
   "origin_chamber": "Senate",
-  "title": "Desalination Reauthorization Act",
+  "title": "A bill to amend the Water Infrastructure Improvements for the Nation Act and the Water Desalination Act of 1996 to reauthorize certain desalination programs, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-13"
  },
  "119-s-5353": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5353?format=json",
@@ -196075,15 +196075,15 @@
   "update_date": "2026-08-19"
  },
  "119-s-5359": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5359?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2026-08-07",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 711.",
+  "latest_action_date": "2026-11-12",
   "number": "5359",
   "origin_chamber": "Senate",
-  "title": "Pennington County Land Conveyance Act",
+  "title": "A bill to direct the Secretary of Agriculture to convey to Pennington County, South Dakota, certain National Forest System land.",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-13"
  },
  "119-s-536": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/536?format=json",
@@ -197340,15 +197340,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5463": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5463?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-09-23",
   "number": "5463",
   "origin_chamber": "Senate",
-  "title": "National American History and Founders Month Act",
+  "title": "A bill to amend title 36, United States Code, to request the President to designate a month each year as National American History and Founders Month.",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-13"
  },
  "119-s-5464": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5464?format=json",
@@ -198369,9 +198369,9 @@
   "latest_action_date": "2026-09-24",
   "number": "5547",
   "origin_chamber": "Senate",
-  "title": "SCREEN Act of 2026",
+  "title": "A bill to add the Department of State and the Department of Homeland Security to the list of permitted disclosures for the National Center for Missing and Exploited Children, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-s-5548": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5548?format=json",
@@ -198435,9 +198435,9 @@
   "latest_action_date": "2026-09-24",
   "number": "5552",
   "origin_chamber": "Senate",
-  "title": "Motion Picture, Television, and Entertainment Revitalization Act",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to provide a tax credit for American film and television productions, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-13"
  },
  "119-s-5553": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5553?format=json",
@@ -200438,6 +200438,28 @@
   "number": "5716",
   "origin_chamber": "Senate",
   "title": "Guard the Skies Act",
+  "type": "S",
+  "update_date": "2026-11-13"
+ },
+ "119-s-5717": {
+  "congress": 119,
+  "introduced_date": "2026-11-12",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_action_date": "2026-11-12",
+  "number": "5717",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title 36, United States Code, to move the place of incorporation and domicile of the National Woman's Relief Corps to Illinois, to move the principal office of such Corps to Murphysboro, Illinois, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-13"
+ },
+ "119-s-5718": {
+  "congress": 119,
+  "introduced_date": "2026-11-12",
+  "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "latest_action_date": "2026-11-12",
+  "number": "5718",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title 49, United States Code, with respect to restroom access for certain drivers, and for other purposes.",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -203049,15 +203071,15 @@
   "update_date": "2026-02-06"
  },
  "119-s-789": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/789?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-06-10",
+  "introduced_date": "2025-02-27",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 699.",
+  "latest_action_date": "2026-11-12",
   "number": "789",
   "origin_chamber": "Senate",
-  "title": "Critical Minerals Security Act of 2025",
+  "title": "A bill to require reports on critical mineral and rare earth element resources around the world and a strategy for the development of advanced mining, refining, separation, and processing technologies, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-19"
+  "update_date": "2026-11-13"
  },
  "119-s-79": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/79?format=json",
@@ -204402,15 +204424,15 @@
   "update_date": "2026-10-29"
  },
  "119-s-90": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/90?format=json",
   "congress": 119,
-  "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-02-04",
+  "introduced_date": "2025-01-14",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 696.",
+  "latest_action_date": "2026-11-12",
   "number": "90",
   "origin_chamber": "Senate",
-  "title": "Historic Roadways Protection Act",
+  "title": "A bill to prohibit the use of funds by the Secretary of the Interior to finalize and implement certain travel management plans in the State of Utah.",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-13"
  },
  "119-s-900": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/900?format=json",
@@ -217338,15 +217360,15 @@
   "update_date": "2026-09-04"
  },
  "119-sres-834": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/834?format=json",
   "congress": 119,
-  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S4523)",
-  "latest_action_date": "2026-08-06",
+  "introduced_date": "2026-08-06",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-12",
   "number": "834",
   "origin_chamber": "Senate",
   "title": "A resolution honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.",
   "type": "SRES",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-13"
  },
  "119-sres-835": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/835?format=json",
