@@ -5442,7 +5442,7 @@
   "origin_chamber": "House",
   "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10130": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10130?format=json",
@@ -6762,7 +6762,7 @@
   "origin_chamber": "House",
   "title": "Cybersecurity for Small Businesses Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10239": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10239?format=json",
@@ -7873,7 +7873,7 @@
   "origin_chamber": "House",
   "title": "Combating Foreign Threats to Main Street Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-1033": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1033?format=json",
@@ -8170,7 +8170,7 @@
   "origin_chamber": "House",
   "title": "SBIC Reporting Modernization Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10354": {
   "congress": 119,
@@ -8179,7 +8179,7 @@
   "latest_action_date": "2026-09-14",
   "number": "10354",
   "origin_chamber": "House",
-  "title": "To impose targeted sanctions on the Houthi terrorists and their supporters, and to support the internationally recognized Government of Yemen in their fight against Houthi terrorists.",
+  "title": "Free Yemen from Iran Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -8192,7 +8192,7 @@
   "origin_chamber": "House",
   "title": "Disaster Loan Outreach Consistency Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10356": {
   "congress": 119,
@@ -8390,7 +8390,7 @@
   "origin_chamber": "House",
   "title": "Ensuring SBA Implementation of GAO Recommendations Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10372": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10372?format=json",
@@ -8434,7 +8434,7 @@
   "origin_chamber": "House",
   "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-10376": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10376?format=json",
@@ -10060,7 +10060,7 @@
   "latest_action_date": "2026-09-17",
   "number": "10508",
   "origin_chamber": "House",
-  "title": "To strengthen services provided in rural areas, and for other purposes.",
+  "title": "Revitalize Rural America Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -13965,7 +13965,7 @@
   "latest_action_date": "2026-10-15",
   "number": "10828",
   "origin_chamber": "House",
-  "title": "To impose sanctions with respect to oil and gas extraction and refinement by the Russian Federation, and for other purposes.",
+  "title": "Prohibit Corrupt Russia Oil Deals Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -14130,7 +14130,7 @@
   "latest_action_date": "2026-10-19",
   "number": "10842",
   "origin_chamber": "House",
-  "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+  "title": "Financial Services Customer Support Onshoring Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -14306,7 +14306,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10857",
   "origin_chamber": "House",
-  "title": "To amend the Federal Food, Drug, and Cosmetic Act and Public Health Service Act to advance the next-generation of clinical development of novel treatments and cures, and for other purposes.",
+  "title": "Faster Clinical Trials Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -14636,7 +14636,7 @@
   "latest_action_date": "2026-10-22",
   "number": "10884",
   "origin_chamber": "House",
-  "title": "To provide additional options on certain Federal application forms to allow an individual to elect to be an organ donor and for other purposes.",
+  "title": "Lauren Shields Organ Donation Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -15483,7 +15483,7 @@
   "latest_action_date": "2026-11-02",
   "number": "10953",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of Heath and Human Services to establish and carry out a program for making allotments to States to pay for the cost of carrying out the State Ombudsman Program to serve as a resource to provide information and support to individuals with developmental disabilities and their families.",
+  "title": "Disability Benefits Guidance Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -15956,7 +15956,7 @@
   "latest_action_date": "2026-11-11",
   "number": "10992",
   "origin_chamber": "House",
-  "title": "To reauthorize the Tribal College Initiative Grants Program.",
+  "title": "Tribal College and University Essential Community Facilities Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -15967,7 +15967,7 @@
   "latest_action_date": "2026-11-11",
   "number": "10993",
   "origin_chamber": "House",
-  "title": "To reauthorize the Solid Waste Management Grants Program.",
+  "title": "Solid Waste Management Improvement Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -15978,7 +15978,7 @@
   "latest_action_date": "2026-11-11",
   "number": "10994",
   "origin_chamber": "House",
-  "title": "To reauthorize the Rural Business Development Grant Program.",
+  "title": "Supporting Rural Business Development Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16022,7 +16022,7 @@
   "latest_action_date": "2026-11-11",
   "number": "10998",
   "origin_chamber": "House",
-  "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
+  "title": "Building Out Utility Infrastructure in Rural America Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16033,7 +16033,7 @@
   "latest_action_date": "2026-11-11",
   "number": "10999",
   "origin_chamber": "House",
-  "title": "To reauthorize the Expansion of 911 Access Program.",
+  "title": "Keeping Rural America Safe Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16077,7 +16077,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11000",
   "origin_chamber": "House",
-  "title": "To amend title 38, United States Code, to promote the establishment of veterans cemeteries, and for other purposes.",
+  "title": "Veterans Cemetery Access Modernization Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16099,7 +16099,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11002",
   "origin_chamber": "House",
-  "title": "To prohibit the construction of data centers on Federal land, and for other purposes.",
+  "title": "Protecting Our Public Lands from Data Centers Act of 2026",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16110,7 +16110,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11003",
   "origin_chamber": "House",
-  "title": "To provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes.",
+  "title": "Abuse of the Pardon Prevention Act of 2026",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16132,7 +16132,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11005",
   "origin_chamber": "House",
-  "title": "To encourage, enhance, and integrate Green Alert plans throughout the United States, and for other purposes.",
+  "title": "Corey Adams Searchlight Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16154,7 +16154,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11007",
   "origin_chamber": "House",
-  "title": "To amend title 38, United States Code, to prohibit certain conflicts of interest in the Department of Veterans Affairs, and for other purposes.",
+  "title": "STAND for Vets Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -16165,7 +16165,7 @@
   "latest_action_date": "2026-11-11",
   "number": "11008",
   "origin_chamber": "House",
-  "title": "To require U.S. Citizenship and Immigration Services to facilitate naturalization services for noncitizen veterans who have been removed from the United States or are inadmissible.",
+  "title": "Strengthening Citizenship Services for Veterans Act",
   "type": "HR",
   "update_date": "2026-11-13"
  },
@@ -28399,7 +28399,7 @@
   "origin_chamber": "House",
   "title": "Major Richard Star Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-13"
  },
  "119-hr-2103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2103?format=json",
@@ -62917,7 +62917,7 @@
   "origin_chamber": "House",
   "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-4931": {
   "congress": 119,
@@ -70463,7 +70463,7 @@
   "origin_chamber": "House",
   "title": "Efficient Nuclear Licensing Hearings Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-555": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/555?format=json",
@@ -113638,7 +113638,7 @@
   "origin_chamber": "House",
   "title": "Department of Energy Nuclear Transparency Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-9085": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9085?format=json",
@@ -121360,7 +121360,7 @@
   "origin_chamber": "House",
   "title": "Reshoring American Manufacturing Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hr-9719": {
   "congress": 119,
@@ -127817,7 +127817,7 @@
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-hres-1248": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1248?format=json",
@@ -147268,15 +147268,15 @@
   "update_date": "2026-02-05"
  },
  "119-s-1353": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1353?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.",
   "latest_action_date": "2026-07-23",
   "number": "1353",
   "origin_chamber": "Senate",
   "title": "A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
   "type": "S",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-13"
  },
  "119-s-1354": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1354?format=json",
@@ -165803,15 +165803,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2887": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2887?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-18",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.",
   "latest_action_date": "2026-09-17",
   "number": "2887",
   "origin_chamber": "Senate",
   "title": "Route 66 National Historic Trail Designation Act",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-11-13"
  },
  "119-s-2888": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2888?format=json",
@@ -173137,7 +173137,7 @@
   "origin_chamber": "Senate",
   "title": "Carson City Public Land Correction Act",
   "type": "S",
-  "update_date": "2026-10-24"
+  "update_date": "2026-11-13"
  },
  "119-s-3495": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3495?format=json",
@@ -183147,7 +183147,7 @@
   "origin_chamber": "Senate",
   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
   "type": "S",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-13"
  },
  "119-s-4320": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4320?format=json",
@@ -199821,7 +199821,7 @@
   "latest_action_date": "2026-11-09",
   "number": "5692",
   "origin_chamber": "Senate",
-  "title": "A bill to prohibit the use of automatic license plate readers by the Federal Government without explicit statutory authorization, to withhold grants awarded by certain agencies from State and local governments that use automatic license plate readers, and to prohibit the use of Federal funds to purchase automatic license plate readers.",
+  "title": "Ban Flock Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199832,7 +199832,7 @@
   "latest_action_date": "2026-11-09",
   "number": "5693",
   "origin_chamber": "Senate",
-  "title": "A bill to amend section 453 of title 37, United States Code, to provide for the reimbursement of costs of long commutes for members of the Armed Forces assigned to remote or isolated installations in areas without affordable housing.",
+  "title": "Transportation Relief for Servicemembers at Remote Locations Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199843,7 +199843,7 @@
   "latest_action_date": "2026-11-09",
   "number": "5694",
   "origin_chamber": "Senate",
-  "title": "A bill to take certain land in the State of California into trust for the benefit of the Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation, California, and for other purposes.",
+  "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199854,7 +199854,7 @@
   "latest_action_date": "2026-11-09",
   "number": "5695",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Internal Revenue Code of 1986 to eliminate duplicative and misguided enforcement units of the Internal Revenue Service.",
+  "title": "Taxpayer Fairness and IRS Accountability Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199876,7 +199876,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5697",
   "origin_chamber": "Senate",
-  "title": "A bill to ensure that Federal agencies rely on the best reasonably available scientific, technical, demographic, economic, and statistical information and evidence to develop, issue or inform the public of the nature and bases of Federal agency rules and guidance, and for other purposes.",
+  "title": "Information Quality Assurance Act of 2026",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199887,7 +199887,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5698",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Public Health Service Act to protect the integrity of the United States Preventive Services Task Force, and for other purposes.",
+  "title": "Protect U.S. Preventive Services Task Force Integrity Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -199986,7 +199986,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5705",
   "origin_chamber": "Senate",
-  "title": "A bill authorizing grants to support long-term resiliency for archival institutions, libraries, and museums in order to provide continuity and access to covered records.",
+  "title": "Public Archives Resiliency Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -200063,7 +200063,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5711",
   "origin_chamber": "Senate",
-  "title": "A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out habitat management activities in units of the National Wildlife Refuge System, and for other purposes.",
+  "title": "National Wildlife Refuge Habitat Partnership Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -200074,7 +200074,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5712",
   "origin_chamber": "Senate",
-  "title": "A bill to require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
+  "title": "WIPE OUT Burn Pits Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -200096,7 +200096,7 @@
   "latest_action_date": "2026-11-10",
   "number": "5714",
   "origin_chamber": "Senate",
-  "title": "A bill to subject professional baseball clubs to the antitrust laws.",
+  "title": "Competition in Professional Baseball Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
@@ -200118,7 +200118,7 @@
   "latest_action_date": "2026-11-11",
   "number": "5716",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
+  "title": "Guard the Skies Act",
   "type": "S",
   "update_date": "2026-11-13"
  },
