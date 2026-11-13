@@ -40851,7 +40851,7 @@
   "origin_chamber": "House",
   "title": "CHILD Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-13"
  },
  "119-hr-3101": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3101?format=json",
@@ -72861,7 +72861,7 @@
   "origin_chamber": "House",
   "title": "FRAUD in VA Disability Exams Act",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-13"
  },
  "119-hr-5724": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5724?format=json",
