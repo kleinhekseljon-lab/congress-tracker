@@ -70012,7 +70012,7 @@
   "origin_chamber": "House",
   "title": "Dismantle Foreign Scam Syndicates Act",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-13"
  },
  "119-hr-5491": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5491?format=json",
@@ -155386,15 +155386,15 @@
   "update_date": "2026-02-18"
  },
  "119-s-2": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-20",
   "latest_action": "Became Public Law No: 119-98.",
   "latest_action_date": "2026-06-10",
   "number": "2",
   "origin_chamber": "Senate",
   "title": "Secure America Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-13"
  },
  "119-s-200": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/200?format=json",
