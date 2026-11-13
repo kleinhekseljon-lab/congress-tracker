@@ -24068,15 +24068,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-1727": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1727?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-27",
   "number": "1727",
   "origin_chamber": "House",
   "title": "Rocky Mountain Judgeship Act",
   "type": "HR",
-  "update_date": "2026-02-11"
+  "update_date": "2026-11-13"
  },
  "119-hr-1728": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1728?format=json",
@@ -196568,6 +196568,17 @@
   "title": "No New Fencing At the White House Act",
   "type": "S",
   "update_date": "2026-11-03"
+ },
+ "119-s-54": {
+  "congress": 119,
+  "introduced_date": "2025-01-09",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_action_date": "2025-01-09",
+  "number": "54",
+  "origin_chamber": "Senate",
+  "title": "A bill to authorize an additional district judgeship for the district of Idaho.",
+  "type": "S",
+  "update_date": "2026-11-13"
  },
  "119-s-540": {
   "congress": 119,
