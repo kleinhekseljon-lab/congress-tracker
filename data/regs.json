@@ -19029,6 +19029,304 @@
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23074/airworthiness-directives-dassault-aviation-airplanes"
  },
+ "2026-23086": {
+  "abstract": "On May 8, 2024, the Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture published in the Federal Register a final rule that amended the regulations promulgated under the Horse Protection Act (the May 2024 Horse Protection final rule). APHIS is proposing to remove the provisions of the May 2024 Horse Protection final rule that have been vacated by court order and proposing to withdraw the remaining non-vacated provisions of the May 2024 Horse Protection final rule to ensure that the regulations afford due process and better align with the Act. APHIS is also proposing to amend the regulations by revising, among other things, the certification requirements for training and licensing of designated qualified persons (DQPs); enhancing DQP inspection procedures and the process for appealing APHIS inspections before any possible disqualification by management; and clarifying that if a horse is determined to be sore, it is disqualified from participating in the class in which the inspection took place and not the entire event.",
+  "agencies": [
+   "Agriculture Department",
+   "Animal and Plant Health Inspection Service"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "animal-and-plant-health-inspection-service"
+  ],
+  "comments_close_on": "2026-12-14",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Horse Protection",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23086/horse-protection"
+ },
+ "2026-23109": {
+  "abstract": "This action proposes to amend Class C airspace at the President Donald J. Trump International Airport (DJT), West Palm Beach, FL. The FAA is proposing this action to enhance the efficient management of air traffic operations and reduce the potential for midair collision in the West Palm Beach, FL, terminal area.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-12",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Amendment of Class C Airspace; President Donald J. Trump International Airport, FL",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23109/amendment-of-class-c-airspace-president-donald-j-trump-international-airport-fl"
+ },
+ "2026-23112": {
+  "abstract": "The Food and Drug Administration (FDA or we) is confirming the effective date of September 8, 2026, for the final order that appeared in the Federal Register of July 23, 2026, and that repealed the color additive regulation that allows for the use of Orange B for coloring the casings or surfaces of frankfurters and sausages.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Food and Drug Administration"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "food-and-drug-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-09-08",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Revocation of the Color Additive Listing for Use of Orange B on Casings or Surfaces of Frankfurters and Sausages; Confirmation of Effective Date",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23112/revocation-of-the-color-additive-listing-for-use-of-orange-b-on-casings-or-surfaces-of-frankfurters"
+ },
+ "2026-23115": {
+  "abstract": "This regulation establishes a time-limited tolerance for residues of isocycloseram, including its metabolites and degradates, in or on sunflowers. This action is in response to EPA's authorization of a specific exemption under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) authorizing use of the pesticide on sunflowers. This regulation establishes a maximum permissible level for residues of isocycloseram in or on sunflower, seed at 0.4 parts per million. The time-limited tolerance expires on December 31, 2029.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-13",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Isocycloseram; Pesticide Tolerance for Emergency Exemption",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23115/isocycloseram-pesticide-tolerance-for-emergency-exemption"
+ },
+ "2026-23116": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain General Electric Company (GE) Model GE Passport 20-17BB1A, GE Passport 20-18BB1A, GE Passport 20-19BB1A, and GE Passport 20-19BB1B engines. This proposed AD was prompted by an engine in-flight shutdown (IFSD) due to an engine fire caused by fuel leakage within the engine core compartment. This proposed AD would require replacement of a certain start bleed valve (SBV) fuel tube with a redesigned SBV fuel tube. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Airworthiness Directives; General Electric Company Engines",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23116/airworthiness-directives-general-electric-company-engines"
+ },
+ "2026-23118": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Pratt & Whitney Canada Corp. (P&WC) Model PW814GA and PW815GA engines. This proposed AD was prompted by the manufacturer revising the airworthiness limitations section (ALS) of the existing airworthiness limitations manual (ALM) to introduce new or more restrictive airworthiness limitations and associated thresholds and intervals for life-limited parts. This proposed AD would require updating the ALS of the existing ALM or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable, to incorporate new or more restrictive instructions and associated thresholds and intervals for life-limited parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Airworthiness Directives; Pratt & Whitney Canada Corp. Engines",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23118/airworthiness-directives-pratt-and-whitney-canada-corp-engines"
+ },
+ "2026-23120": {
+  "abstract": "This regulation establishes tolerances for residues of ethephon in or on fig. Under the Federal Food, Drug, and Cosmetic Act (FFDCA), Interregional Research Project Number 4 (IR-4) submitted a petition to EPA requesting that EPA establish a maximum permissible level for residues of this pesticide in or on the identified commodity.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-13",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Ethephon; Pesticide Tolerances",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23120/ethephon-pesticide-tolerances"
+ },
+ "2026-23121": {
+  "abstract": "The U.S. Environmental Protection Agency (EPA) is updating the materials that are incorporated by reference (IBR) into the Utah State Implementation Plan (SIP). The regulations affected by this update have been previously submitted by Utah and approved by the EPA. In this final rule, the EPA is also notifying the public of corrections and clarifying changes in the Code of Federal Regulations (CFR) tables that identify material IBR into the Utah SIP. This update affects the materials that are available for public inspection at the National Archives and Records Administration (NARA) and the EPA Regional Office.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-13",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Air Plan Approval; Utah; Update to Materials Incorporated by Reference",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23121/air-plan-approval-utah-update-to-materials-incorporated-by-reference"
+ },
+ "2026-23123": {
+  "abstract": "This action informs the public that the Federal Crop Insurance Corporation (FCIC) is withdrawing a notice of proposed rulemaking with request for comments published in the Federal Register on December 16, 2021, titled Common Crop Insurance Regulations, Apple Crop Insurance Provisions. FCIC has determined that rulemaking is not necessary or appropriate at this time based on comments received in response to the proposed changes. If FCIC decides to pursue future regulatory action on this topic, it will issue a new proposed rule.",
+  "agencies": [
+   "Agriculture Department",
+   "Federal Crop Insurance Corporation"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "federal-crop-insurance-corporation"
+  ],
+  "comments_close_on": "2021-12-16",
+  "effective_on": "2026-11-13",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Common Crop Insurance Regulations; Apple Crop Insurance Provisions; Withdrawal",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23123/common-crop-insurance-regulations-apple-crop-insurance-provisions-withdrawal"
+ },
+ "2026-23124": {
+  "abstract": "The Environmental Protection Agency (EPA) proposes to approve a revision to the Oregon State Implementation Plan (SIP) submitted by the Oregon Department of Environmental Quality (ODEQ) on December 17, 2025, for the Portland and Salem/Keizer, Oregon 1979 1-hour ozone maintenance areas. The proposed revision updates ODEQ's requirements in the SIP for Stages I and II vapor recovery systems at gasoline dispensing facilities including: decommissioning existing Stage II systems incompatible with onboard refueling vapor recovery systems; allowing removal from service of Stage II vapor recovery equipment compatible with onboard refueling vapor recovery; and removing the requirement for Stage II vapor recovery at new installations. The proposed revisions also include more widespread adoption of Stage I Enhanced Vapor Recovery, Stage I vapor balance, and enhanced conventional nozzles, among other changes. The EPA is proposing to find that ODEQ's demonstration to remove Stage II requirements is consistent with the Clean Air Act and the EPA's guidance.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": "2026-12-14",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Air Plan Approval; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23124/air-plan-approval-oregon-department-of-environmental-quality-emission-standards-and-controls-for"
+ },
+ "2026-23134": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all The Boeing Company Model 747-400 and 747-400F series airplanes. This proposed AD was prompted by a report of an overheated alternating current motor pump (ACMP) that caused a fire in the main landing gear (MLG) wheel well. This proposed AD would require a maintenance records check or inspection for any installed ACMP with a certain part number and applicable on-condition actions. This proposed AD would also prohibit the installation of affected parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Airworthiness Directives; The Boeing Company Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23134/airworthiness-directives-the-boeing-company-airplanes"
+ },
+ "2026-23193": {
+  "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing an Iran-related general license (GL): GL W. This GL was previously made available on OFAC's website.",
+  "agencies": [
+   "Treasury Department",
+   "Foreign Assets Control Office"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "foreign-assets-control-office"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Publication of Iran-Related Web General License W",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w"
+ },
+ "2026-23194": {
+  "abstract": "This action makes administrative amendments to the Laughlin AFB, TX, Class C airspace legal description. Specifically, the action updates the geographic coordinates of the airport reference point (ARP) to match the FAA's National Airspace System Resources (NASR) database information. Additionally, this action corrects the header format to conform with current FAA policy. Lastly, this action updates the outdated term \"Airport/Facility Directory\" to \"Chart Supplement.\" This action does not change the lateral boundaries, altitudes, or operating requirements of the Class C airspace area.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-02-18",
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Amendment of Class C Airspace; Laughlin Air Force Base, Del Rio, TX",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23194/amendment-of-class-c-airspace-laughlin-air-force-base-del-rio-tx"
+ },
+ "2026-23195": {
+  "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued in the Cuba Sanctions program: GL 1. This GL was previously made available on OFAC's website.",
+  "agencies": [
+   "Treasury Department",
+   "Foreign Assets Control Office"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "foreign-assets-control-office"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Publication of a Cuba Sanctions Regulations Web General License",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license"
+ },
+ "2026-23196": {
+  "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations: GLs 55F and 115D, each of which was previously made available on OFAC's website.",
+  "agencies": [
+   "Treasury Department",
+   "Foreign Assets Control Office"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "foreign-assets-control-office"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and"
+ },
+ "2026-23197": {
+  "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs EE and FF, which were made available on OFAC's website at the time of issuance.",
+  "agencies": [
+   "Treasury Department",
+   "Foreign Assets Control Office"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "foreign-assets-control-office"
+  ],
+  "comments_close_on": null,
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Publication of Iran-Related Web General Licenses EE and FF",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff"
+ },
+ "2026-23198": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8 airplanes. This proposed AD was prompted by a report that certain wing skin outer mold line (OML) penetrating fasteners installed using threaded nuts without cap seals do not provide reliable protection against potential ignition sources when subjected to direct attachment lightning currents. This proposed AD would require inspecting between certain ribs on the left and right wing for wing skin penetrating fasteners with a threaded nut adjacent to the electromagnetic effects (EME) sleeve; inspecting the left and right wing fuel tanks, surge tanks, and dry bays for threaded nuts installed on fasteners that penetrate the upper and lower wing skins; accomplishing the inspection specified in a certain airworthiness limitation (AWL); and applicable on-condition actions. This proposed AD would also require accomplishing concurrent requirements and revising the maintenance program to incorporate the airworthiness limitation task. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2026-12-28",
+  "effective_on": null,
+  "published": "2026-11-13",
+  "significant": false,
+  "title": "Airworthiness Directives; The Boeing Company Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23198/airworthiness-directives-the-boeing-company-airplanes"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
