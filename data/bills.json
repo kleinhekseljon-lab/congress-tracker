@@ -13167,15 +13167,15 @@
   "update_date": "2026-10-20"
  },
  "119-hr-10763": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10763?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-10-06",
   "number": "10763",
   "origin_chamber": "House",
   "title": "Know Your Risk Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-14"
  },
  "119-hr-10764": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10764?format=json",
@@ -14286,7 +14286,7 @@
   "origin_chamber": "House",
   "title": "QUAHOGS Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-14"
  },
  "119-hr-10856": {
   "congress": 119,
@@ -15100,7 +15100,7 @@
   "origin_chamber": "House",
   "title": "Breast Cancer Patient Equity Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-hr-10922": {
   "congress": 119,
@@ -15287,7 +15287,7 @@
   "origin_chamber": "House",
   "title": "PROTECT 340B Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-14"
  },
  "119-hr-10938": {
   "congress": 119,
@@ -16465,6 +16465,50 @@
   "title": "To establish a grant program carried out by the Department of Homeland Security to fund university-based cybersecurity clinics at junior or community colleges, historically Black colleges and universities (HBCUs), Hispanic-serving institutions (HSIs), and other minority-serving institutions, and for other purposes.",
   "type": "HR",
   "update_date": "2026-11-13"
+ },
+ "119-hr-11033": {
+  "congress": 119,
+  "introduced_date": "2026-11-13",
+  "latest_action": "Referred to the House Committee on Ways and Means.",
+  "latest_action_date": "2026-11-13",
+  "number": "11033",
+  "origin_chamber": "House",
+  "title": "To amend the Internal Revenue Code of 1986 to include qualified domestic film or television production as a qualified production activity for purposes of the special allowance for qualified production property.",
+  "type": "HR",
+  "update_date": "2026-11-14"
+ },
+ "119-hr-11034": {
+  "congress": 119,
+  "introduced_date": "2026-11-13",
+  "latest_action": "Referred to the House Committee on Natural Resources.",
+  "latest_action_date": "2026-11-13",
+  "number": "11034",
+  "origin_chamber": "House",
+  "title": "To establish the National Fish and Wildlife Foundation Coastal State Fund.",
+  "type": "HR",
+  "update_date": "2026-11-14"
+ },
+ "119-hr-11035": {
+  "congress": 119,
+  "introduced_date": "2026-11-13",
+  "latest_action": "Referred to the House Committee on Energy and Commerce.",
+  "latest_action_date": "2026-11-13",
+  "number": "11035",
+  "origin_chamber": "House",
+  "title": "To amend the Public Health Service Act to direct the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants to support community-based programs for harm reduction services for individuals who use substances.",
+  "type": "HR",
+  "update_date": "2026-11-14"
+ },
+ "119-hr-11036": {
+  "congress": 119,
+  "introduced_date": "2026-11-13",
+  "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
+  "latest_action_date": "2026-11-13",
+  "number": "11036",
+  "origin_chamber": "House",
+  "title": "To require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes.",
+  "type": "HR",
+  "update_date": "2026-11-14"
  },
  "119-hr-1104": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1104?format=json",
@@ -28663,7 +28707,7 @@
   "origin_chamber": "House",
   "title": "Major Richard Star Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-2103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2103?format=json",
@@ -41027,7 +41071,7 @@
   "origin_chamber": "House",
   "title": "Assault Weapons Ban of 2025",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-14"
  },
  "119-hr-3116": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3116?format=json",
@@ -51818,7 +51862,7 @@
   "origin_chamber": "House",
   "title": "Commission to Study and Develop Reparation Proposals for African Americans Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-hr-400": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/400?format=json",
@@ -82654,15 +82698,15 @@
   "update_date": "2026-05-11"
  },
  "119-hr-6527": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6527?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-09",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2025-12-09",
   "number": "6527",
   "origin_chamber": "House",
   "title": "Justice for the Living Victims of Lockerbie Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-14"
  },
  "119-hr-6528": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6528?format=json",
@@ -104959,7 +105003,7 @@
   "origin_chamber": "House",
   "title": "Criminal History Access Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-8353": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8353?format=json",
@@ -133130,7 +133174,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
   "type": "HRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hres-1661": {
   "congress": 119,
