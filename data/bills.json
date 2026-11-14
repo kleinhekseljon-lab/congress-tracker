@@ -14168,15 +14168,15 @@
   "update_date": "2026-10-26"
  },
  "119-hr-10846": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10846?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-19",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-10-19",
   "number": "10846",
   "origin_chamber": "House",
-  "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on certain indebtedness, and for other purposes.",
+  "title": "Pay Your TAB Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-14"
  },
  "119-hr-10847": {
   "congress": 119,
@@ -14196,9 +14196,9 @@
   "latest_action_date": "2026-10-19",
   "number": "10848",
   "origin_chamber": "House",
-  "title": "To require the Comptroller General of the United States to review the Shipyard Infrastructure Optimization Program, and for other purposes.",
+  "title": "Shipyard Modernization Sustainment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-10849": {
   "congress": 119,
@@ -16088,9 +16088,9 @@
   "latest_action_date": "2026-11-11",
   "number": "11001",
   "origin_chamber": "House",
-  "title": "To require the United States Postal Service to notify postal customers and certain officials if a post office in a leased facility is at risk of closure and seek to relocate such post office to a new facility within the same ZIP code, and for other purposes.",
+  "title": "Protecting Neighborhood Postal Access",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-14"
  },
  "119-hr-11002": {
   "congress": 119,
@@ -16220,9 +16220,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11012",
   "origin_chamber": "House",
-  "title": "To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant adoption, and for other purposes.",
+  "title": "ON\u2013DEMAND Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11013": {
   "congress": 119,
@@ -16231,9 +16231,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11013",
   "origin_chamber": "House",
-  "title": "To amend the Public Health Service Act to protect the integrity of the United States Preventive Services Task Force, and for other purposes.",
+  "title": "Protect U.S. Preventive Services Task Force Integrity Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11014": {
   "congress": 119,
@@ -16242,9 +16242,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11014",
   "origin_chamber": "House",
-  "title": "To amend the Poultry Products Inspection Act to prohibit the force feeding of ducks and geese.",
+  "title": "Ducks and Geese Protection Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11015": {
   "congress": 119,
@@ -16253,9 +16253,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11015",
   "origin_chamber": "House",
-  "title": "To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce through partnerships among institutions of higher education, National Laboratories, other Federal science agencies, and industry to support accelerated doctoral programs, and for other purposes.",
+  "title": "PHD Talent Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11016": {
   "congress": 119,
@@ -16264,9 +16264,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11016",
   "origin_chamber": "House",
-  "title": "To prohibit the Secretary of Homeland Security from using deceptive immigration enforcement practices involving taking a child into custody for the purpose of apprehending an alien parent of the child, and for other purposes.",
+  "title": "No Kids as Bait Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11017": {
   "congress": 119,
@@ -16286,9 +16286,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11018",
   "origin_chamber": "House",
-  "title": "To amend the Internal Revenue Code of 1986 to provide for a refundable credit for certain fees with respect to an animal adoption, and for other purposes.",
+  "title": "Helping Encourage Animal Rescue through Tax Credits Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11019": {
   "congress": 119,
@@ -16319,9 +16319,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11020",
   "origin_chamber": "House",
-  "title": "To establish a nonimmigrant classification for health and human services workers.",
+  "title": "Health and Human Services Workforce Visa Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11021": {
   "congress": 119,
@@ -16330,9 +16330,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11021",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of Veterans Affairs to conduct a review and take specified actions to promote the accurate cancer screening of veterans, and for other purposes.",
+  "title": "Accurate Cancer Screenings for our Veterans Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11022": {
   "congress": 119,
@@ -16341,9 +16341,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11022",
   "origin_chamber": "House",
-  "title": "To establish a Floodplains and Watershed Resilience Program, and for other purposes.",
+  "title": "AGRI\u2013FLOOD Resilience and Infrastructure Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11023": {
   "congress": 119,
@@ -16352,9 +16352,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11023",
   "origin_chamber": "House",
-  "title": "To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for other purposes.",
+  "title": "RATES Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11024": {
   "congress": 119,
@@ -16363,9 +16363,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11024",
   "origin_chamber": "House",
-  "title": "To amend title XXVII of the Public Health Service Act to require group health plans and health insurance issuers offering group or individual health insurance coverage to provide coverage of allergy and asthma diagnostic testing and allergen immunotherapy.",
+  "title": "Allergy & Asthma Patient Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11025": {
   "congress": 119,
@@ -16387,7 +16387,7 @@
   "origin_chamber": "House",
   "title": "To amend title 37, United States Code, to authorize the Secretary of Defense to make contributions to Trump Accounts as a bonus for a member of the Armed Forces who commits to continued service in the Armed Forces and to amend the Internal Revenue Code of 1986 to treat any such contribution in the same manner as a contribution made pursuant to an employer Trump account contribution program.",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11027": {
   "congress": 119,
@@ -16396,9 +16396,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11027",
   "origin_chamber": "House",
-  "title": "To amend the Small Business Act to modify the application of price evaluation preference for qualified HUBZone small business concerns to certain contracts, and for other purposes.",
+  "title": "Enhancing Competition in Contracting Orders Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11028": {
   "congress": 119,
@@ -16407,9 +16407,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11028",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of the Treasury to list the North American Islamic Trust and its subsidiaries and affiliates as Specially Designated Global Terrorists, and for other purposes.",
+  "title": "DesigNAIT Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11029": {
   "congress": 119,
@@ -16418,9 +16418,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11029",
   "origin_chamber": "House",
-  "title": "To amend title XVIII of the Social Security Act to establish a skilled-nursing-facility-at-home program under the Medicare program.",
+  "title": "BRIDGE Care at Home Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-1103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1103?format=json",
@@ -16440,9 +16440,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11030",
   "origin_chamber": "House",
-  "title": "To amend the Federal Crop Insurance Act to require the Federal Crop Insurance Corporation to carry out research on adjusting Federal crop insurance premiums and policies based on loss ratios.",
+  "title": "Fair Premiums for Farmers Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11031": {
   "congress": 119,
@@ -16451,9 +16451,9 @@
   "latest_action_date": "2026-11-12",
   "number": "11031",
   "origin_chamber": "House",
-  "title": "To codify the Commercial Driver's License Fraud Tipline into law, and for other purposes.",
+  "title": "CDL Fraud Tipline Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-11032": {
   "congress": 119,
@@ -80682,7 +80682,7 @@
   "origin_chamber": "House",
   "title": "Wintergreen Emergency Egress Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-hr-6366": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6366?format=json",
@@ -113902,7 +113902,7 @@
   "origin_chamber": "House",
   "title": "Department of Energy Nuclear Transparency Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-9085": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9085?format=json",
@@ -121624,7 +121624,7 @@
   "origin_chamber": "House",
   "title": "Reshoring American Manufacturing Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-hr-9719": {
   "congress": 119,
@@ -146396,7 +146396,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes.",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-1255": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1255?format=json",
@@ -158584,7 +158584,7 @@
   "origin_chamber": "Senate",
   "title": "American Voices in Federal Lands Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-2263": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2263?format=json",
@@ -180980,7 +180980,7 @@
   "origin_chamber": "Senate",
   "title": "Geo POWER Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-4117": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4117?format=json",
@@ -189846,7 +189846,7 @@
   "origin_chamber": "Senate",
   "title": "TAAP Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-4847": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4847?format=json",
@@ -200195,9 +200195,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5696",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 38, United States Code, to improve presumptions of toxic exposure, and for other purposes.",
+  "title": "New PACT for Iran Veterans Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-s-5697": {
   "congress": 119,
@@ -200305,9 +200305,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5704",
   "origin_chamber": "Senate",
-  "title": "A bill to require the Secretary of Health and Human Services to improve the detection, prevention, and treatment of behavioral health issues among public safety officers, and for other purposes.",
+  "title": "HERO Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-s-5705": {
   "congress": 119,
@@ -200340,7 +200340,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Internal Revenue Code of 1986 to establish that employers may offer employees a choice among tax-favored employer contributions.",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-s-5708": {
   "congress": 119,
@@ -200360,9 +200360,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5709",
   "origin_chamber": "Senate",
-  "title": "A bill to require the Secretary of Veterans Affairs to conduct an epidemiological study of certain health effects that have been experienced by women veterans, and for other purposes.",
+  "title": "Toxic Exposure and Women Veterans\u2019 Health Outcomes Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-s-571": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/571?format=json",
@@ -203090,7 +203090,7 @@
   "origin_chamber": "Senate",
   "title": "Critical Minerals Security Act of 2025",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-79": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/79?format=json",
