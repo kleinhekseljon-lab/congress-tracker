@@ -15529,7 +15529,7 @@
   "origin_chamber": "House",
   "title": "PURGE Act",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-14"
  },
  "119-hr-10958": {
   "congress": 119,
@@ -15705,7 +15705,7 @@
   "origin_chamber": "House",
   "title": "Gulf Maritime Restoration Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-14"
  },
  "119-hr-10972": {
   "congress": 119,
@@ -15892,7 +15892,7 @@
   "origin_chamber": "House",
   "title": "Local Transmission Accountability Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-14"
  },
  "119-hr-10988": {
   "congress": 119,
@@ -15903,7 +15903,7 @@
   "origin_chamber": "House",
   "title": "Lower Electricity Bills Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-14"
  },
  "119-hr-10989": {
   "congress": 119,
@@ -15914,7 +15914,7 @@
   "origin_chamber": "House",
   "title": "Smart Transmission Line Placement Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-14"
  },
  "119-hr-1099": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1099?format=json",
@@ -16123,7 +16123,7 @@
   "origin_chamber": "House",
   "title": "To authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-14"
  },
  "119-hr-11005": {
   "congress": 119,
@@ -167197,7 +167197,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-14"
  },
  "119-s-2971": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2971?format=json",
