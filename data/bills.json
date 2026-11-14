@@ -204094,15 +204094,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-872": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/872?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-06-15",
   "number": "872",
   "origin_chamber": "Senate",
   "title": "Stop Secret Spending Act of 2025",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-14"
  },
  "119-s-873": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/873?format=json",
