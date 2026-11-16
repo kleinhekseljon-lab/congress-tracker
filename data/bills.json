@@ -28864,15 +28864,15 @@
   "update_date": "2025-12-06"
  },
  "119-hr-2116": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2116?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Ordered to be Reported by Voice Vote.",
   "latest_action_date": "2025-04-09",
   "number": "2116",
   "origin_chamber": "House",
   "title": "Law Enforcement Support and Counter Transnational Repression Act",
   "type": "HR",
-  "update_date": "2026-07-09"
+  "update_date": "2026-11-16"
  },
  "119-hr-2117": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2117?format=json",
@@ -43087,15 +43087,15 @@
   "update_date": "2026-03-26"
  },
  "119-hr-3281": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3281?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-05-08",
   "number": "3281",
   "origin_chamber": "House",
   "title": "To prohibit the reduction, elimination, or suspension of funding for land-grant colleges and universities.",
   "type": "HR",
-  "update_date": "2025-09-16"
+  "update_date": "2026-11-16"
  },
  "119-hr-3282": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3282?format=json",
@@ -100914,15 +100914,15 @@
   "update_date": "2026-04-06"
  },
  "119-hr-8018": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8018?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-03-19",
   "number": "8018",
   "origin_chamber": "House",
   "title": "ISLET Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-16"
  },
  "119-hr-8019": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8019?format=json",
@@ -127699,15 +127699,15 @@
   "update_date": "2026-09-19"
  },
  "119-hres-1212": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1212?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-23",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-04-23",
   "number": "1212",
   "origin_chamber": "House",
   "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
   "type": "HRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-16"
  },
  "119-hres-1213": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1213?format=json",
@@ -200076,7 +200076,7 @@
   "origin_chamber": "Senate",
   "title": "Foreign Government-Owned Media FARA Registration Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-16"
  },
  "119-s-5683": {
   "congress": 119,
@@ -200153,7 +200153,7 @@
   "origin_chamber": "Senate",
   "title": "RECLAIM Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-16"
  },
  "119-s-569": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/569?format=json",
@@ -213078,7 +213078,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-16"
  },
  "119-sres-473": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/473?format=json",
