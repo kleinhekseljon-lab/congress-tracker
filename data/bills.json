@@ -50820,15 +50820,15 @@
   "update_date": "2025-12-12"
  },
  "119-hr-3915": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3915?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-11",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2025-06-11",
   "number": "3915",
   "origin_chamber": "House",
   "title": "Foreign Animal Disease Prevention, Surveillance, and Rapid Response Act of 2025",
   "type": "HR",
-  "update_date": "2025-07-11"
+  "update_date": "2026-11-16"
  },
  "119-hr-3916": {
   "congress": 119,
@@ -124726,7 +124726,7 @@
   "origin_chamber": "House",
   "title": "National Taxpayer Advocate Enhancement Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-16"
  },
  "119-hr-9970": {
   "congress": 119,
@@ -133053,7 +133053,7 @@
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-16"
  },
  "119-hres-1651": {
   "congress": 119,
@@ -133119,7 +133119,7 @@
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 6731) to amend chapter 131 of title 5 to prohibit Members of Congress, the President, Vice President, and their spouses and dependents from owning or trading stocks, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-16"
  },
  "119-hres-1657": {
   "congress": 119,
@@ -142593,15 +142593,15 @@
   "update_date": "2026-09-19"
  },
  "119-hres-935": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/935?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-09",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-12-09",
   "number": "935",
   "origin_chamber": "House",
   "title": "Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.",
   "type": "HRES",
-  "update_date": "2026-01-16"
+  "update_date": "2026-11-16"
  },
  "119-hres-936": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/936?format=json",
@@ -195137,7 +195137,7 @@
   "origin_chamber": "Senate",
   "title": "GHOST Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-16"
  },
  "119-s-5279": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5279?format=json",
