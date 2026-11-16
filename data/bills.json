@@ -396,15 +396,15 @@
   "update_date": "2026-09-21"
  },
  "119-hconres-18": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/18?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-10",
   "number": "18",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of March 10, 2025, as \"Abortion Provider Appreciation Day\".",
   "type": "HCONRES",
-  "update_date": "2026-09-23"
+  "update_date": "2026-11-16"
  },
  "119-hconres-19": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/19?format=json",
@@ -15650,7 +15650,7 @@
   "origin_chamber": "House",
   "title": "Diwali Day Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-16"
  },
  "119-hr-10968": {
   "congress": 119,
@@ -16233,7 +16233,7 @@
   "origin_chamber": "House",
   "title": "Protect U.S. Preventive Services Task Force Integrity Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11014": {
   "congress": 119,
@@ -16255,7 +16255,7 @@
   "origin_chamber": "House",
   "title": "PHD Talent Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11016": {
   "congress": 119,
@@ -16266,7 +16266,7 @@
   "origin_chamber": "House",
   "title": "No Kids as Bait Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11017": {
   "congress": 119,
@@ -16321,7 +16321,7 @@
   "origin_chamber": "House",
   "title": "Health and Human Services Workforce Visa Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11021": {
   "congress": 119,
@@ -16365,7 +16365,7 @@
   "origin_chamber": "House",
   "title": "Allergy & Asthma Patient Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11025": {
   "congress": 119,
@@ -16398,7 +16398,7 @@
   "origin_chamber": "House",
   "title": "Enhancing Competition in Contracting Orders Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11028": {
   "congress": 119,
@@ -16420,7 +16420,7 @@
   "origin_chamber": "House",
   "title": "BRIDGE Care at Home Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-1103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1103?format=json",
@@ -16453,7 +16453,7 @@
   "origin_chamber": "House",
   "title": "CDL Fraud Tipline Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-11032": {
   "congress": 119,
@@ -27280,26 +27280,26 @@
   "update_date": "2026-11-11"
  },
  "119-hr-1988": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1988?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-10",
   "number": "1988",
   "origin_chamber": "House",
   "title": "Pay Federal Workers and Servicemembers Act",
   "type": "HR",
-  "update_date": "2026-01-09"
+  "update_date": "2026-11-16"
  },
  "119-hr-1989": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1989?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-10",
   "number": "1989",
   "origin_chamber": "House",
   "title": "Protect Our Probationary Employees Act",
   "type": "HR",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-16"
  },
  "119-hr-199": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/199?format=json",
@@ -27665,15 +27665,15 @@
   "update_date": "2025-10-25"
  },
  "119-hr-2018": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2018?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-03-10",
   "number": "2018",
   "origin_chamber": "House",
   "title": "BODEGA Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-26"
+  "update_date": "2026-11-16"
  },
  "119-hr-2019": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2019?format=json",
@@ -120403,7 +120403,7 @@
   "origin_chamber": "House",
   "title": "Nuclear Advisory Committee Reform Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-16"
  },
  "119-hr-9614": {
   "congress": 119,
@@ -128125,7 +128125,7 @@
   "origin_chamber": "House",
   "title": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hres-1248": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1248?format=json",
@@ -133705,15 +133705,15 @@
   "update_date": "2026-05-07"
  },
  "119-hres-207": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/207?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-10",
   "number": "207",
   "origin_chamber": "House",
   "title": "Recognizing and commemorating the contributions of contemporary Latinas in the State of Illinois.",
   "type": "HRES",
-  "update_date": "2025-03-12"
+  "update_date": "2026-11-16"
  },
  "119-hres-208": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/208?format=json",
@@ -133727,15 +133727,15 @@
   "update_date": "2025-03-12"
  },
  "119-hres-209": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/209?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-10",
   "number": "209",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of April 5, 2025, as \"Barth Syndrome Awareness Day\".",
   "type": "HRES",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-16"
  },
  "119-hres-21": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/21?format=json",
@@ -133749,15 +133749,15 @@
   "update_date": "2026-09-29"
  },
  "119-hres-210": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/210?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-10",
   "number": "210",
   "origin_chamber": "House",
   "title": "Supporting the goals and ideals of National Women and Girls HIV/AIDS Awareness Day.",
   "type": "HRES",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-16"
  },
  "119-hres-211": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/211?format=json",
@@ -200351,7 +200351,7 @@
   "origin_chamber": "Senate",
   "title": "HERO Act",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-s-5705": {
   "congress": 119,
@@ -204556,15 +204556,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-906": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/906?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-03-06",
   "number": "906",
   "origin_chamber": "Senate",
   "title": "Peer to Peer Mental Health Support Act",
   "type": "S",
-  "update_date": "2026-04-30"
+  "update_date": "2026-11-16"
  },
  "119-s-907": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/907?format=json",
@@ -204677,15 +204677,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-916": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/916?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-03-10",
   "number": "916",
   "origin_chamber": "Senate",
   "title": "Stop Shackling and Detaining Pregnant Women Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-16"
  },
  "119-s-917": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/917?format=json",
@@ -218864,7 +218864,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the commemoration and reunification of Alexander Calder's Mountains and Clouds on November 18, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-16"
  },
  "119-sres-953": {
   "congress": 119,
