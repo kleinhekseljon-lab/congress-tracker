@@ -26771,7 +26771,7 @@
   "origin_chamber": "House",
   "title": "America's National Churchill Museum National Historic Landmark Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-16"
  },
  "119-hr-1946": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1946?format=json",
@@ -201465,15 +201465,15 @@
   "update_date": "2026-09-26"
  },
  "119-s-650": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/650?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-20",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-02-20",
   "number": "650",
   "origin_chamber": "Senate",
   "title": "America's National Churchill Museum National Historic Landmark Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-16"
  },
  "119-s-651": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/651?format=json",
