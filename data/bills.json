@@ -15694,7 +15694,7 @@
   "origin_chamber": "House",
   "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-16"
  },
  "119-hr-10971": {
   "congress": 119,
@@ -28707,7 +28707,7 @@
   "origin_chamber": "House",
   "title": "Major Richard Star Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-16"
  },
  "119-hr-2103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2103?format=json",
@@ -103873,15 +103873,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-8260": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8260?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-14",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-14",
   "number": "8260",
   "origin_chamber": "House",
   "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-16"
  },
  "119-hr-8261": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8261?format=json",
@@ -130713,15 +130713,15 @@
   "update_date": "2026-08-17"
  },
  "119-hres-146": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/146?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-21",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-02-21",
   "number": "146",
   "origin_chamber": "House",
   "title": "Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.",
   "type": "HRES",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-16"
  },
  "119-hres-1460": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1460?format=json",
@@ -131021,15 +131021,15 @@
   "update_date": "2026-11-03"
  },
  "119-hres-1485": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1485?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-20",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-08-20",
   "number": "1485",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of August 22, 2026, as \"Chuck Brown Day\", and honoring Chuck Brown's contributions to music and to the District of Columbia.",
   "type": "HRES",
-  "update_date": "2026-08-21"
+  "update_date": "2026-11-16"
  },
  "119-hres-1486": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1486?format=json",
@@ -131054,15 +131054,15 @@
   "update_date": "2026-09-04"
  },
  "119-hres-1488": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1488?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-24",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-08-24",
   "number": "1488",
   "origin_chamber": "House",
   "title": "Recognizing the significance of \"Chicano/Chicana Heritage Month\" in August as an important time to celebrate the significant contributions of Mexican Americans to the history of the United States.",
   "type": "HRES",
-  "update_date": "2026-08-28"
+  "update_date": "2026-11-16"
  },
  "119-hres-1489": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1489?format=json",
@@ -131076,15 +131076,15 @@
   "update_date": "2026-09-02"
  },
  "119-hres-149": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/149?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-21",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-02-21",
   "number": "149",
   "origin_chamber": "House",
   "title": "Supporting the goals and ideals of International Mother Language Day in bringing attention to the importance of preserving linguistic and cultural heritage through education.",
   "type": "HRES",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-16"
  },
  "119-hres-1490": {
   "congress": 119,
@@ -131417,15 +131417,15 @@
   "update_date": "2026-09-25"
  },
  "119-hres-1517": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1517?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-08",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-09-08",
   "number": "1517",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of September 7, 2026, as \"Liturgical Dance Day\" and the International Dance Commission, and for other purposes.",
   "type": "HRES",
-  "update_date": "2026-09-09"
+  "update_date": "2026-11-16"
  },
  "119-hres-1518": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1518?format=json",
@@ -133034,15 +133034,15 @@
   "update_date": "2026-11-12"
  },
  "119-hres-165": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/165?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-02-25",
   "number": "165",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of February 28, 2025, as Community Arts Education Day.",
   "type": "HRES",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-16"
  },
  "119-hres-1650": {
   "congress": 119,
@@ -133232,15 +133232,15 @@
   "update_date": "2026-09-22"
  },
  "119-hres-169": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/169?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-27",
   "number": "169",
   "origin_chamber": "House",
   "title": "Recognizing the Dominican community's presence and contributions to Washington Heights and Inwood.",
   "type": "HRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-16"
  },
  "119-hres-17": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/17?format=json",
@@ -133408,15 +133408,15 @@
   "update_date": "2026-09-22"
  },
  "119-hres-183": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/183?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-03",
   "number": "183",
   "origin_chamber": "House",
   "title": "Supporting the designation of March as National CHamoru Heritage and Culture Month.",
   "type": "HRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-16"
  },
  "119-hres-184": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/184?format=json",
@@ -134365,15 +134365,15 @@
   "update_date": "2025-06-06"
  },
  "119-hres-261": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/261?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-27",
   "number": "261",
   "origin_chamber": "House",
   "title": "Recognizing the heritage, culture, and contributions of Latinas in the United States.",
   "type": "HRES",
-  "update_date": "2025-12-06"
+  "update_date": "2026-11-16"
  },
  "119-hres-262": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/262?format=json",
@@ -134684,15 +134684,15 @@
   "update_date": "2026-05-13"
  },
  "119-hres-288": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/288?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-01",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-04-01",
   "number": "288",
   "origin_chamber": "House",
   "title": "Expressing the sense that there should be established a \"National Garifuna Immigrant Heritage Month\" in April to celebrate the great contributions of Americans of Garifuna immigrant heritage in the United States who have enriched the history of the Nation.",
   "type": "HRES",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-16"
  },
  "119-hres-289": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/289?format=json",
@@ -135179,15 +135179,15 @@
   "update_date": "2025-07-03"
  },
  "119-hres-328": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/328?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-10",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-04-10",
   "number": "328",
   "origin_chamber": "House",
   "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
   "type": "HRES",
-  "update_date": "2026-05-15"
+  "update_date": "2026-11-16"
  },
  "119-hres-329": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/329?format=json",
@@ -135465,15 +135465,15 @@
   "update_date": "2025-05-29"
  },
  "119-hres-351": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/351?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-24",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-04-24",
   "number": "351",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of April as \"National Arab American Heritage Month\" (NAAHM) and celebrating the heritage and culture of Arab Americans in the United States.",
   "type": "HRES",
-  "update_date": "2026-04-21"
+  "update_date": "2026-11-16"
  },
  "119-hres-352": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/352?format=json",
@@ -135520,15 +135520,15 @@
   "update_date": "2026-05-13"
  },
  "119-hres-356": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/356?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-28",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-04-28",
   "number": "356",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of April 13, 2025, through April 26, 2025, as \"National Young Audiences Arts for Learning Week\".",
   "type": "HRES",
-  "update_date": "2026-04-09"
+  "update_date": "2026-11-16"
  },
  "119-hres-357": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/357?format=json",
@@ -135630,15 +135630,15 @@
   "update_date": "2026-07-19"
  },
  "119-hres-365": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/365?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-30",
   "latest_action": "Referred to the House Committee on House Administration.",
   "latest_action_date": "2025-04-30",
   "number": "365",
   "origin_chamber": "House",
   "title": "Expressing the sense of the House of Representatives that the House should recognize Robert Aitken's Bible as a historical document of the United States Congress.",
   "type": "HRES",
-  "update_date": "2025-05-20"
+  "update_date": "2026-11-16"
  },
  "119-hres-366": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/366?format=json",
@@ -137390,15 +137390,15 @@
   "update_date": "2025-08-18"
  },
  "119-hres-509": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/509?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-12",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-06-12",
   "number": "509",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of June 2025 as \"Black Music Month\".",
   "type": "HRES",
-  "update_date": "2026-07-01"
+  "update_date": "2026-11-16"
  },
  "119-hres-51": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/51?format=json",
@@ -217423,7 +217423,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-16"
  },
  "119-sres-835": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/835?format=json",
