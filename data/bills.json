@@ -200529,6 +200529,17 @@
   "type": "S",
   "update_date": "2026-07-16"
  },
+ "119-s-5722": {
+  "congress": 119,
+  "introduced_date": "2026-11-16",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-16",
+  "number": "5722",
+  "origin_chamber": "Senate",
+  "title": "",
+  "type": "S",
+  "update_date": "2026-11-17"
+ },
  "119-s-573": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/573?format=json",
   "congress": 119,
