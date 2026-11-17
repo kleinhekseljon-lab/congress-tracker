@@ -31141,15 +31141,15 @@
   "update_date": "2025-04-24"
  },
  "119-hr-2302": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2302?format=json",
   "congress": 119,
-  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.",
-  "latest_action_date": "2026-09-22",
+  "introduced_date": "2025-03-24",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-16",
   "number": "2302",
   "origin_chamber": "House",
   "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-17"
  },
  "119-hr-2303": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2303?format=json",
@@ -31682,13 +31682,13 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Cloture motion on the measure presented in Senate. (CR S5568)",
-  "latest_action_date": "2026-11-11",
+  "latest_action": "Considered by Senate.",
+  "latest_action_date": "2026-11-16",
   "number": "2347",
   "origin_chamber": "House",
   "title": "Survivor Justice Tax Prevention Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-17"
  },
  "119-hr-2348": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2348?format=json",
@@ -32342,13 +32342,13 @@
  "119-hr-2400": {
   "congress": 119,
   "introduced_date": "2025-03-27",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5297-5298)",
-  "latest_action_date": "2026-09-30",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-16",
   "number": "2400",
   "origin_chamber": "House",
   "title": "Pit River Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-2401": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2401?format=json",
@@ -38126,15 +38126,15 @@
   "update_date": "2025-08-27"
  },
  "119-hr-2876": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2876?format=json",
   "congress": 119,
-  "latest_action": "Received in the Senate.",
-  "latest_action_date": "2025-12-16",
+  "introduced_date": "2025-04-10",
+  "latest_action": "Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.",
+  "latest_action_date": "2026-11-16",
   "number": "2876",
   "origin_chamber": "House",
   "title": "University of Utah Research Park Act",
   "type": "HR",
-  "update_date": "2026-07-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-2877": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2877?format=json",
@@ -98672,13 +98672,13 @@
  "119-hr-7834": {
   "congress": 119,
   "introduced_date": "2026-03-05",
-  "latest_action": "Received in the Senate.",
-  "latest_action_date": "2026-09-17",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-16",
   "number": "7834",
   "origin_chamber": "House",
   "title": "Safe Cloud Storage Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-17"
  },
  "119-hr-7835": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7835?format=json",
@@ -133075,7 +133075,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week beginning on November 9, 2026, as \"National School Psychology Week\".",
   "type": "HRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-17"
  },
  "119-hres-1653": {
   "congress": 119,
@@ -141636,15 +141636,15 @@
   "update_date": "2026-06-04"
  },
  "119-hres-857": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/857?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-04",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-11-04",
   "number": "857",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week beginning on November 3, 2025, as \"National School Psychology Week\".",
   "type": "HRES",
-  "update_date": "2025-11-25"
+  "update_date": "2026-11-17"
  },
  "119-hres-858": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/858?format=json",
@@ -147633,13 +147633,13 @@
  "119-s-1353": {
   "congress": 119,
   "introduced_date": "2025-04-08",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667)",
-  "latest_action_date": "2026-11-12",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-16",
   "number": "1353",
   "origin_chamber": "Senate",
   "title": "A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-1354": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1354?format=json",
@@ -151591,15 +151591,15 @@
   "update_date": "2026-07-29"
  },
  "119-s-1682": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1682?format=json",
   "congress": 119,
-  "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-04-14",
+  "introduced_date": "2025-05-08",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 716.",
+  "latest_action_date": "2026-11-16",
   "number": "1682",
   "origin_chamber": "Senate",
   "title": "Alex Gate Safety Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-1683": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1683?format=json",
@@ -151866,15 +151866,15 @@
   "update_date": "2026-11-12"
  },
  "119-s-1705": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1705?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-05-08",
   "number": "1705",
   "origin_chamber": "Senate",
   "title": "Chip Security Act",
   "type": "S",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-17"
  },
  "119-s-1706": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1706?format=json",
@@ -152383,15 +152383,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1748": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1748?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-14",
   "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
   "latest_action_date": "2026-08-05",
   "number": "1748",
   "origin_chamber": "Senate",
   "title": "Kids Online Safety Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-1749": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1749?format=json",
@@ -153813,15 +153813,15 @@
   "update_date": "2026-10-30"
  },
  "119-s-1866": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1866?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-22",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-05-22",
   "number": "1866",
   "origin_chamber": "Senate",
   "title": "SCREENS for Cancer Act of 2025",
   "type": "S",
-  "update_date": "2026-09-15"
+  "update_date": "2026-11-17"
  },
  "119-s-1867": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1867?format=json",
@@ -157803,7 +157803,7 @@
   "origin_chamber": "Senate",
   "title": "WWII Nurses Congressional Gold Medal Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-s-2196": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2196?format=json",
@@ -166168,13 +166168,13 @@
  "119-s-2887": {
   "congress": 119,
   "introduced_date": "2025-09-18",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5668; text: CR S5668-5669)",
-  "latest_action_date": "2026-11-12",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-16",
   "number": "2887",
   "origin_chamber": "Senate",
   "title": "Route 66 National Historic Trail Designation Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-2888": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2888?format=json",
@@ -166782,15 +166782,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2937": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2937?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-29",
   "latest_action": "Read twice and referred to the Committee on the Judiciary. (text: CR S6836-6838)",
   "latest_action_date": "2025-09-29",
   "number": "2937",
   "origin_chamber": "Senate",
   "title": "AI LEAD Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-17"
  },
  "119-s-2938": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2938?format=json",
@@ -171118,8 +171118,8 @@
  "119-s-3296": {
   "congress": 119,
   "introduced_date": "2025-12-02",
-  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.",
-  "latest_action_date": "2026-09-14",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-16",
   "number": "3296",
   "origin_chamber": "Senate",
   "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act of 2025",
@@ -173481,26 +173481,26 @@
   "update_date": "2026-01-13"
  },
  "119-s-3492": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3492?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-16",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-12-16",
   "number": "3492",
   "origin_chamber": "Senate",
   "title": "Essential Caregivers Act of 2025",
   "type": "S",
-  "update_date": "2026-06-09"
+  "update_date": "2026-11-17"
  },
  "119-s-3493": {
   "congress": 119,
   "introduced_date": "2025-12-16",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667-5668)",
-  "latest_action_date": "2026-11-12",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-16",
   "number": "3493",
   "origin_chamber": "Senate",
   "title": "Carson City Public Land Correction Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-3495": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3495?format=json",
@@ -174724,15 +174724,15 @@
   "update_date": "2026-09-22"
  },
  "119-s-3597": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3597?format=json",
   "congress": 119,
-  "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-04-14",
+  "introduced_date": "2026-01-08",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.",
+  "latest_action_date": "2026-11-16",
   "number": "3597",
   "origin_chamber": "Senate",
   "title": "National Quantum Initiative Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-3598": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3598?format=json",
@@ -183504,13 +183504,13 @@
  "119-s-432": {
   "congress": 119,
   "introduced_date": "2025-02-05",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5668; text: CR S5669)",
-  "latest_action_date": "2026-11-12",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-16",
   "number": "432",
   "origin_chamber": "Senate",
   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-4320": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4320?format=json",
@@ -188221,15 +188221,15 @@
   "update_date": "2026-09-25"
  },
  "119-s-4709": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4709?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-08",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 517.",
   "latest_action_date": "2026-07-27",
   "number": "4709",
   "origin_chamber": "Senate",
   "title": "UNLOCK AUKUS Act",
   "type": "S",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-17"
  },
  "119-s-471": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/471?format=json",
@@ -189142,7 +189142,7 @@
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-4785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4785?format=json",
@@ -189890,7 +189890,7 @@
   "origin_chamber": "Senate",
   "title": "TAAP Act",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-17"
  },
  "119-s-4847": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4847?format=json",
@@ -191127,13 +191127,13 @@
  "119-s-4950": {
   "congress": 119,
   "introduced_date": "2026-07-13",
-  "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-09-16",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 719.",
+  "latest_action_date": "2026-11-16",
   "number": "4950",
   "origin_chamber": "Senate",
   "title": "ITS Codification Act",
   "type": "S",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-17"
  },
  "119-s-4951": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4951?format=json",
@@ -192192,15 +192192,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-5037": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5037?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-07-21",
   "number": "5037",
   "origin_chamber": "Senate",
   "title": "MediKids Act",
   "type": "S",
-  "update_date": "2026-08-06"
+  "update_date": "2026-11-17"
  },
  "119-s-5038": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5038?format=json",
@@ -193842,15 +193842,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-5172": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5172?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-29",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-07-29",
   "number": "5172",
   "origin_chamber": "Senate",
   "title": "Kidd\u2019s Stuttering Act",
   "type": "S",
-  "update_date": "2026-08-11"
+  "update_date": "2026-11-17"
  },
  "119-s-5173": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5173?format=json",
@@ -194106,15 +194106,15 @@
   "update_date": "2026-08-12"
  },
  "119-s-5194": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5194?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-30",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works. (text: CR S4385-4390)",
   "latest_action_date": "2026-07-30",
   "number": "5194",
   "origin_chamber": "Senate",
   "title": "Judicial Space and Facilities Management Effectiveness Act of 2026",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-17"
  },
  "119-s-5195": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5195?format=json",
@@ -196504,15 +196504,15 @@
   "update_date": "2026-09-24"
  },
  "119-s-5390": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5390?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-14",
   "latest_action": "Read twice and referred to the Committee on Finance. (text: CR S4673-4674)",
   "latest_action_date": "2026-09-14",
   "number": "5390",
   "origin_chamber": "Senate",
   "title": "End Trump\u2019s Tariff Tax Act",
   "type": "S",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-17"
  },
  "119-s-5391": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5391?format=json",
@@ -197810,7 +197810,7 @@
   "origin_chamber": "Senate",
   "title": "Providing Veterans Essential Medications Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-17"
  },
  "119-s-5498": {
   "congress": 119,
@@ -198979,15 +198979,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5593": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5593?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-29",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-09-29",
   "number": "5593",
   "origin_chamber": "Senate",
   "title": "Yaeli Martinez Child Protection Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-17"
  },
  "119-s-5594": {
   "congress": 119,
@@ -199078,15 +199078,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-5600": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5600?format=json",
   "congress": 119,
-  "latest_action": "Held at the desk.",
+  "introduced_date": "2026-09-29",
+  "latest_action": "Message on Senate action sent to the House.",
   "latest_action_date": "2026-10-05",
   "number": "5600",
   "origin_chamber": "Senate",
   "title": "Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-17"
  },
  "119-s-5601": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5601?format=json",
@@ -199166,15 +199166,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5608": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5608?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-30",
   "number": "5608",
   "origin_chamber": "Senate",
   "title": "Secure Rural Schools Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-17"
  },
  "119-s-5609": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5609?format=json",
@@ -200518,6 +200518,17 @@
   "type": "S",
   "update_date": "2026-11-13"
  },
+ "119-s-5719": {
+  "congress": 119,
+  "introduced_date": "2026-11-16",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-16",
+  "number": "5719",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title XIX of the Social Security Act to clarify that whole genome and whole exome sequencing for children with certain medical needs is covered under the Medicaid program.",
+  "type": "S",
+  "update_date": "2026-11-17"
+ },
  "119-s-572": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/572?format=json",
   "congress": 119,
@@ -200529,6 +200540,28 @@
   "type": "S",
   "update_date": "2026-07-16"
  },
+ "119-s-5720": {
+  "congress": 119,
+  "introduced_date": "2026-11-16",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_action_date": "2026-11-16",
+  "number": "5720",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title 9 of the United States Code with respect to arbitration.",
+  "type": "S",
+  "update_date": "2026-11-17"
+ },
+ "119-s-5721": {
+  "congress": 119,
+  "introduced_date": "2026-11-16",
+  "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "latest_action_date": "2026-11-16",
+  "number": "5721",
+  "origin_chamber": "Senate",
+  "title": "A bill to require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-17"
+ },
  "119-s-5722": {
   "congress": 119,
   "introduced_date": "2026-11-16",
@@ -200536,7 +200569,18 @@
   "latest_action_date": "2026-11-16",
   "number": "5722",
   "origin_chamber": "Senate",
-  "title": "",
+  "title": "A bill to amend the definition of professional degree in the Higher Education Act of 1965.",
+  "type": "S",
+  "update_date": "2026-11-17"
+ },
+ "119-s-5723": {
+  "congress": 119,
+  "introduced_date": "2026-11-16",
+  "latest_action": "Read twice and referred to the Committee on the Judiciary.",
+  "latest_action_date": "2026-11-16",
+  "number": "5723",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
   "type": "S",
   "update_date": "2026-11-17"
  },
@@ -206104,7 +206148,7 @@
   "origin_chamber": "Senate",
   "title": "A concurrent resolution expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.",
   "type": "SCONRES",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-17"
  },
  "119-sconres-7": {
   "api_url": "https://api.congress.gov/v3/bill/119/sconres/7?format=json",
@@ -213089,7 +213133,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
   "type": "SRES",
-  "update_date": "2026-11-16"
+  "update_date": "2026-11-17"
  },
  "119-sres-473": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/473?format=json",
@@ -218306,15 +218350,15 @@
   "update_date": "2026-10-02"
  },
  "119-sres-906": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/906?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5009)",
   "latest_action_date": "2026-09-24",
   "number": "906",
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of the week of August 24 through August 28, 2026, as the fourth annual \"National Community Health Worker Awareness Week\".",
   "type": "SRES",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-17"
  },
  "119-sres-907": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/907?format=json",
