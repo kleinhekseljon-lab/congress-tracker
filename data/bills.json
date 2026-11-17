@@ -15749,7 +15749,7 @@
   "origin_chamber": "House",
   "title": "Fair Manufactured Housing Lending Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-10976": {
   "congress": 119,
@@ -23064,7 +23064,7 @@
   "origin_chamber": "House",
   "title": "HEIRS Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-17"
  },
  "119-hr-1641": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1641?format=json",
@@ -60478,15 +60478,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-4706": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4706?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-07-23",
   "number": "4706",
   "origin_chamber": "House",
   "title": "Protecting Our Farms and Homes from China Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-17"
  },
  "119-hr-4707": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4707?format=json",
@@ -188936,15 +188936,15 @@
   "update_date": "2026-11-10"
  },
  "119-s-4768": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4768?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-06-11",
   "number": "4768",
   "origin_chamber": "Senate",
   "title": "A bill to provide for a requirement for networked autonomous kinetic capability against small unmanned aircraft systems.",
   "type": "S",
-  "update_date": "2026-06-22"
+  "update_date": "2026-11-17"
  },
  "119-s-4769": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4769?format=json",
@@ -188980,15 +188980,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4771": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4771?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-06-11",
   "number": "4771",
   "origin_chamber": "Senate",
   "title": "Protecting Asylum Integrity Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-17"
  },
  "119-s-4772": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4772?format=json",
@@ -204685,7 +204685,7 @@
   "origin_chamber": "Senate",
   "title": "Chief Herbert D. Proffitt Act of 2025",
   "type": "S",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-17"
  },
  "119-s-912": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/912?format=json",
@@ -205381,15 +205381,15 @@
   "update_date": "2026-01-23"
  },
  "119-s-97": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/97?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-15",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-05-26",
   "number": "97",
   "origin_chamber": "Senate",
   "title": "Securing Semiconductor Supply Chains Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-970": {
   "congress": 119,
@@ -205623,15 +205623,15 @@
   "update_date": "2026-05-13"
  },
  "119-s-99": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/99?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-15",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-10-24",
   "number": "99",
   "origin_chamber": "Senate",
   "title": "Strengthening Support for American Manufacturing Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-990": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/990?format=json",
@@ -205643,6 +205643,17 @@
   "title": "Freedom to Haul Act of 2025",
   "type": "S",
   "update_date": "2026-09-08"
+ },
+ "119-s-991": {
+  "congress": 119,
+  "introduced_date": "2025-03-12",
+  "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "latest_action_date": "2025-03-12",
+  "number": "991",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the Small Business Act to eliminate certain requirements relating to the award of construction subcontracts within the county or State of performance.",
+  "type": "S",
+  "update_date": "2026-11-17"
  },
  "119-s-992": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/992?format=json",
@@ -208802,15 +208813,15 @@
   "update_date": "2025-05-15"
  },
  "119-sres-116": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/116?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S1609)",
   "latest_action_date": "2025-03-06",
   "number": "116",
   "origin_chamber": "Senate",
   "title": "A resolution celebrating the extraordinary accomplishments and vital role of women business owners in the United States.",
   "type": "SRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-sres-117": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/117?format=json",
@@ -209847,15 +209858,15 @@
   "update_date": "2026-05-15"
  },
  "119-sres-201": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/201?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2753; text: CR S2758)",
   "latest_action_date": "2025-05-05",
   "number": "201",
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of the week of May 4, 2025, through May 10, 2025, as \"National Small Business Week\" to celebrate the contributions of small businesses and entrepreneurs in every community in the United States.",
   "type": "SRES",
-  "update_date": "2026-04-06"
+  "update_date": "2026-11-17"
  },
  "119-sres-202": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/202?format=json",
@@ -213246,15 +213257,15 @@
   "update_date": "2025-12-05"
  },
  "119-sres-482": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/482?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-04",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7905; text: CR S7904)",
   "latest_action_date": "2025-11-04",
   "number": "482",
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the week of November 3 through November 7, 2025, as \"National Veterans Small Business Week\".",
   "type": "SRES",
-  "update_date": "2025-12-02"
+  "update_date": "2026-11-17"
  },
  "119-sres-483": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/483?format=json",
