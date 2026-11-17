@@ -16302,15 +16302,15 @@
   "update_date": "2026-11-17"
  },
  "119-hr-1102": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1102?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-06",
   "number": "1102",
   "origin_chamber": "House",
   "title": "Commission To Study the Potential of a National Museum of Italian American History and Culture Act",
   "type": "HR",
-  "update_date": "2025-12-10"
+  "update_date": "2026-11-17"
  },
  "119-hr-11020": {
   "congress": 119,
@@ -22165,15 +22165,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-1568": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1568?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-02-25",
   "number": "1568",
   "origin_chamber": "House",
   "title": "African Burial Ground International Memorial Museum and Educational Center Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-17"
  },
  "119-hr-1569": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1569?format=json",
@@ -26620,15 +26620,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-1933": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1933?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-03-06",
   "number": "1933",
   "origin_chamber": "House",
   "title": "James Earl Jones Congressional Gold Medal Act",
   "type": "HR",
-  "update_date": "2026-07-17"
+  "update_date": "2026-11-17"
  },
  "119-hr-1934": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1934?format=json",
@@ -28897,15 +28897,15 @@
   "update_date": "2026-08-14"
  },
  "119-hr-2119": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2119?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-14",
   "number": "2119",
   "origin_chamber": "House",
   "title": "St. Patrick\u2019s Day Act",
   "type": "HR",
-  "update_date": "2026-04-10"
+  "update_date": "2026-11-17"
  },
  "119-hr-212": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/212?format=json",
@@ -31713,15 +31713,15 @@
   "update_date": "2025-10-01"
  },
  "119-hr-235": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/235?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-07",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-01-07",
   "number": "235",
   "origin_chamber": "House",
   "title": "National Museum of Play Recognition Act",
   "type": "HR",
-  "update_date": "2025-03-03"
+  "update_date": "2026-11-17"
  },
  "119-hr-2350": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2350?format=json",
@@ -72171,15 +72171,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-5664": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5664?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-30",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-30",
   "number": "5664",
   "origin_chamber": "House",
   "title": "Living Wage for Musicians Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-10"
+  "update_date": "2026-11-17"
  },
  "119-hr-5665": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5665?format=json",
@@ -78331,15 +78331,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-617": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/617?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-22",
   "latest_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.",
   "latest_action_date": "2025-04-29",
   "number": "617",
   "origin_chamber": "House",
   "title": "American Music Tourism Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-6170": {
   "congress": 119,
@@ -95183,15 +95183,15 @@
   "update_date": "2026-11-11"
  },
  "119-hr-7549": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7549?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-02-12",
   "number": "7549",
   "origin_chamber": "House",
   "title": "National Council on African American History and Culture Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-17"
  },
  "119-hr-755": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/755?format=json",
@@ -97413,7 +97413,7 @@
   "origin_chamber": "House",
   "title": "Bankruptcy Threshold Adjustment Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-7731": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7731?format=json",
@@ -99946,15 +99946,15 @@
   "update_date": "2026-04-02"
  },
  "119-hr-794": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/794?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-01-28",
   "number": "794",
   "origin_chamber": "House",
   "title": "Lunar New Year Day Act",
   "type": "HR",
-  "update_date": "2026-03-25"
+  "update_date": "2026-11-17"
  },
  "119-hr-7940": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7940?format=json",
@@ -103125,15 +103125,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-82": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/82?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-01-03",
   "number": "82",
   "origin_chamber": "House",
   "title": "Defund National Endowment for the Humanities Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-03"
+  "update_date": "2026-11-17"
  },
  "119-hr-820": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/820?format=json",
@@ -103565,15 +103565,15 @@
   "update_date": "2026-04-14"
  },
  "119-hr-8235": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8235?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-09",
   "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-09",
   "number": "8235",
   "origin_chamber": "House",
   "title": "Books Save Lives Act",
   "type": "HR",
-  "update_date": "2026-04-14"
+  "update_date": "2026-11-17"
  },
  "119-hr-8236": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8236?format=json",
@@ -125851,15 +125851,15 @@
   "update_date": "2026-10-01"
  },
  "119-hres-1061": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1061?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-02-12",
   "number": "1061",
   "origin_chamber": "House",
   "title": "Recognizing the cultural and historical significance of Lunar New Year in 2026.",
   "type": "HRES",
-  "update_date": "2026-02-18"
+  "update_date": "2026-11-17"
  },
  "119-hres-1062": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1062?format=json",
@@ -126951,15 +126951,15 @@
   "update_date": "2026-04-14"
  },
  "119-hres-1151": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1151?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-02",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2026-04-02",
   "number": "1151",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the weeks of March 29, 2026, through April 11, 2026, as National Young Audiences Arts for Learning Week.",
   "type": "HRES",
-  "update_date": "2026-04-09"
+  "update_date": "2026-11-17"
  },
  "119-hres-1152": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1152?format=json",
@@ -127314,15 +127314,15 @@
   "update_date": "2026-09-19"
  },
  "119-hres-1181": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1181?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-04-15",
   "number": "1181",
   "origin_chamber": "House",
   "title": "Expressing support for the recognition of April as \"National Arab American Heritage Month\" (NAAHM) and celebrating the heritage and culture of Arab Americans in the United States.",
   "type": "HRES",
-  "update_date": "2026-09-30"
+  "update_date": "2026-11-17"
  },
  "119-hres-1182": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1182?format=json",
@@ -179330,7 +179330,7 @@
   "origin_chamber": "Senate",
   "title": "Bankruptcy Threshold Adjustment Act of 2026",
   "type": "S",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-s-3978": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3978?format=json",
