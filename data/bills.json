@@ -13967,7 +13967,7 @@
   "origin_chamber": "House",
   "title": "Prohibit Corrupt Russia Oil Deals Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-10829": {
   "congress": 119,
@@ -16101,7 +16101,7 @@
   "origin_chamber": "House",
   "title": "Protecting Our Public Lands from Data Centers Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-11003": {
   "congress": 119,
@@ -33770,15 +33770,15 @@
   "update_date": "2026-04-03"
  },
  "119-hr-2518": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2518?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-31",
   "latest_action": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
   "latest_action_date": "2025-04-18",
   "number": "2518",
   "origin_chamber": "House",
   "title": "Fishing Industry Credit Enhancement Act of 2025",
   "type": "HR",
-  "update_date": "2026-04-14"
+  "update_date": "2026-11-17"
  },
  "119-hr-2519": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2519?format=json",
@@ -36806,15 +36806,15 @@
   "update_date": "2026-10-14"
  },
  "119-hr-2768": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2768?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.",
   "latest_action_date": "2026-06-03",
   "number": "2768",
   "origin_chamber": "House",
   "title": "Benton MacKaye National Scenic Trail Feasibility Study Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-24"
+  "update_date": "2026-11-17"
  },
  "119-hr-2769": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2769?format=json",
@@ -65978,15 +65978,15 @@
   "update_date": "2026-11-11"
  },
  "119-hr-5157": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5157?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-04",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-09-04",
   "number": "5157",
   "origin_chamber": "House",
   "title": "Streamlining American Manufacturing Strategy Act",
   "type": "HR",
-  "update_date": "2025-12-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-5158": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5158?format=json",
@@ -105875,15 +105875,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8424": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8424?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-21",
   "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-21",
   "number": "8424",
   "origin_chamber": "House",
   "title": "Promoting Access to Local Agriculture Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-8425": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8425?format=json",
@@ -106029,15 +106029,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8437": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8437?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-22",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
   "latest_action_date": "2026-07-21",
   "number": "8437",
   "origin_chamber": "House",
   "title": "Geo POWER Act",
   "type": "HR",
-  "update_date": "2026-10-21"
+  "update_date": "2026-11-17"
  },
  "119-hr-8438": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8438?format=json",
@@ -181024,7 +181024,7 @@
   "origin_chamber": "Senate",
   "title": "Geo POWER Act",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-17"
  },
  "119-s-4117": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4117?format=json",
@@ -185493,15 +185493,15 @@
   "update_date": "2026-10-08"
  },
  "119-s-4483": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4483?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-11",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-05-11",
   "number": "4483",
   "origin_chamber": "Senate",
   "title": "Promoting Access to Local Agriculture Act of 2026",
   "type": "S",
-  "update_date": "2026-07-14"
+  "update_date": "2026-11-17"
  },
  "119-s-4484": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4484?format=json",
@@ -199771,15 +199771,15 @@
   "update_date": "2026-10-15"
  },
  "119-s-5658": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5658?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-09-30",
   "number": "5658",
   "origin_chamber": "Senate",
   "title": "A bill to prohibit the construction of data centers on Federal land, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-17"
  },
  "119-s-5659": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5659?format=json",
