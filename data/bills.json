@@ -4202,15 +4202,15 @@
   "update_date": "2026-08-11"
  },
  "119-hr-10029": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10029?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-03",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-08-03",
   "number": "10029",
   "origin_chamber": "House",
   "title": "Supporting Students and Families Act",
   "type": "HR",
-  "update_date": "2026-08-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-1003": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1003?format=json",
@@ -15914,7 +15914,7 @@
   "origin_chamber": "House",
   "title": "Smart Transmission Line Placement Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-17"
  },
  "119-hr-1099": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1099?format=json",
@@ -19998,15 +19998,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-1390": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1390?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-14",
   "latest_action": "Referred to the Subcommittee on Water Resources and Environment.",
   "latest_action_date": "2025-02-14",
   "number": "1390",
   "origin_chamber": "House",
   "title": "Ocean Pollution Reduction Act II",
   "type": "HR",
-  "update_date": "2026-04-14"
+  "update_date": "2026-11-17"
  },
  "119-hr-1391": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1391?format=json",
@@ -20020,15 +20020,15 @@
   "update_date": "2026-08-21"
  },
  "119-hr-1392": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1392?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-14",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-14",
   "number": "1392",
   "origin_chamber": "House",
   "title": "Improving Mental Healthcare in the Re-Entry System Act of 2025",
   "type": "HR",
-  "update_date": "2025-07-08"
+  "update_date": "2026-11-17"
  },
  "119-hr-1393": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1393?format=json",
@@ -20350,26 +20350,26 @@
   "update_date": "2025-05-14"
  },
  "119-hr-1419": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1419?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-02-18",
   "number": "1419",
   "origin_chamber": "House",
   "title": "Contaminated Wells Relocation Act",
   "type": "HR",
-  "update_date": "2026-02-04"
+  "update_date": "2026-11-17"
  },
  "119-hr-142": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/142?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-01-03",
   "number": "142",
   "origin_chamber": "House",
   "title": "Regulations from the Executive in Need of Scrutiny Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-1420": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1420?format=json",
@@ -25212,15 +25212,15 @@
   "update_date": "2025-03-19"
  },
  "119-hr-1818": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1818?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-03",
   "number": "1818",
   "origin_chamber": "House",
   "title": "Aviation Workforce Development Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-17"
  },
  "119-hr-1819": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1819?format=json",
@@ -31143,7 +31143,7 @@
  "119-hr-2302": {
   "congress": 119,
   "introduced_date": "2025-03-24",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
   "latest_action_date": "2026-11-16",
   "number": "2302",
   "origin_chamber": "House",
@@ -31682,7 +31682,7 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Considered by Senate.",
+  "latest_action": "Considered by Senate. (consideration: CR S5679)",
   "latest_action_date": "2026-11-16",
   "number": "2347",
   "origin_chamber": "House",
@@ -31779,15 +31779,15 @@
   "update_date": "2025-04-04"
  },
  "119-hr-2355": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2355?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-26",
   "number": "2355",
   "origin_chamber": "House",
   "title": "Collegiate Housing and Infrastructure Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-2356": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2356?format=json",
@@ -98672,7 +98672,7 @@
  "119-hr-7834": {
   "congress": 119,
   "introduced_date": "2026-03-05",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
   "latest_action_date": "2026-11-16",
   "number": "7834",
   "origin_chamber": "House",
@@ -111441,15 +111441,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8880": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8880?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-06-24",
   "number": "8880",
   "origin_chamber": "House",
   "title": "Small Business Cybersecurity Assistance Evaluation Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-8881": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8881?format=json",
@@ -150502,15 +150502,15 @@
   "update_date": "2025-10-08"
  },
  "119-s-1590": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1590?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-05",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-05-05",
   "number": "1590",
   "origin_chamber": "Senate",
   "title": "Aviation Workforce Development Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-17"
  },
  "119-s-1591": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1591?format=json",
@@ -171118,7 +171118,7 @@
  "119-s-3296": {
   "congress": 119,
   "introduced_date": "2025-12-02",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)",
   "latest_action_date": "2026-11-16",
   "number": "3296",
   "origin_chamber": "Senate",
@@ -195294,15 +195294,15 @@
   "update_date": "2026-08-18"
  },
  "119-s-5291": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5291?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2026-08-06",
   "number": "5291",
   "origin_chamber": "Senate",
   "title": "Small Business Cybersecurity Assistance Evaluation Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-5292": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5292?format=json",
@@ -199724,7 +199724,7 @@
   "origin_chamber": "Senate",
   "title": "Bipartisan American Affordability and Jobs Act of 2026",
   "type": "S",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-s-5654": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5654?format=json",
