@@ -28707,7 +28707,7 @@
   "origin_chamber": "House",
   "title": "Major Richard Star Act",
   "type": "HR",
-  "update_date": "2026-11-16"
+  "update_date": "2026-11-17"
  },
  "119-hr-2103": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2103?format=json",
@@ -96038,7 +96038,7 @@
   "origin_chamber": "House",
   "title": "American Battlefield Protection Program Amendments Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-7619": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7619?format=json",
@@ -148200,7 +148200,7 @@
   "origin_chamber": "Senate",
   "title": "Wildfire Prevention Act of 2025",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-1400": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1400?format=json",
