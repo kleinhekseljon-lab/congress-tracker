@@ -10538,15 +10538,15 @@
   "update_date": "2026-11-12"
  },
  "119-hr-10548": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10548?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-09-24",
   "number": "10548",
   "origin_chamber": "House",
   "title": "To amend the African Growth and Opportunity Act to exclude from eligibility each sub-Saharan African country that does not effectively enforce its environmental laws and fulfill its international environmental obligations.",
   "type": "HR",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-17"
  },
  "119-hr-10549": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10549?format=json",
@@ -40007,15 +40007,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-3029": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3029?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-28",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-07-21",
   "number": "3029",
   "origin_chamber": "House",
   "title": "To amend the Research and Development, Competition, and Innovation Act to support nucleic acid screening, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-hr-303": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/303?format=json",
@@ -115148,15 +115148,15 @@
   "update_date": "2026-07-01"
  },
  "119-hr-9183": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9183?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-08",
   "latest_action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-06-08",
   "number": "9183",
   "origin_chamber": "House",
   "title": "Artificial Intelligence Environmental Impacts Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-17"
  },
  "119-hr-9184": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9184?format=json",
@@ -115280,15 +115280,15 @@
   "update_date": "2026-06-24"
  },
  "119-hr-9194": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9194?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-08",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2026-06-08",
   "number": "9194",
   "origin_chamber": "House",
   "title": "Build American Efficiency Act",
   "type": "HR",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-17"
  },
  "119-hr-9195": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9195?format=json",
@@ -116556,15 +116556,15 @@
   "update_date": "2026-11-13"
  },
  "119-hr-9299": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9299?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-06-11",
   "number": "9299",
   "origin_chamber": "House",
   "title": "Advancing Next-Generation Genetic Learning for Effective Resource Strategy Act",
   "type": "HR",
-  "update_date": "2026-07-30"
+  "update_date": "2026-11-17"
  },
  "119-hr-93": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/93?format=json",
@@ -116666,15 +116666,15 @@
   "update_date": "2026-06-22"
  },
  "119-hr-9307": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9307?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2026-06-11",
   "number": "9307",
   "origin_chamber": "House",
   "title": "Web of Biological Data Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-30"
+  "update_date": "2026-11-17"
  },
  "119-hr-9308": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9308?format=json",
@@ -118316,15 +118316,15 @@
   "update_date": "2026-09-01"
  },
  "119-hr-9442": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9442?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-06-24",
   "number": "9442",
   "origin_chamber": "House",
   "title": "Artificial Intelligence Data Center Moratorium Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-17"
  },
  "119-hr-9443": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9443?format=json",
@@ -158565,15 +158565,15 @@
   "update_date": "2026-07-12"
  },
  "119-s-2258": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2258?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-10",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-10",
   "number": "2258",
   "origin_chamber": "Senate",
   "title": "Protecting Our Farms and Homes from China Act",
   "type": "S",
-  "update_date": "2026-01-15"
+  "update_date": "2026-11-17"
  },
  "119-s-2259": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2259?format=json",
@@ -167035,15 +167035,15 @@
   "update_date": "2026-03-19"
  },
  "119-s-2958": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2958?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-30",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-09-30",
   "number": "2958",
   "origin_chamber": "Senate",
   "title": "AGOA Extension and Bilateral Engagement Act of 2025",
   "type": "S",
-  "update_date": "2025-11-20"
+  "update_date": "2026-11-17"
  },
  "119-s-2959": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2959?format=json",
@@ -176462,15 +176462,15 @@
   "update_date": "2026-02-20"
  },
  "119-s-3741": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3741?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-29",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-01-29",
   "number": "3741",
   "origin_chamber": "Senate",
   "title": "Biosecurity Modernization and Innovation Act of 2026",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-17"
  },
  "119-s-3742": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3742?format=json",
@@ -182215,15 +182215,15 @@
   "update_date": "2026-10-02"
  },
  "119-s-4214": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4214?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-25",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-03-25",
   "number": "4214",
   "origin_chamber": "Senate",
   "title": "Artificial Intelligence Data Center Moratorium Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-4215": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4215?format=json",
@@ -188441,15 +188441,15 @@
   "update_date": "2026-10-02"
  },
  "119-s-4727": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4727?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2026-06-09",
   "number": "4727",
   "origin_chamber": "Senate",
   "title": "Artificial Intelligence Environmental Impacts Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-4728": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4728?format=json",
@@ -188969,15 +188969,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-4770": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4770?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-06-11",
   "number": "4770",
   "origin_chamber": "Senate",
   "title": "Web of Biological Data Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-s-4771": {
   "congress": 119,
@@ -195074,15 +195074,15 @@
   "update_date": "2026-08-18"
  },
  "119-s-5273": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5273?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-08-06",
   "number": "5273",
   "origin_chamber": "Senate",
   "title": "Fisheries Science Modernization Act of 2026",
   "type": "S",
-  "update_date": "2026-09-16"
+  "update_date": "2026-11-17"
  },
  "119-s-5274": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5274?format=json",
@@ -197670,15 +197670,15 @@
   "update_date": "2026-10-15"
  },
  "119-s-5486": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5486?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-23",
   "number": "5486",
   "origin_chamber": "Senate",
   "title": "A bill to amend the African Growth and Opportunity Act to exclude from eligibility each sub-Saharan African country that does not effectively enforce its environmental laws and fulfill its international environmental obligations.",
   "type": "S",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-17"
  },
  "119-s-5487": {
   "congress": 119,
@@ -200153,7 +200153,7 @@
   "origin_chamber": "Senate",
   "title": "RECLAIM Act",
   "type": "S",
-  "update_date": "2026-11-16"
+  "update_date": "2026-11-17"
  },
  "119-s-569": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/569?format=json",
