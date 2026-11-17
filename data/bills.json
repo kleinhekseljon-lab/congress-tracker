@@ -9581,15 +9581,15 @@
   "update_date": "2026-09-28"
  },
  "119-hr-1047": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1047?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2025-09-19",
   "number": "1047",
   "origin_chamber": "House",
   "title": "GRID Power Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-hr-10470": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10470?format=json",
@@ -44671,15 +44671,15 @@
   "update_date": "2025-02-13"
  },
  "119-hr-3410": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3410?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-14",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-03-25",
   "number": "3410",
   "origin_chamber": "House",
   "title": "Supersonic Aviation Modernization Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-17"
  },
  "119-hr-3411": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3411?format=json",
@@ -107445,7 +107445,7 @@
   "origin_chamber": "House",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-8553": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8553?format=json",
@@ -146440,7 +146440,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes.",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-17"
  },
  "119-s-1255": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1255?format=json",
@@ -152523,7 +152523,7 @@
   "origin_chamber": "Senate",
   "title": "Supersonic Aviation Modernization Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-s-176": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/176?format=json",
@@ -160190,7 +160190,7 @@
   "origin_chamber": "Senate",
   "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2025",
   "type": "S",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-17"
  },
  "119-s-2393": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2393?format=json",
