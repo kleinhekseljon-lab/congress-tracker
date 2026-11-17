@@ -55,15 +55,15 @@
   "update_date": "2026-09-19"
  },
  "119-hconres-103": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/103?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-20",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-05-20",
   "number": "103",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-104": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/104?format=json",
@@ -143,15 +143,15 @@
   "update_date": "2026-09-29"
  },
  "119-hconres-110": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/110?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-06-11",
   "number": "110",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-111": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/111?format=json",
@@ -220,15 +220,15 @@
   "update_date": "2026-09-22"
  },
  "119-hconres-117": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/117?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-15",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-09-15",
   "number": "117",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-118": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/118?format=json",
@@ -338,7 +338,7 @@
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hconres-13": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/13?format=json",
@@ -671,15 +671,15 @@
   "update_date": "2026-10-27"
  },
  "119-hconres-40": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/40?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-23",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-04-16",
   "number": "40",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-41": {
   "congress": 119,
@@ -1221,15 +1221,15 @@
   "update_date": "2026-09-19"
  },
  "119-hconres-86": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/86?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-20",
   "latest_action": "Message on Senate action sent to the House.",
   "latest_action_date": "2026-06-24",
   "number": "86",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-87": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/87?format=json",
@@ -1309,15 +1309,15 @@
   "update_date": "2026-09-19"
  },
  "119-hconres-93": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/93?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-28",
   "latest_action": "Received in the Senate and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-16",
   "number": "93",
   "origin_chamber": "House",
   "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
   "type": "HCONRES",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-hconres-94": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/94?format=json",
@@ -15507,7 +15507,7 @@
   "origin_chamber": "House",
   "title": "EITC Age Parity Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-17"
  },
  "119-hr-10956": {
   "congress": 119,
@@ -15518,7 +15518,7 @@
   "origin_chamber": "House",
   "title": "IHS Workforce Parity Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-10957": {
   "congress": 119,
@@ -15584,7 +15584,7 @@
   "origin_chamber": "House",
   "title": "To direct the Secretary of Veterans Affairs to report on the Warrior Training Advancement Course of the Veterans Benefits Administration.",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10962": {
   "congress": 119,
@@ -15595,7 +15595,7 @@
   "origin_chamber": "House",
   "title": "Justification Oversight and Opportunities for Main Street Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10963": {
   "congress": 119,
@@ -15639,7 +15639,7 @@
   "origin_chamber": "House",
   "title": "Supporting Veteran Mothers Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10967": {
   "congress": 119,
@@ -15661,7 +15661,7 @@
   "origin_chamber": "House",
   "title": "No Veteran Left Behind: Housing Retention Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10969": {
   "congress": 119,
@@ -15716,7 +15716,7 @@
   "origin_chamber": "House",
   "title": "NEW HORIZON Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10973": {
   "congress": 119,
@@ -15727,7 +15727,7 @@
   "origin_chamber": "House",
   "title": "Master Sergeant Roy P. Benavidez VA Clinic Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10974": {
   "congress": 119,
@@ -15771,7 +15771,7 @@
   "origin_chamber": "House",
   "title": "Small Business Tariff Relief Hotline Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-10978": {
   "congress": 119,
@@ -15815,7 +15815,7 @@
   "origin_chamber": "House",
   "title": "Promoting Resilient Buildings Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10981": {
   "congress": 119,
@@ -15859,7 +15859,7 @@
   "origin_chamber": "House",
   "title": "INNOVATE Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-10985": {
   "congress": 119,
@@ -15881,7 +15881,7 @@
   "origin_chamber": "House",
   "title": "Lebanon TPS Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-10987": {
   "congress": 119,
@@ -16145,7 +16145,7 @@
   "origin_chamber": "House",
   "title": "Sergeant Sam Wybenga Housing Fairness for Veteran Families Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hr-11007": {
   "congress": 119,
@@ -35244,15 +35244,15 @@
   "update_date": "2026-05-21"
  },
  "119-hr-264": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/264?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
   "latest_action_date": "2025-01-10",
   "number": "264",
   "origin_chamber": "House",
   "title": "Train EATS Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-2640": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2640?format=json",
@@ -36366,15 +36366,15 @@
   "update_date": "2025-06-06"
  },
  "119-hr-2731": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2731?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-04-08",
   "number": "2731",
   "origin_chamber": "House",
   "title": "Great Lakes Mapping Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-17"
  },
  "119-hr-2732": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2732?format=json",
@@ -49654,15 +49654,15 @@
   "update_date": "2025-09-08"
  },
  "119-hr-382": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/382?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-14",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-01-14",
   "number": "382",
   "origin_chamber": "House",
   "title": "Exported Carbon Emissions Report Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-3820": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3820?format=json",
@@ -63225,7 +63225,7 @@
   "origin_chamber": "House",
   "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-17"
  },
  "119-hr-4931": {
   "congress": 119,
@@ -63954,15 +63954,15 @@
   "update_date": "2026-11-17"
  },
  "119-hr-4991": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4991?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-15",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-08-15",
   "number": "4991",
   "origin_chamber": "House",
   "title": "Disarming Felons Act",
   "type": "HR",
-  "update_date": "2025-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-4992": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4992?format=json",
@@ -64273,15 +64273,15 @@
   "update_date": "2025-09-26"
  },
  "119-hr-5017": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5017?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-22",
   "latest_action": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
   "latest_action_date": "2026-01-13",
   "number": "5017",
   "origin_chamber": "House",
   "title": "Greyhound Protection Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-17"
  },
  "119-hr-5018": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5018?format=json",
@@ -64325,7 +64325,7 @@
   "origin_chamber": "House",
   "title": "Supporting Our Shelters Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-17"
  },
  "119-hr-5021": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5021?format=json",
@@ -64570,15 +64570,15 @@
   "update_date": "2025-09-19"
  },
  "119-hr-5041": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5041?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-26",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-08-26",
   "number": "5041",
   "origin_chamber": "House",
   "title": "Smith River National Recreation Area Expansion Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-17"
  },
  "119-hr-5042": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5042?format=json",
@@ -64724,15 +64724,15 @@
   "update_date": "2026-05-30"
  },
  "119-hr-5054": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5054?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-26",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-08-26",
   "number": "5054",
   "origin_chamber": "House",
   "title": "Freedom From Union Violence Act of 2025",
   "type": "HR",
-  "update_date": "2026-06-03"
+  "update_date": "2026-11-17"
  },
  "119-hr-5055": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5055?format=json",
@@ -64897,18 +64897,18 @@
   "origin_chamber": "House",
   "title": "MORE Act",
   "type": "HR",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-hr-5069": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5069?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-29",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-08-29",
   "number": "5069",
   "origin_chamber": "House",
   "title": "Peter J. McGuire Labor Day Landmark Act",
   "type": "HR",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-17"
  },
  "119-hr-507": {
   "congress": 119,
@@ -85096,15 +85096,15 @@
   "update_date": "2026-09-17"
  },
  "119-hr-6723": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6723?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-12-15",
   "number": "6723",
   "origin_chamber": "House",
   "title": "Bring Our Heroes Home Act",
   "type": "HR",
-  "update_date": "2026-04-20"
+  "update_date": "2026-11-17"
  },
  "119-hr-6724": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6724?format=json",
@@ -95403,15 +95403,15 @@
   "update_date": "2026-04-29"
  },
  "119-hr-7567": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7567?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-13",
   "latest_action": "Received in the Senate.",
   "latest_action_date": "2026-05-19",
   "number": "7567",
   "origin_chamber": "House",
   "title": "Farm, Food, and National Security Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-17"
  },
  "119-hr-7568": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7568?format=json",
@@ -116080,7 +116080,7 @@
   "origin_chamber": "House",
   "title": "Fair Day in Court for Kids Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-17"
  },
  "119-hr-926": {
   "congress": 119,
@@ -133086,7 +133086,7 @@
   "origin_chamber": "House",
   "title": "Honoring the service and sacrifice of America's veterans on Veterans Day, 2026.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hres-1654": {
   "congress": 119,
@@ -133097,7 +133097,7 @@
   "origin_chamber": "House",
   "title": "Congratulating the Milwaukee Brewers, and the fans of the Milwaukee Brewers, on winning Major League Baseball's 2026 World Championship Series.",
   "type": "HRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-17"
  },
  "119-hres-1655": {
   "congress": 119,
@@ -133141,7 +133141,7 @@
   "origin_chamber": "House",
   "title": "Recognizing Operation Green Light for Veterans for supporting veterans and raising awareness about important county resources available to help veterans transition to civilian life.",
   "type": "HRES",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-17"
  },
  "119-hres-1659": {
   "congress": 119,
@@ -141724,15 +141724,15 @@
   "update_date": "2026-07-15"
  },
  "119-hres-864": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/864?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-07",
   "latest_action": "Referred to the House Committee on Veterans' Affairs.",
   "latest_action_date": "2025-11-07",
   "number": "864",
   "origin_chamber": "House",
   "title": "Honoring the service and sacrifice of America's veterans on Veterans Day, 2025.",
   "type": "HRES",
-  "update_date": "2026-07-15"
+  "update_date": "2026-11-17"
  },
  "119-hres-865": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/865?format=json",
@@ -163603,15 +163603,15 @@
   "update_date": "2026-09-16"
  },
  "119-s-2677": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2677?format=json",
   "congress": 119,
+  "introduced_date": "2025-08-01",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-08-10",
   "number": "2677",
   "origin_chamber": "Senate",
   "title": "A bill to expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
   "type": "S",
-  "update_date": "2026-08-24"
+  "update_date": "2026-11-17"
  },
  "119-s-2678": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2678?format=json",
@@ -170288,7 +170288,7 @@
   "origin_chamber": "Senate",
   "title": "Bring Our Heroes Home Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-s-3227": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3227?format=json",
@@ -178134,15 +178134,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-388": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/388?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-04",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.",
   "latest_action_date": "2026-09-15",
   "number": "388",
   "origin_chamber": "Senate",
   "title": "Promoting Resilient Buildings Act",
   "type": "S",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-17"
  },
  "119-s-3880": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3880?format=json",
@@ -188034,15 +188034,15 @@
   "update_date": "2026-07-01"
  },
  "119-s-4693": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4693?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-04",
   "latest_action": "Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-06-04",
   "number": "4693",
   "origin_chamber": "Senate",
   "title": "NEW HORIZON Act",
   "type": "S",
-  "update_date": "2026-06-29"
+  "update_date": "2026-11-17"
  },
  "119-s-4694": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4694?format=json",
@@ -188947,15 +188947,15 @@
   "update_date": "2026-11-17"
  },
  "119-s-4769": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4769?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-11",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-06-11",
   "number": "4769",
   "origin_chamber": "Senate",
   "title": "Illegal Immigration Cost Recovery Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-17"
  },
  "119-s-477": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/477?format=json",
@@ -198173,7 +198173,7 @@
   "origin_chamber": "Senate",
   "title": "Agricultural Act of 2026",
   "type": "S",
-  "update_date": "2026-11-02"
+  "update_date": "2026-11-17"
  },
  "119-s-5527": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5527?format=json",
@@ -200186,7 +200186,7 @@
   "origin_chamber": "Senate",
   "title": "Memorializing Peace Corps Service Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-17"
  },
  "119-s-5692": {
   "congress": 119,
@@ -201300,15 +201300,15 @@
   "update_date": "2026-01-21"
  },
  "119-s-632": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/632?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-19",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.",
   "latest_action_date": "2025-05-12",
   "number": "632",
   "origin_chamber": "Senate",
   "title": "IHS Workforce Parity Act of 2025",
   "type": "S",
-  "update_date": "2025-10-09"
+  "update_date": "2026-11-17"
  },
  "119-s-633": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/633?format=json",
