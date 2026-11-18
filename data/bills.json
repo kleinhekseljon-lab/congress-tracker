@@ -407,15 +407,15 @@
   "update_date": "2026-11-16"
  },
  "119-hconres-19": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hconres/19?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-03-11",
   "number": "19",
   "origin_chamber": "House",
   "title": "Recognizing the essential work of the League of Oregon Cities.",
   "type": "HCONRES",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-18"
  },
  "119-hconres-2": {
   "api_url": "https://api.congress.gov/v3/bill/119/hconres/2?format=json",
@@ -8192,7 +8192,7 @@
   "origin_chamber": "House",
   "title": "Free Yemen from Iran Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10355": {
   "congress": 119,
@@ -14649,7 +14649,7 @@
   "origin_chamber": "House",
   "title": "Lauren Shields Organ Donation Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10885": {
   "congress": 119,
@@ -15584,7 +15584,7 @@
   "origin_chamber": "House",
   "title": "Keep Federal Tech Talent Act",
   "type": "HR",
-  "update_date": "2026-11-07"
+  "update_date": "2026-11-18"
  },
  "119-hr-10961": {
   "congress": 119,
@@ -15848,7 +15848,7 @@
   "origin_chamber": "House",
   "title": "Protecting Vulnerable Patients, Seniors, and Families Act",
   "type": "HR",
-  "update_date": "2026-11-12"
+  "update_date": "2026-11-18"
  },
  "119-hr-10983": {
   "congress": 119,
@@ -15969,7 +15969,7 @@
   "origin_chamber": "House",
   "title": "Tribal College and University Essential Community Facilities Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10993": {
   "congress": 119,
@@ -15991,7 +15991,7 @@
   "origin_chamber": "House",
   "title": "Supporting Rural Business Development Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10995": {
   "congress": 119,
@@ -16035,7 +16035,7 @@
   "origin_chamber": "House",
   "title": "Building Out Utility Infrastructure in Rural America Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10999": {
   "congress": 119,
@@ -16046,7 +16046,7 @@
   "origin_chamber": "House",
   "title": "Keeping Rural America Safe Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-11": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/11?format=json",
@@ -16101,7 +16101,7 @@
   "origin_chamber": "House",
   "title": "Protecting Neighborhood Postal Access",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11002": {
   "congress": 119,
@@ -16233,7 +16233,7 @@
   "origin_chamber": "House",
   "title": "ON\u2013DEMAND Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11013": {
   "congress": 119,
@@ -16365,7 +16365,7 @@
   "origin_chamber": "House",
   "title": "RATES Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11024": {
   "congress": 119,
@@ -16387,7 +16387,7 @@
   "origin_chamber": "House",
   "title": "Stand By NICU Babies and Families Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-11026": {
   "congress": 119,
@@ -16398,7 +16398,7 @@
   "origin_chamber": "House",
   "title": "To amend title 37, United States Code, to authorize the Secretary of Defense to make contributions to Trump Accounts as a bonus for a member of the Armed Forces who commits to continued service in the Armed Forces and to amend the Internal Revenue Code of 1986 to treat any such contribution in the same manner as a contribution made pursuant to an employer Trump account contribution program.",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11027": {
   "congress": 119,
@@ -16453,7 +16453,7 @@
   "origin_chamber": "House",
   "title": "Fair Premiums for Farmers Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11031": {
   "congress": 119,
@@ -28014,7 +28014,7 @@
   "origin_chamber": "House",
   "title": "Stop Comstock Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-hr-203": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/203?format=json",
@@ -28226,15 +28226,15 @@
   "update_date": "2026-04-13"
  },
  "119-hr-2047": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2047?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-11",
   "number": "2047",
   "origin_chamber": "House",
   "title": "Pink Tariffs Study Act",
   "type": "HR",
-  "update_date": "2025-11-22"
+  "update_date": "2026-11-18"
  },
  "119-hr-2048": {
   "congress": 119,
@@ -28655,15 +28655,15 @@
   "update_date": "2025-11-18"
  },
  "119-hr-2082": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2082?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-11",
   "number": "2082",
   "origin_chamber": "House",
   "title": "WISH Act",
   "type": "HR",
-  "update_date": "2026-01-26"
+  "update_date": "2026-11-18"
  },
  "119-hr-2083": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2083?format=json",
@@ -28699,26 +28699,26 @@
   "update_date": "2026-09-19"
  },
  "119-hr-2086": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2086?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the Subcommittee on Transportation and Maritime Security.",
   "latest_action_date": "2025-03-11",
   "number": "2086",
   "origin_chamber": "House",
   "title": "Rights for the TSA Workforce Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-18"
  },
  "119-hr-2087": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2087?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-11",
   "number": "2087",
   "origin_chamber": "House",
   "title": "SAFE Bet Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-15"
+  "update_date": "2026-11-18"
  },
  "119-hr-2088": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2088?format=json",
@@ -37059,15 +37059,15 @@
   "update_date": "2026-08-17"
  },
  "119-hr-2771": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2771?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2025-04-09",
   "number": "2771",
   "origin_chamber": "House",
   "title": "Forest Legacy Management Flexibility Act",
   "type": "HR",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-18"
  },
  "119-hr-2772": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2772?format=json",
@@ -133405,7 +133405,7 @@
   "origin_chamber": "House",
   "title": "Condemning the tragic act of violence at Silver Rail Elementary School in Bend, Oregon, recognizing the victims, survivors, and responders, and expressing condolences and support to their families and communities.",
   "type": "HRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hres-1663": {
   "congress": 119,
@@ -195129,15 +195129,15 @@
   "update_date": "2026-09-15"
  },
  "119-s-5256": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5256?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-05",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-08-05",
   "number": "5256",
   "origin_chamber": "Senate",
   "title": "Abuse of the Pardon Prevention Act of 2026",
   "type": "S",
-  "update_date": "2026-08-18"
+  "update_date": "2026-11-18"
  },
  "119-s-5257": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5257?format=json",
@@ -200461,7 +200461,7 @@
   "origin_chamber": "Senate",
   "title": "Ban Flock Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5693": {
   "congress": 119,
@@ -200483,7 +200483,7 @@
   "origin_chamber": "Senate",
   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5695": {
   "congress": 119,
@@ -200670,7 +200670,7 @@
   "origin_chamber": "Senate",
   "title": "Toxic Exposure and Women Veterans\u2019 Health Outcomes Act",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-s-571": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/571?format=json",
@@ -200736,7 +200736,7 @@
   "origin_chamber": "Senate",
   "title": "Competition in Professional Baseball Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5715": {
   "congress": 119,
@@ -200758,7 +200758,7 @@
   "origin_chamber": "Senate",
   "title": "Guard the Skies Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5717": {
   "congress": 119,
@@ -205271,15 +205271,15 @@
   "update_date": "2026-07-14"
  },
  "119-s-927": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/927?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-11",
   "number": "927",
   "origin_chamber": "Senate",
   "title": "Protecting Pharmacies in Medicaid Act",
   "type": "S",
-  "update_date": "2026-03-09"
+  "update_date": "2026-11-18"
  },
  "119-s-928": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/928?format=json",
@@ -205326,15 +205326,15 @@
   "update_date": "2026-02-05"
  },
  "119-s-931": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/931?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-11",
   "number": "931",
   "origin_chamber": "Senate",
   "title": "COMPLETE Care Act",
   "type": "S",
-  "update_date": "2026-02-19"
+  "update_date": "2026-11-18"
  },
  "119-s-932": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/932?format=json",
@@ -219348,7 +219348,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution condemning the horrific and senseless attack in Bend, Oregon, and expressing support and prayers for all those impacted by the tragedy.",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-sres-954": {
   "congress": 119,
