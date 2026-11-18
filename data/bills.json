@@ -37081,15 +37081,15 @@
   "update_date": "2025-09-11"
  },
  "119-hr-2773": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2773?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-04-09",
   "number": "2773",
   "origin_chamber": "House",
   "title": "Landowner Easement Rights Act",
   "type": "HR",
-  "update_date": "2025-05-12"
+  "update_date": "2026-11-18"
  },
  "119-hr-2774": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2774?format=json",
@@ -37367,15 +37367,15 @@
   "update_date": "2026-02-23"
  },
  "119-hr-2797": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2797?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-04-09",
   "number": "2797",
   "origin_chamber": "House",
   "title": "House Expansion Commission Act",
   "type": "HR",
-  "update_date": "2026-03-06"
+  "update_date": "2026-11-18"
  },
  "119-hr-2798": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2798?format=json",
