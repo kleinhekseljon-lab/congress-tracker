@@ -10502,7 +10502,7 @@
   "origin_chamber": "House",
   "title": "PREP Act",
   "type": "HR",
-  "update_date": "2026-10-28"
+  "update_date": "2026-11-18"
  },
  "119-hr-10544": {
   "congress": 119,
@@ -16288,7 +16288,7 @@
   "origin_chamber": "House",
   "title": "Veterans Claims Timeliness, Accountability, and Care Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-11018": {
   "congress": 119,
@@ -16343,7 +16343,7 @@
   "origin_chamber": "House",
   "title": "Accurate Cancer Screenings for our Veterans Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11022": {
   "congress": 119,
@@ -32076,15 +32076,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-2362": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2362?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-03-26",
   "number": "2362",
   "origin_chamber": "House",
   "title": "VA Home Loan Awareness Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-21"
+  "update_date": "2026-11-18"
  },
  "119-hr-2363": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2363?format=json",
@@ -36762,15 +36762,15 @@
   "update_date": "2025-05-15"
  },
  "119-hr-2747": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2747?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-04-08",
   "number": "2747",
   "origin_chamber": "House",
   "title": "Healthy Affordable Housing Act",
   "type": "HR",
-  "update_date": "2025-05-15"
+  "update_date": "2026-11-18"
  },
  "119-hr-2748": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2748?format=json",
@@ -97622,7 +97622,7 @@
   "origin_chamber": "House",
   "title": "Bankruptcy Threshold Adjustment Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hr-7731": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7731?format=json",
@@ -147499,15 +147499,15 @@
   "update_date": "2026-06-27"
  },
  "119-s-1321": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1321?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 633.",
   "latest_action_date": "2026-09-17",
   "number": "1321",
   "origin_chamber": "Senate",
   "title": "Moab UMTRA Project Transition Act of 2025",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-18"
  },
  "119-s-1322": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1322?format=json",
@@ -152229,15 +152229,15 @@
   "update_date": "2025-06-05"
  },
  "119-s-1714": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1714?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-12",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-05-12",
   "number": "1714",
   "origin_chamber": "Senate",
   "title": "Disabled Veterans Housing Support Act",
   "type": "S",
-  "update_date": "2025-07-08"
+  "update_date": "2026-11-18"
  },
  "119-s-1715": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1715?format=json",
@@ -159555,15 +159555,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-232": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/232?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-01-23",
   "number": "232",
   "origin_chamber": "Senate",
   "title": "Preventing Algorithmic Collusion Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-18"
  },
  "119-s-2320": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2320?format=json",
@@ -161535,15 +161535,15 @@
   "update_date": "2026-02-10"
  },
  "119-s-2486": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2486?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-28",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-07-28",
   "number": "2486",
   "origin_chamber": "Senate",
   "title": "Protecting Access to Credit for Small Businesses Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-2487": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2487?format=json",
@@ -161843,15 +161843,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2510": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2510?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-29",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-07-29",
   "number": "2510",
   "origin_chamber": "Senate",
   "title": "Service-Disabled Veteran Opportunities in Small Business Act",
   "type": "S",
-  "update_date": "2026-09-10"
+  "update_date": "2026-11-18"
  },
  "119-s-2511": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2511?format=json",
@@ -163405,15 +163405,15 @@
   "update_date": "2025-09-05"
  },
  "119-s-2639": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2639?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-31",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-07-31",
   "number": "2639",
   "origin_chamber": "Senate",
   "title": "Military Spouse Entrepreneurship Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-264": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/264?format=json",
@@ -163689,6 +163689,17 @@
   "title": "A bill to allow for the use of risk-based inspections for in-service breakout tanks.",
   "type": "S",
   "update_date": "2026-10-16"
+ },
+ "119-s-2662": {
+  "congress": 119,
+  "introduced_date": "2025-08-01",
+  "latest_action": "Committee on Small Business and Entrepreneurship. Hearings held.",
+  "latest_action_date": "2025-09-17",
+  "number": "2662",
+  "origin_chamber": "Senate",
+  "title": "504 Modernization and Small Manufacturer Enhancement Act of 2025",
+  "type": "S",
+  "update_date": "2026-11-18"
  },
  "119-s-2663": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2663?format=json",
@@ -167552,15 +167563,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-298": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/298?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-29",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.",
   "latest_action_date": "2025-03-04",
   "number": "298",
   "origin_chamber": "Senate",
   "title": "Returning SBA to Main Street Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-2980": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2980?format=json",
@@ -169466,15 +169477,15 @@
   "update_date": "2026-10-24"
  },
  "119-s-3136": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3136?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-11-06",
   "number": "3136",
   "origin_chamber": "Senate",
   "title": "Heroes Business Opportunity Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-3137": {
   "congress": 119,
@@ -175472,15 +175483,15 @@
   "update_date": "2026-08-04"
  },
  "119-s-3638": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3638?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-14",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-01-14",
   "number": "3638",
   "origin_chamber": "Senate",
   "title": "Antitrust Freedom Act of 2026",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-18"
  },
  "119-s-3639": {
   "congress": 119,
@@ -176352,15 +176363,15 @@
   "update_date": "2026-02-23"
  },
  "119-s-371": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/371?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-03",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.",
   "latest_action_date": "2025-03-04",
   "number": "371",
   "origin_chamber": "Senate",
   "title": "SBA Disaster Transparency Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-3710": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3710?format=json",
@@ -178486,15 +178497,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3888": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3888?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-02-12",
   "number": "3888",
   "origin_chamber": "Senate",
   "title": "Small Business Artificial Intelligence Training Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-3889": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3889?format=json",
@@ -181478,15 +181489,15 @@
   "update_date": "2026-08-19"
  },
  "119-s-4133": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4133?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-18",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2026-03-18",
   "number": "4133",
   "origin_chamber": "Senate",
   "title": "21st Century Entrepreneurship Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-4134": {
   "congress": 119,
@@ -183876,15 +183887,15 @@
   "update_date": "2026-07-17"
  },
  "119-s-433": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/433?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-05",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-07-15",
   "number": "433",
   "origin_chamber": "Senate",
   "title": "National Manufacturing Advisory Council Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-4330": {
   "congress": 119,
@@ -186351,15 +186362,15 @@
   "update_date": "2026-07-15"
  },
  "119-s-4532": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4532?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2026-05-14",
   "number": "4532",
   "origin_chamber": "Senate",
   "title": "Small Business Wildfire Smoke Recovery Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-4533": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4533?format=json",
@@ -195481,15 +195492,15 @@
   "update_date": "2026-08-24"
  },
  "119-s-5286": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5286?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2026-08-06",
   "number": "5286",
   "origin_chamber": "Senate",
   "title": "Supporting Disabled Entrepreneurs Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-5287": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5287?format=json",
@@ -201212,15 +201223,15 @@
   "update_date": "2025-07-08"
  },
  "119-s-592": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/592?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-02-13",
   "number": "592",
   "origin_chamber": "Senate",
   "title": "Simplifying Subcontracting Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-593": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/593?format=json",
@@ -202257,15 +202268,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-68": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/68?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.",
   "latest_action_date": "2025-02-10",
   "number": "68",
   "origin_chamber": "Senate",
   "title": "Complete COVID Collections Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-680": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/680?format=json",
@@ -219370,7 +219381,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution honoring the service and sacrifice of the veterans of the United States on Veterans Day, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-sres-957": {
   "congress": 119,
@@ -219381,7 +219392,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of November 15, 2026, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-sres-958": {
   "congress": 119,
