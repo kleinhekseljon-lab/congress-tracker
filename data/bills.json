@@ -13420,15 +13420,15 @@
   "update_date": "2026-10-19"
  },
  "119-hr-10784": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10784?format=json",
   "congress": 119,
+  "introduced_date": "2026-10-09",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-10-09",
   "number": "10784",
   "origin_chamber": "House",
-  "title": "To amend the Internal Revenue Code of 1986 to provide home ownership assistance, and for other purposes.",
+  "title": "Own Not Rent Act",
   "type": "HR",
-  "update_date": "2026-10-10"
+  "update_date": "2026-11-18"
  },
  "119-hr-10785": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10785?format=json",
@@ -57538,7 +57538,7 @@
   "origin_chamber": "House",
   "title": "Preventive Health Savings Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-hr-4465": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4465?format=json",
@@ -70477,15 +70477,15 @@
   "update_date": "2025-12-17"
  },
  "119-hr-5525": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5525?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-19",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 19.",
   "latest_action_date": "2026-03-18",
   "number": "5525",
   "origin_chamber": "House",
   "title": "Stop DC CAMERA Act",
   "type": "HR",
-  "update_date": "2026-04-16"
+  "update_date": "2026-11-18"
  },
  "119-hr-5526": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5526?format=json",
@@ -110484,15 +110484,15 @@
   "update_date": "2026-11-17"
  },
  "119-hr-8801": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8801?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-13",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 18.",
   "latest_action_date": "2026-05-20",
   "number": "8801",
   "origin_chamber": "House",
   "title": "DC ROADS Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-18"
  },
  "119-hr-8802": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8802?format=json",
@@ -120318,15 +120318,15 @@
   "update_date": "2026-09-25"
  },
  "119-hr-9607": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9607?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 16.",
   "latest_action_date": "2026-07-15",
   "number": "9607",
   "origin_chamber": "House",
   "title": "Less Bureaucracy, Better Workforce Development Act",
   "type": "HR",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-18"
  },
  "119-hr-9608": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9608?format=json",
@@ -174732,7 +174732,7 @@
   "origin_chamber": "Senate",
   "title": "National Quantum Initiative Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-3598": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3598?format=json",
@@ -200316,9 +200316,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5701",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 5, United States Code, to include certain Federal positions within the definition of law enforcement officer for retirement purposes, and for other purposes.",
+  "title": "Law Enforcement Officers Equity Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5702": {
   "congress": 119,
@@ -200327,9 +200327,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5702",
   "origin_chamber": "Senate",
-  "title": "A bill to improve maternal health policies in correctional facilities, and for other purposes.",
+  "title": "Justice for Incarcerated Moms Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5703": {
   "congress": 119,
@@ -200338,9 +200338,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5703",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 38, United States Code, to establish a program for the provision of support services to borrowers using housing loan benefits administered by the Secretary of Veterans Affairs, and for other purposes.",
+  "title": "VA Home Loan Navigator Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5704": {
   "congress": 119,
@@ -200371,9 +200371,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5706",
   "origin_chamber": "Senate",
-  "title": "A bill to amend the Bank Holding Company Act of 1956 and the Financial Stability Act of 2010 to require a reduction of financial sector emissions to protect financial stability, and for other purposes.",
+  "title": "Fossil Free Finance Act of 2026",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5707": {
   "congress": 119,
@@ -200393,9 +200393,9 @@
   "latest_action_date": "2026-11-10",
   "number": "5708",
   "origin_chamber": "Senate",
-  "title": "A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in Victoria, Texas, as the \"Master Sergeant Roy P. Benavidez VA Clinic\".",
+  "title": "Master Sergeant Roy P. Benavidez VA Clinic Act of 2026",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5709": {
   "congress": 119,
