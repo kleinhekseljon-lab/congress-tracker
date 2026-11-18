@@ -31891,7 +31891,7 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Considered by Senate.",
+  "latest_action": "Considered by Senate. (consideration: CR S5705)",
   "latest_action_date": "2026-11-17",
   "number": "2347",
   "origin_chamber": "House",
@@ -67377,7 +67377,7 @@
  "119-hr-5254": {
   "congress": 119,
   "introduced_date": "2025-09-10",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5709)",
   "latest_action_date": "2026-11-17",
   "number": "5254",
   "origin_chamber": "House",
@@ -104841,15 +104841,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8322": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8322?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-16",
   "latest_action": "Became Public Law No: 119-84.",
   "latest_action_date": "2026-04-18",
   "number": "8322",
   "origin_chamber": "House",
   "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-18"
  },
  "119-hr-8323": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8323?format=json",
@@ -106449,7 +106449,7 @@
  "119-hr-8454": {
   "congress": 119,
   "introduced_date": "2026-04-22",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5709)",
   "latest_action_date": "2026-11-17",
   "number": "8454",
   "origin_chamber": "House",
@@ -130174,15 +130174,15 @@
   "update_date": "2026-08-20"
  },
  "119-hres-1399": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1399?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-30",
   "latest_action": "Motion to reconsider laid on the table Agreed to without objection.",
   "latest_action_date": "2026-06-30",
   "number": "1399",
   "origin_chamber": "House",
   "title": "Directing the Committee on Ethics to preserve and publicly release records relating to monetary settlements involving acts of sexual harassment.",
   "type": "HRES",
-  "update_date": "2026-09-18"
+  "update_date": "2026-11-18"
  },
  "119-hres-14": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/14?format=json",
@@ -133317,7 +133317,7 @@
   "origin_chamber": "House",
   "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
   "type": "HRES",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hres-1656": {
   "congress": 119,
@@ -197744,7 +197744,7 @@
   "origin_chamber": "Senate",
   "title": "Protecting our Students in Schools Act of 2026",
   "type": "S",
-  "update_date": "2026-11-09"
+  "update_date": "2026-11-18"
  },
  "119-s-5471": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5471?format=json",
