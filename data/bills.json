@@ -2835,7 +2835,7 @@
   "origin_chamber": "House",
   "title": "Disapproving the proposed civilian nuclear cooperation agreement between the United States and Saudi Arabia submitted to the Congress on September 14, 2026.",
   "type": "HJRES",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-hjres-218": {
   "api_url": "https://api.congress.gov/v3/bill/119/hjres/218?format=json",
@@ -14143,7 +14143,7 @@
   "origin_chamber": "House",
   "title": "Financial Services Customer Support Onshoring Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-10843": {
   "congress": 119,
@@ -14187,7 +14187,7 @@
   "origin_chamber": "House",
   "title": "Pay Your TAB Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-10847": {
   "congress": 119,
@@ -14209,7 +14209,7 @@
   "origin_chamber": "House",
   "title": "Shipyard Modernization Sustainment Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-10849": {
   "congress": 119,
@@ -16090,7 +16090,7 @@
   "origin_chamber": "House",
   "title": "Veterans Cemetery Access Modernization Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-11001": {
   "congress": 119,
@@ -16167,7 +16167,7 @@
   "origin_chamber": "House",
   "title": "STAND for Vets Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-11008": {
   "congress": 119,
@@ -16299,7 +16299,7 @@
   "origin_chamber": "House",
   "title": "Helping Encourage Animal Rescue through Tax Credits Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11019": {
   "congress": 119,
@@ -16486,7 +16486,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to include qualified domestic film or television production as a qualified production activity for purposes of the special allowance for qualified production property.",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-hr-11034": {
   "congress": 119,
@@ -19335,7 +19335,7 @@
   "origin_chamber": "House",
   "title": "United States Research Protection Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-1319": {
   "congress": 119,
@@ -32351,15 +32351,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-2385": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2385?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
   "latest_action_date": "2026-06-25",
   "number": "2385",
   "origin_chamber": "House",
   "title": "CREATE AI Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-18"
  },
  "119-hr-2386": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2386?format=json",
@@ -99616,15 +99616,15 @@
   "update_date": "2026-08-20"
  },
  "119-hr-7896": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7896?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-12",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2026-03-12",
   "number": "7896",
   "origin_chamber": "House",
   "title": "NOAA Global Ocean Monitoring and Observing Research Act",
   "type": "HR",
-  "update_date": "2026-09-01"
+  "update_date": "2026-11-18"
  },
  "119-hr-7897": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7897?format=json",
@@ -111914,15 +111914,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8901": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8901?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-19",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2026-05-19",
   "number": "8901",
   "origin_chamber": "House",
   "title": "Securing Innovation and Research from Adversaries Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-18"
  },
  "119-hr-8902": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8902?format=json",
@@ -183425,15 +183425,15 @@
   "update_date": "2026-11-03"
  },
  "119-s-4292": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4292?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-14",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-04-14",
   "number": "4292",
   "origin_chamber": "Senate",
   "title": "Improving Retirement Security for Family Caregivers Act of 2026",
   "type": "S",
-  "update_date": "2026-04-27"
+  "update_date": "2026-11-18"
  },
  "119-s-4293": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4293?format=json",
@@ -186274,15 +186274,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-4525": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4525?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-05-14",
   "number": "4525",
   "origin_chamber": "Senate",
   "title": "Securing Innovation and Research from Adversaries Act",
   "type": "S",
-  "update_date": "2026-05-28"
+  "update_date": "2026-11-18"
  },
  "119-s-4526": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4526?format=json",
@@ -200472,7 +200472,7 @@
   "origin_chamber": "Senate",
   "title": "Transportation Relief for Servicemembers at Remote Locations Act of 2026",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5694": {
   "congress": 119,
@@ -200494,7 +200494,7 @@
   "origin_chamber": "Senate",
   "title": "Taxpayer Fairness and IRS Accountability Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5696": {
   "congress": 119,
@@ -200505,7 +200505,7 @@
   "origin_chamber": "Senate",
   "title": "New PACT for Iran Veterans Act",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-s-5697": {
   "congress": 119,
@@ -200648,7 +200648,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Internal Revenue Code of 1986 to establish that employers may offer employees a choice among tax-favored employer contributions.",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-s-5708": {
   "congress": 119,
@@ -200714,7 +200714,7 @@
   "origin_chamber": "Senate",
   "title": "WIPE OUT Burn Pits Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-5713": {
   "congress": 119,
@@ -203354,7 +203354,7 @@
   "origin_chamber": "Senate",
   "title": "United States Research Protection Act of 2025",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-77": {
   "congress": 119,
@@ -205161,15 +205161,15 @@
   "update_date": "2026-09-24"
  },
  "119-s-918": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/918?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-03-10",
   "number": "918",
   "origin_chamber": "Senate",
   "title": "Protect Our Probationary Employees Act",
   "type": "S",
-  "update_date": "2026-02-26"
+  "update_date": "2026-11-18"
  },
  "119-s-919": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/919?format=json",
@@ -208095,7 +208095,7 @@
   "origin_chamber": "Senate",
   "title": "A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
   "type": "SJRES",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-18"
  },
  "119-sjres-23": {
   "api_url": "https://api.congress.gov/v3/bill/119/sjres/23?format=json",
