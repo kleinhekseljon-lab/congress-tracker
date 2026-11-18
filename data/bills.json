@@ -55055,15 +55055,15 @@
   "update_date": "2025-07-30"
  },
  "119-hr-4261": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4261?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-30",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-06-30",
   "number": "4261",
   "origin_chamber": "House",
   "title": "Stopping the Fraudulent Sales of Firearms Act",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-18"
  },
  "119-hr-4262": {
   "congress": 119,
