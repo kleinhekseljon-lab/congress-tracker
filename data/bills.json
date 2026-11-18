@@ -110690,7 +110690,7 @@
   "origin_chamber": "House",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hr-8801": {
   "congress": 119,
@@ -147763,15 +147763,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1343": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1343?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-08",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-04-08",
   "number": "1343",
   "origin_chamber": "Senate",
   "title": "Advancing Quantum Manufacturing Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-1344": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1344?format=json",
