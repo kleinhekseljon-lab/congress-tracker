@@ -31352,13 +31352,13 @@
  "119-hr-2302": {
   "congress": 119,
   "introduced_date": "2025-03-24",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
-  "latest_action_date": "2026-11-16",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-17",
   "number": "2302",
   "origin_chamber": "House",
   "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hr-2303": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2303?format=json",
@@ -31891,13 +31891,13 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Considered by Senate. (consideration: CR S5679)",
-  "latest_action_date": "2026-11-16",
+  "latest_action": "Considered by Senate.",
+  "latest_action_date": "2026-11-17",
   "number": "2347",
   "origin_chamber": "House",
   "title": "Survivor Justice Tax Prevention Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hr-2348": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2348?format=json",
@@ -67377,13 +67377,13 @@
  "119-hr-5254": {
   "congress": 119,
   "introduced_date": "2025-09-10",
-  "latest_action": "Star Print ordered on the reported bill, by unanimous consent.",
-  "latest_action_date": "2026-11-10",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-17",
   "number": "5254",
   "origin_chamber": "House",
   "title": "Gateway Partnership Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-hr-5255": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5255?format=json",
@@ -98881,13 +98881,13 @@
  "119-hr-7834": {
   "congress": 119,
   "introduced_date": "2026-03-05",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
-  "latest_action_date": "2026-11-16",
+  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action_date": "2026-11-17",
   "number": "7834",
   "origin_chamber": "House",
   "title": "Safe Cloud Storage Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-hr-7835": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7835?format=json",
@@ -106447,15 +106447,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8454": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8454?format=json",
   "congress": 119,
-  "latest_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.",
-  "latest_action_date": "2026-09-15",
+  "introduced_date": "2026-04-22",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action_date": "2026-11-17",
   "number": "8454",
   "origin_chamber": "House",
   "title": "To provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-18"
  },
  "119-hr-8455": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8455?format=json",
@@ -144683,15 +144683,15 @@
   "update_date": "2026-03-11"
  },
  "119-s-1088": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1088?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-24",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
   "latest_action_date": "2025-12-09",
   "number": "1088",
   "origin_chamber": "Senate",
   "title": "World War II Women's Memorial Location Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-18"
  },
  "119-s-1089": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1089?format=json",
@@ -151489,7 +151489,7 @@
   "origin_chamber": "Senate",
   "title": "VA Employee Fairness Act of 2025",
   "type": "S",
-  "update_date": "2026-10-29"
+  "update_date": "2026-11-18"
  },
  "119-s-1651": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1651?format=json",
@@ -154297,15 +154297,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1885": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1885?format=json",
   "congress": 119,
-  "latest_action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-  "latest_action_date": "2026-04-14",
+  "introduced_date": "2025-05-22",
+  "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 720.",
+  "latest_action_date": "2026-11-17",
   "number": "1885",
   "origin_chamber": "Senate",
   "title": "Stop the Scroll Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-18"
  },
  "119-s-1886": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1886?format=json",
@@ -156211,15 +156211,15 @@
   "update_date": "2026-01-10"
  },
  "119-s-2042": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2042?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-11",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-237.",
   "latest_action_date": "2025-12-02",
   "number": "2042",
   "origin_chamber": "Senate",
   "title": "Roadless Area Conservation Act of 2025",
   "type": "S",
-  "update_date": "2026-09-24"
+  "update_date": "2026-11-18"
  },
  "119-s-2044": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2044?format=json",
@@ -160248,15 +160248,15 @@
   "update_date": "2026-11-10"
  },
  "119-s-2377": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2377?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-22",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-07-22",
   "number": "2377",
   "origin_chamber": "Senate",
   "title": "EACH Act of 2025",
   "type": "S",
-  "update_date": "2026-06-25"
+  "update_date": "2026-11-18"
  },
  "119-s-2378": {
   "congress": 119,
@@ -167684,15 +167684,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2990": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2990?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-08",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-10-08",
   "number": "2990",
   "origin_chamber": "Senate",
   "title": "Campus Accountability and Safety Act",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-18"
  },
  "119-s-2991": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2991?format=json",
@@ -168748,7 +168748,7 @@
   "origin_chamber": "Senate",
   "title": "Safer Supervision Act of 2025",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-s-3078": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3078?format=json",
@@ -171371,7 +171371,7 @@
  "119-s-3296": {
   "congress": 119,
   "introduced_date": "2025-12-02",
-  "latest_action": "Held at the desk.",
+  "latest_action": "Message on Senate action sent to the House.",
   "latest_action_date": "2026-11-17",
   "number": "3296",
   "origin_chamber": "Senate",
@@ -172565,7 +172565,7 @@
   "origin_chamber": "Senate",
   "title": "Mammography Access for Veterans Act of 2025",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-3396": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3396?format=json",
@@ -173742,7 +173742,7 @@
   "origin_chamber": "Senate",
   "title": "Essential Caregivers Act of 2025",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-3493": {
   "congress": 119,
@@ -176154,15 +176154,15 @@
   "update_date": "2026-10-02"
  },
  "119-s-3694": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3694?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-27",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2026-01-27",
   "number": "3694",
   "origin_chamber": "Senate",
   "title": "Maximizing Transportation Efficiency Act",
   "type": "S",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-18"
  },
  "119-s-3695": {
   "congress": 119,
@@ -177108,7 +177108,7 @@
   "origin_chamber": "Senate",
   "title": "SCAM Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-s-3775": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3775?format=json",
@@ -183733,15 +183733,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4318": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4318?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-16",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-04-16",
   "number": "4318",
   "origin_chamber": "Senate",
   "title": "Breast Cancer Stamp Reauthorization Act",
   "type": "S",
-  "update_date": "2026-10-02"
+  "update_date": "2026-11-18"
  },
  "119-s-4319": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4319?format=json",
@@ -187055,15 +187055,15 @@
   "update_date": "2026-11-06"
  },
  "119-s-4590": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4590?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-20",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-05-20",
   "number": "4590",
   "origin_chamber": "Senate",
   "title": "KIDS Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-18"
  },
  "119-s-4591": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4591?format=json",
@@ -187448,7 +187448,7 @@
   "origin_chamber": "Senate",
   "title": "SILVER Act",
   "type": "S",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-18"
  },
  "119-s-4622": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4622?format=json",
@@ -188012,15 +188012,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-467": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/467?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-02-06",
   "number": "467",
   "origin_chamber": "Senate",
   "title": "End Double Taxation of Successful Consumer Claims Act",
   "type": "S",
-  "update_date": "2026-05-19"
+  "update_date": "2026-11-18"
  },
  "119-s-4670": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4670?format=json",
@@ -188661,15 +188661,15 @@
   "update_date": "2026-09-25"
  },
  "119-s-4724": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4724?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-06-09",
   "number": "4724",
   "origin_chamber": "Senate",
   "title": "No Toxic Chemicals in Food Packaging Act of 2026",
   "type": "S",
-  "update_date": "2026-07-15"
+  "update_date": "2026-11-18"
  },
  "119-s-4725": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4725?format=json",
@@ -195764,7 +195764,7 @@
   "origin_chamber": "Senate",
   "title": "Afghanistan TPS Act of 2026",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-18"
  },
  "119-s-5309": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5309?format=json",
@@ -195976,15 +195976,15 @@
   "update_date": "2026-08-18"
  },
  "119-s-5326": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5326?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-08-06",
   "number": "5326",
   "origin_chamber": "Senate",
   "title": "Health Care Fraud Prevention and Enforcement Act",
   "type": "S",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-18"
  },
  "119-s-5327": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5327?format=json",
@@ -196042,15 +196042,15 @@
   "update_date": "2026-08-24"
  },
  "119-s-5331": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5331?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-08-06",
   "number": "5331",
   "origin_chamber": "Senate",
   "title": "Protect American Values Act of 2026",
   "type": "S",
-  "update_date": "2026-08-19"
+  "update_date": "2026-11-18"
  },
  "119-s-5332": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5332?format=json",
@@ -197659,15 +197659,15 @@
   "update_date": "2026-11-13"
  },
  "119-s-5464": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5464?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on Veterans' Affairs.",
   "latest_action_date": "2026-09-23",
   "number": "5464",
   "origin_chamber": "Senate",
   "title": "VOICE for Women Veterans Act",
   "type": "S",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-18"
  },
  "119-s-5465": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5465?format=json",
@@ -198154,15 +198154,15 @@
   "update_date": "2026-10-05"
  },
  "119-s-5504": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5504?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-24",
   "latest_action": "Read twice and referred to the Committee on Armed Services.",
   "latest_action_date": "2026-09-24",
   "number": "5504",
   "origin_chamber": "Senate",
   "title": "A bill to require the Secretary of Defense to establish a pilot program on Department of Defense partnerships with institutions of higher education recognized in the National Centers of Academic Excellence in Cybersecurity program for Cyber Research, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-18"
  },
  "119-s-5505": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5505?format=json",
@@ -199427,7 +199427,7 @@
   "origin_chamber": "Senate",
   "title": "Secure Rural Schools Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-5609": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5609?format=json",
@@ -199958,15 +199958,15 @@
   "update_date": "2026-10-15"
  },
  "119-s-5652": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5652?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2026-09-30",
   "number": "5652",
   "origin_chamber": "Senate",
   "title": "Build American Efficiency Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-18"
  },
  "119-s-5653": {
   "congress": 119,
@@ -200002,15 +200002,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-5656": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5656?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-09-30",
   "number": "5656",
   "origin_chamber": "Senate",
   "title": "Domestic Violence SAFE Notice Act",
   "type": "S",
-  "update_date": "2026-10-15"
+  "update_date": "2026-11-18"
  },
  "119-s-5657": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5657?format=json",
@@ -200233,15 +200233,15 @@
   "update_date": "2026-10-20"
  },
  "119-s-5675": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5675?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-09-30",
   "number": "5675",
   "origin_chamber": "Senate",
   "title": "Nutrition Continuity for Military Families Act of 2026",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-18"
  },
  "119-s-5676": {
   "congress": 119,
@@ -200340,7 +200340,7 @@
   "origin_chamber": "Senate",
   "title": "Best Practices for Military Family Child Care Homes Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-18"
  },
  "119-s-5684": {
   "congress": 119,
@@ -200373,7 +200373,7 @@
   "origin_chamber": "Senate",
   "title": "No Public Executions in America Act",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-18"
  },
  "119-s-5687": {
   "congress": 119,
@@ -200824,7 +200824,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the definition of professional degree in the Higher Education Act of 1965.",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-5723": {
   "congress": 119,
@@ -200837,6 +200837,72 @@
   "type": "S",
   "update_date": "2026-11-17"
  },
+ "119-s-5724": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-17",
+  "number": "5724",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend title XVIII of the Social Security Act to establish requirements with respect to the use of prior authorization and claims denial under Medicare Advantage plans.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5725": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "latest_action_date": "2026-11-17",
+  "number": "5725",
+  "origin_chamber": "Senate",
+  "title": "A bill to ensure that whistleblowers, including contractors, are protected from retaliation when a Federal employee orders a reprisal, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5726": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Armed Services.",
+  "latest_action_date": "2026-11-17",
+  "number": "5726",
+  "origin_chamber": "Senate",
+  "title": "A bill to modify the organization of the Department of Defense with respect to special-operations peculiar matters, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5727": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-17",
+  "number": "5727",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to expand the military housing allowance exclusion for purposes of determining area gross income in determining whether a residential rental property is a qualified residential rental property for purposes of the exempt facility bond rules.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5728": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-17",
+  "number": "5728",
+  "origin_chamber": "Senate",
+  "title": "A bill to withdraw normal trade relations treatment with respect to the products of the People's Republic of China, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5729": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-17",
+  "number": "5729",
+  "origin_chamber": "Senate",
+  "title": "A bill to establish education partnership programs between public schools and public health agencies to prevent the misuse and overdose of synthetic opioids by youth, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
  "119-s-573": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/573?format=json",
   "congress": 119,
@@ -200847,6 +200913,83 @@
   "title": "A bill to designate a mountain in the State of Alaska as Denali.",
   "type": "S",
   "update_date": "2026-09-08"
+ },
+ "119-s-5730": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-17",
+  "number": "5730",
+  "origin_chamber": "Senate",
+  "title": "A bill to promote registered apprenticeships and on-the-job training for small and medium-sized businesses within in-demand industry sectors, through the establishment and support of eligible partnerships.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5731": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-17",
+  "number": "5731",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to treat qualified water competency and water safety lesson expenses as medical expenses.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5732": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-17",
+  "number": "5732",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the 21st Century Cures Act and the Public Health Service Act to ensure that expenses relating to the acquisition or use of devices for use in the detection of fentanyl, xylazine, and other emerging adulterant substances, including test strips, are allowable expenses under certain grant programs.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5733": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
+  "latest_action_date": "2026-11-17",
+  "number": "5733",
+  "origin_chamber": "Senate",
+  "title": "A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal Power Act and to provide for presumptions regarding cost recovery for such conductors.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5734": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "latest_action_date": "2026-11-17",
+  "number": "5734",
+  "origin_chamber": "Senate",
+  "title": "A bill to promote meat product innovation, including in specialty meats, and value-added meat product development for the economic benefit of United States farmers and their communities, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5735": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-17",
+  "number": "5735",
+  "origin_chamber": "Senate",
+  "title": "A bill to allow Americans to receive paid leave time to process and address their own health needs and the health needs of their partners during the period following a pregnancy loss, an intrauterine insemination or an assisted reproductive technology procedure that did not result in a live birth, a stillbirth, a failed adoption arrangement, a failed surrogacy arrangement, or a diagnosis or event that impacts pregnancy or fertility, to support related research and education, and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
+ },
+ "119-s-5736": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action_date": "2026-11-17",
+  "number": "5736",
+  "origin_chamber": "Senate",
+  "title": "A bill to amend the Agricultural Marketing Act of 1946 to modify the definition of the term \"hemp\", and for other purposes.",
+  "type": "S",
+  "update_date": "2026-11-18"
  },
  "119-s-574": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/574?format=json",
@@ -218636,15 +218779,15 @@
   "update_date": "2026-10-07"
  },
  "119-sres-908": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/908?format=json",
   "congress": 119,
-  "latest_action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5010)",
-  "latest_action_date": "2026-09-24",
+  "introduced_date": "2026-09-24",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-17",
   "number": "908",
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of the week of September 21 through September 25, 2026, as \"National Hazing Awareness Week\".",
   "type": "SRES",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-18"
  },
  "119-sres-909": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/909?format=json",
@@ -219131,15 +219274,15 @@
   "update_date": "2026-10-14"
  },
  "119-sres-949": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/949?format=json",
   "congress": 119,
-  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5274)",
-  "latest_action_date": "2026-09-30",
+  "introduced_date": "2026-09-30",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-17",
   "number": "949",
   "origin_chamber": "Senate",
   "title": "A resolution designating October 12, 2026, as \"National Loggers Day\".",
   "type": "SRES",
-  "update_date": "2026-10-09"
+  "update_date": "2026-11-18"
  },
  "119-sres-95": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/95?format=json",
@@ -219250,6 +219393,17 @@
   "title": "A resolution recognizing the week of November 9 through November 13, 2026, as \"National Veterans Small Business Week\".",
   "type": "SRES",
   "update_date": "2026-11-13"
+ },
+ "119-sres-959": {
+  "congress": 119,
+  "introduced_date": "2026-11-17",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action_date": "2026-11-17",
+  "number": "959",
+  "origin_chamber": "Senate",
+  "title": "A resolution recognizing the death of John Davison \"Jay\" Rockefeller IV, former Senator for the State of West Virginia.",
+  "type": "SRES",
+  "update_date": "2026-11-18"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
