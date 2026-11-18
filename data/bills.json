@@ -84840,7 +84840,7 @@
   "origin_chamber": "House",
   "title": "To amend the Internal Revenue Code of 1986 to establish an exception for multiemployer plan participants to the requirements for automatic enrollment.",
   "type": "HR",
-  "update_date": "2026-11-06"
+  "update_date": "2026-11-18"
  },
  "119-hr-6686": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6686?format=json",
@@ -104247,15 +104247,15 @@
   "update_date": "2026-11-02"
  },
  "119-hr-8274": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8274?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-14",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-04-14",
   "number": "8274",
   "origin_chamber": "House",
   "title": "Improving Retirement Security for Family Caregivers Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-18"
  },
  "119-hr-8275": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8275?format=json",
@@ -175197,15 +175197,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3615": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3615?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-12",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-01-12",
   "number": "3615",
   "origin_chamber": "Senate",
   "title": "Multiemployer Plan Relief Act",
   "type": "S",
-  "update_date": "2026-02-04"
+  "update_date": "2026-11-18"
  },
  "119-s-3616": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3616?format=json",
@@ -177317,7 +177317,7 @@
   "origin_chamber": "Senate",
   "title": "Regional Ocean Partnerships Reauthorization Act",
   "type": "S",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-18"
  },
  "119-s-3792": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3792?format=json",
@@ -218781,7 +218781,7 @@
  "119-sres-908": {
   "congress": 119,
   "introduced_date": "2026-09-24",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5727)",
   "latest_action_date": "2026-11-17",
   "number": "908",
   "origin_chamber": "Senate",
@@ -219276,7 +219276,7 @@
  "119-sres-949": {
   "congress": 119,
   "introduced_date": "2026-09-30",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5727)",
   "latest_action_date": "2026-11-17",
   "number": "949",
   "origin_chamber": "Senate",
@@ -219397,7 +219397,7 @@
  "119-sres-959": {
   "congress": 119,
   "introduced_date": "2026-11-17",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5711-5714; text: CR S5725)",
   "latest_action_date": "2026-11-17",
   "number": "959",
   "origin_chamber": "Senate",
