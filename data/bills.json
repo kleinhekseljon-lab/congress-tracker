@@ -27651,7 +27651,7 @@
   "origin_chamber": "House",
   "title": "Richard L. Trumka Protecting the Right to Organize Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-18"
  },
  "119-hr-200": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/200?format=json",
@@ -160938,7 +160938,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-18"
  },
  "119-s-2435": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2435?format=json",
@@ -171371,7 +171371,7 @@
  "119-s-3296": {
   "congress": 119,
   "introduced_date": "2025-12-02",
-  "latest_action": "Message on Senate action sent to the House.",
+  "latest_action": "Held at the desk.",
   "latest_action_date": "2026-11-17",
   "number": "3296",
   "origin_chamber": "Senate",
@@ -174886,7 +174886,7 @@
   "origin_chamber": "Senate",
   "title": "RISE Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-359": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/359?format=json",
@@ -176492,7 +176492,7 @@
   "origin_chamber": "Senate",
   "title": "Bay Area Ridge National Scenic Trail Feasibility Study Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-3721": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3721?format=json",
@@ -178934,7 +178934,7 @@
   "origin_chamber": "Senate",
   "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-18"
  },
  "119-s-3924": {
   "congress": 119,
@@ -189395,7 +189395,7 @@
   "origin_chamber": "Senate",
   "title": "National Defense Authorization Act for Fiscal Year 2027",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-18"
  },
  "119-s-4785": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4785?format=json",
