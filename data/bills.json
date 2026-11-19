@@ -193094,15 +193094,15 @@
   "update_date": "2026-09-28"
  },
  "119-s-5066": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5066?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-22",
   "latest_action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4233)",
   "latest_action_date": "2026-07-22",
   "number": "5066",
   "origin_chamber": "Senate",
   "title": "Health Equity and Accountability Act of 2026",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-19"
  },
  "119-s-5067": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5067?format=json",
@@ -196856,15 +196856,15 @@
   "update_date": "2026-10-01"
  },
  "119-s-5374": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5374?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-07",
   "latest_action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
   "latest_action_date": "2026-09-30",
   "number": "5374",
   "origin_chamber": "Senate",
   "title": "A bill to facilitate the conveyance of certain land in Bonners Ferry, Idaho, platted under section 2387 of the Revised Statutes, and for other purposes.",
   "type": "S",
-  "update_date": "2026-10-06"
+  "update_date": "2026-11-19"
  },
  "119-s-5375": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5375?format=json",
@@ -214500,15 +214500,15 @@
   "update_date": "2026-04-01"
  },
  "119-sres-497": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/497?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-10",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S8183; text: CR S8135)",
   "latest_action_date": "2025-11-10",
   "number": "497",
   "origin_chamber": "Senate",
   "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
   "type": "SRES",
-  "update_date": "2025-12-03"
+  "update_date": "2026-11-19"
  },
  "119-sres-498": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/498?format=json",
@@ -220030,7 +220030,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-19"
  },
  "119-sres-956": {
   "congress": 119,
