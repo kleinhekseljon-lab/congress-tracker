@@ -120736,15 +120736,15 @@
   "update_date": "2026-07-27"
  },
  "119-hr-9624": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9624?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-09",
   "latest_action": "Ordered to be Reported (Amended) by Voice Vote.",
   "latest_action_date": "2026-07-20",
   "number": "9624",
   "origin_chamber": "House",
   "title": "Intelligence Authorization Act for Fiscal Year 2027",
   "type": "HR",
-  "update_date": "2026-07-24"
+  "update_date": "2026-11-19"
  },
  "119-hr-9625": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9625?format=json",
