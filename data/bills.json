@@ -75383,15 +75383,15 @@
   "update_date": "2026-03-04"
  },
  "119-hr-5889": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5889?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-31",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 2.",
   "latest_action_date": "2026-09-16",
   "number": "5889",
   "origin_chamber": "House",
   "title": "Eviction Helpline Act",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-19"
  },
  "119-hr-589": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/589?format=json",
