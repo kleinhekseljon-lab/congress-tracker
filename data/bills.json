@@ -5530,7 +5530,7 @@
   "origin_chamber": "House",
   "title": "Crossett Experimental Forest Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-10137": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json",
@@ -6628,9 +6628,9 @@
   "latest_action_date": "2026-09-02",
   "number": "10226",
   "origin_chamber": "House",
-  "title": "To prohibit the use of shock gloves by Federal law enforcement officers to enforce the immigration laws, and for other purposes.",
+  "title": "No Shock Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-10227": {
   "congress": 119,
@@ -8525,15 +8525,15 @@
   "update_date": "2026-09-29"
  },
  "119-hr-10382": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10382?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-15",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2026-09-15",
   "number": "10382",
   "origin_chamber": "House",
   "title": "To correct a pay disparity adversely affecting employees of the United States Army Corps of Engineers operating the Soo Locks at Sault Sainte Marie, Michigan, to support safe navigation in the Great Lakes, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-16"
+  "update_date": "2026-11-19"
  },
  "119-hr-10383": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10383?format=json",
@@ -16539,9 +16539,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11038",
   "origin_chamber": "House",
-  "title": "To require the Secretary of State to notify Congress of gray zone activities carried out by the Russian Federation against NATO allies, and for other purposes.",
+  "title": "WATCH Russia Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11039": {
   "congress": 119,
@@ -16550,9 +16550,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11039",
   "origin_chamber": "House",
-  "title": "To expand Federal investment in pediatric cancer research, improve access to clinical trials, support holistic and innovative therapies, reduce the financial burden on families, and for other purposes.",
+  "title": "Ahmad Butler Pediatric Cancer Hope for a Cure Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-1104": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1104?format=json",
@@ -16572,9 +16572,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11040",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of Education, in consultation with the Secretary of Housing and Urban Development, to establish a demonstration program to increase the postsecondary attainment of students who are experiencing homelessness or at risk of experiencing homelessness through housing assistance and supportive services, and for other purposes.",
+  "title": "Postsecondary Attainment Through Housing Supports Demonstration Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11041": {
   "congress": 119,
@@ -16583,9 +16583,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11041",
   "origin_chamber": "House",
-  "title": "To amend title XVIII of the Social Security Act to protect against high out-of-pocket expenditures for Medicare fee-for-service benefits, and to amend titles XVIII and XIX of the Social Security Act to enhance programs that protect low-income Medicare beneficiaries.",
+  "title": "Medicare Cost Cap Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11042": {
   "congress": 119,
@@ -16594,9 +16594,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11042",
   "origin_chamber": "House",
-  "title": "To prohibit the use of funds authorized to be appropriated for the Department of Defense to carry out a hiring freeze, reduction in force, or hiring delay without cause at a public shipyard.",
+  "title": "Public Shipyard Workforce Protection Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11043": {
   "congress": 119,
@@ -16605,9 +16605,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11043",
   "origin_chamber": "House",
-  "title": "To direct the Secretary of Defense to establish military housing policies to protect victims of domestic violence, and for other purposes.",
+  "title": "Safe Housing for Military Domestic Violence Survivors Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11044": {
   "congress": 119,
@@ -16616,9 +16616,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11044",
   "origin_chamber": "House",
-  "title": "To amend chapter 88 of title 10, United States Code, to direct the Secretary of Defense to establish an internship program for military child and youth programs, and for other purposes.",
+  "title": "Military Child Care Workforce Development Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11045": {
   "congress": 119,
@@ -16627,9 +16627,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11045",
   "origin_chamber": "House",
-  "title": "To amend the 21st Century Cures Act and the Public Health Service Act to ensure that expenses relating to the acquisition or use of devices for use in the detection of fentanyl, xylazine, and other emerging adulterant substances, including test strips, are allowable expenses under certain grant programs.",
+  "title": "Preventing Overdoses with Test Strips Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11046": {
   "congress": 119,
@@ -16649,9 +16649,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11047",
   "origin_chamber": "House",
-  "title": "To require certain persons to disclose to the Secretary of Defense covered relationships for covered contracts relating to covered aerospace technology, and for other purposes.",
+  "title": "Aerospace Transparency Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11048": {
   "congress": 119,
@@ -16660,9 +16660,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11048",
   "origin_chamber": "House",
-  "title": "To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes.",
+  "title": "GITS Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11049": {
   "congress": 119,
@@ -16704,9 +16704,9 @@
   "latest_action_date": "2026-11-17",
   "number": "11051",
   "origin_chamber": "House",
-  "title": "To prohibit the transfer of the Office for Civil Rights of the Department of Education to another Federal agency, and for other purposes.",
+  "title": "Defend Students\u2019 Civil Rights Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-11052": {
   "congress": 119,
@@ -31358,7 +31358,7 @@
   "origin_chamber": "House",
   "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-2303": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2303?format=json",
@@ -31402,7 +31402,7 @@
   "origin_chamber": "House",
   "title": "Adams Memorial-Great American Heroes Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-19"
  },
  "119-hr-2307": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2307?format=json",
@@ -32557,7 +32557,7 @@
   "origin_chamber": "House",
   "title": "Pit River Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-2401": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2401?format=json",
@@ -38343,7 +38343,7 @@
   "origin_chamber": "House",
   "title": "University of Utah Research Park Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-hr-2877": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2877?format=json",
@@ -98887,7 +98887,7 @@
   "origin_chamber": "House",
   "title": "Safe Cloud Storage Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-7835": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7835?format=json",
@@ -100339,7 +100339,7 @@
   "origin_chamber": "House",
   "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-7955": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7955?format=json",
@@ -103287,7 +103287,7 @@
   "origin_chamber": "House",
   "title": "Responsible Cormorant Management and Control Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-8196": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8196?format=json",
@@ -106807,7 +106807,7 @@
   "origin_chamber": "House",
   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-8484": {
   "congress": 119,
@@ -109524,7 +109524,7 @@
   "origin_chamber": "House",
   "title": "CHARLIE Act",
   "type": "HR",
-  "update_date": "2026-10-31"
+  "update_date": "2026-11-19"
  },
  "119-hr-8706": {
   "congress": 119,
@@ -116410,7 +116410,7 @@
   "origin_chamber": "House",
   "title": "Renewing the African American Civil Rights Network Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-927": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/927?format=json",
@@ -117785,7 +117785,7 @@
   "origin_chamber": "House",
   "title": "AWARE Act",
   "type": "HR",
-  "update_date": "2026-11-05"
+  "update_date": "2026-11-19"
  },
  "119-hr-9382": {
   "congress": 119,
@@ -120458,7 +120458,7 @@
   "origin_chamber": "House",
   "title": "Common Sense 250 Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-9601": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9601?format=json",
@@ -122680,7 +122680,7 @@
   "origin_chamber": "House",
   "title": "South Dakota Water Feasibility Studies Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-9786": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9786?format=json",
@@ -133317,7 +133317,7 @@
   "origin_chamber": "House",
   "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
   "type": "HRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-hres-1656": {
   "congress": 119,
@@ -151850,9 +151850,9 @@
   "latest_action_date": "2026-11-16",
   "number": "1682",
   "origin_chamber": "Senate",
-  "title": "Alex Gate Safety Act of 2025",
+  "title": "Alex Gate Safety Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-1683": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1683?format=json",
@@ -154303,9 +154303,9 @@
   "latest_action_date": "2026-11-17",
   "number": "1885",
   "origin_chamber": "Senate",
-  "title": "Stop the Scroll Act",
+  "title": "Stop the Scroll Act of 2026",
   "type": "S",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-s-1886": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1886?format=json",
@@ -185295,15 +185295,15 @@
   "update_date": "2026-10-09"
  },
  "119-s-4445": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4445?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-30",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-04-30",
   "number": "4445",
   "origin_chamber": "Senate",
   "title": "Veterans Protection from Fraud Act of 2026",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-19"
  },
  "119-s-4446": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4446?format=json",
@@ -191397,7 +191397,7 @@
   "origin_chamber": "Senate",
   "title": "ITS Codification Act",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-4951": {
   "congress": 119,
@@ -200769,7 +200769,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to amend title 36, United States Code, to move the place of incorporation and domicile of the National Woman's Relief Corps to Illinois, to move the principal office of such Corps to Murphysboro, Illinois, and for other purposes.",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-19"
  },
  "119-s-5718": {
   "congress": 119,
@@ -200789,9 +200789,9 @@
   "latest_action_date": "2026-11-16",
   "number": "5719",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title XIX of the Social Security Act to clarify that whole genome and whole exome sequencing for children with certain medical needs is covered under the Medicaid program.",
+  "title": "Genomic Answers for Children\u2019s Health Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-572": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/572?format=json",
@@ -200811,9 +200811,9 @@
   "latest_action_date": "2026-11-16",
   "number": "5720",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 9 of the United States Code with respect to arbitration.",
+  "title": "Ending Forced Arbitration of Children Online Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-5721": {
   "congress": 119,
@@ -200822,9 +200822,9 @@
   "latest_action_date": "2026-11-16",
   "number": "5721",
   "origin_chamber": "Senate",
-  "title": "A bill to require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes.",
+  "title": "IT Acquisition Readiness Act",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-5722": {
   "congress": 119,
@@ -200844,9 +200844,9 @@
   "latest_action_date": "2026-11-16",
   "number": "5723",
   "origin_chamber": "Senate",
-  "title": "A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
+  "title": "No Forced Arbitration for Child Sexual Exploitation and Cyber Injuries Act",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-5724": {
   "congress": 119,
@@ -218798,7 +218798,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution supporting the designation of the week of September 21 through September 25, 2026, as \"National Hazing Awareness Week\".",
   "type": "SRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-sres-909": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/909?format=json",
@@ -219293,7 +219293,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution designating October 12, 2026, as \"National Loggers Day\".",
   "type": "SRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-sres-95": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/95?format=json",
@@ -219414,7 +219414,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the death of John Davison \"Jay\" Rockefeller IV, former Senator for the State of West Virginia.",
   "type": "SRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-sres-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/96?format=json",
