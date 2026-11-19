@@ -15886,13 +15886,13 @@
  "119-hr-10986": {
   "congress": 119,
   "introduced_date": "2026-11-10",
-  "latest_action": "Referred to the House Committee on the Judiciary.",
-  "latest_action_date": "2026-11-10",
+  "latest_action": "Sponsor introductory remarks on measure. (CR H6260)",
+  "latest_action_date": "2026-11-18",
   "number": "10986",
   "origin_chamber": "House",
   "title": "Lebanon TPS Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-hr-10987": {
   "congress": 119,
@@ -16568,8 +16568,8 @@
  "119-hr-11040": {
   "congress": 119,
   "introduced_date": "2026-11-17",
-  "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "latest_action_date": "2026-11-17",
+  "latest_action": "Sponsor introductory remarks on measure. (CR H6273)",
+  "latest_action_date": "2026-11-18",
   "number": "11040",
   "origin_chamber": "House",
   "title": "Postsecondary Attainment Through Housing Supports Demonstration Act of 2026",
@@ -114026,15 +114026,15 @@
   "update_date": "2026-06-30"
  },
  "119-hr-9052": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9052?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-29",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2026-05-29",
   "number": "9052",
   "origin_chamber": "House",
   "title": "Small Business Workforce Pipeline Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-03"
+  "update_date": "2026-11-19"
  },
  "119-hr-9053": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9053?format=json",
@@ -116487,7 +116487,7 @@
   "origin_chamber": "House",
   "title": "Protect Working Musicians Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-03"
+  "update_date": "2026-11-19"
  },
  "119-hr-9254": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9254?format=json",
@@ -119383,15 +119383,15 @@
   "update_date": "2026-10-31"
  },
  "119-hr-9491": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9491?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-25",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2026-06-25",
   "number": "9491",
   "origin_chamber": "House",
   "title": "Prison to Proprietorship Act",
   "type": "HR",
-  "update_date": "2026-08-03"
+  "update_date": "2026-11-19"
  },
  "119-hr-9492": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9492?format=json",
@@ -123255,15 +123255,15 @@
   "update_date": "2026-07-19"
  },
  "119-hr-9810": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9810?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2026-07-21",
   "number": "9810",
   "origin_chamber": "House",
   "title": "Small Business Development Centers Improvement Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-19"
  },
  "119-hr-9811": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9811?format=json",
@@ -123343,15 +123343,15 @@
   "update_date": "2026-11-10"
  },
  "119-hr-9818": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9818?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-21",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2026-07-21",
   "number": "9818",
   "origin_chamber": "House",
   "title": "Women\u2019s Business Centers Improvement Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-16"
+  "update_date": "2026-11-19"
  },
  "119-hr-9819": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9819?format=json",
@@ -127127,15 +127127,15 @@
   "update_date": "2026-04-07"
  },
  "119-hres-1127": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1127?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-03-19",
   "number": "1127",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of March 22, 2026, through March 28, 2026, as \"National Cleaning Week\".",
   "type": "HRES",
-  "update_date": "2026-03-26"
+  "update_date": "2026-11-19"
  },
  "119-hres-1128": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1128?format=json",
@@ -134728,15 +134728,15 @@
   "update_date": "2025-05-13"
  },
  "119-hres-247": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/247?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-25",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-25",
   "number": "247",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of March 23, 2025, through March 29, 2025, as \"National Cleaning Week\".",
   "type": "HRES",
-  "update_date": "2026-04-08"
+  "update_date": "2026-11-19"
  },
  "119-hres-248": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/248?format=json",
@@ -135597,15 +135597,15 @@
   "update_date": "2026-11-06"
  },
  "119-hres-318": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/318?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-09",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2025-04-09",
   "number": "318",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of the week of April 24-29, 2025, as \"Small Businesses in For-Hire Transportation Week\".",
   "type": "HRES",
-  "update_date": "2025-04-11"
+  "update_date": "2026-11-19"
  },
  "119-hres-319": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/319?format=json",
@@ -135993,15 +135993,15 @@
   "update_date": "2026-09-28"
  },
  "119-hres-350": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/350?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-24",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-04-24",
   "number": "350",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of April 24, 2025, as \"Remanufacturing Day\".",
   "type": "HRES",
-  "update_date": "2025-05-29"
+  "update_date": "2026-11-19"
  },
  "119-hres-351": {
   "congress": 119,
@@ -144485,26 +144485,26 @@
   "update_date": "2025-12-05"
  },
  "119-s-1047": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1047?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.",
   "latest_action_date": "2025-04-01",
   "number": "1047",
   "origin_chamber": "Senate",
   "title": "Assisting Small Businesses Not Fraudsters Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-1048": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1048?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-03-13",
   "number": "1048",
   "origin_chamber": "Senate",
   "title": "Connecting Small Businesses with Career and Technical Education Graduates Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-1049": {
   "congress": 119,
@@ -144650,15 +144650,15 @@
   "update_date": "2026-03-06"
  },
  "119-s-1060": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1060?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-03-13",
   "number": "1060",
   "origin_chamber": "Senate",
   "title": "AMERICA Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-19"
  },
  "119-s-1061": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1061?format=json",
@@ -147521,15 +147521,15 @@
   "update_date": "2026-09-21"
  },
  "119-s-130": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/130?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-16",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-01-16",
   "number": "130",
   "origin_chamber": "Senate",
   "title": "Competition and Antitrust Law Enforcement Reform Act of 2025",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-19"
  },
  "119-s-1300": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1300?format=json",
@@ -151250,15 +151250,15 @@
   "update_date": "2025-05-27"
  },
  "119-s-1608": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1608?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-06",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-05-06",
   "number": "1608",
   "origin_chamber": "Senate",
   "title": "Supporting NEW BUSINESSES Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-1609": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1609?format=json",
@@ -152383,15 +152383,15 @@
   "update_date": "2026-06-17"
  },
  "119-s-1703": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1703?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.",
   "latest_action_date": "2025-07-29",
   "number": "1703",
   "origin_chamber": "Senate",
   "title": "Rural Small Business Resilience Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-1704": {
   "congress": 119,
@@ -153505,15 +153505,15 @@
   "update_date": "2026-04-02"
  },
  "119-s-1796": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1796?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-15",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-05-15",
   "number": "1796",
   "origin_chamber": "Senate",
   "title": "HART Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-19"
  },
  "119-s-1797": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1797?format=json",
@@ -154429,15 +154429,15 @@
   "update_date": "2025-06-13"
  },
  "119-s-1872": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1872?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-22",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-11-10",
   "number": "1872",
   "origin_chamber": "Senate",
   "title": "Critical Infrastructure Manufacturing Feasibility Act",
   "type": "S",
-  "update_date": "2026-10-22"
+  "update_date": "2026-11-19"
  },
  "119-s-1873": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1873?format=json",
@@ -156222,15 +156222,15 @@
   "update_date": "2026-09-18"
  },
  "119-s-202": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/202?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-23",
   "latest_action": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-01-23",
   "number": "202",
   "origin_chamber": "Senate",
   "title": "Helping Small Businesses THRIVE Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-2020": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2020?format=json",
