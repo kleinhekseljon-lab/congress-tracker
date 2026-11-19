@@ -19671,6 +19671,22 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23400/protecting-consumers-from-sim-swap-and-port-out-fraud"
  },
+ "2026-23429": {
+  "abstract": "The Department of Health and Human Services (HHS or \"Department\") is issuing this final rule to modify the Standards for Privacy of Individually Identifiable Health Information (\"Privacy Rule\") under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Health Information Technology for Economic and Clinical Health (HITECH) Act. These modifications address standards that may impede the nationwide transition to value-based health care by limiting or discouraging individual access or care coordination and case management or posing other unnecessary burdens. The modifications in this final rule promote the essential sharing of individuals' protected health information (PHI) for care coordination and individual engagement while continuing to protect its privacy and security.",
+  "agencies": [
+   "Health and Human Services Department"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-19",
+  "published": "2026-11-19",
+  "significant": true,
+  "title": "HIPAA Privacy Rule: Changes To Support Coordinated Care and Individual Engagement and Reduce Regulatory Burdens",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23429/hipaa-privacy-rule-changes-to-support-coordinated-care-and-individual-engagement-and-reduce"
+ },
  "2026-23435": {
   "abstract": "In September 2023, the U.S. Consumer Product Safety Commission (CPSC or Commission) issued a safety standard for button cell or coin batteries and consumer products containing such products in accordance with Reese's Law. The standard incorporated by reference ANSI/UL 4200A- 2023, Standard for Safety for Products Incorporating Button Batteries or Coin Cell Batteries. UL Standards and Engagement (ULSE) has now issued a revised standard, ANSI/UL 4200A-2026. Consistent with Reese's Law, this direct final rule updates the mandatory safety standard to incorporate by reference ANSI/UL 4200A-2026.",
   "agencies": [
@@ -19722,6 +19738,24 @@
   "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+ },
+ "2026-23461": {
+  "abstract": "This proposed rule would revise provisions regarding provider enrollment, medical review, investigations, and other program integrity oversight provisions to greatly strengthen our ability to crush fraud, enhance program integrity efforts across Medicare, Medicaid, Children's Health Insurance Program, and the Marketplace and maximize regulatory authorities to address inappropriate payments.",
+  "agencies": [
+   "Health and Human Services Department",
+   "Centers for Medicare & Medicaid Services"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department",
+   "centers-for-medicare-medicaid-services"
+  ],
+  "comments_close_on": "2027-01-19",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH)",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious"
  },
  "2026-23465": {
   "abstract": "This document gives notice of a proposed class prohibited transaction exemption (PTE). This proposed QROAD class PTE (Proposed QROAD Class Exemption) would allow certain qualified professional asset managers (QPAMs) to continue relying on PTE 84-14, known as the QPAM Class Exemption, even after an event that would otherwise make them ineligible under Section I(g) of that exemption. To use this alternative path, the QPAM must comply with the protective conditions in this Proposed QROAD Class Exemption, if granted. This proposal does not change any fiduciary duties under ERISA section 404 or expand the relief available under the QPAM Class Exemption.",
@@ -19877,6 +19911,24 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes"
  },
+ "2026-23529": {
+  "abstract": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models. Data centers, foreign foundries, and chip exporters are required to perform robust due diligence on their customers, including any direct or indirect ownership or control by persons in Country Group D:5 or Macau, as part of complying with this new control. The license requirement will not apply to commercial recommender systems, such as those used by online retailers or social media companies, as these functions do not pose the same national security threat. Second, in addition to the current license requirements for advanced semiconductors, a license will be required to export, reexport, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil (and any additional country designated by the Secretary of Commerce, in consultation with the Secretary of Sta",
+  "agencies": [
+   "Commerce Department",
+   "Industry and Security Bureau"
+  ],
+  "agency_slugs": [
+   "commerce-department",
+   "industry-and-security-bureau"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-19",
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Addressing Remote Access to Advanced Semiconductors",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+ },
  "2026-23530": {
   "abstract": "This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans. The regulations reflect statutory changes made by the SECURE 2.0 Act of 2022 requiring that certain cash or deferred arrangements and salary reduction agreements be eligible automatic contribution arrangements that satisfy additional specified requirements. The regulations affect participants in, beneficiaries of, employers maintaining, and administrators of certain retirement plans that include cash or deferred arrangements or annuity contracts purchased under salary reduction agreements and other retirement plans that include eligible automatic contribution arrangements.",
   "agencies": [
@@ -19912,6 +19964,212 @@
   "title": "Racial Nondiscrimination in Private Schools; Hearing",
   "type": "Proposed Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing"
+ },
+ "2026-23555": {
+  "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing amendments to its executive and director compensation disclosure rules to make the requirements more principles-based and to reduce compliance burdens for registrants, while maintaining the disclosure of material information to investors. The proposed amendments would focus the disclosures on the principal executive officer (\"PEO\") and principal financial officer (\"PFO\"), streamline the tabular disclosure requirements, and simplify and rationalize various other aspects of the compensation disclosure rules, including the Compensation Discussion and Analysis (\"CD&A\"), pay ratio, pay- versus-performance, and perquisites disclosure requirements.",
+  "agencies": [
+   "Securities and Exchange Commission"
+  ],
+  "agency_slugs": [
+   "securities-and-exchange-commission"
+  ],
+  "comments_close_on": "2027-01-19",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Executive Compensation Disclosure Reform",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform"
+ },
+ "2026-23569": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2026-12-08, which applies to all Airbus Helicopters Model AS350B2, AS350B3, EC130B4, and EC130T2 helicopters. AD 2026-12-08 requires revising the airworthiness limitations section (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. Since the FAA issued AD 2026-12-08, a determination was made that new and more restrictive airworthiness limitations and maintenance tasks are necessary. This proposed AD would require incorporating these airworthiness limitations and maintenance tasks into the ALS of the existing MM or ICA and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; Airbus Helicopters",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23569/airworthiness-directives-airbus-helicopters"
+ },
+ "2026-23572": {
+  "abstract": "The Environmental Protection Agency (EPA) is finalizing a limited approval and limited disapproval of three permitting rules as a revision to the San Joaquin Valley Unified Air Pollution Control District (SJVUAPCD or \"District\") portion of the California State Implementation Plan (SIP). These are revisions to the District's New Source Review (NSR) air permitting program rules for new and modified sources of air pollution under Clean Air Act (CAA or \"Act\") section 110(a)(2)(C) and part D of title I.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-21",
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Air Plan Revisions; California; San Joaquin Valley Unified Air Pollution Control District; New Source Review; Stationary Source Permits",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23572/air-plan-revisions-california-san-joaquin-valley-unified-air-pollution-control-district-new-source"
+ },
+ "2026-23576": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Helicopters Deutschland GmbH (AHD) Model EC135P1, EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, EC135T3 and EC635T2+ helicopters. This proposed AD was prompted by a determination that the manufacturer's service material does not provide complete instructions for the inspections after a hard landing. This proposed AD would require a one-time inspection of the tail rotor control system and, depending on the inspection results, corrective actions. This proposed AD would also require revision of the existing aircraft maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23576/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters"
+ },
+ "2026-23579": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-14-09, which applies to certain Dassault Aviation Model FALCON 7X, FALCON 900EX, and FALCON 2000EX airplanes. AD 2024-14-09 requires replacement of certain titanium screws, adds other locations for screw replacement, and revises the applicability from AD 2022-02-10. Since the FAA issued AD 2024-14-09, affected parts have been found in other areas of certain FALCON 7X airplanes as well as in additional FALCON 7X airplanes. This proposed AD would continue to require the actions in AD 2024-14-09 and would require expanding the applicability to additional airplanes, expanding the locations for screw replacement, and revising the compliance times for parts replacement. This AD would also limit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23579/airworthiness-directives-dassault-aviation-airplanes"
+ },
+ "2026-23580": {
+  "abstract": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is approving the CAA section 111(d) State plan submitted by the State of Texas for sources subject to the Municipal Solid Waste (MSW) Landfills Emission Guidelines (EG). The Texas MSW landfills plan was submitted to fulfill the State's obligations under CAA section 111(d) to implement and enforce the requirements under the MSW Landfills EG. The EPA is approving the State plan and amending the agency regulations in accordance with the requirements of the CAA.",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-21",
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Texas; Control of Emissions From Existing Municipal Solid Waste Landfills",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23580/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-texas"
+ },
+ "2026-23581": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2021-12-17, which applies to certain ATR--GIE Avions de Transport R[eacute]gional Model ATR42-300, -320, and -500 airplanes; and all Model ATR72-101, -102, -201, -202, -211, -212, and -212A airplanes. AD 2021-12-17 requires a detailed visual inspection of each affected part for deficiencies (sealant blockage and out of tolerance ligaments), and depending on findings, accomplishment of applicable corrective actions. Since the FAA issued AD 2021-12-17, it was determined that additional seat track part numbers and airplanes may be affected. This proposed AD would continue to require the actions in AD 2021-12-17 and would require inspections of additional parts. This proposed AD would also limit the installation of affected parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23581/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+ },
+ "2026-23583": {
+  "abstract": "The Environmental Protection Agency (EPA) is approving four State implementation plan (SIP) revisions submitted by the Commonwealth of Pennsylvania on May 10, 2023, January 20, 2026, February 17, 2026, and April 10, 2026, through the Pennsylvania Department of Environmental Protection (PADEP). The SIP revisions address reasonably available control technology (RACT) requirements for the 2008 and 2015 ozone national ambient air quality standards (NAAQS) relating to control technique guidelines (CTGs) for volatile organic compounds (VOC) via previously adopted CTG regulations, three new CTG regulations and permits for four facilities covered by the CTG for the Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins respectively. The EPA is approving these revisions to the Pennsylvania SIP in accordance with the requirements of the Clean Air Act (CAA).",
+  "agencies": [
+   "Environmental Protection Agency"
+  ],
+  "agency_slugs": [
+   "environmental-protection-agency"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-21",
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Air Plan Approval; Reasonably Available Control Technology (RACT) for Volatile Organic Compounds (VOC) Control Technique Guidelines (CTG) Under the 2008 and 2015 Ozone National Ambient Air Quality Standards (NAAQS)",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23583/air-plan-approval-reasonably-available-control-technology-ract-for-volatile-organic-compounds-voc"
+ },
+ "2026-23584": {
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-15-02, which applies to all Dassault Aviation Model MYSTERE-FALCON 900 airplanes. AD 2024-15-02 requires revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. Since the FAA issued AD 2024-15- 02, the FAA has determined that new or more restrictive airworthiness limitations are necessary. This proposed AD would continue to require the actions in AD 2024-15-02 and would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-04",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23584/airworthiness-directives-dassault-aviation-airplanes"
+ },
+ "2026-23614": {
+  "abstract": "FinCEN is issuing this proposed rule to strengthen customer due diligence requirements under the Customer Due Diligence Rule consistent with the policy goals of, and as directed by, Executive Order 14406, Restoring Integrity to America's Financial System. Specifically, the proposal ensures financial institutions covered by the Customer Due Diligence Rule collect sufficient information to verify the identities of beneficial owners of legal entity customers and maintain the authority, where warranted, to obtain additional information, including information relevant to whether the beneficial owners of legal entity customers possess lawful immigration status and employment authorization in the United States when such information is relevant to assessing risks.",
+  "agencies": [
+   "Treasury Department",
+   "Financial Crimes Enforcement Network"
+  ],
+  "agency_slugs": [
+   "treasury-department",
+   "financial-crimes-enforcement-network"
+  ],
+  "comments_close_on": "2027-01-19",
+  "effective_on": null,
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions"
+ },
+ "2026-23617": {
+  "abstract": "This document corrects technical and typographical errors in the final rule that appeared in the Federal Register on November 18, 2015, titled \"Health and Human Services Acquisition Regulations.\"",
+  "agencies": [
+   "Health and Human Services Department"
+  ],
+  "agency_slugs": [
+   "health-and-human-services-department"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-19",
+  "published": "2026-11-19",
+  "significant": true,
+  "title": "Health and Human Services Acquisition Regulations; Correction",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23617/health-and-human-services-acquisition-regulations-correction"
+ },
+ "2026-23633": {
+  "abstract": "The FAA is adopting a new airworthiness directive (AD) for all General Atomics AeroTec Systems GmbH (General Atomics) Model Dornier 228-100, Dornier 228-101, Dornier 228-200, Dornier 228-201, Dornier 228-202, and Dornier 228-212 airplanes. This AD was prompted by reports of specific part-numbered hydraulic pump motors becoming severely damaged by excessive heat. This AD requires replacing the affected hydraulic pump motor with an improved design hydraulic pump motor. This AD also prohibits installing an affected hydraulic pump motor on any airplane. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-12-24",
+  "published": "2026-11-19",
+  "significant": false,
+  "title": "Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23633/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by"
  },
  "C1-2026-10036": {
   "abstract": "",
