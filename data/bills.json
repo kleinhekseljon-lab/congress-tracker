@@ -18513,15 +18513,15 @@
   "update_date": "2026-11-13"
  },
  "119-hr-1230": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1230?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-12",
   "latest_action": "Referred to the Subcommittee on Economic Opportunity.",
   "latest_action_date": "2025-12-19",
   "number": "1230",
   "origin_chamber": "House",
   "title": "AG VETS Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-1231": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1231?format=json",
@@ -19921,15 +19921,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-1346": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1346?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2026-05-14",
   "number": "1346",
   "origin_chamber": "House",
   "title": "To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-1347": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1347?format=json",
@@ -44528,15 +44528,15 @@
   "update_date": "2026-10-23"
  },
  "119-hr-3361": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3361?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-13",
   "latest_action": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-05-13",
   "number": "3361",
   "origin_chamber": "House",
   "title": "Collaborative Forest Landscape Restoration Program Reauthorization Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-19"
  },
  "119-hr-3362": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3362?format=json",
@@ -45793,15 +45793,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-3465": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3465?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-15",
   "latest_action": "Referred to the Committee on Natural Resources, and in addition to the Committees on Education and Workforce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-05-15",
   "number": "3465",
   "origin_chamber": "House",
   "title": "Civilian Conservation Center Enhancement Act of 2025",
   "type": "HR",
-  "update_date": "2026-08-25"
+  "update_date": "2026-11-19"
  },
  "119-hr-3466": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3466?format=json",
@@ -59048,15 +59048,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-4550": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4550?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-21",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.",
   "latest_action_date": "2025-11-04",
   "number": "4550",
   "origin_chamber": "House",
   "title": "United States Grain Standards Reauthorization Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-19"
  },
  "119-hr-4551": {
   "congress": 119,
@@ -95884,7 +95884,7 @@
   "origin_chamber": "House",
   "title": "Farm, Food, and National Security Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-hr-7568": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7568?format=json",
@@ -102443,15 +102443,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8104": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8104?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2026-03-26",
   "number": "8104",
   "origin_chamber": "House",
   "title": "Fertilizer Transparency Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-8105": {
   "congress": 119,
@@ -107679,15 +107679,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8533": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8533?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-27",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2026-04-27",
   "number": "8533",
   "origin_chamber": "House",
   "title": "Farmer to Farmer Education Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-8534": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8534?format=json",
@@ -113454,15 +113454,15 @@
   "update_date": "2026-06-23"
  },
  "119-hr-9005": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9005?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-21",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2026-05-21",
   "number": "9005",
   "origin_chamber": "House",
   "title": "Rural Hospital Revitalization Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-19"
  },
  "119-hr-9006": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9006?format=json",
@@ -144144,15 +144144,15 @@
   "update_date": "2026-11-03"
  },
  "119-s-1019": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1019?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-13",
   "number": "1019",
   "origin_chamber": "Senate",
   "title": "Rural Water System Disaster Preparedness and Assistance Act",
   "type": "S",
-  "update_date": "2025-10-31"
+  "update_date": "2026-11-19"
  },
  "119-s-102": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/102?format=json",
@@ -144529,15 +144529,15 @@
   "update_date": "2026-06-09"
  },
  "119-s-1050": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1050?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-13",
   "number": "1050",
   "origin_chamber": "Senate",
   "title": "Forest Conservation Easement Program Act of 2025",
   "type": "S",
-  "update_date": "2026-03-16"
+  "update_date": "2026-11-19"
  },
  "119-s-1051": {
   "congress": 119,
@@ -145717,15 +145717,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1150": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1150?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-26",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-26",
   "number": "1150",
   "origin_chamber": "Senate",
   "title": "Increased TSP Access Act of 2025",
   "type": "S",
-  "update_date": "2025-08-06"
+  "update_date": "2026-11-19"
  },
  "119-s-1151": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1151?format=json",
@@ -151360,15 +151360,15 @@
   "update_date": "2026-06-25"
  },
  "119-s-1617": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1617?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-06",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-06",
   "number": "1617",
   "origin_chamber": "Senate",
   "title": "LAST ACRE Act of 2025",
   "type": "S",
-  "update_date": "2026-02-02"
+  "update_date": "2026-11-19"
  },
  "119-s-1618": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1618?format=json",
@@ -151899,15 +151899,15 @@
   "update_date": "2026-11-03"
  },
  "119-s-1662": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1662?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-07",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-07",
   "number": "1662",
   "origin_chamber": "Senate",
   "title": "Collaborative Forest Landscape Restoration Program Reauthorization Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-19"
  },
  "119-s-1663": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1663?format=json",
@@ -153175,15 +153175,15 @@
   "update_date": "2026-04-23"
  },
  "119-s-1769": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1769?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-14",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-14",
   "number": "1769",
   "origin_chamber": "Senate",
   "title": "Farmer to Farmer Education Act of 2025",
   "type": "S",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-s-177": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/177?format=json",
@@ -153406,15 +153406,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1788": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1788?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-15",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-15",
   "number": "1788",
   "origin_chamber": "Senate",
   "title": "Civilian Conservation Center Enhancement Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-19"
  },
  "119-s-1789": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1789?format=json",
@@ -159401,15 +159401,15 @@
   "update_date": "2026-01-21"
  },
  "119-s-2282": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2282?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-15",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-15",
   "number": "2282",
   "origin_chamber": "Senate",
   "title": "Farmers First Act of 2025",
   "type": "S",
-  "update_date": "2026-07-14"
+  "update_date": "2026-11-19"
  },
  "119-s-2283": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2283?format=json",
@@ -181874,15 +181874,15 @@
   "update_date": "2026-08-13"
  },
  "119-s-4141": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4141?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-19",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-19",
   "number": "4141",
   "origin_chamber": "Senate",
   "title": "Rural Hospital Revitalization Act of 2026",
   "type": "S",
-  "update_date": "2026-06-17"
+  "update_date": "2026-11-19"
  },
  "119-s-4142": {
   "congress": 119,
@@ -182006,15 +182006,15 @@
   "update_date": "2026-03-30"
  },
  "119-s-4152": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4152?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-19",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S1369-1370)",
   "latest_action_date": "2026-03-19",
   "number": "4152",
   "origin_chamber": "Senate",
   "title": "Fertilizer Transparency Act of 2026",
   "type": "S",
-  "update_date": "2026-04-23"
+  "update_date": "2026-11-19"
  },
  "119-s-4153": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4153?format=json",
@@ -188210,15 +188210,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-4661": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4661?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-02",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-06-02",
   "number": "4661",
   "origin_chamber": "Senate",
   "title": "Ensuring Disaster Recovery and Resilience for Specialty Crops Act",
   "type": "S",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-19"
  },
  "119-s-4662": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4662?format=json",
@@ -194260,15 +194260,15 @@
   "update_date": "2026-08-11"
  },
  "119-s-5161": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5161?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-29",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-07-29",
   "number": "5161",
   "origin_chamber": "Senate",
   "title": "CFTC Whistleblower Protection and Program Improvement Act of 2026",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-19"
  },
  "119-s-5162": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5162?format=json",
@@ -194953,15 +194953,15 @@
   "update_date": "2026-08-26"
  },
  "119-s-5218": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5218?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-03",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-08-03",
   "number": "5218",
   "origin_chamber": "Senate",
   "title": "Colonel Gary LaGrange AgVets Act of 2026",
   "type": "S",
-  "update_date": "2026-08-18"
+  "update_date": "2026-11-19"
  },
  "119-s-5219": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5219?format=json",
@@ -198723,7 +198723,7 @@
   "origin_chamber": "Senate",
   "title": "Agricultural Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-5527": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5527?format=json",
@@ -201894,15 +201894,15 @@
   "update_date": "2026-11-18"
  },
  "119-s-593": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/593?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
   "latest_action_date": "2025-02-13",
   "number": "593",
   "origin_chamber": "Senate",
   "title": "Nationwide Consumer and Fuel Retailer Choice Act of 2025",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-594": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/594?format=json",
