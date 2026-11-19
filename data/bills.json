@@ -32144,7 +32144,7 @@
  "119-hr-2347": {
   "congress": 119,
   "introduced_date": "2025-03-25",
-  "latest_action": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268.",
+  "latest_action": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)",
   "latest_action_date": "2026-11-18",
   "number": "2347",
   "origin_chamber": "House",
@@ -33739,7 +33739,7 @@
  "119-hr-2478": {
   "congress": 119,
   "introduced_date": "2025-03-27",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5777-5778)",
   "latest_action_date": "2026-11-18",
   "number": "2478",
   "origin_chamber": "House",
@@ -38368,15 +38368,15 @@
   "update_date": "2025-05-22"
  },
  "119-hr-2858": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2858?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-10",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2025-04-10",
   "number": "2858",
   "origin_chamber": "House",
   "title": "Winter Canola Study Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-07"
+  "update_date": "2026-11-19"
  },
  "119-hr-2859": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2859?format=json",
@@ -44385,15 +44385,15 @@
   "update_date": "2026-06-22"
  },
  "119-hr-335": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/335?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-13",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-01-13",
   "number": "335",
   "origin_chamber": "House",
   "title": "Repeal the NFA Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-3350": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3350?format=json",
@@ -160754,15 +160754,15 @@
   "update_date": "2026-09-24"
  },
  "119-s-2395": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2395?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-23",
   "number": "2395",
   "origin_chamber": "Senate",
   "title": "Mid-South Oilseed Double Cropping Study Act of 2025",
   "type": "S",
-  "update_date": "2025-08-07"
+  "update_date": "2026-11-19"
  },
  "119-s-2396": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2396?format=json",
@@ -185583,7 +185583,7 @@
  "119-s-4445": {
   "congress": 119,
   "introduced_date": "2026-04-30",
-  "latest_action": "Passed Senate without amendment by Voice Vote.",
+  "latest_action": "Passed Senate without amendment by Voice Vote. (consideration: CR S5778; text: CR S5778)",
   "latest_action_date": "2026-11-18",
   "number": "4445",
   "origin_chamber": "Senate",
@@ -191136,15 +191136,15 @@
   "update_date": "2026-07-15"
  },
  "119-s-4904": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4904?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-24",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-06-24",
   "number": "4904",
   "origin_chamber": "Senate",
   "title": "Risk-based Oversight for Integrity Act",
   "type": "S",
-  "update_date": "2026-07-14"
+  "update_date": "2026-11-19"
  },
  "119-s-4905": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4905?format=json",
@@ -201654,7 +201654,7 @@
  "119-s-5767": {
   "congress": 119,
   "introduced_date": "2026-11-18",
-  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5761-5771)",
   "latest_action_date": "2026-11-18",
   "number": "5767",
   "origin_chamber": "Senate",
@@ -204190,7 +204190,7 @@
   "origin_chamber": "Senate",
   "title": "Assistance for Rural Water Systems Act of 2025",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-19"
  },
  "119-s-784": {
   "congress": 119,
