@@ -15804,7 +15804,7 @@
   "origin_chamber": "House",
   "title": "Defend American Manufacturing Act 2.0",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-19"
  },
  "119-hr-1098": {
   "congress": 119,
@@ -54439,15 +54439,15 @@
   "update_date": "2026-10-31"
  },
  "119-hr-4173": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4173?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-26",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-06-26",
   "number": "4173",
   "origin_chamber": "House",
   "title": "Preventing Pretrial Gun Purchases Act",
   "type": "HR",
-  "update_date": "2026-01-10"
+  "update_date": "2026-11-19"
  },
  "119-hr-4174": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4174?format=json",
@@ -69531,15 +69531,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-5409": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5409?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-09-16",
   "number": "5409",
   "origin_chamber": "House",
   "title": "Territory Health Revitalization Act",
   "type": "HR",
-  "update_date": "2026-04-06"
+  "update_date": "2026-11-19"
  },
  "119-hr-541": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/541?format=json",
@@ -97130,15 +97130,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-767": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/767?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-01-28",
   "number": "767",
   "origin_chamber": "House",
   "title": "FLASH Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-01"
+  "update_date": "2026-11-19"
  },
  "119-hr-7670": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7670?format=json",
@@ -102146,15 +102146,15 @@
   "update_date": "2026-06-09"
  },
  "119-hr-8080": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8080?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-25",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-03-25",
   "number": "8080",
   "origin_chamber": "House",
   "title": "Data to Save Moms Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-8081": {
   "congress": 119,
@@ -105039,15 +105039,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8317": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8317?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-15",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-04-15",
   "number": "8317",
   "origin_chamber": "House",
   "title": "Tech to Save Moms Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-8318": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8318?format=json",
@@ -109670,15 +109670,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8697": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8697?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-07",
   "latest_action": "Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-05-07",
   "number": "8697",
   "origin_chamber": "House",
   "title": "Guard the Skies Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-8698": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8698?format=json",
@@ -191752,15 +191752,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4957": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4957?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-13",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-07-13",
   "number": "4957",
   "origin_chamber": "Senate",
   "title": "A bill to improve the administration of the Hollings Manufacturing Extension Partnership, and for other purposes.",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-19"
  },
  "119-s-4958": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4958?format=json",
@@ -200989,7 +200989,7 @@
   "origin_chamber": "Senate",
   "title": "National Wildlife Refuge Habitat Partnership Act",
   "type": "S",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-19"
  },
  "119-s-5712": {
   "congress": 119,
@@ -201044,7 +201044,7 @@
   "origin_chamber": "Senate",
   "title": "Guard the Skies Act",
   "type": "S",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-s-5717": {
   "congress": 119,
@@ -213224,15 +213224,15 @@
   "update_date": "2025-12-05"
  },
  "119-sres-392": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/392?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-16",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6637; text: CR S6652)",
   "latest_action_date": "2025-09-16",
   "number": "392",
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of November 16, 2025, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
   "type": "SRES",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-19"
  },
  "119-sres-393": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/393?format=json",
@@ -220052,7 +220052,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of November 15, 2026, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
   "type": "SRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-19"
  },
  "119-sres-958": {
   "congress": 119,
