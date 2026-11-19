@@ -27709,15 +27709,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-1985": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1985?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
   "latest_action_date": "2025-03-28",
   "number": "1985",
   "origin_chamber": "House",
   "title": "Promoting Precision Agriculture Act",
   "type": "HR",
-  "update_date": "2025-05-14"
+  "update_date": "2026-11-19"
  },
  "119-hr-1986": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1986?format=json",
@@ -39490,15 +39490,15 @@
   "update_date": "2026-05-22"
  },
  "119-hr-295": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/295?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
   "latest_action_date": "2025-02-14",
   "number": "295",
   "origin_chamber": "House",
   "title": "Fair Milk Pricing for Farmers Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-19"
  },
  "119-hr-2950": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2950?format=json",
@@ -61127,15 +61127,15 @@
   "update_date": "2026-07-18"
  },
  "119-hr-4721": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4721?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-23",
   "latest_action": "Referred to the House Committee on Agriculture.",
   "latest_action_date": "2025-07-23",
   "number": "4721",
   "origin_chamber": "House",
   "title": "Healthy H2O Act",
   "type": "HR",
-  "update_date": "2026-07-28"
+  "update_date": "2026-11-19"
  },
  "119-hr-4722": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4722?format=json",
@@ -75108,15 +75108,15 @@
   "update_date": "2026-07-09"
  },
  "119-hr-5866": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5866?format=json",
   "congress": 119,
+  "introduced_date": "2025-10-28",
   "latest_action": "Referred to the Subcommittee on Forestry and Horticulture.",
   "latest_action_date": "2025-12-02",
   "number": "5866",
   "origin_chamber": "House",
   "title": "To require the Secretary of Agriculture to release a reversionary interest in certain land in the Black River State Forest in Millston, Wisconsin, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-07-21"
+  "update_date": "2026-11-19"
  },
  "119-hr-5867": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5867?format=json",
@@ -81367,15 +81367,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-638": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/638?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-22",
   "latest_action": "Referred to the House Committee on Financial Services.",
   "latest_action_date": "2025-01-22",
   "number": "638",
   "origin_chamber": "House",
   "title": "Housing Temperature Safety Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-19"
  },
  "119-hr-6380": {
   "congress": 119,
@@ -92246,15 +92246,15 @@
   "update_date": "2026-11-18"
  },
  "119-hr-727": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/727?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-24",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-01-24",
   "number": "727",
   "origin_chamber": "House",
   "title": "Prohibiting Abortion Industry\u2019s Lucrative Loopholes Act",
   "type": "HR",
-  "update_date": "2025-04-09"
+  "update_date": "2026-11-19"
  },
  "119-hr-7270": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7270?format=json",
@@ -95436,15 +95436,15 @@
   "update_date": "2025-10-25"
  },
  "119-hr-7530": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7530?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
   "latest_action_date": "2026-03-20",
   "number": "7530",
   "origin_chamber": "House",
   "title": "Assistance for Rural Water Systems Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-02"
+  "update_date": "2026-11-19"
  },
  "119-hr-7531": {
   "congress": 119,
@@ -152691,15 +152691,15 @@
   "update_date": "2026-07-18"
  },
  "119-s-1729": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1729?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-13",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-13",
   "number": "1729",
   "origin_chamber": "Senate",
   "title": "Streamlining Conservation Practice Standards Act of 2025",
   "type": "S",
-  "update_date": "2025-09-03"
+  "update_date": "2026-11-19"
  },
  "119-s-173": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/173?format=json",
@@ -161238,15 +161238,15 @@
   "update_date": "2026-09-24"
  },
  "119-s-2436": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2436?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-24",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-24",
   "number": "2436",
   "origin_chamber": "Senate",
   "title": "Healthy H2O Act",
   "type": "S",
-  "update_date": "2026-05-15"
+  "update_date": "2026-11-19"
  },
  "119-s-2437": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2437?format=json",
@@ -193138,15 +193138,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-507": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/507?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S861-862)",
   "latest_action_date": "2025-02-11",
   "number": "507",
   "origin_chamber": "Senate",
   "title": "Promoting Precision Agriculture Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-19"
  },
  "119-s-5070": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5070?format=json",

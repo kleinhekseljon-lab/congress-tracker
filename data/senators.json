@@ -37,14 +37,14 @@
  ],
  "AZ": [
   {
-   "name": "Mark Kelly",
-   "party": "D",
-   "url": "https://www.kelly.senate.gov"
-  },
-  {
    "name": "Ruben Gallego",
    "party": "D",
    "url": "https://www.gallego.senate.gov/"
+  },
+  {
+   "name": "Mark Kelly",
+   "party": "D",
+   "url": "https://www.kelly.senate.gov"
   }
  ],
  "CA": [
@@ -85,26 +85,26 @@
  ],
  "DE": [
   {
-   "name": "Christopher A. Coons",
-   "party": "D",
-   "url": "https://www.coons.senate.gov/"
-  },
-  {
    "name": "Lisa Blunt Rochester",
    "party": "D",
    "url": "https://www.bluntrochester.senate.gov/"
+  },
+  {
+   "name": "Christopher A. Coons",
+   "party": "D",
+   "url": "https://www.coons.senate.gov/"
   }
  ],
  "FL": [
   {
-   "name": "Rick Scott",
-   "party": "R",
-   "url": "https://www.rickscott.senate.gov/"
-  },
-  {
    "name": "Ashley Moody",
    "party": "R",
    "url": "https://www.moody.senate.gov"
+  },
+  {
+   "name": "Rick Scott",
+   "party": "R",
+   "url": "https://www.rickscott.senate.gov/"
   }
  ],
  "GA": [
@@ -169,14 +169,14 @@
  ],
  "IN": [
   {
-   "name": "Todd Young",
-   "party": "R",
-   "url": "https://www.young.senate.gov"
-  },
-  {
    "name": "Jim Banks",
    "party": "R",
    "url": "https://www.banks.senate.gov/"
+  },
+  {
+   "name": "Todd Young",
+   "party": "R",
+   "url": "https://www.young.senate.gov"
   }
  ],
  "KS": [
@@ -229,14 +229,14 @@
  ],
  "MD": [
   {
-   "name": "Chris Van Hollen",
-   "party": "D",
-   "url": "https://www.vanhollen.senate.gov"
-  },
-  {
    "name": "Angela D. Alsobrooks",
    "party": "D",
    "url": "https://alsobrooks.senate.gov/"
+  },
+  {
+   "name": "Chris Van Hollen",
+   "party": "D",
+   "url": "https://www.vanhollen.senate.gov"
   }
  ],
  "ME": [
@@ -421,14 +421,14 @@
  ],
  "OK": [
   {
-   "name": "James Lankford",
-   "party": "R",
-   "url": "https://www.lankford.senate.gov"
-  },
-  {
    "name": "Alan Armstrong",
    "party": "R",
    "url": "https://www.armstrong.senate.gov/"
+  },
+  {
+   "name": "James Lankford",
+   "party": "R",
+   "url": "https://www.lankford.senate.gov"
   }
  ],
  "OR": [
@@ -517,14 +517,14 @@
  ],
  "UT": [
   {
-   "name": "Mike Lee",
-   "party": "R",
-   "url": "https://www.lee.senate.gov/"
-  },
-  {
    "name": "John R. Curtis",
    "party": "R",
    "url": "https://www.curtis.senate.gov/"
+  },
+  {
+   "name": "Mike Lee",
+   "party": "R",
+   "url": "https://www.lee.senate.gov/"
   }
  ],
  "VA": [
@@ -599,5 +599,5 @@
    "url": "https://www.barrasso.senate.gov"
   }
  ],
- "_fetched": "2026-11-12T19:59:44.977907+00:00"
+ "_fetched": "2026-11-19T20:11:04.040244+00:00"
 }
