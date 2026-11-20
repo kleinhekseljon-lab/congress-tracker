@@ -82783,7 +82783,7 @@
   "origin_chamber": "House",
   "title": "National Constitutional Carry Act",
   "type": "HR",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-6450": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6450?format=json",
@@ -134230,7 +134230,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the designation of November 2026 as \"National Lung Cancer Awareness Month\" and expressing support for early detection and treatment of lung cancer.",
   "type": "HRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-20"
  },
  "119-hres-1662": {
   "congress": 119,
@@ -144056,15 +144056,15 @@
   "update_date": "2026-09-28"
  },
  "119-hres-960": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/960?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-18",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-12-18",
   "number": "960",
   "origin_chamber": "House",
   "title": "Expressing support for the designation of November 2025 as \"National Lung Cancer Awareness Month\" and expressing support for early detection and treatment of lung cancer.",
   "type": "HRES",
-  "update_date": "2026-01-05"
+  "update_date": "2026-11-20"
  },
  "119-hres-961": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/961?format=json",
@@ -164054,15 +164054,15 @@
   "update_date": "2025-12-02"
  },
  "119-s-2618": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2618?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-31",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-07-31",
   "number": "2618",
   "origin_chamber": "Senate",
   "title": "MORE USDA Grants Act",
   "type": "S",
-  "update_date": "2026-07-27"
+  "update_date": "2026-11-20"
  },
  "119-s-2619": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2619?format=json",
@@ -164989,15 +164989,15 @@
   "update_date": "2025-09-22"
  },
  "119-s-2695": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2695?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-03",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-09-03",
   "number": "2695",
   "origin_chamber": "Senate",
   "title": "Synthetic Biology Advancement Act of 2025",
   "type": "S",
-  "update_date": "2025-09-15"
+  "update_date": "2026-11-20"
  },
  "119-s-2696": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2696?format=json",
@@ -165264,15 +165264,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-2717": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2717?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-04",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-09-04",
   "number": "2717",
   "origin_chamber": "Senate",
   "title": "Student Loan Deduction Act of 2025",
   "type": "S",
-  "update_date": "2025-10-23"
+  "update_date": "2026-11-20"
  },
  "119-s-2718": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2718?format=json",
@@ -166232,15 +166232,15 @@
   "update_date": "2026-07-23"
  },
  "119-s-2797": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2797?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-15",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-09-15",
   "number": "2797",
   "origin_chamber": "Senate",
   "title": "Capital for Beginning Farmers and Ranchers Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-2798": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2798?format=json",
@@ -166383,7 +166383,7 @@
   "origin_chamber": "Senate",
   "title": "Fertilizer Research Act of 2025",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-s-2809": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2809?format=json",
@@ -168036,15 +168036,15 @@
   "update_date": "2026-07-23"
  },
  "119-s-2944": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2944?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-30",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-09-30",
   "number": "2944",
   "origin_chamber": "Senate",
   "title": "No Shame at School Act of 2025",
   "type": "S",
-  "update_date": "2025-11-25"
+  "update_date": "2026-11-20"
  },
  "119-s-2945": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2945?format=json",
@@ -168960,15 +168960,15 @@
   "update_date": "2025-12-02"
  },
  "119-s-302": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/302?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-29",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-01-29",
   "number": "302",
   "origin_chamber": "Senate",
   "title": "Snap Back Inaccurate SNAP Payments Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-3020": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3020?format=json",
@@ -169917,15 +169917,15 @@
   "update_date": "2026-05-06"
  },
  "119-s-3099": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3099?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-04",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-11-04",
   "number": "3099",
   "origin_chamber": "Senate",
   "title": "DIRECT Act of 2025",
   "type": "S",
-  "update_date": "2026-02-24"
+  "update_date": "2026-11-20"
  },
  "119-s-31": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/31?format=json",
@@ -170269,15 +170269,15 @@
   "update_date": "2025-12-08"
  },
  "119-s-3127": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3127?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-06",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-11-06",
   "number": "3127",
   "origin_chamber": "Senate",
   "title": "Farm to School Act of 2025",
   "type": "S",
-  "update_date": "2026-07-16"
+  "update_date": "2026-11-20"
  },
  "119-s-3128": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3128?format=json",
@@ -171017,15 +171017,15 @@
   "update_date": "2026-01-10"
  },
  "119-s-319": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/319?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-29",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-01-29",
   "number": "319",
   "origin_chamber": "Senate",
   "title": "Cattle Fever Tick Eradication Program Enhancement Act of 2025",
   "type": "S",
-  "update_date": "2025-03-21"
+  "update_date": "2026-11-20"
  },
  "119-s-3190": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3190?format=json",
@@ -175978,15 +175978,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3603": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3603?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-08",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-01-08",
   "number": "3603",
   "origin_chamber": "Senate",
   "title": "COLAs Don\u2019t Count Act of 2026",
   "type": "S",
-  "update_date": "2026-06-15"
+  "update_date": "2026-11-20"
  },
  "119-s-3604": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3604?format=json",
@@ -176374,15 +176374,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-3637": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3637?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-14",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-01-14",
   "number": "3637",
   "origin_chamber": "Senate",
   "title": "ACE Agriculture Act of 2026",
   "type": "S",
-  "update_date": "2026-08-04"
+  "update_date": "2026-11-20"
  },
  "119-s-3638": {
   "congress": 119,
@@ -177353,26 +177353,26 @@
   "update_date": "2026-02-25"
  },
  "119-s-3717": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3717?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-28",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-01-28",
   "number": "3717",
   "origin_chamber": "Senate",
   "title": "Opportunities in Organic Act",
   "type": "S",
-  "update_date": "2026-02-20"
+  "update_date": "2026-11-20"
  },
  "119-s-3718": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3718?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-28",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-01-28",
   "number": "3718",
   "origin_chamber": "Senate",
   "title": "Delivering for Rural Seniors Act of 2026",
   "type": "S",
-  "update_date": "2026-02-23"
+  "update_date": "2026-11-20"
  },
  "119-s-3719": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3719?format=json",
@@ -178464,15 +178464,15 @@
   "update_date": "2026-03-11"
  },
  "119-s-3810": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3810?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-09",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-02-09",
   "number": "3810",
   "origin_chamber": "Senate",
   "title": "SWAT Act of 2026",
   "type": "S",
-  "update_date": "2026-08-17"
+  "update_date": "2026-11-20"
  },
  "119-s-3811": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3811?format=json",
@@ -178849,26 +178849,26 @@
   "update_date": "2026-02-27"
  },
  "119-s-3842": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3842?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-02-11",
   "number": "3842",
   "origin_chamber": "Senate",
   "title": "21st Century WIC Act of 2026",
   "type": "S",
-  "update_date": "2026-03-04"
+  "update_date": "2026-11-20"
  },
  "119-s-3843": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3843?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-11",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-02-11",
   "number": "3843",
   "origin_chamber": "Senate",
   "title": "TEMP Act",
   "type": "S",
-  "update_date": "2026-06-18"
+  "update_date": "2026-11-20"
  },
  "119-s-3844": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3844?format=json",
@@ -179080,15 +179080,15 @@
   "update_date": "2026-11-11"
  },
  "119-s-3861": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3861?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-12",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-02-12",
   "number": "3861",
   "origin_chamber": "Senate",
   "title": "Rural Innovation Stronger Economy (RISE) Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-02-27"
+  "update_date": "2026-11-20"
  },
  "119-s-3862": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3862?format=json",
@@ -179740,15 +179740,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-3915": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3915?format=json",
   "congress": 119,
+  "introduced_date": "2026-02-25",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-02-25",
   "number": "3915",
   "origin_chamber": "Senate",
   "title": "Specialty CROP Act of 2026",
   "type": "S",
-  "update_date": "2026-04-07"
+  "update_date": "2026-11-20"
  },
  "119-s-3916": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3916?format=json",
@@ -180936,7 +180936,7 @@
   "origin_chamber": "Senate",
   "title": "National Constitutional Carry Act",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-20"
  },
  "119-s-4014": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4014?format=json",
@@ -181313,15 +181313,15 @@
   "update_date": "2026-11-20"
  },
  "119-s-4045": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4045?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-10",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-10",
   "number": "4045",
   "origin_chamber": "Senate",
   "title": "Food and Nutrition Delivery Safety Act of 2026",
   "type": "S",
-  "update_date": "2026-04-09"
+  "update_date": "2026-11-20"
  },
  "119-s-4046": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4046?format=json",
@@ -181577,15 +181577,15 @@
   "update_date": "2026-06-24"
  },
  "119-s-4067": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4067?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-11",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-11",
   "number": "4067",
   "origin_chamber": "Senate",
   "title": "Land Grant Research Prioritization Act of 2026",
   "type": "S",
-  "update_date": "2026-04-06"
+  "update_date": "2026-11-20"
  },
  "119-s-4068": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4068?format=json",
@@ -181874,15 +181874,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-4091": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4091?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-12",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-12",
   "number": "4091",
   "origin_chamber": "Senate",
   "title": "Habitat Connectivity on Working Lands Act of 2026",
   "type": "S",
-  "update_date": "2026-03-27"
+  "update_date": "2026-11-20"
  },
  "119-s-4092": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4092?format=json",
@@ -183095,15 +183095,15 @@
   "update_date": "2026-05-29"
  },
  "119-s-4191": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4191?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-25",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-25",
   "number": "4191",
   "origin_chamber": "Senate",
   "title": "Extending WIC for New Moms Act",
   "type": "S",
-  "update_date": "2026-08-21"
+  "update_date": "2026-11-20"
  },
  "119-s-4192": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4192?format=json",
@@ -183334,7 +183334,7 @@
   "origin_chamber": "Senate",
   "title": "American Beef Labeling Act of 2025",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-s-4210": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4210?format=json",
@@ -183392,15 +183392,15 @@
   "update_date": "2026-11-17"
  },
  "119-s-4215": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4215?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-03-26",
   "number": "4215",
   "origin_chamber": "Senate",
   "title": "AFFIRM Act of 2026",
   "type": "S",
-  "update_date": "2026-04-09"
+  "update_date": "2026-11-20"
  },
  "119-s-4216": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4216?format=json",
@@ -185537,15 +185537,15 @@
   "update_date": "2026-08-22"
  },
  "119-s-4391": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4391?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-27",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-04-27",
   "number": "4391",
   "origin_chamber": "Senate",
   "title": "Farmland for Farmers Act of 2026",
   "type": "S",
-  "update_date": "2026-05-11"
+  "update_date": "2026-11-20"
  },
  "119-s-4392": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4392?format=json",
@@ -186667,7 +186667,7 @@
   "origin_chamber": "Senate",
   "title": "Promoting Access to Local Agriculture Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-s-4484": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4484?format=json",
@@ -187096,7 +187096,7 @@
   "origin_chamber": "Senate",
   "title": "Universal School Meals Program Act of 2026",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-20"
  },
  "119-s-4519": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4519?format=json",
@@ -188749,15 +188749,15 @@
   "update_date": "2026-06-16"
  },
  "119-s-4655": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4655?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-02",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-06-02",
   "number": "4655",
   "origin_chamber": "Senate",
   "title": "Farm Credit Adjustment Act",
   "type": "S",
-  "update_date": "2026-07-27"
+  "update_date": "2026-11-20"
  },
  "119-s-4656": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4656?format=json",
@@ -189585,15 +189585,15 @@
   "update_date": "2026-11-18"
  },
  "119-s-4725": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4725?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-09",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2026-06-09",
   "number": "4725",
   "origin_chamber": "Senate",
   "title": "Natural Climate Solutions Research and Extension Act of 2026",
   "type": "S",
-  "update_date": "2026-06-29"
+  "update_date": "2026-11-20"
  },
  "119-s-4726": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4726?format=json",
@@ -193762,7 +193762,7 @@
   "origin_chamber": "Senate",
   "title": "Promoting Precision Agriculture Act of 2025",
   "type": "S",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-s-5070": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5070?format=json",
@@ -200222,15 +200222,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-56": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/56?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-01-09",
   "number": "56",
   "origin_chamber": "Senate",
   "title": "SAP Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-560": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/560?format=json",
@@ -200354,15 +200354,15 @@
   "update_date": "2026-10-14"
  },
  "119-s-561": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/561?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-02-13",
   "number": "561",
   "origin_chamber": "Senate",
   "title": "Healthy SNAP Act of 2025",
   "type": "S",
-  "update_date": "2026-01-14"
+  "update_date": "2026-11-20"
  },
  "119-s-5610": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5610?format=json",
@@ -201443,15 +201443,15 @@
   "update_date": "2026-11-17"
  },
  "119-s-57": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/57?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-01-09",
   "number": "57",
   "origin_chamber": "Senate",
   "title": "MAPLE Act",
   "type": "S",
-  "update_date": "2025-02-21"
+  "update_date": "2026-11-20"
  },
  "119-s-570": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/570?format=json",
@@ -201938,15 +201938,15 @@
   "update_date": "2026-11-19"
  },
  "119-s-574": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/574?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-13",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-02-13",
   "number": "574",
   "origin_chamber": "Senate",
   "title": "Healthy Poultry Assistance and Indemnification Act of 2025",
   "type": "S",
-  "update_date": "2026-06-18"
+  "update_date": "2026-11-20"
  },
  "119-s-5740": {
   "congress": 119,
@@ -203280,15 +203280,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-618": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/618?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-18",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-02-18",
   "number": "618",
   "origin_chamber": "Senate",
   "title": "Protecting America\u2019s Agricultural Land from Foreign Harm Act of 2025",
   "type": "S",
-  "update_date": "2026-07-29"
+  "update_date": "2026-11-20"
  },
  "119-s-619": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/619?format=json",
@@ -204765,15 +204765,15 @@
   "update_date": "2026-02-06"
  },
  "119-s-741": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/741?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-26",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-02-26",
   "number": "741",
   "origin_chamber": "Senate",
   "title": "Protecting Mushroom Farmers Act",
   "type": "S",
-  "update_date": "2025-08-14"
+  "update_date": "2026-11-20"
  },
  "119-s-742": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/742?format=json",
@@ -205898,15 +205898,15 @@
   "update_date": "2025-05-13"
  },
  "119-s-835": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/835?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S1498-1499)",
   "latest_action_date": "2025-03-04",
   "number": "835",
   "origin_chamber": "Senate",
   "title": "Reduce Food Loss and Waste Act of 2025",
   "type": "S",
-  "update_date": "2025-09-26"
+  "update_date": "2026-11-20"
  },
  "119-s-836": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/836?format=json",
@@ -206019,15 +206019,15 @@
   "update_date": "2026-11-20"
  },
  "119-s-845": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/845?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-04",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-04",
   "number": "845",
   "origin_chamber": "Senate",
   "title": "Farmland Security Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-846": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/846?format=json",
@@ -206514,15 +206514,15 @@
   "update_date": "2026-09-18"
  },
  "119-s-886": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/886?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-06",
   "number": "886",
   "origin_chamber": "Senate",
   "title": "FARMLAND Act of 2025",
   "type": "S",
-  "update_date": "2026-07-30"
+  "update_date": "2026-11-20"
  },
  "119-s-887": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/887?format=json",
@@ -206668,15 +206668,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-899": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/899?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-06",
   "number": "899",
   "origin_chamber": "Senate",
   "title": "Producer and Agricultural Credit Enhancement Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-9": {
   "congress": 119,
@@ -206822,15 +206822,15 @@
   "update_date": "2026-10-07"
  },
  "119-s-910": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/910?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-10",
   "number": "910",
   "origin_chamber": "Senate",
   "title": "Farm Ownership Improvement Act",
   "type": "S",
-  "update_date": "2025-09-17"
+  "update_date": "2026-11-20"
  },
  "119-s-911": {
   "congress": 119,
@@ -206844,15 +206844,15 @@
   "update_date": "2026-11-17"
  },
  "119-s-912": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/912?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-10",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-03-10",
   "number": "912",
   "origin_chamber": "Senate",
   "title": "Securing American Agriculture Act",
   "type": "S",
-  "update_date": "2026-05-20"
+  "update_date": "2026-11-20"
  },
  "119-s-913": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/913?format=json",
@@ -207713,15 +207713,15 @@
   "update_date": "2026-02-19"
  },
  "119-s-984": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/984?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-12",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S1706)",
   "latest_action_date": "2025-03-12",
   "number": "984",
   "origin_chamber": "Senate",
   "title": "Fair Access to Agriculture Disaster Programs Act",
   "type": "S",
-  "update_date": "2025-05-14"
+  "update_date": "2026-11-20"
  },
  "119-s-985": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/985?format=json",
