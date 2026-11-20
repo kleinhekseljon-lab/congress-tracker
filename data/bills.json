@@ -7744,15 +7744,15 @@
   "update_date": "2026-09-16"
  },
  "119-hr-10318": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10318?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-08",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-09-08",
   "number": "10318",
   "origin_chamber": "House",
   "title": "PACMESA",
   "type": "HR",
-  "update_date": "2026-09-18"
+  "update_date": "2026-11-20"
  },
  "119-hr-10319": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10319?format=json",
@@ -12207,7 +12207,7 @@
   "origin_chamber": "House",
   "title": "Modern Skies Act",
   "type": "HR",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-20"
  },
  "119-hr-10684": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10684?format=json",
@@ -25564,15 +25564,15 @@
   "update_date": "2026-09-08"
  },
  "119-hr-1764": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1764?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "latest_action_date": "2025-07-22",
   "number": "1764",
   "origin_chamber": "House",
   "title": "Aligning SEC Regulations for the World Bank\u2019s International Development Association Act",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-20"
  },
  "119-hr-1765": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1765?format=json",
@@ -134219,7 +134219,7 @@
   "origin_chamber": "House",
   "title": "Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
   "type": "HRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-20"
  },
  "119-hres-1661": {
   "congress": 119,
@@ -142769,15 +142769,15 @@
   "update_date": "2026-09-25"
  },
  "119-hres-855": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/855?format=json",
   "congress": 119,
+  "introduced_date": "2025-11-04",
   "latest_action": "Referred to the House Committee on Education and Workforce.",
   "latest_action_date": "2025-11-04",
   "number": "855",
   "origin_chamber": "House",
   "title": "Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
   "type": "HRES",
-  "update_date": "2025-11-25"
+  "update_date": "2026-11-20"
  },
  "119-hres-856": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/856?format=json",
@@ -152592,15 +152592,15 @@
   "update_date": "2025-11-21"
  },
  "119-s-1669": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1669?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-07",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-07",
   "number": "1669",
   "origin_chamber": "Senate",
   "title": "CRAWDAD Act",
   "type": "S",
-  "update_date": "2026-01-05"
+  "update_date": "2026-11-20"
  },
  "119-s-167": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/167?format=json",
@@ -152878,15 +152878,15 @@
   "update_date": "2026-08-25"
  },
  "119-s-1693": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1693?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-08",
   "latest_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "latest_action_date": "2025-05-08",
   "number": "1693",
   "origin_chamber": "Senate",
   "title": "FARMER Act of 2025",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-1694": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1694?format=json",
@@ -199900,7 +199900,7 @@
   "origin_chamber": "Senate",
   "title": "Modern Skies Act",
   "type": "S",
-  "update_date": "2026-11-04"
+  "update_date": "2026-11-20"
  },
  "119-s-5573": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5573?format=json",
@@ -215421,7 +215421,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the week of November 3 through November 7, 2025, as \"National Veterans Small Business Week\".",
   "type": "SRES",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-sres-483": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/483?format=json",
@@ -221152,7 +221152,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution recognizing the week of November 9 through November 13, 2026, as \"National Veterans Small Business Week\".",
   "type": "SRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-20"
  },
  "119-sres-959": {
   "congress": 119,
