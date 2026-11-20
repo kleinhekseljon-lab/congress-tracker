@@ -9020,15 +9020,15 @@
   "update_date": "2026-11-19"
  },
  "119-hr-10422": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10422?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-16",
   "latest_action": "Referred to the House Committee on Foreign Affairs.",
   "latest_action_date": "2026-09-16",
   "number": "10422",
   "origin_chamber": "House",
   "title": "Diesel Price Reduction Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-20"
  },
  "119-hr-10423": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10423?format=json",
@@ -16986,13 +16986,13 @@
  "119-hr-11075": {
   "congress": 119,
   "introduced_date": "2026-11-18",
-  "latest_action": "Referred to the House Committee on Energy and Commerce.",
-  "latest_action_date": "2026-11-18",
+  "latest_action": "Sponsor introductory remarks on measure. (CR H6299)",
+  "latest_action_date": "2026-11-19",
   "number": "11075",
   "origin_chamber": "House",
   "title": "To prohibit persons from entering into non-disclosure agreements with certain governmental entities, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-11076": {
   "congress": 119,
@@ -22607,7 +22607,7 @@
  "119-hr-1520": {
   "congress": 119,
   "introduced_date": "2025-02-24",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5788-5789)",
   "latest_action_date": "2026-11-19",
   "number": "1520",
   "origin_chamber": "House",
@@ -50787,15 +50787,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-383": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/383?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-14",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-01-14",
   "number": "383",
   "origin_chamber": "House",
   "title": "End Oil and Gas Tax Subsidies Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-3830": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3830?format=json",
@@ -104764,15 +104764,15 @@
   "update_date": "2026-04-20"
  },
  "119-hr-825": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/825?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-02-25",
   "number": "825",
   "origin_chamber": "House",
   "title": "Assisting Small Businesses Not Fraudsters Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-hr-8250": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8250?format=json",
@@ -105127,15 +105127,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-828": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/828?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-28",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-02-25",
   "number": "828",
   "origin_chamber": "House",
   "title": "SERV Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-hr-8280": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8280?format=json",
@@ -105622,15 +105622,15 @@
   "update_date": "2026-11-18"
  },
  "119-hr-832": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/832?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-31",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
   "latest_action_date": "2025-02-25",
   "number": "832",
   "origin_chamber": "House",
   "title": "Small Business Advocacy Improvements Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-hr-8320": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8320?format=json",
@@ -106656,15 +106656,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8404": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8404?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-21",
   "latest_action": "Referred to the Committee on Small Business, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-21",
   "number": "8404",
   "origin_chamber": "House",
   "title": "21st Century Entrepreneurship Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-8405": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8405?format=json",
@@ -106799,15 +106799,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8416": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8416?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-21",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2026-04-21",
   "number": "8416",
   "origin_chamber": "House",
   "title": "Prison to Proprietorship for the Formerly Incarcerated Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-8417": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8417?format=json",
@@ -109648,15 +109648,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-865": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/865?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-31",
   "latest_action": "Referred to the House Committee on Small Business.",
   "latest_action_date": "2025-01-31",
   "number": "865",
   "origin_chamber": "House",
   "title": "Service-Disabled Veteran Opportunities in Small Business Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-20"
  },
  "119-hr-8650": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8650?format=json",
@@ -113850,15 +113850,15 @@
   "update_date": "2026-06-15"
  },
  "119-hr-8994": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8994?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-21",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2026-05-21",
   "number": "8994",
   "origin_chamber": "House",
   "title": "Protect Working Musicians Act of 2026",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-20"
  },
  "119-hr-8995": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8995?format=json",
@@ -114565,15 +114565,15 @@
   "update_date": "2026-06-30"
  },
  "119-hr-9051": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9051?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-29",
   "latest_action": "Referred to the Committee on Small Business, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-05-29",
   "number": "9051",
   "origin_chamber": "House",
   "title": "Small Business Succession Planning Act",
   "type": "HR",
-  "update_date": "2026-06-30"
+  "update_date": "2026-11-20"
  },
  "119-hr-9052": {
   "congress": 119,
@@ -134279,13 +134279,13 @@
  "119-hres-1667": {
   "congress": 119,
   "introduced_date": "2026-11-17",
-  "latest_action": "Referred to the House Committee on Education and Workforce.",
-  "latest_action_date": "2026-11-17",
+  "latest_action": "Sponsor introductory remarks on measure. (CR H6297)",
+  "latest_action_date": "2026-11-19",
   "number": "1667",
   "origin_chamber": "House",
   "title": "Expressing support for designating November 2026 as \"National Career Development Month\".",
   "type": "HRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-20"
  },
  "119-hres-1668": {
   "congress": 119,
@@ -146137,7 +146137,7 @@
  "119-s-1135": {
   "congress": 119,
   "introduced_date": "2025-03-26",
-  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5792-5793; text of amendment in the nature of a substitute: CR S5792)",
   "latest_action_date": "2026-11-19",
   "number": "1135",
   "origin_chamber": "Senate",
@@ -172592,7 +172592,7 @@
  "119-s-3321": {
   "congress": 119,
   "introduced_date": "2025-12-03",
-  "latest_action": "Passed Senate without amendment by Voice Vote.",
+  "latest_action": "Passed Senate without amendment by Voice Vote. (consideration: CR S5786; text: CR S5786)",
   "latest_action_date": "2026-11-19",
   "number": "3321",
   "origin_chamber": "Senate",
@@ -187321,7 +187321,7 @@
  "119-s-4538": {
   "congress": 119,
   "introduced_date": "2026-05-14",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5793; text: CR S5793)",
   "latest_action_date": "2026-11-19",
   "number": "4538",
   "origin_chamber": "Senate",
@@ -202501,7 +202501,7 @@
  "119-s-5787": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S5815-5816)",
   "latest_action_date": "2026-11-19",
   "number": "5787",
   "origin_chamber": "Senate",
