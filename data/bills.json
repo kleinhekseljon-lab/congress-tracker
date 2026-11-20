@@ -10073,7 +10073,7 @@
   "origin_chamber": "House",
   "title": "Revitalize Rural America Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-20"
  },
  "119-hr-10509": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10509?format=json",
@@ -16266,7 +16266,7 @@
   "origin_chamber": "House",
   "title": "PHD Talent Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-16"
+  "update_date": "2026-11-20"
  },
  "119-hr-11016": {
   "congress": 119,
@@ -16676,15 +16676,15 @@
   "update_date": "2026-11-20"
  },
  "119-hr-1105": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1105?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
   "latest_action_date": "2025-02-06",
   "number": "1105",
   "origin_chamber": "House",
   "title": "Disaster Resiliency and Coverage Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-16"
+  "update_date": "2026-11-20"
  },
  "119-hr-11050": {
   "congress": 119,
@@ -22572,15 +22572,15 @@
   "update_date": "2026-07-17"
  },
  "119-hr-1518": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1518?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-24",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-02-24",
   "number": "1518",
   "origin_chamber": "House",
   "title": "New Era of Preventing End-Stage Kidney Disease Act",
   "type": "HR",
-  "update_date": "2026-10-16"
+  "update_date": "2026-11-20"
  },
  "119-hr-1519": {
   "congress": 119,
@@ -22607,7 +22607,7 @@
  "119-hr-1520": {
   "congress": 119,
   "introduced_date": "2025-02-24",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5788-5789)",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "1520",
   "origin_chamber": "House",
@@ -23023,15 +23023,15 @@
   "update_date": "2026-04-14"
  },
  "119-hr-1555": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1555?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 21 - 16.",
   "latest_action_date": "2026-09-15",
   "number": "1555",
   "origin_chamber": "House",
   "title": "Bureau of Land Management Mineral Spacing Act",
   "type": "HR",
-  "update_date": "2026-09-17"
+  "update_date": "2026-11-20"
  },
  "119-hr-1556": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1556?format=json",
@@ -23386,15 +23386,15 @@
   "update_date": "2026-10-06"
  },
  "119-hr-1585": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1585?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-02-25",
   "number": "1585",
   "origin_chamber": "House",
   "title": "Conrad State 30 and Physician Access Reauthorization Act",
   "type": "HR",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-20"
  },
  "119-hr-1586": {
   "congress": 119,
@@ -26598,15 +26598,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1849": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1849?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "ASSUMING FIRST SPONSORSHIP - Mr. Murphy asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 1849, a bill originally introduced by Representative LaMalfa, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
   "latest_action_date": "2026-02-04",
   "number": "1849",
   "origin_chamber": "House",
   "title": "Disaster Mitigation and Tax Parity Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-185": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/185?format=json",
@@ -122839,7 +122839,7 @@
  "119-hr-973": {
   "congress": 119,
   "introduced_date": "2025-02-04",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5793-5794)",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "973",
   "origin_chamber": "House",
@@ -126280,15 +126280,15 @@
   "update_date": "2026-09-25"
  },
  "119-hres-1010": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1010?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-20",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-01-20",
   "number": "1010",
   "origin_chamber": "House",
   "title": "Recognizing 2026 as \"The Year of The Power of Nurses\" in Celebration of the 130th Anniversary of the American Nurses Association.",
   "type": "HRES",
-  "update_date": "2026-01-22"
+  "update_date": "2026-11-20"
  },
  "119-hres-1011": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1011?format=json",
@@ -146148,7 +146148,7 @@
  "119-s-1135": {
   "congress": 119,
   "introduced_date": "2025-03-26",
-  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5792-5793; text of amendment in the nature of a substitute: CR S5792)",
+  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "1135",
   "origin_chamber": "Senate",
@@ -147996,7 +147996,7 @@
  "119-s-1288": {
   "congress": 119,
   "introduced_date": "2025-04-03",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5793; text: CR S5793)",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "1288",
   "origin_chamber": "Senate",
@@ -162351,7 +162351,7 @@
  "119-s-2479": {
   "congress": 119,
   "introduced_date": "2025-07-28",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5796)",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "2479",
   "origin_chamber": "Senate",
@@ -172603,7 +172603,7 @@
  "119-s-3321": {
   "congress": 119,
   "introduced_date": "2025-12-03",
-  "latest_action": "Passed Senate without amendment by Voice Vote. (consideration: CR S5786; text: CR S5786)",
+  "latest_action": "Passed Senate without amendment by Voice Vote.",
   "latest_action_date": "2026-11-19",
   "number": "3321",
   "origin_chamber": "Senate",
@@ -173052,15 +173052,15 @@
   "update_date": "2026-04-06"
  },
  "119-s-336": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/336?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-30",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-01-30",
   "number": "336",
   "origin_chamber": "Senate",
   "title": "Disaster Mitigation and Tax Parity Act of 2025",
   "type": "S",
-  "update_date": "2025-12-10"
+  "update_date": "2026-11-20"
  },
  "119-s-3360": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3360?format=json",
@@ -181194,7 +181194,7 @@
  "119-s-4035": {
   "congress": 119,
   "introduced_date": "2026-03-10",
-  "latest_action": "Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S5795)",
+  "latest_action": "Passed Senate with an amendment by Voice Vote.",
   "latest_action_date": "2026-11-19",
   "number": "4035",
   "origin_chamber": "Senate",
@@ -183669,7 +183669,7 @@
  "119-s-4238": {
   "congress": 119,
   "introduced_date": "2026-03-26",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5793; text: CR S5793)",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "4238",
   "origin_chamber": "Senate",
@@ -186232,7 +186232,7 @@
  "119-s-4448": {
   "congress": 119,
   "introduced_date": "2026-04-30",
-  "latest_action": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5797; text of amendment in the nature of a substitute: CR S5797)",
+  "latest_action": "Passed Senate with an amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "4448",
   "origin_chamber": "Senate",
@@ -187332,7 +187332,7 @@
  "119-s-4538": {
   "congress": 119,
   "introduced_date": "2026-05-14",
-  "latest_action": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5793; text: CR S5793)",
+  "latest_action": "Passed Senate without amendment by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "4538",
   "origin_chamber": "Senate",
@@ -187473,15 +187473,15 @@
   "update_date": "2026-06-08"
  },
  "119-s-455": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/455?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-02-06",
   "number": "455",
   "origin_chamber": "Senate",
   "title": "Protecting Sensitive Locations Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-20"
  },
  "119-s-4550": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4550?format=json",
@@ -193718,7 +193718,7 @@
   "origin_chamber": "Senate",
   "title": "Health Equity and Accountability Act of 2026",
   "type": "S",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-s-5067": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5067?format=json",
@@ -195184,15 +195184,15 @@
   "update_date": "2026-08-19"
  },
  "119-s-5187": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5187?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-30",
   "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "latest_action_date": "2026-07-30",
   "number": "5187",
   "origin_chamber": "Senate",
   "title": "PHD Talent Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-s-5188": {
   "congress": 119,
@@ -199729,7 +199729,7 @@
  "119-s-5559": {
   "congress": 119,
   "introduced_date": "2026-09-24",
-  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S5004)",
+  "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-09-24",
   "number": "5559",
   "origin_chamber": "Senate",
@@ -202512,7 +202512,7 @@
  "119-s-5787": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S5815-5816)",
+  "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2026-11-19",
   "number": "5787",
   "origin_chamber": "Senate",
@@ -202677,7 +202677,7 @@
  "119-s-580": {
   "congress": 119,
   "introduced_date": "2025-02-13",
-  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5796-5797)",
+  "latest_action": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "580",
   "origin_chamber": "Senate",
@@ -202787,8 +202787,8 @@
  "119-s-5809": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": null,
-  "latest_action_date": null,
+  "latest_action": "Read twice and referred to the Committee on Finance.",
+  "latest_action_date": "2026-11-19",
   "number": "5809",
   "origin_chamber": "Senate",
   "title": "A bill to amend the Internal Revenue Code of 1986 to extend the advanced manufacturing investment credit.",
@@ -204369,15 +204369,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-709": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/709?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-25",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2025-02-25",
   "number": "709",
   "origin_chamber": "Senate",
   "title": "Conrad State 30 and Physician Access Reauthorization Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-20"
  },
  "119-s-71": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/71?format=json",
@@ -219925,7 +219925,7 @@
  "119-sres-858": {
   "congress": 119,
   "introduced_date": "2026-09-16",
-  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5795-5796)",
+  "latest_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "858",
   "origin_chamber": "Senate",
@@ -221179,7 +221179,7 @@
  "119-sres-960": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Referred to the Committee on Foreign Relations. (text: CR S5816)",
+  "latest_action": "Referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-11-19",
   "number": "960",
   "origin_chamber": "Senate",
@@ -221190,7 +221190,7 @@
  "119-sres-961": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S5816-5817)",
+  "latest_action": "Referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2026-11-19",
   "number": "961",
   "origin_chamber": "Senate",
@@ -221201,7 +221201,7 @@
  "119-sres-962": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5817)",
+  "latest_action": "Referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-11-19",
   "number": "962",
   "origin_chamber": "Senate",
@@ -221212,7 +221212,7 @@
  "119-sres-963": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5817-5818)",
+  "latest_action": "Referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-11-19",
   "number": "963",
   "origin_chamber": "Senate",
@@ -221223,7 +221223,7 @@
  "119-sres-964": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5796; text: CR S5818)",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "964",
   "origin_chamber": "Senate",
@@ -221234,7 +221234,7 @@
  "119-sres-965": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5796; text: CR S5819)",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "965",
   "origin_chamber": "Senate",
@@ -221245,7 +221245,7 @@
  "119-sres-966": {
   "congress": 119,
   "introduced_date": "2026-11-19",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5796; text: CR S5819)",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
   "latest_action_date": "2026-11-19",
   "number": "966",
   "origin_chamber": "Senate",
