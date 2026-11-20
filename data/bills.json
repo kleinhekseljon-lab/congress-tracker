@@ -14319,7 +14319,7 @@
   "origin_chamber": "House",
   "title": "Faster Clinical Trials Act",
   "type": "HR",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-hr-10858": {
   "congress": 119,
@@ -20446,7 +20446,7 @@
   "origin_chamber": "House",
   "title": "Federal Broadband Deployment Tracking Act",
   "type": "HR",
-  "update_date": "2026-11-14"
+  "update_date": "2026-11-20"
  },
  "119-hr-1344": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1344?format=json",
@@ -21810,7 +21810,7 @@
   "origin_chamber": "House",
   "title": "ITS Codification Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-hr-1456": {
   "congress": 119,
@@ -57277,15 +57277,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-4360": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4360?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-10",
   "latest_action": "Referred to the House Committee on Science, Space, and Technology.",
   "latest_action_date": "2025-07-10",
   "number": "4360",
   "origin_chamber": "House",
   "title": "Frank Wolf Space Security Act",
   "type": "HR",
-  "update_date": "2025-09-10"
+  "update_date": "2026-11-20"
  },
  "119-hr-4361": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4361?format=json",
@@ -64963,7 +64963,7 @@
   "origin_chamber": "House",
   "title": "Wildfire Grid Resiliency Act",
   "type": "HR",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-hr-4991": {
   "congress": 119,
@@ -71511,15 +71511,15 @@
   "update_date": "2026-11-18"
  },
  "119-hr-5526": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5526?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-09-19",
   "number": "5526",
   "origin_chamber": "House",
   "title": "Biosimilar Red Tape Elimination Act",
   "type": "HR",
-  "update_date": "2026-07-22"
+  "update_date": "2026-11-20"
  },
  "119-hr-5527": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/5527?format=json",
@@ -92840,15 +92840,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-7273": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7273?format=json",
   "congress": 119,
+  "introduced_date": "2026-01-30",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 0.",
   "latest_action_date": "2026-02-04",
   "number": "7273",
   "origin_chamber": "House",
   "title": "NASA Reauthorization Act of 2026",
   "type": "HR",
-  "update_date": "2026-06-04"
+  "update_date": "2026-11-20"
  },
  "119-hr-7274": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7274?format=json",
@@ -113410,15 +113410,15 @@
   "update_date": "2026-09-24"
  },
  "119-hr-8958": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8958?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-21",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2026-05-21",
   "number": "8958",
   "origin_chamber": "House",
   "title": "To grant to Crook County, Oregon, a right-of-way for the construction of a new road in Juniper Canyon, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-06-23"
+  "update_date": "2026-11-20"
  },
  "119-hr-8959": {
   "congress": 119,
@@ -133482,7 +133482,7 @@
   "origin_chamber": "House",
   "title": "Commending and congratulating Texas A&M University for 150 years of service to the State of Texas and the United States.",
   "type": "HRES",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-20"
  },
  "119-hres-1601": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1601?format=json",
@@ -144837,15 +144837,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1026": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1026?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-13",
   "number": "1026",
   "origin_chamber": "Senate",
   "title": "Tar Sands Tax Loophole Elimination Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-20"
  },
  "119-s-1027": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1027?format=json",
@@ -149787,15 +149787,15 @@
   "update_date": "2025-12-05"
  },
  "119-s-1437": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1437?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-10",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2025-12-10",
   "number": "1437",
   "origin_chamber": "Senate",
   "title": "ASCEND Act",
   "type": "S",
-  "update_date": "2026-10-08"
+  "update_date": "2026-11-20"
  },
  "119-s-1438": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1438?format=json",
@@ -150029,15 +150029,15 @@
   "update_date": "2025-05-22"
  },
  "119-s-1457": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1457?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-10",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-04-10",
   "number": "1457",
   "origin_chamber": "Senate",
   "title": "Engine Testing for Exploration Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-s-1458": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1458?format=json",
@@ -156024,15 +156024,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1954": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1954?format=json",
   "congress": 119,
+  "introduced_date": "2025-06-04",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 521.",
   "latest_action_date": "2026-07-27",
   "number": "1954",
   "origin_chamber": "Senate",
   "title": "Biosimilar Red Tape Elimination Act",
   "type": "S",
-  "update_date": "2026-08-03"
+  "update_date": "2026-11-20"
  },
  "119-s-1955": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1955?format=json",
@@ -160831,15 +160831,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-2351": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/2351?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-17",
   "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.",
   "latest_action_date": "2026-04-13",
   "number": "2351",
   "origin_chamber": "Senate",
   "title": "Space Exploration Research Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-s-2352": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2352?format=json",
@@ -178098,7 +178098,7 @@
   "origin_chamber": "Senate",
   "title": "A bill to authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War",
   "type": "S",
-  "update_date": "2026-10-30"
+  "update_date": "2026-11-20"
  },
  "119-s-3782": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3782?format=json",
@@ -180499,15 +180499,15 @@
   "update_date": "2026-04-21"
  },
  "119-s-3979": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/3979?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-04",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-03-04",
   "number": "3979",
   "origin_chamber": "Senate",
   "title": "Taiwan and American Space Assistance Act of 2026",
   "type": "S",
-  "update_date": "2026-03-24"
+  "update_date": "2026-11-20"
  },
  "119-s-3980": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3980?format=json",
@@ -181291,15 +181291,15 @@
   "update_date": "2026-08-20"
  },
  "119-s-4044": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4044?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-10",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-03-10",
   "number": "4044",
   "origin_chamber": "Senate",
   "title": "Support for Astrophysical Observatories and National High-Energy Astrophysics Hubs Act of 2026",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-s-4045": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4045?format=json",
@@ -183975,15 +183975,15 @@
   "update_date": "2026-04-20"
  },
  "119-s-4264": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4264?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-26",
   "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2026-03-26",
   "number": "4264",
   "origin_chamber": "Senate",
   "title": "NASA UAS Detection Act",
   "type": "S",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-20"
  },
  "119-s-4265": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4265?format=json",
@@ -192288,7 +192288,7 @@
   "origin_chamber": "Senate",
   "title": "ITS Codification Act",
   "type": "S",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-s-4951": {
   "congress": 119,
@@ -199328,7 +199328,7 @@
   "origin_chamber": "Senate",
   "title": "Agricultural Act of 2026",
   "type": "S",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-20"
  },
  "119-s-5527": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5527?format=json",
@@ -200241,7 +200241,7 @@
   "origin_chamber": "Senate",
   "title": "Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-s-5601": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5601?format=json",
@@ -201407,7 +201407,7 @@
   "origin_chamber": "Senate",
   "title": "Information Quality Assurance Act of 2026",
   "type": "S",
-  "update_date": "2026-11-17"
+  "update_date": "2026-11-20"
  },
  "119-s-5698": {
   "congress": 119,
@@ -202670,7 +202670,7 @@
   "latest_action_date": "2026-11-19",
   "number": "580",
   "origin_chamber": "Senate",
-  "title": "A bill to require the Secretary of Commerce to provide training and guidance relating to violations of human rights, including such abuses perpetrated against Uyghur and other religious and ethnic minority groups by the Government of the People's Republic of China, and for other purposes.",
+  "title": "Combating CCP Labor Abuses Act of 2026",
   "type": "S",
   "update_date": "2026-11-20"
  },
@@ -206261,15 +206261,15 @@
   "update_date": "2026-07-24"
  },
  "119-s-866": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/866?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S1581)",
   "latest_action_date": "2025-03-05",
   "number": "866",
   "origin_chamber": "Senate",
   "title": "Accelerating Broadband Permits Act",
   "type": "S",
-  "update_date": "2025-07-14"
+  "update_date": "2026-11-20"
  },
  "119-s-867": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/867?format=json",
@@ -207094,7 +207094,7 @@
   "origin_chamber": "Senate",
   "title": "NASA Authorization Act of 2026",
   "type": "S",
-  "update_date": "2026-11-11"
+  "update_date": "2026-11-20"
  },
  "119-s-934": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/934?format=json",
@@ -221012,15 +221012,15 @@
   "update_date": "2026-10-15"
  },
  "119-sres-948": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/948?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-30",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299; text: CR S5273-5274)",
   "latest_action_date": "2026-09-30",
   "number": "948",
   "origin_chamber": "Senate",
   "title": "A resolution commending and congratulating Texas A&M University for 150 years of service to the State of Texas and the United States.",
   "type": "SRES",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-20"
  },
  "119-sres-949": {
   "congress": 119,
