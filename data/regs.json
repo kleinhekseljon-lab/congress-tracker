@@ -20411,6 +20411,182 @@
   "type": "Rule",
   "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23709/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery"
  },
+ "2026-23749": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all ATR-GIE Avions de Transport R[eacute]gional Model ATR42-500 and ATR72-212A airplanes. This proposed AD was prompted by reports of two in-service events during takeoff where an internal failure of the integrated air system control (IASC) software analog-to-digital converter generated erroneous pressure digital values, leading to uncommanded full-speed closure of the outflow valve and a high negative cabin altitude rate. This proposed AD would require installing improved IASC software. This proposed AD would also prohibit the installation of affected software under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-07",
+  "effective_on": null,
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23749/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+ },
+ "2026-23752": {
+  "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all ATR-GIE Avions de Transport R[eacute]gional Model ATR42 and ATR72 airplanes. This proposed AD was prompted by a review of mooring loads that revealed that winds within the currently defined wind profiles could lead to loads exceeding the certification limits on the nose landing gear (NLG) and main landing gear (MLG) while the airplane is moored. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate a revised maintenance procedure (MP) for mooring the airplane. The FAA is proposing this AD to address the unsafe condition on these products.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-07",
+  "effective_on": null,
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23752/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+ },
+ "2026-23777": {
+  "abstract": "This final rule rescinds the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA or Act) set forth in the Department of Labor's (Department) regulations and replaces it with an analysis similar to what it published in a final rule promulgated in 2021, with several modifications and enhancements. In addition, this final rule amends provisions in the Department's regulations implementing the Family and Medical Leave Act (FMLA) and Migrant and Seasonal Agricultural Worker Protection Act (MSPA) to provide that employee or independent contractor status under those laws should be determined using the Department's FLSA analysis, as the FMLA and MSPA both incorporate the FLSA's scope of employment.",
+  "agencies": [
+   "Labor Department",
+   "Wage and Hour Division"
+  ],
+  "agency_slugs": [
+   "labor-department",
+   "wage-and-hour-division"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-01-22",
+  "published": "2026-11-23",
+  "significant": true,
+  "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+ },
+ "2026-23786": {
+  "abstract": "This technical amendment contains non-substantive corrections to address typographical errors, editorial errors, and outdated or incorrect references in various parts of FAA regulations.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2026-11-23",
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Miscellaneous Technical Amendments; Technical Amendment",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment"
+ },
+ "2026-23812": {
+  "abstract": "In this document, the Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications Commission (Commission or FCC) seeks comment on recommendations for the U.S. Cyber Trust Mark (USCTM) program, a voluntary cybersecurity labeling program for wireless consumer Internet of Things (IoT) products. The Bureau seeks comment on the design and placement of the FCC IoT Label, display of product registry information, certification renewal, post-market surveillance, and procedures for complaints, noncompliant products, and program administrators that withdraw or whose authority is terminated. These actions would support the establishment and effective administration of the USCTM program and provide consumers with accessible cybersecurity information about certified IoT products.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": "2027-01-07",
+  "effective_on": "2026-12-23",
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Cybersecurity Labeling for Internet of Things",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things"
+ },
+ "2026-23818": {
+  "abstract": "On May 8, 2024, we published a final rule amending the horse protection regulations. The final rule was initially scheduled to go into effect on February 1, 2025, except for Sec. 11.19, which was effective on June 7, 2024. On January 28, 2025, we published a postponement of the effective date of the remaining provisions from February 1, 2025, to April 2, 2025. On March 21, 2025, we published a further delay of the effective date to February 1, 2026, and a request for comment on whether the length of the postponement should be extended. On January 28, 2026, based on developments following the issuance of the March 21, 2025, delay of effective date, we published a document further delaying the effective date of the final rule to December 31, 2026. On November 13, 2026, we published a proposed rule to remove parts of the 2024 Horse Protection final rule that were vacated by Court order from the regulations, as well as proposing to withdraw the non-vacated parts and update the regulations. As a consequence, in this document, we are issuing an extension of the postponement of the effective date of the final rule to December 31, 2027.",
+  "agencies": [
+   "Agriculture Department",
+   "Animal and Plant Health Inspection Service"
+  ],
+  "agency_slugs": [
+   "agriculture-department",
+   "animal-and-plant-health-inspection-service"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2025-02-01",
+  "published": "2026-11-23",
+  "significant": true,
+  "title": "Horse Protection Amendments; Extension of Postponement of Regulations",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23818/horse-protection-amendments-extension-of-postponement-of-regulations"
+ },
+ "2026-23824": {
+  "abstract": "This action proposes to amend Class D and Class E airspace over Lebanon, NH. This action would increase the lateral dimensions of the Lebanon, NH, Class D airspace to appropriately contain Instrument Flight Rules (IFR) operations at the Lebanon Municipal Airport. This action would also update verbiage in the Class D airspace legal description to comply with current FAA guidance. This action would also update the geographic coordinates for the airport in both the Class D and Class E5 airspace legal descriptions. This action would also remove the exclusions for adjacent Class E5 airspace from the Lebanon, NH, Class E5 airspace legal description. This action would also remove the Lebanon, NH, Class E4 airspace, which is no longer necessary for IFR operations at the airport.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-07",
+  "effective_on": null,
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Amendment of Class D and E Airspace and Removal of Class E Airspace Over Lebanon, NH",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23824/amendment-of-class-d-and-e-airspace-and-removal-of-class-e-airspace-over-lebanon-nh"
+ },
+ "2026-23830": {
+  "abstract": "In this document, the Federal Communications Commission (FCC or Commission) initiates a rulemaking to establish a vetting process for applicants for, and other recipients of, certain new funding awards of high-cost Universal Service Fund (USF) support.",
+  "agencies": [
+   "Federal Communications Commission"
+  ],
+  "agency_slugs": [
+   "federal-communications-commission"
+  ],
+  "comments_close_on": "2027-01-22",
+  "effective_on": "2026-12-23",
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23830/connect-america-fund-a-national-broadband-plan-for-our-future-high-cost-universal-support-reforming"
+ },
+ "2026-23836": {
+  "abstract": "This action amends the Class E airspace at Del Rio, TX. This action is the result of a biennial review of the airspace associated with Laughlin Air Force Base (AFB), Del Rio, TX. This proposal also updates the name and geographic coordinates of Laughlin AFB to coincide with the FAA's aeronautical database. This action brings the airspace into compliance with FAA orders and supports instrument flight rule (IFR) procedures and operations.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": null,
+  "effective_on": "2027-02-18",
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Amendment of Class E Airspace; Del Rio, TX",
+  "type": "Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx"
+ },
+ "2026-23838": {
+  "abstract": "This action proposes to establish Class E airspace at Columbus Community Hospital Heliport, Columbus, TX. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+  "agencies": [
+   "Transportation Department",
+   "Federal Aviation Administration"
+  ],
+  "agency_slugs": [
+   "transportation-department",
+   "federal-aviation-administration"
+  ],
+  "comments_close_on": "2027-01-07",
+  "effective_on": null,
+  "published": "2026-11-23",
+  "significant": false,
+  "title": "Establishment of Class E Airspace; Columbus, TX",
+  "type": "Proposed Rule",
+  "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23838/establishment-of-class-e-airspace-columbus-tx"
+ },
  "C1-2026-10036": {
   "abstract": "",
   "agencies": [
