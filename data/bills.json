@@ -41855,15 +41855,15 @@
   "update_date": "2026-10-02"
  },
  "119-hr-3084": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3084?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-29",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-04-29",
   "number": "3084",
   "origin_chamber": "House",
   "title": "Stealthing Act of 2025",
   "type": "HR",
-  "update_date": "2026-10-05"
+  "update_date": "2026-11-24"
  },
  "119-hr-3085": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3085?format=json",
@@ -67837,15 +67837,15 @@
   "update_date": "2026-09-17"
  },
  "119-hr-5211": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/5211?format=json",
   "congress": 119,
+  "introduced_date": "2025-09-08",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-09-08",
   "number": "5211",
   "origin_chamber": "House",
   "title": "Peace Officer Standards and Training Agency Information Access Clarification Act",
   "type": "HR",
-  "update_date": "2026-05-19"
+  "update_date": "2026-11-23"
  },
  "119-hr-5212": {
   "congress": 119,
@@ -83248,15 +83248,15 @@
   "update_date": "2026-01-13"
  },
  "119-hr-6475": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/6475?format=json",
   "congress": 119,
+  "introduced_date": "2025-12-04",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-12-04",
   "number": "6475",
   "origin_chamber": "House",
   "title": "Preventing Child Trafficking Act of 2025",
   "type": "HR",
-  "update_date": "2026-07-23"
+  "update_date": "2026-11-23"
  },
  "119-hr-6476": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/6476?format=json",
@@ -101552,15 +101552,15 @@
   "update_date": "2026-10-31"
  },
  "119-hr-7973": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7973?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-18",
   "latest_action": "Referred to the Subcommittee on Health.",
   "latest_action_date": "2026-04-20",
   "number": "7973",
   "origin_chamber": "House",
   "title": "Momnibus Act",
   "type": "HR",
-  "update_date": "2026-09-25"
+  "update_date": "2026-11-23"
  },
  "119-hr-7974": {
   "congress": 119,
@@ -102190,15 +102190,15 @@
   "update_date": "2026-09-16"
  },
  "119-hr-8024": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8024?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-19",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-03-19",
   "number": "8024",
   "origin_chamber": "House",
   "title": "Maternal Vaccination Act",
   "type": "HR",
-  "update_date": "2026-08-19"
+  "update_date": "2026-11-23"
  },
  "119-hr-8025": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8025?format=json",
@@ -110129,7 +110129,7 @@
   "origin_chamber": "House",
   "title": "Geese House Site Conveyance Act",
   "type": "HR",
-  "update_date": "2026-11-20"
+  "update_date": "2026-11-23"
  },
  "119-hr-8675": {
   "congress": 119,
@@ -112013,15 +112013,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-8829": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8829?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-14",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-05-14",
   "number": "8829",
   "origin_chamber": "House",
   "title": "Reproductive Health Care Accessibility Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-23"
  },
  "119-hr-883": {
   "congress": 119,
@@ -121613,7 +121613,7 @@
   "origin_chamber": "House",
   "title": "NRC Staff Pay Alignment Act",
   "type": "HR",
-  "update_date": "2026-11-23"
+  "update_date": "2026-11-24"
  },
  "119-hr-9615": {
   "congress": 119,
@@ -124077,7 +124077,7 @@
   "origin_chamber": "House",
   "title": "Justice for Incarcerated Moms Act",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-23"
  },
  "119-hr-9818": {
   "congress": 119,
@@ -131593,15 +131593,15 @@
   "update_date": "2026-07-23"
  },
  "119-hres-1432": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hres/1432?format=json",
   "congress": 119,
+  "introduced_date": "2026-07-15",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2026-07-15",
   "number": "1432",
   "origin_chamber": "House",
   "title": "Of inquiry requesting the President and directing the Secretary of Health and Human Services to transmit, respectively, certain documents to the House of Representatives relating to the freeze on State-based Temporary Assistance for Needy Families, Child Care and Development Fund, and Social Services Block Grant payments for California, Colorado, Illinois, Minnesota, and New York.",
   "type": "HRES",
-  "update_date": "2026-07-21"
+  "update_date": "2026-11-23"
  },
  "119-hres-1433": {
   "api_url": "https://api.congress.gov/v3/bill/119/hres/1433?format=json",
@@ -151492,15 +151492,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1562": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1562?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-01",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-05-01",
   "number": "1562",
   "origin_chamber": "Senate",
   "title": "PREEMIE Reauthorization Act of 2025",
   "type": "S",
-  "update_date": "2026-01-31"
+  "update_date": "2026-11-23"
  },
  "119-s-1563": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1563?format=json",
@@ -196537,15 +196537,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-5283": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5283?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-06",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2026-08-06",
   "number": "5283",
   "origin_chamber": "Senate",
   "title": "Momnibus Act",
   "type": "S",
-  "update_date": "2026-08-21"
+  "update_date": "2026-11-23"
  },
  "119-s-5284": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5284?format=json",
@@ -201935,7 +201935,7 @@
   "origin_chamber": "Senate",
   "title": "Protecting Approved Care Act",
   "type": "S",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-23"
  },
  "119-s-5725": {
   "congress": 119,
@@ -202078,7 +202078,7 @@
   "origin_chamber": "Senate",
   "title": "Hemp Guardrails Act",
   "type": "S",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-23"
  },
  "119-s-5737": {
   "congress": 119,
@@ -221460,7 +221460,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution designating the week of November 27 through December 3, 2026, as \"National Electronic Transactions Week\".",
   "type": "SRES",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-23"
  },
  "119-sres-963": {
   "congress": 119,
