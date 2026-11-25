@@ -20543,8 +20543,8 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2027-01-22",
-  "effective_on": "2026-12-23",
+  "comments_close_on": "2026-12-23",
+  "effective_on": null,
   "published": "2026-11-23",
   "significant": false,
   "title": "Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting",
@@ -21041,7 +21041,7 @@
   "agency_slugs": [
    "federal-communications-commission"
   ],
-  "comments_close_on": "2027-01-20",
+  "comments_close_on": null,
   "effective_on": null,
   "published": "2026-11-25",
   "significant": false,
