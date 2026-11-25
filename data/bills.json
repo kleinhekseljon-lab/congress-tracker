@@ -10744,7 +10744,7 @@
   "origin_chamber": "House",
   "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-20"
+  "update_date": "2026-11-24"
  },
  "119-hr-10564": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10564?format=json",
@@ -32689,7 +32689,7 @@
   "origin_chamber": "House",
   "title": "SHARE Act of 2026",
   "type": "HR",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-25"
  },
  "119-hr-2333": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2333?format=json",
@@ -45815,15 +45815,15 @@
   "update_date": "2025-06-06"
  },
  "119-hr-3408": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3408?format=json",
   "congress": 119,
+  "introduced_date": "2025-05-14",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-05-14",
   "number": "3408",
   "origin_chamber": "House",
   "title": "Pathways to Policing Act",
   "type": "HR",
-  "update_date": "2026-09-28"
+  "update_date": "2026-11-24"
  },
  "119-hr-3409": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/3409?format=json",
@@ -55162,7 +55162,7 @@
   "origin_chamber": "House",
   "title": "Preventing Pretrial Gun Purchases Act",
   "type": "HR",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-24"
  },
  "119-hr-4174": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/4174?format=json",
@@ -58520,15 +58520,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-4449": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/4449?format=json",
   "congress": 119,
+  "introduced_date": "2025-07-16",
   "latest_action": "Placed on the Union Calendar, Calendar No. 207.",
   "latest_action_date": "2025-09-08",
   "number": "4449",
   "origin_chamber": "House",
   "title": "Advocating for Small Business Act",
   "type": "HR",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-24"
  },
  "119-hr-445": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/445?format=json",
@@ -95719,7 +95719,7 @@
   "origin_chamber": "House",
   "title": "To authorize the establishment of memorials to the Wisconsin infantry officers and enlisted men who fought in the Battle of Antietam and the Second Battle of Bull Run, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-20"
+  "update_date": "2026-11-24"
  },
  "119-hr-7496": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7496?format=json",
@@ -101222,15 +101222,15 @@
   "update_date": "2026-11-11"
  },
  "119-hr-7946": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/7946?format=json",
   "congress": 119,
+  "introduced_date": "2026-03-16",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-03-16",
   "number": "7946",
   "origin_chamber": "House",
   "title": "Jury Duty Exemption for Breastfeeding Act of 2026",
   "type": "HR",
-  "update_date": "2026-10-07"
+  "update_date": "2026-11-24"
  },
  "119-hr-7947": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/7947?format=json",
@@ -107615,13 +107615,13 @@
  "119-hr-8469": {
   "congress": 119,
   "introduced_date": "2026-04-23",
-  "latest_action": "Motion to proceed to consideration of measure made in Senate.",
+  "latest_action": "Motion to proceed to consideration of measure made in Senate. (consideration: CR S5847)",
   "latest_action_date": "2026-11-20",
   "number": "8469",
   "origin_chamber": "House",
   "title": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
   "type": "HR",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-24"
  },
  "119-hr-847": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/847?format=json",
@@ -120263,15 +120263,15 @@
   "update_date": "2026-07-23"
  },
  "119-hr-9503": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/9503?format=json",
   "congress": 119,
+  "introduced_date": "2026-06-29",
   "latest_action": "Ordered to be Reported (Amended) by Voice Vote.",
   "latest_action_date": "2026-09-16",
   "number": "9503",
   "origin_chamber": "House",
   "title": "Officer Leslie Coffelt U.S. Secret Service Police Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-24"
  },
  "119-hr-9504": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9504?format=json",
@@ -122570,7 +122570,7 @@
   "origin_chamber": "House",
   "title": "Epstein Files Transparency Act II",
   "type": "HR",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-24"
  },
  "119-hr-9695": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/9695?format=json",
@@ -144738,15 +144738,15 @@
   "update_date": "2026-08-10"
  },
  "119-s-1002": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1002?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-12",
   "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
   "latest_action_date": "2025-03-12",
   "number": "1002",
   "origin_chamber": "Senate",
   "title": "Deliver for Democracy Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-24"
  },
  "119-s-1003": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1003?format=json",
@@ -144760,15 +144760,15 @@
   "update_date": "2026-09-08"
  },
  "119-s-1004": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1004?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-12",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-03-12",
   "number": "1004",
   "origin_chamber": "Senate",
   "title": "Pregnant and Postpartum Women Treatment Reauthorization Act",
   "type": "S",
-  "update_date": "2026-06-23"
+  "update_date": "2026-11-24"
  },
  "119-s-1005": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1005?format=json",
@@ -144991,15 +144991,15 @@
   "update_date": "2025-04-21"
  },
  "119-s-1023": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1023?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-13",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-13",
   "number": "1023",
   "origin_chamber": "Senate",
   "title": "Social Security Overpayment Relief Act",
   "type": "S",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-24"
  },
  "119-s-1024": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1024?format=json",
@@ -146594,7 +146594,7 @@
   "origin_chamber": "Senate",
   "title": "Women and Lung Cancer Research and Preventive Services Act of 2025",
   "type": "S",
-  "update_date": "2026-10-27"
+  "update_date": "2026-11-24"
  },
  "119-s-1158": {
   "congress": 119,
@@ -167516,7 +167516,7 @@
   "origin_chamber": "Senate",
   "title": "Route 66 National Historic Trail Designation Act",
   "type": "S",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-24"
  },
  "119-s-2888": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/2888?format=json",
@@ -172466,7 +172466,7 @@
   "origin_chamber": "Senate",
   "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act of 2025",
   "type": "S",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-24"
  },
  "119-s-3297": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/3297?format=json",
@@ -186414,7 +186414,7 @@
   "origin_chamber": "Senate",
   "title": "Accelerating Broadband Permits Act of 2026",
   "type": "S",
-  "update_date": "2026-11-24"
+  "update_date": "2026-11-25"
  },
  "119-s-4449": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4449?format=json",
@@ -187693,15 +187693,15 @@
   "update_date": "2026-08-21"
  },
  "119-s-4553": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4553?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-18",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-05-18",
   "number": "4553",
   "origin_chamber": "Senate",
   "title": "Aaron Salter, Jr., Responsible Body Armor Possession Act",
   "type": "S",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-24"
  },
  "119-s-4554": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4554?format=json",
@@ -188650,15 +188650,15 @@
   "update_date": "2026-09-29"
  },
  "119-s-4631": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/4631?format=json",
   "congress": 119,
+  "introduced_date": "2026-05-21",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-05-21",
   "number": "4631",
   "origin_chamber": "Senate",
   "title": "Expanding Whistleblower Protections for Contractors Act of 2026",
   "type": "S",
-  "update_date": "2026-07-18"
+  "update_date": "2026-11-24"
  },
  "119-s-4632": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4632?format=json",
@@ -190935,7 +190935,7 @@
   "origin_chamber": "Senate",
   "title": "STOP Scams Against Seniors Act",
   "type": "S",
-  "update_date": "2026-11-24"
+  "update_date": "2026-11-25"
  },
  "119-s-4822": {
   "congress": 119,
@@ -193204,15 +193204,15 @@
   "update_date": "2026-07-30"
  },
  "119-s-501": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/501?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-10",
   "latest_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "latest_action_date": "2025-02-10",
   "number": "501",
   "origin_chamber": "Senate",
   "title": "Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
   "type": "S",
-  "update_date": "2025-04-24"
+  "update_date": "2026-11-24"
  },
  "119-s-5010": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5010?format=json",
@@ -198968,15 +198968,15 @@
   "update_date": "2026-11-10"
  },
  "119-s-5482": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5482?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-23",
   "latest_action": "Read twice and referred to the Committee on the Judiciary.",
   "latest_action_date": "2026-09-23",
   "number": "5482",
   "origin_chamber": "Senate",
   "title": "PREP Act",
   "type": "S",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-24"
  },
  "119-s-5483": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5483?format=json",
@@ -206533,7 +206533,7 @@
   "origin_chamber": "Senate",
   "title": "Accelerating Broadband Permits Act",
   "type": "S",
-  "update_date": "2026-11-24"
+  "update_date": "2026-11-25"
  },
  "119-s-867": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/867?format=json",
@@ -207658,15 +207658,15 @@
   "update_date": "2026-08-19"
  },
  "119-s-959": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/959?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-11",
   "number": "959",
   "origin_chamber": "Senate",
   "title": "Tariff Transparency Act of 2025",
   "type": "S",
-  "update_date": "2025-09-23"
+  "update_date": "2026-11-24"
  },
  "119-s-96": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/96?format=json",
@@ -207955,15 +207955,15 @@
   "update_date": "2025-09-08"
  },
  "119-s-983": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/983?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-12",
   "latest_action": "Read twice and referred to the Committee on Finance.",
   "latest_action_date": "2025-03-12",
   "number": "983",
   "origin_chamber": "Senate",
   "title": "Hearing Device Coverage Clarification Act",
   "type": "S",
-  "update_date": "2026-02-19"
+  "update_date": "2026-11-24"
  },
  "119-s-984": {
   "congress": 119,
@@ -217327,15 +217327,15 @@
   "update_date": "2026-04-27"
  },
  "119-sres-62": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/62?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S797-798)",
   "latest_action_date": "2025-02-06",
   "number": "62",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Special Committee on Aging.",
   "type": "SRES",
-  "update_date": "2025-05-15"
+  "update_date": "2026-11-24"
  },
  "119-sres-620": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/620?format=json",
@@ -217690,15 +217690,15 @@
   "update_date": "2026-03-26"
  },
  "119-sres-65": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/65?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-06",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S799)",
   "latest_action_date": "2025-02-06",
   "number": "65",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on the Judiciary.",
   "type": "SRES",
-  "update_date": "2026-08-10"
+  "update_date": "2026-11-24"
  },
  "119-sres-650": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/650?format=json",
@@ -218174,15 +218174,15 @@
   "update_date": "2026-05-05"
  },
  "119-sres-69": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/69?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S862)",
   "latest_action_date": "2025-02-11",
   "number": "69",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Armed Services.",
   "type": "SRES",
-  "update_date": "2025-05-20"
+  "update_date": "2026-11-24"
  },
  "119-sres-690": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/690?format=json",
@@ -218295,26 +218295,26 @@
   "update_date": "2026-05-15"
  },
  "119-sres-7": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/7?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7; text: CR S7)",
   "latest_action_date": "2025-01-03",
   "number": "7",
   "origin_chamber": "Senate",
   "title": "A resolution fixing the hour of daily meeting of the Senate.",
   "type": "SRES",
-  "update_date": "2025-01-30"
+  "update_date": "2026-11-24"
  },
  "119-sres-70": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/70?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S862-863)",
   "latest_action_date": "2025-02-11",
   "number": "70",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.",
   "type": "SRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-24"
  },
  "119-sres-700": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/700?format=json",
@@ -218427,15 +218427,15 @@
   "update_date": "2026-05-21"
  },
  "119-sres-71": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/71?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S863)",
   "latest_action_date": "2025-02-11",
   "number": "71",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Small Business and Entrepreneurship.",
   "type": "SRES",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-24"
  },
  "119-sres-710": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/710?format=json",
@@ -218515,15 +218515,15 @@
   "update_date": "2026-05-14"
  },
  "119-sres-717": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/717?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-30",
   "latest_action": "Referred to the Committee on the Judiciary. (text: CR S2179)",
   "latest_action_date": "2026-04-30",
   "number": "717",
   "origin_chamber": "Senate",
   "title": "A resolution honoring the memory of Jereima \"Jeri\" Bustamante on the eighth anniversary of her passing.",
   "type": "SRES",
-  "update_date": "2026-08-24"
+  "update_date": "2026-11-24"
  },
  "119-sres-718": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/718?format=json",
@@ -218779,15 +218779,15 @@
   "update_date": "2026-06-02"
  },
  "119-sres-74": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/74?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-11",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S864)",
   "latest_action_date": "2025-02-11",
   "number": "74",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Veterans' Affairs.",
   "type": "SRES",
-  "update_date": "2025-05-20"
+  "update_date": "2026-11-24"
  },
  "119-sres-740": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/740?format=json",
@@ -219010,15 +219010,15 @@
   "update_date": "2026-09-08"
  },
  "119-sres-76": {
-  "api_url": "https://api.congress.gov/v3/bill/119/sres/76?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-12",
   "latest_action": "Referred to the Committee on Rules and Administration. (text: CR S931-932)",
   "latest_action_date": "2025-02-12",
   "number": "76",
   "origin_chamber": "Senate",
   "title": "An original resolution authorizing expenditures by the Committee on Health, Education, Labor and Pensions.",
   "type": "SRES",
-  "update_date": "2025-05-15"
+  "update_date": "2026-11-24"
  },
  "119-sres-760": {
   "api_url": "https://api.congress.gov/v3/bill/119/sres/760?format=json",
@@ -221383,7 +221383,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution honoring the service and sacrifice of the veterans of the United States on Veterans Day, 2026.",
   "type": "SRES",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-24"
  },
  "119-sres-957": {
   "congress": 119,
@@ -221394,7 +221394,7 @@
   "origin_chamber": "Senate",
   "title": "A resolution expressing support for the designation of November 15, 2026, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
   "type": "SRES",
-  "update_date": "2026-11-19"
+  "update_date": "2026-11-24"
  },
  "119-sres-958": {
   "congress": 119,
@@ -221553,7 +221553,7 @@
  "119-sres-970": {
   "congress": 119,
   "introduced_date": "2026-11-20",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5847; text: CR S5844-5845)",
   "latest_action_date": "2026-11-20",
   "number": "970",
   "origin_chamber": "Senate",
@@ -221564,7 +221564,7 @@
  "119-sres-971": {
   "congress": 119,
   "introduced_date": "2026-11-20",
-  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "latest_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5847; text: CR S5845)",
   "latest_action_date": "2026-11-20",
   "number": "971",
   "origin_chamber": "Senate",
@@ -221575,7 +221575,7 @@
  "119-sres-972": {
   "congress": 119,
   "introduced_date": "2026-11-20",
-  "latest_action": "Referred to the Committee on the Judiciary.",
+  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5845-5846)",
   "latest_action_date": "2026-11-20",
   "number": "972",
   "origin_chamber": "Senate",
@@ -221586,7 +221586,7 @@
  "119-sres-973": {
   "congress": 119,
   "introduced_date": "2026-11-20",
-  "latest_action": "Referred to the Committee on the Judiciary.",
+  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5846)",
   "latest_action_date": "2026-11-20",
   "number": "973",
   "origin_chamber": "Senate",
@@ -221597,7 +221597,7 @@
  "119-sres-974": {
   "congress": 119,
   "introduced_date": "2026-11-20",
-  "latest_action": "Referred to the Committee on the Judiciary.",
+  "latest_action": "Referred to the Committee on the Judiciary. (text: CR S5846)",
   "latest_action_date": "2026-11-20",
   "number": "974",
   "origin_chamber": "Senate",
