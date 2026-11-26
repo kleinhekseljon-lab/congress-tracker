@@ -6105,15 +6105,15 @@
   "update_date": "2026-11-06"
  },
  "119-hr-10184": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10184?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-31",
   "latest_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 21.",
   "latest_action_date": "2026-09-16",
   "number": "10184",
   "origin_chamber": "House",
   "title": "Consumer Financial Protection Accountability and Reform Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-22"
+  "update_date": "2026-11-26"
  },
  "119-hr-10185": {
   "congress": 119,
