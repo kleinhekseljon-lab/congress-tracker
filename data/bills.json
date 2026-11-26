@@ -5904,7 +5904,7 @@
   "origin_chamber": "House",
   "title": "Common Cents Act",
   "type": "HR",
-  "update_date": "2026-11-24"
+  "update_date": "2026-11-25"
  },
  "119-hr-10168": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10168?format=json",
@@ -16178,7 +16178,7 @@
   "origin_chamber": "House",
   "title": "Strengthening Citizenship Services for Veterans Act",
   "type": "HR",
-  "update_date": "2026-11-13"
+  "update_date": "2026-11-25"
  },
  "119-hr-11009": {
   "congress": 119,
@@ -23020,7 +23020,7 @@
   "origin_chamber": "House",
   "title": "Charlotte Woodward Organ Transplant Discrimination Prevention Act",
   "type": "HR",
-  "update_date": "2026-11-21"
+  "update_date": "2026-11-25"
  },
  "119-hr-1521": {
   "congress": 119,
@@ -27544,15 +27544,15 @@
   "update_date": "2025-03-25"
  },
  "119-hr-1892": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1892?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-05",
   "latest_action": "Referred to the Subcommittee on Highways and Transit.",
   "latest_action_date": "2025-03-05",
   "number": "1892",
   "origin_chamber": "House",
   "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
   "type": "HR",
-  "update_date": "2026-06-17"
+  "update_date": "2026-11-25"
  },
  "119-hr-1893": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1893?format=json",
@@ -27566,37 +27566,37 @@
   "update_date": "2026-01-22"
  },
  "119-hr-1894": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1894?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-03-06",
   "number": "1894",
   "origin_chamber": "House",
   "title": "FISH Act of 2025",
   "type": "HR",
-  "update_date": "2025-09-03"
+  "update_date": "2026-11-25"
  },
  "119-hr-1895": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1895?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-06",
   "number": "1895",
   "origin_chamber": "House",
   "title": "Delphi Retirees Pension Restoration Act",
   "type": "HR",
-  "update_date": "2026-09-10"
+  "update_date": "2026-11-25"
  },
  "119-hr-1896": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1896?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-06",
   "number": "1896",
   "origin_chamber": "House",
   "title": "Renewable Fuel for Ocean-Going Vessels Act",
   "type": "HR",
-  "update_date": "2026-09-19"
+  "update_date": "2026-11-25"
  },
  "119-hr-1897": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1897?format=json",
@@ -27764,15 +27764,15 @@
   "update_date": "2026-11-02"
  },
  "119-hr-191": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/191?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Agriculture, Natural Resources, Financial Services, Science, Space, and Technology, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-01-03",
   "number": "191",
   "origin_chamber": "House",
   "title": "Inflation Reduction Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-12"
+  "update_date": "2026-11-25"
  },
  "119-hr-1910": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1910?format=json",
@@ -27841,15 +27841,15 @@
   "update_date": "2026-06-11"
  },
  "119-hr-1916": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1916?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Appropriations.",
   "latest_action_date": "2025-03-06",
   "number": "1916",
   "origin_chamber": "House",
   "title": "Pay Our Border Patrol and Customs Agents Act of 2025",
   "type": "HR",
-  "update_date": "2025-05-12"
+  "update_date": "2026-11-25"
  },
  "119-hr-1917": {
   "congress": 119,
@@ -27871,7 +27871,7 @@
   "origin_chamber": "House",
   "title": "Farewell to Foam Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-25"
  },
  "119-hr-1919": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1919?format=json",
@@ -27995,15 +27995,15 @@
   "update_date": "2026-05-22"
  },
  "119-hr-1929": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1929?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-03-06",
   "number": "1929",
   "origin_chamber": "House",
   "title": "JUDGES Act of 2025",
   "type": "HR",
-  "update_date": "2026-09-02"
+  "update_date": "2026-11-25"
  },
  "119-hr-193": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/193?format=json",
@@ -28039,15 +28039,15 @@
   "update_date": "2026-02-13"
  },
  "119-hr-1932": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1932?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Appropriations.",
   "latest_action_date": "2025-03-06",
   "number": "1932",
   "origin_chamber": "House",
   "title": "Pay Our Troops Act of 2025",
   "type": "HR",
-  "update_date": "2025-12-05"
+  "update_date": "2026-11-25"
  },
  "119-hr-1933": {
   "congress": 119,
@@ -28061,15 +28061,15 @@
   "update_date": "2026-11-17"
  },
  "119-hr-1934": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1934?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the House Committee on Natural Resources.",
   "latest_action_date": "2025-03-06",
   "number": "1934",
   "origin_chamber": "House",
   "title": "ProTECT Act of 2025",
   "type": "HR",
-  "update_date": "2025-03-21"
+  "update_date": "2026-11-25"
  },
  "119-hr-1935": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1935?format=json",
@@ -28105,15 +28105,15 @@
   "update_date": "2025-12-05"
  },
  "119-hr-1938": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1938?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-06",
   "latest_action": "Referred to the Subcommittee on Water Resources and Environment.",
   "latest_action_date": "2025-03-06",
   "number": "1938",
   "origin_chamber": "House",
   "title": "Department of Defense PFAS Discharge Prevention Act",
   "type": "HR",
-  "update_date": "2025-10-04"
+  "update_date": "2026-11-25"
  },
  "119-hr-1939": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1939?format=json",
@@ -28127,15 +28127,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-194": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/194?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-03",
   "latest_action": "Referred to the House Committee on the Judiciary.",
   "latest_action_date": "2025-01-03",
   "number": "194",
   "origin_chamber": "House",
   "title": "Venue Named Under Exception Act",
   "type": "HR",
-  "update_date": "2025-05-27"
+  "update_date": "2026-11-25"
  },
  "119-hr-1940": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1940?format=json",
@@ -28157,7 +28157,7 @@
   "origin_chamber": "House",
   "title": "Preventing Deepfakes of Intimate Images Act",
   "type": "HR",
-  "update_date": "2026-11-09"
+  "update_date": "2026-11-25"
  },
  "119-hr-1942": {
   "congress": 119,
@@ -28410,7 +28410,7 @@
   "origin_chamber": "House",
   "title": "Guaranteeing Overtime for Truckers Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-11-25"
  },
  "119-hr-1963": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1963?format=json",
@@ -29491,26 +29491,26 @@
   "update_date": "2025-06-28"
  },
  "119-hr-2050": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2050?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the House Committee on Appropriations.",
   "latest_action_date": "2025-03-11",
   "number": "2050",
   "origin_chamber": "House",
   "title": "Homeland Heroes Pay Act",
   "type": "HR",
-  "update_date": "2025-06-30"
+  "update_date": "2026-11-25"
  },
  "119-hr-2051": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2051?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-11",
   "latest_action": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
   "latest_action_date": "2025-03-11",
   "number": "2051",
   "origin_chamber": "House",
   "title": "Coast Guard Sustained Funding Act of 2025",
   "type": "HR",
-  "update_date": "2025-10-02"
+  "update_date": "2026-11-25"
  },
  "119-hr-2052": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2052?format=json",
@@ -30756,15 +30756,15 @@
   "update_date": "2025-06-04"
  },
  "119-hr-2154": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2154?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-14",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-14",
   "number": "2154",
   "origin_chamber": "House",
   "title": "American Cybersecurity Literacy Act",
   "type": "HR",
-  "update_date": "2025-12-17"
+  "update_date": "2026-11-25"
  },
  "119-hr-2155": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2155?format=json",
@@ -33371,7 +33371,7 @@
   "origin_chamber": "House",
   "title": "Raise the Age Act of 2025",
   "type": "HR",
-  "update_date": "2026-11-10"
+  "update_date": "2026-11-25"
  },
  "119-hr-2369": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2369?format=json",
@@ -33767,7 +33767,7 @@
   "origin_chamber": "House",
   "title": "Protect Local Farms Act",
   "type": "HR",
-  "update_date": "2026-10-22"
+  "update_date": "2026-11-25"
  },
  "119-hr-2400": {
   "congress": 119,
@@ -33781,15 +33781,15 @@
   "update_date": "2026-11-25"
  },
  "119-hr-2401": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2401?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-27",
   "number": "2401",
   "origin_chamber": "House",
   "title": "Urban Waters Federal Partnership Act of 2025",
   "type": "HR",
-  "update_date": "2026-08-20"
+  "update_date": "2026-11-25"
  },
  "119-hr-2402": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2402?format=json",
@@ -33869,15 +33869,15 @@
   "update_date": "2025-06-12"
  },
  "119-hr-2409": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2409?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Placed on the Union Calendar, Calendar No. 490.",
   "latest_action_date": "2026-03-24",
   "number": "2409",
   "origin_chamber": "House",
   "title": "Guidance Clarity Act of 2025",
   "type": "HR",
-  "update_date": "2026-06-11"
+  "update_date": "2026-11-25"
  },
  "119-hr-241": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/241?format=json",
@@ -33957,15 +33957,15 @@
   "update_date": "2026-02-04"
  },
  "119-hr-2416": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2416?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2025-05-06",
   "number": "2416",
   "origin_chamber": "House",
   "title": "Taiwan International Solidarity Act",
   "type": "HR",
-  "update_date": "2026-07-13"
+  "update_date": "2026-11-25"
  },
  "119-hr-2417": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2417?format=json",
@@ -34353,15 +34353,15 @@
   "update_date": "2026-11-06"
  },
  "119-hr-2449": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/2449?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-27",
   "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "latest_action_date": "2025-04-29",
   "number": "2449",
   "origin_chamber": "House",
   "title": "FUTURE Networks Act",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-25"
  },
  "119-hr-245": {
   "congress": 119,
@@ -34848,15 +34848,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-249": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/249?format=json",
   "congress": 119,
+  "introduced_date": "2025-01-09",
   "latest_action": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
   "latest_action_date": "2025-12-09",
   "number": "249",
   "origin_chamber": "House",
   "title": "To redesignate certain facilities at Paterson Great Falls National Historical Park in honor of Congressman Bill Pascrell, Jr.",
   "type": "HR",
-  "update_date": "2026-09-08"
+  "update_date": "2026-11-25"
  },
  "119-hr-2490": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/2490?format=json",
@@ -151294,15 +151294,15 @@
   "update_date": "2025-05-29"
  },
  "119-s-1525": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/1525?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-30",
   "latest_action": "Held at the desk.",
   "latest_action_date": "2026-08-10",
   "number": "1525",
   "origin_chamber": "Senate",
   "title": "Common Cents Act",
   "type": "S",
-  "update_date": "2026-09-18"
+  "update_date": "2026-11-25"
  },
  "119-s-1526": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/1526?format=json",
@@ -188911,7 +188911,7 @@
   "origin_chamber": "Senate",
   "title": "Expanding Whistleblower Protections for Contractors Act of 2026",
   "type": "S",
-  "update_date": "2026-11-24"
+  "update_date": "2026-11-25"
  },
  "119-s-4632": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/4632?format=json",
