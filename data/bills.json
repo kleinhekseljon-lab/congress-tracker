@@ -6017,15 +6017,15 @@
   "update_date": "2026-10-22"
  },
  "119-hr-10177": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10177?format=json",
   "congress": 119,
+  "introduced_date": "2026-08-27",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2026-08-27",
   "number": "10177",
   "origin_chamber": "House",
   "title": "Competition in State Healthcare Markets Act",
   "type": "HR",
-  "update_date": "2026-08-28"
+  "update_date": "2026-11-27"
  },
  "119-hr-10178": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10178?format=json",
@@ -8822,15 +8822,15 @@
   "update_date": "2026-11-12"
  },
  "119-hr-10406": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/10406?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-16",
   "latest_action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-09-16",
   "number": "10406",
   "origin_chamber": "House",
   "title": "Jimmy Lai Hong Kong Political Prisoner Accountability Act of 2026",
   "type": "HR",
-  "update_date": "2026-09-29"
+  "update_date": "2026-11-27"
  },
  "119-hr-10407": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/10407?format=json",
@@ -13978,7 +13978,7 @@
   "origin_chamber": "House",
   "title": "Prohibit Corrupt Russia Oil Deals Act",
   "type": "HR",
-  "update_date": "2026-11-18"
+  "update_date": "2026-11-27"
  },
  "119-hr-10829": {
   "congress": 119,
@@ -25938,15 +25938,15 @@
   "update_date": "2026-09-19"
  },
  "119-hr-1760": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1760?format=json",
   "congress": 119,
+  "introduced_date": "2025-02-27",
   "latest_action": "Referred to the House Committee on Oversight and Government Reform.",
   "latest_action_date": "2025-02-27",
   "number": "1760",
   "origin_chamber": "House",
   "title": "USPS Act",
   "type": "HR",
-  "update_date": "2025-05-08"
+  "update_date": "2026-11-27"
  },
  "119-hr-1761": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1761?format=json",
@@ -26125,15 +26125,15 @@
   "update_date": "2026-03-17"
  },
  "119-hr-1776": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1776?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2025-03-03",
   "number": "1776",
   "origin_chamber": "House",
   "title": "New Health Options Act of 2025",
   "type": "HR",
-  "update_date": "2026-01-22"
+  "update_date": "2026-11-27"
  },
  "119-hr-1777": {
   "congress": 119,
@@ -26158,15 +26158,15 @@
   "update_date": "2026-04-15"
  },
  "119-hr-1779": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1779?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
   "latest_action_date": "2025-03-03",
   "number": "1779",
   "origin_chamber": "House",
   "title": "SWAMP Act",
   "type": "HR",
-  "update_date": "2025-05-19"
+  "update_date": "2026-11-27"
  },
  "119-hr-178": {
   "congress": 119,
@@ -26345,15 +26345,15 @@
   "update_date": "2026-02-04"
  },
  "119-hr-1794": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1794?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-03-03",
   "number": "1794",
   "origin_chamber": "House",
   "title": "United States-Abraham Accords Cooperation and Security Act of 2025",
   "type": "HR",
-  "update_date": "2026-02-05"
+  "update_date": "2026-11-27"
  },
  "119-hr-1795": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/1795?format=json",
@@ -26488,15 +26488,15 @@
   "update_date": "2026-11-20"
  },
  "119-hr-1805": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/1805?format=json",
   "congress": 119,
+  "introduced_date": "2025-03-03",
   "latest_action": "Referred to the House Committee on Ways and Means.",
   "latest_action_date": "2025-03-03",
   "number": "1805",
   "origin_chamber": "House",
   "title": "ARCH Act",
   "type": "HR",
-  "update_date": "2026-01-22"
+  "update_date": "2026-11-27"
  },
  "119-hr-1806": {
   "congress": 119,
@@ -41294,15 +41294,15 @@
   "update_date": "2025-05-28"
  },
  "119-hr-3017": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/3017?format=json",
   "congress": 119,
+  "introduced_date": "2025-04-24",
   "latest_action": "Referred to the House Committee on Energy and Commerce.",
   "latest_action_date": "2025-04-24",
   "number": "3017",
   "origin_chamber": "House",
   "title": "Measuring State Healthcare Freedom Act",
   "type": "HR",
-  "update_date": "2026-10-20"
+  "update_date": "2026-11-27"
  },
  "119-hr-3018": {
   "congress": 119,
@@ -104863,15 +104863,15 @@
   "update_date": "2026-04-15"
  },
  "119-hr-8222": {
-  "api_url": "https://api.congress.gov/v3/bill/119/hr/8222?format=json",
   "congress": 119,
+  "introduced_date": "2026-04-09",
   "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "latest_action_date": "2026-04-09",
   "number": "8222",
   "origin_chamber": "House",
   "title": "End Russian Oil Windfalls Act",
   "type": "HR",
-  "update_date": "2026-10-14"
+  "update_date": "2026-11-27"
  },
  "119-hr-8223": {
   "api_url": "https://api.congress.gov/v3/bill/119/hr/8223?format=json",
@@ -198275,15 +198275,15 @@
   "update_date": "2026-10-16"
  },
  "119-s-5404": {
-  "api_url": "https://api.congress.gov/v3/bill/119/s/5404?format=json",
   "congress": 119,
+  "introduced_date": "2026-09-16",
   "latest_action": "Read twice and referred to the Committee on Foreign Relations.",
   "latest_action_date": "2026-09-16",
   "number": "5404",
   "origin_chamber": "Senate",
   "title": "Jimmy Lai Hong Kong Political Prisoner Accountability Act of 2026",
   "type": "S",
-  "update_date": "2026-09-30"
+  "update_date": "2026-11-27"
  },
  "119-s-5405": {
   "api_url": "https://api.congress.gov/v3/bill/119/s/5405?format=json",
